@@ -1,0 +1,27 @@
+import "./App.css";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Navigate,
+} from "react-router-dom";
+import Sidebar from "./Components/Sidebar";
+import Home from "./Pages/home";
+import DoubleMasters from "./Pages/doublemasters";
+import ModernHorizonsTwo from "./Pages/modernhorizonstwo";
+
+function App() {
+  return (
+    <Router>
+      <Sidebar />
+      <Routes>
+        <Route exact path="/" element={<Navigate replace to="/home" />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/2x2" element={<DoubleMasters />} />
+        <Route path="/mh2" element={<ModernHorizonsTwo />} />
+      </Routes>
+    </Router>
+  );
+}
+
+export default App;

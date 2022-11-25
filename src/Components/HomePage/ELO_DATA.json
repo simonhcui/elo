@@ -1,0 +1,298 @@
+[
+  {
+    "rank": "1",
+    "name": "Chris A",
+    "elo": "1116",
+    "change": "None",
+    "last_set": "MH1",
+    "last_date": "11-17-22"
+  },
+  {
+    "rank": "2 (-1)",
+    "name": "Nick D",
+    "elo": "1113",
+    "change": "-37",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "3 (+4)",
+    "name": "Juwan",
+    "elo": "1095",
+    "change": "+47",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "4 (-1)",
+    "name": "Simon",
+    "elo": "1077",
+    "change": "-9",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "5",
+    "name": "Adam",
+    "elo": "1076",
+    "change": "None",
+    "last_set": "MH1",
+    "last_date": "11-17-22"
+  },
+  {
+    "rank": "6",
+    "name": "Matt",
+    "elo": "1075",
+    "change": "+20",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "7",
+    "name": "Eric",
+    "elo": "1058",
+    "change": "+20",
+    "last_set": "RNA",
+    "last_date": "10-1-22"
+  },
+  {
+    "rank": "8",
+    "name": "Bastion",
+    "elo": "1049",
+    "change": "New",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "9 (+1)",
+    "name": "Evan S",
+    "elo": "1035",
+    "change": "+7",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "11 (+6)",
+    "name": "Mike",
+    "elo": "1027",
+    "change": "+26",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "12",
+    "name": "Walski",
+    "elo": "1027",
+    "change": "None",
+    "last_set": "MH1",
+    "last_date": "11-3-22"
+  },
+  {
+    "rank": "13 (+3)",
+    "name": "Karen",
+    "elo": "1026",
+    "change": "+23",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "14",
+    "name": "Angga",
+    "elo": "1025",
+    "change": "None",
+    "last_set": "2x2",
+    "last_date": "9-15-22"
+  },
+  {
+    "rank": "15",
+    "name": "Sonny",
+    "elo": "1024",
+    "change": "None",
+    "last_set": "2x2",
+    "last_date": "11-10-22"
+  },
+  {
+    "rank": "16",
+    "name": "Alice",
+    "elo": "1015",
+    "change": "None",
+    "last_set": "2x2",
+    "last_date": "8-7-22"
+  },
+  {
+    "rank": "17 (-9)",
+    "name": "Ana",
+    "elo": "1013",
+    "change": "-23",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "18",
+    "name": "Brian",
+    "elo": "998",
+    "change": "None",
+    "last_set": "MH1",
+    "last_date": "11-17-22"
+  },
+  {
+    "rank": "19 (-4)",
+    "name": "Charles",
+    "elo": "995",
+    "change": "-20",
+    "last_set": "RNA",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "20",
+    "name": "Vanndy",
+    "elo": "989",
+    "change": "New",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "21",
+    "name": "Travis",
+    "elo": "988",
+    "change": "None",
+    "last_set": "2x2",
+    "last_date": "9-15-22"
+  },
+  {
+    "rank": "22",
+    "name": "Kyle",
+    "elo": "988",
+    "change": "None",
+    "last_set": "Chaos Team",
+    "last_date": "10-23-22"
+  },
+  {
+    "rank": "23",
+    "name": "Michael",
+    "elo": "987",
+    "change": "None",
+    "last_set": "",
+    "last_date": ""
+  },
+  {
+    "rank": "24",
+    "name": "Jacob",
+    "elo": "985",
+    "change": "None",
+    "last_set": "KTK",
+    "last_date": "8-4-22"
+  },
+  {
+    "rank": "25",
+    "name": "Zane",
+    "elo": "981",
+    "change": "None",
+    "last_set": "None",
+    "last_date": "10-21-22"
+  },
+  {
+    "rank": "26",
+    "name": "Nick C",
+    "elo": "981",
+    "change": "+23",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "27",
+    "name": "Thomas",
+    "elo": "980",
+    "change": "None",
+    "last_set": "2x2",
+    "last_date": "10-1-22"
+  },
+  {
+    "rank": "28",
+    "name": "Patrick H",
+    "elo": "968",
+    "change": "None",
+    "last_set": "2x2",
+    "last_date": "10-1-22"
+  },
+  {
+    "rank": "29",
+    "name": "Andrew",
+    "elo": "956",
+    "change": "None",
+    "last_set": "2x2",
+    "last_date": "8-7-22"
+  },
+  {
+    "rank": "30",
+    "name": "Ian",
+    "elo": "954",
+    "change": "None",
+    "last_set": "Chaos Team",
+    "last_date": "10-23-22"
+  },
+  {
+    "rank": "31",
+    "name": "Khang",
+    "elo": "951",
+    "change": "None",
+    "last_set": "MH1",
+    "last_date": "11-17-22"
+  },
+  {
+    "rank": "32",
+    "name": "Chris K",
+    "elo": "951",
+    "change": "None",
+    "last_set": "",
+    "last_date": ""
+  },
+  {
+    "rank": "33",
+    "name": "Danica",
+    "elo": "837",
+    "change": "New",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "34 (-2)",
+    "name": "David",
+    "elo": "937",
+    "change": "-8",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "35 (-4)",
+    "name": "Judre",
+    "elo": "917",
+    "change": "-28",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "36 (-2)",
+    "name": "Patrick R",
+    "elo": "917",
+    "change": "+18",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "37 (-4)",
+    "name": "Todd",
+    "elo": "891",
+    "change": "-20",
+    "last_set": "2x2",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "38 (-3)",
+    "name": "Evan",
+    "elo": "849",
+    "change": "-4",
+    "last_set": "ELD",
+    "last_date": "11-19-22"
+  }
+]
