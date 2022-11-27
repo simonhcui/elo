@@ -18,7 +18,7 @@ export const Table = () => {
     tableInstance;
 
   return (
-    <Scrollbars style={{ justifyContent: "right", width: 500, height: 1200 }}>
+    <Scrollbars style={{ justifyContent: "right", width: 500, height: 800 }}>
       <table {...getTableProps()}>
         <thead>
           {headerGroups.map((headerGroup) => (

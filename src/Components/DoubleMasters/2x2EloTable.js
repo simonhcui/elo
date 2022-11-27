@@ -1,13 +1,13 @@
 import React, { useMemo } from "react";
 import { useTable } from "react-table";
 import { Scrollbars } from "react-custom-scrollbars";
-import TROPHIES_DATA from "./TROPHIES_DATA.json";
-import { COLUMNS } from "./TrophiesColumns";
+import ELO_DATA from "./2X2_ELO_DATA.json";
+import { COLUMNS } from "./2x2EloColumns";
 import "./table.css";
 
-export const TrophiesTable = () => {
+export const EloTable = () => {
   const columns = useMemo(() => COLUMNS, []);
-  const data = useMemo(() => TROPHIES_DATA, []);
+  const data = useMemo(() => ELO_DATA, []);
 
   const tableInstance = useTable({
     columns,

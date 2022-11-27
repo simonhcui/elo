@@ -1,13 +1,13 @@
 import React, { useMemo } from "react";
 import { useTable } from "react-table";
 import { Scrollbars } from "react-custom-scrollbars";
-import TROPHIES_DATA from "./TROPHIES_DATA.json";
-import { COLUMNS } from "./TrophiesColumns";
+import COLOR_DATA from "./2X2_COLOR_DATA.json";
+import { COLUMNS } from "./2x2ColorColumns";
 import "./table.css";
 
-export const TrophiesTable = () => {
+export const ColorTable = () => {
   const columns = useMemo(() => COLUMNS, []);
-  const data = useMemo(() => TROPHIES_DATA, []);
+  const data = useMemo(() => COLOR_DATA, []);
 
   const tableInstance = useTable({
     columns,
@@ -18,7 +18,7 @@ export const TrophiesTable = () => {
     tableInstance;
 
   return (
-    <Scrollbars style={{ justifyContent: "right", width: 500, height: 800 }}>
+    <Scrollbars style={{ justifyContent: "right", width: 500, height: 300 }}>
       <table {...getTableProps()}>
         <thead>
           {headerGroups.map((headerGroup) => (

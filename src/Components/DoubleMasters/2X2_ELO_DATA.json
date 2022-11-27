@@ -1,0 +1,198 @@
+[
+  {
+    "rank": "1",
+    "name": "Nick D",
+    "elo": "1098",
+    "change": "-39",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "2 (+1)",
+    "name": "Matt",
+    "elo": "1070",
+    "change": "+22",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "3",
+    "name": "Chris A",
+    "elo": "1065",
+    "change": "None",
+    "last_date": "11-10-22"
+  },
+  {
+    "rank": "4",
+    "name": "Sonny",
+    "elo": "1045",
+    "change": "None",
+    "last_date": "11-10-22"
+  },
+  {
+    "rank": "5",
+    "name": "Adam",
+    "elo": "1043",
+    "change": "None",
+    "last_date": "11-10-22"
+  },
+  {
+    "rank": "6",
+    "name": "Simon",
+    "elo": "1040",
+    "change": "None",
+    "last_date": "11-10-22"
+  },
+  {
+    "rank": "7",
+    "name": "Angga",
+    "elo": "1034",
+    "change": "None",
+    "last_date": "9-15-22"
+  },
+  {
+    "rank": "8",
+    "name": "Karen",
+    "elo": "1026",
+    "change": "None",
+    "last_date": "10-1-22"
+  },
+  {
+    "rank": "9 (+5)",
+    "name": "Mike",
+    "elo": "1021",
+    "change": "+25",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "10 (+2)",
+    "name": "Juwan",
+    "elo": "1018",
+    "change": "+19",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "11",
+    "name": "Alice",
+    "elo": "1015",
+    "change": "None",
+    "last_date": "8-7-22"
+  },
+  {
+    "rank": "12 (+1)",
+    "name": "Evan S",
+    "elo": "1011",
+    "change": "+14",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "13 (+3)",
+    "name": "Nick C",
+    "elo": "1003",
+    "change": "+16",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "14",
+    "name": "Zane",
+    "elo": "998",
+    "change": "None",
+    "last_date": "10-13-22"
+  },
+  {
+    "rank": "15 (-6)",
+    "name": "Ana",
+    "elo": "995",
+    "change": "-22",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "16",
+    "name": "Michael",
+    "elo": "987",
+    "change": "None",
+    "last_date": "8-13-22"
+  },
+  {
+    "rank": "17",
+    "name": "Vanndy",
+    "elo": "987",
+    "change": "New",
+    "last_date": "11-19-22"
+  },
+  {
+    "rank": "18",
+    "name": "Travis",
+    "elo": "986",
+    "change": "None",
+    "last_date": "9-15-22"
+  },
+  {
+    "rank": "19",
+    "name": "Thomas",
+    "elo": "980",
+    "change": "None",
+    "last_date": "10-1-22"
+  },
+  {
+    "rank": "20",
+    "name": "Chris K",
+    "elo": "973",
+    "change": "None",
+    "last_date": "8-13-22"
+  },
+  {
+    "rank": "21",
+    "name": "Khang",
+    "elo": "968",
+    "change": "None",
+    "last_date": "9-15-22"
+  },
+  {
+    "rank": "22",
+    "name": "Patrick H",
+    "elo": "967",
+    "change": "None",
+    "last_date": "10-1-22"
+  },
+  {
+    "rank": "23",
+    "name": "Brian",
+    "elo": "960",
+    "change": "None",
+    "last_date": "11-10-22"
+  },
+  {
+    "rank": "24",
+    "name": "Andrew",
+    "elo": "955",
+    "change": "None",
+    "last_date": "8-7-22"
+  },
+  {
+    "rank": "25",
+    "name": "David",
+    "elo": "952",
+    "change": "None",
+    "last_date": "11-5-22"
+  },
+  {
+    "rank": "26",
+    "name": "Evan",
+    "elo": "946",
+    "change": "None",
+    "last_date": "9-15-22"
+  },
+  {
+    "rank": "27",
+    "name": "Patrick R",
+    "elo": "926",
+    "change": "None",
+    "last_date": "11-5-22"
+  },
+  {
+    "rank": "28 (-2)",
+    "name": "Todd",
+    "elo": "917",
+    "change": "-28",
+    "last_date": "11-19-22"
+  }
+]

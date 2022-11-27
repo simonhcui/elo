@@ -1,8 +1,8 @@
 import React, { useMemo } from "react";
 import { useTable } from "react-table";
 import { Scrollbars } from "react-custom-scrollbars";
-import TROPHIES_DATA from "./TROPHIES_DATA.json";
-import { COLUMNS } from "./TrophiesColumns";
+import TROPHIES_DATA from "./2x2_TROPHIES_DATA.json";
+import { COLUMNS } from "./2x2TrophiesColumns";
 import "./table.css";
 
 export const TrophiesTable = () => {

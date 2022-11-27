@@ -3,6 +3,20 @@ import "../App.css";
 import { SidebarData } from "./SidebarData";
 
 function Sidebar() {
+  const [dimensions, setDimensions] = React.useState({
+    height: window.innerHeight,
+    width: window.innerWidth,
+  });
+
+  React.useEffect(() => {
+    function handleResize() {
+      setDimensions({
+        height: window.innerHeight,
+      });
+    }
+    window.addEventListener("resize", handleResize);
+  });
+
   return (
     <div className="Sidebar">
       <ul className="SidebarList">

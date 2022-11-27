@@ -1,0 +1,86 @@
+[
+  {
+    "rank": "1",
+    "name": "Nick D",
+    "win_percentage": "66.67%",
+    "wins_total": "28/42",
+    "total_drafts": 15
+  },
+  {
+    "rank": "2",
+    "name": "Chris A",
+    "win_percentage": "63.16%",
+    "wins_total": "24/38",
+    "total_drafts": 15
+  },
+  {
+    "rank": "3",
+    "name": "Juwan",
+    "win_percentage": "57.89%",
+    "wins_total": "22/38",
+    "total_drafts": 12
+  },
+  {
+    "rank": "4",
+    "name": "Simon",
+    "win_percentage": "57.14%",
+    "wins_total": "28/49",
+    "total_drafts": 18
+  },
+  {
+    "rank": "5",
+    "name": "Sonny",
+    "win_percentage": "57.14%",
+    "wins_total": "16/28",
+    "total_drafts": 10
+  },
+  {
+    "rank": "6",
+    "name": "Matt",
+    "win_percentage": "56.82%",
+    "wins_total": "25/44",
+    "total_drafts": 15
+  },
+  {
+    "rank": "7",
+    "name": "Evan S",
+    "win_percentage": "50.00%",
+    "wins_total": "6/12",
+    "total_drafts": 4
+  },
+  {
+    "rank": "8",
+    "name": "Angga",
+    "win_percentage": "48.57%",
+    "wins_total": "17/35",
+    "total_drafts": 12
+  },
+  {
+    "rank": "9",
+    "name": "Patrick H",
+    "win_percentage": "37.50%",
+    "wins_total": "6/16",
+    "total_drafts": 6
+  },
+  {
+    "rank": "10",
+    "name": "Todd",
+    "win_percentage": "33.33%",
+    "wins_total": "10/30",
+    "total_drafts": 10
+  },
+  {
+    "rank": "11",
+    "name": "Patrick R",
+    "win_percentage": "31.25%",
+    "wins_total": "5/16",
+    "total_drafts": 6
+  },
+  {
+    "rank": "12",
+    "name": "Zane",
+    "win_percentage": "28.57%",
+    "wins_total": "4/14",
+    "total_drafts": 5
+  }
+]

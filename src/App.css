@@ -14,7 +14,7 @@ body {
 
 .Sidebar {
   float: left;
-  width: 250px;
+  width: 220px;
   height: 100vh;
   background-color: #2f4050;
 }
@@ -55,10 +55,4 @@ body {
 
 .row #title {
   flex: 70%;
-}
-
-.DoubleMasters {
-  text-align: center;
-  flex-direction: row;
-  justify-content: space-between;
 }
