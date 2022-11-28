@@ -1,0 +1,44 @@
+[
+  {
+    "rank": "1",
+    "name": "Nick D",
+    "win_percentage": "83.33%",
+    "wins_total": "15/18",
+    "total_drafts": 7
+  },
+  {
+    "rank": "2",
+    "name": "Matt",
+    "win_percentage": "78.57%",
+    "wins_total": "11/14",
+    "total_drafts": 7
+  },
+  {
+    "rank": "3",
+    "name": "Adam",
+    "win_percentage": "54.55%",
+    "wins_total": "6/11",
+    "total_drafts": 4
+  },
+  {
+    "rank": "4",
+    "name": "Juwan",
+    "win_percentage": "50.00%",
+    "wins_total": "8/16",
+    "total_drafts": 7
+  },
+  {
+    "rank": "5",
+    "name": "Chris A",
+    "win_percentage": "47.06%",
+    "wins_total": "8/17",
+    "total_drafts": 6
+  },
+  {
+    "rank": "6",
+    "name": "Simon",
+    "win_percentage": "42.11%",
+    "wins_total": "8/19",
+    "total_drafts": 8
+  }
+]
