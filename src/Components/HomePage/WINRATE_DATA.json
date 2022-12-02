@@ -8,17 +8,17 @@
   },
   {
     "rank": "2",
-    "name": "Adam",
-    "win_percentage": "63.64%",
-    "wins_rounds": "28/44",
-    "total_drafts": "15"
-  },
-  {
-    "rank": "3",
     "name": "Karen",
     "win_percentage": "62.50%",
     "wins_rounds": "10/16",
     "total_drafts": "6"
+  },
+  {
+    "rank": "3",
+    "name": "Adam",
+    "win_percentage": "61.70%",
+    "wins_rounds": "29/47",
+    "total_drafts": "16"
   },
   {
     "rank": "4",
@@ -37,44 +37,44 @@
   {
     "rank": "6",
     "name": "Juwan",
-    "win_percentage": "58.33%",
-    "wins_rounds": "56/96",
-    "total_drafts": "35"
+    "win_percentage": "58.59%",
+    "wins_rounds": "58/98",
+    "total_drafts": "36"
   },
   {
     "rank": "7",
     "name": "Chris A",
-    "win_percentage": "57.73%",
-    "wins_rounds": "56/97",
-    "total_drafts": "37"
+    "win_percentage": "57.14%",
+    "wins_rounds": "56/98",
+    "total_drafts": "38"
   },
   {
     "rank": "8",
-    "name": "Matt",
-    "win_percentage": "57.65%",
-    "wins_rounds": "49/85",
-    "total_drafts": "33"
-  },
-  {
-    "rank": "9",
     "name": "Alice",
     "win_percentage": "57.14%",
     "wins_rounds": "8/14",
     "total_drafts": "5"
   },
   {
-    "rank": "10",
-    "name": "Simon",
-    "win_percentage": "54.55%",
-    "wins_rounds": "66/121",
-    "total_drafts": "45"
+    "rank": "9",
+    "name": "Matt",
+    "win_percentage": "56.32%",
+    "wins_rounds": "49/87",
+    "total_drafts": "34"
   },
   {
-    "rank": "11",
+    "rank": "10",
     "name": "Evan S",
     "win_percentage": "54.55%",
     "wins_rounds": "12/22",
     "total_drafts": "7"
+  },
+  {
+    "rank": "11",
+    "name": "Simon",
+    "win_percentage": "54.47%",
+    "wins_rounds": "67/123",
+    "total_drafts": "46"
   },
   {
     "rank": "12",
@@ -85,17 +85,17 @@
   },
   {
     "rank": "13",
+    "name": "Sonny",
+    "win_percentage": "50.72%",
+    "wins_rounds": "35/69",
+    "total_drafts": "25"
+  },
+  {
+    "rank": "14",
     "name": "Mike",
     "win_percentage": "50.00%",
     "wins_rounds": "6/12",
     "total_drafts": "4"
-  },
-  {
-    "rank": "14",
-    "name": "Sonny",
-    "win_percentage": "48.48%",
-    "wins_rounds": "32/66",
-    "total_drafts": "24"
   },
   {
     "rank": "15",
@@ -120,24 +120,24 @@
   },
   {
     "rank": "18",
+    "name": "Zane",
+    "win_percentage": "34.04%",
+    "wins_rounds": "16/47",
+    "total_drafts": "17"
+  },
+  {
+    "rank": "19",
     "name": "Chris K",
     "win_percentage": "33.33%",
     "wins_rounds": "5/15",
     "total_drafts": "5"
   },
   {
-    "rank": "19",
+    "rank": "20",
     "name": "Patrick R",
     "win_percentage": "32.00%",
     "wins_rounds": "8/25",
     "total_drafts": "8"
-  },
-  {
-    "rank": "20",
-    "name": "Zane",
-    "win_percentage": "31.82%",
-    "wins_rounds": "14/44",
-    "total_drafts": "16"
   },
   {
     "rank": "21",

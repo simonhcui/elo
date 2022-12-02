@@ -10,10 +10,10 @@ const DoubleMasters = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>
-        Double Masters 2022 Stats (19 Drafts Total)
+        Double Masters 2022 Stats (20 Drafts Total)
       </h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 11/19/22
+        ELO and Winrates (Min 4 drafts). Last Updated 12/1/22
       </h2>
       <div>
         <View style={styles.container}>
