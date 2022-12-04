@@ -44,9 +44,9 @@
   {
     "rank": "7",
     "name": "Chris A",
-    "win_percentage": "57.14%",
-    "wins_rounds": "56/98",
-    "total_drafts": "38"
+    "win_percentage": "57.43%",
+    "wins_rounds": "58/101",
+    "total_drafts": "39"
   },
   {
     "rank": "8",
@@ -72,9 +72,9 @@
   {
     "rank": "11",
     "name": "Simon",
-    "win_percentage": "54.47%",
-    "wins_rounds": "67/123",
-    "total_drafts": "46"
+    "win_percentage": "53.97%",
+    "wins_rounds": "68/126",
+    "total_drafts": "47"
   },
   {
     "rank": "12",
@@ -113,10 +113,10 @@
   },
   {
     "rank": "17",
-    "name": "Patrick H",
-    "win_percentage": "37.50%",
-    "wins_rounds": "6/16",
-    "total_drafts": "6"
+    "name": "Patrick R",
+    "win_percentage": "39.29%",
+    "wins_rounds": "11/28",
+    "total_drafts": "9"
   },
   {
     "rank": "18",
@@ -134,24 +134,24 @@
   },
   {
     "rank": "20",
-    "name": "Patrick R",
-    "win_percentage": "32.00%",
-    "wins_rounds": "8/25",
-    "total_drafts": "8"
+    "name": "Todd",
+    "win_percentage": "32.76%",
+    "wins_rounds": "19/58",
+    "total_drafts": "22"
   },
   {
     "rank": "21",
-    "name": "Todd",
-    "win_percentage": "30.91%",
-    "wins_rounds": "17/55",
-    "total_drafts": "21"
+    "name": "Patrick H",
+    "win_percentage": "31.58%",
+    "wins_rounds": "6/19",
+    "total_drafts": "7"
   },
   {
     "rank": "22",
     "name": "David",
-    "win_percentage": "27.27%",
-    "wins_rounds": "3/11",
-    "total_drafts": "4"
+    "win_percentage": "28.57%",
+    "wins_rounds": "4/14",
+    "total_drafts": "5"
   },
   {
     "rank": "23",

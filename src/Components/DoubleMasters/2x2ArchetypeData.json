@@ -1,8 +1,8 @@
 [
   {
     "archetype": "4c no Red",
-    "winrate": "73.33%",
-    "num_drafts": 10
+    "winrate": "72.73%",
+    "num_drafts": 11
   },
   {
     "archetype": "Esper",
@@ -16,8 +16,13 @@
   },
   {
     "archetype": "5c",
-    "winrate": "57.69%",
-    "num_drafts": 10
+    "winrate": "55.17%",
+    "num_drafts": 11
+  },
+  {
+    "archetype": "Jund",
+    "winrate": "54.05%",
+    "num_drafts": 13
   },
   {
     "archetype": "Boros",
@@ -35,19 +40,14 @@
     "num_drafts": 11
   },
   {
-    "archetype": "Jund",
-    "winrate": "50.00%",
-    "num_drafts": 12
+    "archetype": "4c no White",
+    "winrate": "46.15%",
+    "num_drafts": 9
   },
   {
     "archetype": "Mardu",
     "winrate": "44.83%",
     "num_drafts": 11
-  },
-  {
-    "archetype": "4c no White",
-    "winrate": "43.48%",
-    "num_drafts": 8
   },
   {
     "archetype": "Sultai",

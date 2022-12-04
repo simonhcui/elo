@@ -8,47 +8,40 @@
     "last_date": "11-19-22"
   },
   {
-    "rank": "2 (+1)",
+    "rank": "2",
     "name": "Juwan",
     "elo": "1105",
-    "change": "+10",
+    "change": "None",
     "last_set": "2x2",
     "last_date": "12-1-22"
   },
   {
-    "rank": "3 (-2)",
+    "rank": "3",
     "name": "Chris A",
-    "elo": "1100",
-    "change": "-16",
-    "last_set": "2x2",
-    "last_date": "12-1-22"
+    "elo": "1093",
+    "change": "-7",
+    "last_set": "2x2 Team",
+    "last_date": "12-3-22"
   },
+
   {
     "rank": "4",
-    "name": "Simon",
-    "elo": "1072",
-    "change": "-6",
-    "last_set": "2x2",
-    "last_date": "12-1-22"
-  },
-  {
-    "rank": "5 (+10)",
     "name": "Sonny",
     "elo": "1070",
-    "change": "+45",
+    "change": "None",
     "last_set": "2x2",
     "last_date": "12-1-22"
   },
   {
-    "rank": "6 (-1)",
+    "rank": "5",
     "name": "Adam",
     "elo": "1059",
-    "change": "-17",
+    "change": "None",
     "last_set": "2x2",
     "last_date": "12-1-22"
   },
   {
-    "rank": "7",
+    "rank": "6",
     "name": "Eric",
     "elo": "1058",
     "change": "None",
@@ -56,7 +49,7 @@
     "last_date": "10-1-22"
   },
   {
-    "rank": "8",
+    "rank": "7",
     "name": "Bastion",
     "elo": "1049",
     "change": "None",
@@ -64,12 +57,20 @@
     "last_date": "11-19-22"
   },
   {
-    "rank": "9 (-3)",
+    "rank": "8",
     "name": "Matt",
     "elo": "1043",
-    "change": "-33",
+    "change": "None",
     "last_set": "2x2",
     "last_date": "12-1-22"
+  },
+  {
+    "rank": "9 (-5)",
+    "name": "Simon",
+    "elo": "1039",
+    "change": "-33",
+    "last_set": "2x2 Team",
+    "last_date": "12-3-22"
   },
   {
     "rank": "10",
@@ -112,10 +113,10 @@
     "last_date": "9-15-22"
   },
   {
-    "rank": "15 (-3)",
+    "rank": "15",
     "name": "Walski",
     "elo": "1015",
-    "change": "-12",
+    "change": "None",
     "last_set": "2x2",
     "last_date": "12-1-22"
   },
@@ -136,10 +137,10 @@
     "last_date": "11-19-22"
   },
   {
-    "rank": "18 (+7)",
+    "rank": "18",
     "name": "Zane",
     "elo": "1006",
-    "change": "+25",
+    "change": "None",
     "last_set": "2x2",
     "last_date": "12-1-22"
   },
@@ -216,12 +217,12 @@
     "last_date": "10-1-22"
   },
   {
-    "rank": "28",
-    "name": "Patrick H",
-    "elo": "968",
-    "change": "None",
-    "last_set": "2x2",
-    "last_date": "10-1-22"
+    "rank": "28 (+8)",
+    "name": "Patrick R",
+    "elo": "977",
+    "change": "+59",
+    "last_set": "2x2 Team",
+    "last_date": "12-3-22"
   },
   {
     "rank": "29",
@@ -266,33 +267,33 @@
   {
     "rank": "34",
     "name": "David",
-    "elo": "937",
-    "change": "None",
-    "last_set": "ELD",
-    "last_date": "11-19-22"
+    "elo": "936",
+    "change": "-2",
+    "last_set": "2x2 Team",
+    "last_date": "12-3-22"
   },
   {
-    "rank": "35",
+    "rank": "35 (+2)",
+    "name": "Todd",
+    "elo": "923",
+    "change": "+32",
+    "last_set": "2x2 Team",
+    "last_date": "12-3-22"
+  },
+  {
+    "rank": "36 (-8)",
+    "name": "Patrick H",
+    "elo": "918",
+    "change": "-51",
+    "last_set": "2x2 Team",
+    "last_date": "12-3-22"
+  },
+  {
+    "rank": "37",
     "name": "Judre",
     "elo": "917",
     "change": "None",
     "last_set": "ELD",
-    "last_date": "11-19-22"
-  },
-  {
-    "rank": "36",
-    "name": "Patrick R",
-    "elo": "917",
-    "change": "None",
-    "last_set": "ELD",
-    "last_date": "11-19-22"
-  },
-  {
-    "rank": "37",
-    "name": "Todd",
-    "elo": "891",
-    "change": "None",
-    "last_set": "2x2",
     "last_date": "11-19-22"
   },
   {

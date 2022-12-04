@@ -7,88 +7,88 @@
     "last_date": "11-19-22"
   },
   {
-    "rank": "2 (+2)",
+    "rank": "2",
     "name": "Sonny",
     "elo": "1086",
-    "change": "+41",
+    "change": "None",
     "last_date": "12-1-22"
   },
   {
     "rank": "3",
     "name": "Chris A",
     "elo": "1048",
-    "change": "-18",
-    "last_date": "12-1-22"
+    "change": "+0",
+    "last_date": "12-3-22"
   },
   {
-    "rank": "4 (+2)",
-    "name": "Simon",
-    "elo": "1038",
-    "change": "-3",
-    "last_date": "12-1-22"
-  },
-  {
-    "rank": "5 (-3)",
+    "rank": "4",
     "name": "Matt",
     "elo": "1036",
-    "change": "-35",
+    "change": "None",
     "last_date": "12-1-22"
   },
   {
-    "rank": "6 (+4)",
+    "rank": "5",
     "name": "Juwan",
     "elo": "1035",
-    "change": "+17",
+    "change": "None",
     "last_date": "12-11-22"
   },
   {
-    "rank": "7",
+    "rank": "6",
     "name": "Angga",
     "elo": "1034",
     "change": "None",
     "last_date": "9-15-22"
   },
   {
-    "rank": "8 (-3)",
+    "rank": "7",
     "name": "Adam",
     "elo": "1028",
-    "change": "-15",
+    "change": "None",
     "last_date": "12-1-22"
   },
   {
-    "rank": "9",
+    "rank": "8",
     "name": "Karen",
     "elo": "1026",
     "change": "None",
     "last_date": "10-1-22"
   },
   {
-    "rank": "10",
+    "rank": "9",
     "name": "Mike",
     "elo": "1021",
     "change": "None",
     "last_date": "11-19-22"
   },
   {
-    "rank": "11 (+3)",
+    "rank": "10",
     "name": "Zane",
     "elo": "1018",
-    "change": "+19",
+    "change": "None",
     "last_date": "12-1-22"
   },
   {
-    "rank": "12",
+    "rank": "11",
     "name": "Alice",
     "elo": "1015",
     "change": "None",
     "last_date": "8-7-22"
   },
   {
-    "rank": "13",
+    "rank": "12",
     "name": "Evan S",
     "elo": "1011",
     "change": "None",
     "last_date": "11-19-22"
+  },
+  {
+    "rank": "13 (-9)",
+    "name": "Simon",
+    "elo": "1010",
+    "change": "-28",
+    "last_date": "12-3-22"
   },
   {
     "rank": "14",
@@ -108,7 +108,7 @@
     "rank": "16",
     "name": "Walski",
     "elo": "990",
-    "change": "New",
+    "change": "None",
     "last_date": "12-1-22"
   },
   {
@@ -133,32 +133,32 @@
     "last_date": "9-15-22"
   },
   {
-    "rank": "20",
+    "rank": "20 (+8)",
+    "name": "Patrick R",
+    "elo": "981",
+    "change": "+55",
+    "last_date": "12-3-22"
+  },
+  {
+    "rank": "21",
     "name": "Thomas",
     "elo": "980",
     "change": "None",
     "last_date": "10-1-22"
   },
   {
-    "rank": "21",
+    "rank": "22",
     "name": "Chris K",
     "elo": "973",
     "change": "None",
     "last_date": "8-13-22"
   },
   {
-    "rank": "22",
+    "rank": "23",
     "name": "Khang",
     "elo": "968",
     "change": "None",
     "last_date": "9-15-22"
-  },
-  {
-    "rank": "23",
-    "name": "Patrick H",
-    "elo": "967",
-    "change": "None",
-    "last_date": "10-1-22"
   },
   {
     "rank": "24",
@@ -176,30 +176,30 @@
   },
   {
     "rank": "26",
-    "name": "David",
-    "elo": "952",
-    "change": "None",
-    "last_date": "11-5-22"
-  },
-  {
-    "rank": "27",
     "name": "Evan",
     "elo": "946",
     "change": "None",
     "last_date": "9-15-22"
   },
   {
-    "rank": "28",
-    "name": "Patrick R",
-    "elo": "926",
-    "change": "None",
-    "last_date": "11-5-22"
+    "rank": "27 (-1)",
+    "name": "David",
+    "elo": "946",
+    "change": "-7",
+    "last_date": "12-3-22"
   },
   {
-    "rank": "29",
+    "rank": "28 (+1)",
     "name": "Todd",
-    "elo": "917",
-    "change": "None",
-    "last_date": "11-19-22"
+    "elo": "944",
+    "change": "+26",
+    "last_date": "12-3-22"
+  },
+  {
+    "rank": "29 (-6)",
+    "name": "Patrick H",
+    "elo": "918",
+    "change": "-49",
+    "last_date": "12-3-22"
   }
 ]
