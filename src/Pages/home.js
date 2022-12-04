@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <h1 style={{ textAlign: "center" }}>Simon LGS Stats</h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 11/19/22
+        ELO and Winrates (Min 4 drafts). Last Updated 12/3/22
       </h2>
       <div>
         <View style={styles.container}>
