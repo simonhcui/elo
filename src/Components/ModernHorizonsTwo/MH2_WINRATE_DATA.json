@@ -1,17 +1,17 @@
 [
   {
     "rank": "1",
-    "name": "Nick D",
-    "win_percentage": "83.33%",
-    "wins_total": "15/18",
-    "total_drafts": 7
+    "name": "Matt",
+    "win_percentage": "81.25%",
+    "wins_total": "13/16",
+    "total_drafts": 8
   },
   {
     "rank": "2",
-    "name": "Matt",
-    "win_percentage": "78.57%",
-    "wins_total": "11/14",
-    "total_drafts": 7
+    "name": "Nick D",
+    "win_percentage": "80.00%",
+    "wins_total": "16/20",
+    "total_drafts": 8
   },
   {
     "rank": "3",
@@ -22,23 +22,30 @@
   },
   {
     "rank": "4",
+    "name": "Chris A",
+    "win_percentage": "50.00%",
+    "wins_total": "9/18",
+    "total_drafts": 7
+  },
+  {
+    "rank": "5",
     "name": "Juwan",
     "win_percentage": "50.00%",
     "wins_total": "8/16",
     "total_drafts": 7
   },
   {
-    "rank": "5",
-    "name": "Chris A",
-    "win_percentage": "47.06%",
-    "wins_total": "8/17",
-    "total_drafts": 6
-  },
-  {
     "rank": "6",
     "name": "Simon",
-    "win_percentage": "42.11%",
-    "wins_total": "8/19",
-    "total_drafts": 8
+    "win_percentage": "38.10%",
+    "wins_total": "8/21",
+    "total_drafts": 9
+  },
+  {
+    "rank": "7",
+    "name": "Zane",
+    "win_percentage": "30.00%",
+    "wins_total": "3/10",
+    "total_drafts": 4
   }
 ]

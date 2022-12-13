@@ -3,6 +3,8 @@ import HomeIcon from "@mui/icons-material/Home";
 import DoubleMasters from "./2x2.svg";
 import MH1 from "./mh1.svg";
 import MH2 from "./mh2.svg";
+import SeasonOne from "./seasonone.svg";
+import Lifetime from "./lifetime.svg";
 
 export const SidebarData = [
   {
@@ -24,5 +26,15 @@ export const SidebarData = [
     title: "MH2",
     icon: <img width="40px" src={MH2} />,
     link: "/mh2",
+  },
+  {
+    title: "Season 1",
+    icon: <img width="40px" src={SeasonOne} />,
+    link: "/seasonone",
+  },
+  {
+    title: "Lifetime Stats",
+    icon: <img width="40px" src={Lifetime} />,
+    link: "/lifetime",
   },
 ];
