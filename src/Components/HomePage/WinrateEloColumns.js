@@ -35,4 +35,8 @@ export const COLUMNS = [
     Header: "Last Date",
     accessor: "last_date",
   },
+  {
+    Header: "Trophies",
+    accessor: "trophies",
+  },
 ];

@@ -19,4 +19,8 @@ export const COLUMNS = [
     Header: "Total Drafts",
     accessor: "total_drafts",
   },
+  {
+    Header: "Trophies",
+    accessor: "trophies",
+  },
 ];

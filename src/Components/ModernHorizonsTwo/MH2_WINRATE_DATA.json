@@ -1,51 +1,54 @@
 [
   {
     "rank": "1",
-    "name": "Matt",
-    "win_percentage": "81.25%",
-    "wins_total": "13/16",
-    "total_drafts": 8
+    "name": "Nick D",
+    "win_percentage": "81.48%",
+    "wins_total": "22/27",
+    "total_drafts": 11,
+    "trophies": "🏆"
   },
   {
     "rank": "2",
-    "name": "Nick D",
-    "win_percentage": "80.00%",
-    "wins_total": "16/20",
-    "total_drafts": 8
+    "name": "Matt",
+    "win_percentage": "77.78%",
+    "wins_total": "14/18",
+    "total_drafts": 9
   },
   {
     "rank": "3",
-    "name": "Adam",
-    "win_percentage": "54.55%",
-    "wins_total": "6/11",
-    "total_drafts": 4
+    "name": "Juwan",
+    "win_percentage": "57.89%",
+    "wins_total": "11/19",
+    "total_drafts": 8,
+    "trophies": "🏆"
   },
   {
     "rank": "4",
     "name": "Chris A",
     "win_percentage": "50.00%",
-    "wins_total": "9/18",
-    "total_drafts": 7
+    "wins_total": "13/26",
+    "total_drafts": 10,
+    "trophies": "🏆"
   },
   {
     "rank": "5",
-    "name": "Juwan",
-    "win_percentage": "50.00%",
-    "wins_total": "8/16",
-    "total_drafts": 7
+    "name": "Adam",
+    "win_percentage": "46.15%",
+    "wins_total": "6/13",
+    "total_drafts": 5
   },
   {
     "rank": "6",
     "name": "Simon",
-    "win_percentage": "38.10%",
-    "wins_total": "8/21",
-    "total_drafts": 9
+    "win_percentage": "41.67%",
+    "wins_total": "10/24",
+    "total_drafts": 10
   },
   {
     "rank": "7",
     "name": "Zane",
-    "win_percentage": "30.00%",
-    "wins_total": "3/10",
-    "total_drafts": 4
+    "win_percentage": "38.46%",
+    "wins_total": "5/13",
+    "total_drafts": 5
   }
 ]

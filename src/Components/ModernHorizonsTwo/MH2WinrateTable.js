@@ -1,5 +1,5 @@
 import React, { useMemo } from "react";
-import { useTable } from "react-table";
+import { useTable, useSortBy } from "react-table";
 import { Scrollbars } from "react-custom-scrollbars";
 import WINRATE_DATA from "./MH2_WINRATE_DATA.json";
 import { COLUMNS } from "./MH2WinrateColumns";
@@ -9,10 +9,13 @@ export const WinrateTable = () => {
   const columns = useMemo(() => COLUMNS, []);
   const data = useMemo(() => WINRATE_DATA, []);
 
-  const tableInstance = useTable({
-    columns,
-    data,
-  });
+  const tableInstance = useTable(
+    {
+      columns,
+      data,
+    },
+    useSortBy
+  );
 
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
     tableInstance;
@@ -24,7 +27,16 @@ export const WinrateTable = () => {
           {headerGroups.map((headerGroup) => (
             <tr {...headerGroup.getHeaderGroupProps()}>
               {headerGroup.headers.map((column) => (
-                <th {...column.getHeaderProps()}>{column.render("Header")}</th>
+                <th {...column.getHeaderProps(column.getSortByToggleProps())}>
+                  {column.render("Header")}
+                  <span>
+                    {column.isSorted
+                      ? column.isSortedDesc
+                        ? " 🔽"
+                        : " 🔼"
+                      : ""}
+                  </span>
+                </th>
               ))}
             </tr>
           ))}
