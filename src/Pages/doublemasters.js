@@ -5,15 +5,16 @@ import { Table } from "../Components/DoubleMasters/2x2ArchetypeTable";
 import { EloTable } from "../Components/DoubleMasters/2x2EloTable";
 import { WinrateTable } from "../Components/DoubleMasters/2x2WinrateTable";
 import { ColorTable } from "../Components/DoubleMasters/2x2ColorTable";
+import { WinrateEloTable } from "../Components/DoubleMasters/WinrateEloTable";
 
 const DoubleMasters = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>
-        Double Masters 2022 Stats (21 Drafts Total)
+        Double Masters 2022 Stats (22 Drafts Total)
       </h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 12/3/22
+        ELO and Winrates (Min 4 drafts). Last Updated 1/12/23
       </h2>
       <div>
         <View style={styles.container}>
@@ -22,8 +23,9 @@ const DoubleMasters = () => {
             <Table />
           </View>
 
-          <WinrateTable />
-          <EloTable />
+          <WinrateEloTable />
+          {/* <WinrateTable />
+          <EloTable /> */}
           <TrophiesTable />
         </View>
       </div>

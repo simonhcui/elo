@@ -1,5 +1,9 @@
 export const COLUMNS = [
   {
+    Header: "Rank",
+    accessor: "rank",
+  },
+  {
     Header: "Archetype",
     accessor: "archetype",
   },
