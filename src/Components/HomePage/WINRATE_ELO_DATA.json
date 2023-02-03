@@ -27,12 +27,12 @@
     "rank": "3",
     "name": "Adam",
     "win_percentage": "66.67%",
-    "wins_rounds": "10/15",
-    "total_drafts": "6",
+    "wins_rounds": "12/18",
+    "total_drafts": "7",
     "elo": "1052",
     "change": "None",
-    "last_set": "MH1",
-    "last_date": "1-26-23",
+    "last_set": "Chaos",
+    "last_date": "2-2-23",
     "trophies": "🏆🏆"
   },
   {
@@ -73,38 +73,49 @@
   {
     "rank": "7",
     "name": "Simon",
-    "win_percentage": "42.86%",
-    "wins_rounds": "12/28",
-    "total_drafts": "11",
+    "win_percentage": "48.39%",
+    "wins_rounds": "15/31",
+    "total_drafts": "12",
     "elo": "974",
-    "change": "+3",
-    "last_set": "DMR",
-    "last_date": "1-29-23"
+    "change": "None",
+    "last_set": "Chaos",
+    "last_date": "2-2-23"
   },
   {
     "rank": "8",
     "name": "Zane",
-    "win_percentage": "40.00%",
-    "wins_rounds": "8/20",
-    "total_drafts": "8",
+    "win_percentage": "47.83%",
+    "wins_rounds": "11/23",
+    "total_drafts": "9",
     "elo": "965",
     "change": "None",
-    "last_set": "MH1",
-    "last_date": "1-26-23"
+    "last_set": "Chaos",
+    "last_date": "2-2-23"
   },
   {
     "rank": "9",
     "name": "Sonny",
-    "win_percentage": "40.00%",
-    "wins_rounds": "6/15",
-    "total_drafts": "6",
+    "win_percentage": "47.06%",
+    "wins_rounds": "8/17",
+    "total_drafts": "7",
     "elo": "972",
     "change": "None",
-    "last_set": "MH1",
-    "last_date": "1-26-23"
+    "last_set": "Chaos",
+    "last_date": "2-2-23"
   },
   {
     "rank": "10",
+    "name": "Tony",
+    "win_percentage": "40.00%",
+    "wins_rounds": "4/10",
+    "total_drafts": "4",
+    "elo": "972",
+    "change": "None",
+    "last_set": "Chaos",
+    "last_date": "2-2-23"
+  },
+  {
+    "rank": "11",
     "name": "David",
     "win_percentage": "33.33%",
     "wins_rounds": "4/12",
@@ -115,7 +126,7 @@
     "last_date": "1-29-23"
   },
   {
-    "rank": "11",
+    "rank": "12",
     "name": "Ana",
     "win_percentage": "25.00%",
     "wins_rounds": "2/8",
