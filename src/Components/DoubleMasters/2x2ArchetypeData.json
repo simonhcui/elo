@@ -2,20 +2,20 @@
   {
     "rank": "1",
     "archetype": "4c no Red",
-    "winrate": "72.73%",
-    "num_drafts": 11
+    "winrate": "68.57%",
+    "num_drafts": 12
   },
   {
     "rank": "2",
     "archetype": "Esper",
-    "winrate": "69.57%",
-    "num_drafts": 9
+    "winrate": "64.00%",
+    "num_drafts": 10
   },
   {
     "rank": "3",
     "archetype": "Selesnya",
-    "winrate": "60.00%",
-    "num_drafts": 7
+    "winrate": "63.64%",
+    "num_drafts": 8
   },
   {
     "rank": "4",
@@ -25,15 +25,15 @@
   },
   {
     "rank": "5",
-    "archetype": "Boros",
-    "winrate": "53.57%",
-    "num_drafts": 10
+    "archetype": "Grixis",
+    "winrate": "54.84%",
+    "num_drafts": 11
   },
   {
     "rank": "6",
-    "archetype": "Grixis",
-    "winrate": "51.72%",
-    "num_drafts": 10
+    "archetype": "Boros",
+    "winrate": "54.84%",
+    "num_drafts": 11
   },
   {
     "rank": "7",
@@ -56,20 +56,20 @@
   {
     "rank": "10",
     "archetype": "Mardu",
-    "winrate": "46.88%",
-    "num_drafts": 12
+    "winrate": "45.71%",
+    "num_drafts": 13
   },
   {
     "rank": "11",
     "archetype": "4c no White",
-    "winrate": "46.15%",
-    "num_drafts": 9
+    "winrate": "44.83%",
+    "num_drafts": 10
   },
   {
     "rank": "12",
     "archetype": "Sultai",
-    "winrate": "38.24%",
-    "num_drafts": 13
+    "winrate": "40.54%",
+    "num_drafts": 14
   },
   {
     "rank": "13",
