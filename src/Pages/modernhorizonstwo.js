@@ -7,13 +7,14 @@ const ModernHorizonsTwo = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>
-        Modern Horizons 2 Stats (12 Drafts Total)
+        Modern Horizons 2 Stats (13 Drafts Total)
       </h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 1/5/22
+        ELO and Winrates (Min 4 drafts). Last Updated 3/9/22
       </h2>
       <h2 style={{ textAlign: "center" }}>
-        Missing tables due to needing more data.
+        Missing tables due to needing more data. Need More Archetypes to be
+        played at least 5 times.
       </h2>
       <div>
         <View style={styles.container}>
