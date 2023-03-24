@@ -6,7 +6,7 @@
     "wins_rounds": "25/35",
     "total_drafts": "13",
     "elo": "1078",
-    "change": "-27",
+    "change": "None",
     "last_set": "MH2",
     "last_date": "3-16-23",
     "trophies": "🏆🏆🏆🏆"
@@ -14,13 +14,13 @@
   {
     "rank": "2",
     "name": "Juwan",
-    "win_percentage": "65.79%",
-    "wins_rounds": "25/38",
-    "total_drafts": "15",
-    "elo": "1104",
-    "change": "+7",
-    "last_set": "MH2",
-    "last_date": "3-16-23",
+    "win_percentage": "65.85%",
+    "wins_rounds": "27/41",
+    "total_drafts": "16",
+    "elo": "1105",
+    "change": "+0",
+    "last_set": "DOM",
+    "last_date": "3-23-23",
     "trophies": "🏆🏆🏆🏆🏆"
   },
   {
@@ -49,18 +49,6 @@
   },
   {
     "rank": "5",
-    "name": "Simon",
-    "win_percentage": "56.25%",
-    "wins_rounds": "27/48",
-    "total_drafts": "18",
-    "elo": "1072",
-    "change": "+40",
-    "last_set": "MH2",
-    "last_date": "3-16-23",
-    "trophies": "🏆🏆🏆"
-  },
-  {
-    "rank": "6",
     "name": "Michael D",
     "win_percentage": "55.56%",
     "wins_rounds": "10/18",
@@ -72,53 +60,77 @@
     "trophies": "🏆"
   },
   {
+    "rank": "6",
+    "name": "Simon",
+    "win_percentage": "54.00%",
+    "wins_rounds": "27/50",
+    "total_drafts": "19",
+    "elo": "1036",
+    "change": "-37",
+    "last_set": "DOM",
+    "last_date": "3-23-23",
+    "trophies": "🏆🏆🏆"
+  },
+  {
     "rank": "7",
+    "name": "Tony",
+    "win_percentage": "50.00%",
+    "wins_rounds": "10/20",
+    "total_drafts": "8",
+    "elo": "999",
+    "change": "None",
+    "last_set": "DMR",
+    "last_date": "3-23-23"
+  },
+  {
+    "rank": "8",
     "name": "Adam",
     "win_percentage": "48.65%",
     "wins_rounds": "18/37",
     "total_drafts": "14",
     "elo": "949",
-    "change": "-12",
+    "change": "None",
     "last_set": "MH2",
     "last_date": "3-16-23",
     "trophies": "🏆🏆"
   },
   {
-    "rank": "8",
+    "rank": "9",
     "name": "Zane",
     "win_percentage": "47.37%",
     "wins_rounds": "18/38",
     "total_drafts": "15",
     "elo": "959",
-    "change": "+21",
+    "change": "None",
     "last_set": "MH2",
     "last_date": "3-16-23",
     "trophies": "🏆"
   },
   {
-    "rank": "9",
-    "name": "Tony",
-    "win_percentage": "47.06%",
-    "wins_rounds": "8/17",
-    "total_drafts": "7",
-    "elo": "999",
-    "change": "None",
-    "last_set": "DMR",
-    "last_date": "3-2-23"
-  },
-  {
     "rank": "10",
-    "name": "Sonny",
-    "win_percentage": "46.88%",
-    "wins_rounds": "15/32",
-    "total_drafts": "13",
-    "elo": "957",
-    "change": "-28",
-    "last_set": "MH2",
-    "last_date": "3-16-23"
+    "name": "Todd",
+    "win_percentage": "47.37%",
+    "wins_rounds": "9/19",
+    "total_drafts": "7",
+    "elo": "1015",
+    "change": "+51",
+    "last_set": "DOM",
+    "last_date": "3-23-23",
+    "trophies": "🏆"
   },
   {
     "rank": "11",
+    "name": "Sonny",
+    "win_percentage": "45.71%",
+    "wins_rounds": "16/35",
+    "total_drafts": "14",
+    "elo": "946",
+    "change": "-11",
+    "last_set": "DOM",
+    "last_date": "3-23-23"
+  },
+  {
+    "rank": "12",
     "name": "Ana",
     "win_percentage": "38.46%",
     "wins_rounds": "5/13",
@@ -129,7 +141,7 @@
     "last_date": "2-18-23"
   },
   {
-    "rank": "12",
+    "rank": "13",
     "name": "Nick C",
     "win_percentage": "38.46%",
     "wins_rounds": "5/13",
@@ -138,17 +150,6 @@
     "change": "None",
     "last_set": "DMR",
     "last_date": "2-18-23"
-  },
-  {
-    "rank": "13",
-    "name": "Todd",
-    "win_percentage": "37.50%",
-    "wins_rounds": "6/16",
-    "total_drafts": "6",
-    "elo": "963",
-    "change": "+21",
-    "last_set": "MH2",
-    "last_date": "3-16-23"
   },
   {
     "rank": "14",
