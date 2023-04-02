@@ -1,20 +1,21 @@
 import React from "react";
 import { StyleSheet, View } from "react-native";
-import { TrophiesTable } from "../Components/Lifetime/TrophiesTable";
-import { WinrateEloTable } from "../Components/Lifetime/WinrateEloTable";
+import { WinrateEloTable } from "../Components/SeasonTwo/WinrateEloTable";
 
 const SeasonOne = () => {
   return (
     <>
-      <h1 style={{ textAlign: "center" }}>Lifetime Stats</h1>
+      <h1 style={{ textAlign: "center" }}>Season 2 (12/11/22 - 3/30/23)</h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 3/30/22. Updated at end of
-        season.
+        <p>
+          ELO and Winrates (Players with min 4 drafts shown, min 14 drafts to be
+          in awards contention). Last Updated 3/30/22
+        </p>
+        <p>Winrate Champion Nick D, Trophies Champion Juwan</p>
       </h2>
       <div>
         <View style={styles.container}>
           <WinrateEloTable />
-          {/* <TrophiesTable /> */}
         </View>
       </div>
     </>

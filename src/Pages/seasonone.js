@@ -8,12 +8,13 @@ const SeasonOne = () => {
     <>
       <h1 style={{ textAlign: "center" }}>Season 1 (5/6/2022 - 12/9/22)</h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 12/9/22
+        <p>ELO and Winrates (Min 4 drafts). Last Updated 12/9/22</p>
+        <p>Winrate and Trophies Champion Nick D</p>
       </h2>
       <div>
         <View style={styles.container}>
           <WinrateEloTable />
-          <TrophiesTable />
+          {/* <TrophiesTable /> */}
         </View>
       </div>
     </>
