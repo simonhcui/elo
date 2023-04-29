@@ -7,10 +7,10 @@ const Home = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>Simon LGS Stats</h1>
-      <h2 style={{ textAlign: "center" }}>Season 2 (12/11/22 - 3/30/23)</h2>
+      <h2 style={{ textAlign: "center" }}>Season 3 (4/6/23 - 6/29/23)</h2>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates. Last Updated 3/23/23 (Min 4 Drafts)
-        <p>Updated under Season 2, Season 3 about to start</p>
+        ELO and Winrates. Last Updated 4/27/23 (Min 4 Drafts)
+        {/* <p>Updated under Season 2, Season 3 about to start</p> */}
       </h2>
       <div>
         <View style={styles.container}>

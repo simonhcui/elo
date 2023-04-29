@@ -1,7 +1,7 @@
 import React from "react";
 import { StyleSheet, View } from "react-native";
 import { TrophiesTable } from "../Components/Lifetime/TrophiesTable";
-import { AchievementsTable } from "../Components/HomePage/AchievementsTable";
+import { AchievementsTable } from "../Components/Lifetime/AchievementsTable";
 import { WinrateEloTable } from "../Components/Lifetime/WinrateEloTable";
 
 const SeasonOne = () => {
