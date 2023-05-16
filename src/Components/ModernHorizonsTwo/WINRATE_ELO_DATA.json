@@ -1,0 +1,108 @@
+[
+  {
+    "rank": "1",
+    "name": "Matt",
+    "win_percentage": "78.57%",
+    "wins_rounds": "22/28",
+    "total_drafts": "13",
+    "elo": "1105",
+    "change": "+39",
+    "last_date": "5-13-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "2",
+    "name": "Nick D",
+    "win_percentage": "72.73%",
+    "wins_rounds": "24/33",
+    "total_drafts": "13",
+    "elo": "983",
+    "change": "None",
+    "last_date": "5-13-23",
+    "trophies": "🏆🏆"
+  },
+  {
+    "rank": "3",
+    "name": "Juwan",
+    "win_percentage": "56.67%",
+    "wins_rounds": "17/30",
+    "total_drafts": "12",
+    "elo": "1046",
+    "change": "None",
+    "last_date": "5-13-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "4",
+    "name": "Adam",
+    "win_percentage": "52.00%",
+    "wins_rounds": "13/25",
+    "total_drafts": "9",
+    "elo": "1020",
+    "change": "None",
+    "last_date": "5-13-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "5",
+    "name": "Simon",
+    "win_percentage": "50.00%",
+    "wins_rounds": "18/36",
+    "total_drafts": "4",
+    "elo": "1047",
+    "change": "+13",
+    "last_date": "5-13-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "5",
+    "name": "Chris A",
+    "win_percentage": "50.00%",
+    "wins_rounds": "15/30",
+    "total_drafts": "12",
+    "elo": "1036",
+    "change": "None",
+    "last_date": "5-13-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "5",
+    "name": "Zane",
+    "win_percentage": "50.00%",
+    "wins_rounds": "8/16",
+    "total_drafts": "7",
+    "elo": "1045",
+    "change": "None",
+    "last_date": "3-16-23"
+  },
+  {
+    "rank": "5",
+    "name": "Todd",
+    "win_percentage": "50.00%",
+    "wins_rounds": "8/16",
+    "total_drafts": "7",
+    "elo": "1038",
+    "change": "-1",
+    "last_date": "5-13-23"
+  },
+  {
+    "rank": "6",
+    "name": "Sonny",
+    "win_percentage": "45.45%",
+    "wins_rounds": "5/11",
+    "total_drafts": "5",
+    "elo": "997",
+    "change": "None",
+    "last_date": "3-16-23"
+  },
+  {
+    "rank": "7",
+    "name": "Evan S",
+    "win_percentage": "33.33%",
+    "wins_rounds": "3/9",
+    "total_drafts": "4",
+    "elo": "957",
+    "change": "None",
+    "last_date": "5-13-23"
+  }
+]

@@ -7,80 +7,80 @@
   },
   {
     "rank": "2",
-    "archetype": "Esper",
-    "winrate": "64.00%",
-    "num_drafts": 10
-  },
-  {
-    "rank": "2",
     "archetype": "Selesnya",
     "winrate": "64.00%",
     "num_drafts": 9
   },
   {
     "rank": "3",
+    "archetype": "Esper",
+    "winrate": "60.00%",
+    "num_drafts": 12
+  },
+  {
+    "rank": "4",
     "archetype": "Boros",
     "winrate": "58.82%",
     "num_drafts": 12
   },
   {
-    "rank": "4",
+    "rank": "5",
     "archetype": "Grixis",
     "winrate": "54.84%",
     "num_drafts": 11
   },
   {
-    "rank": "5",
+    "rank": "6",
+    "archetype": "Jund",
+    "winrate": "53.33%",
+    "num_drafts": 16
+  },
+  {
+    "rank": "7",
     "archetype": "5c",
     "winrate": "53.12%",
     "num_drafts": 12
   },
   {
-    "rank": "6",
-    "archetype": "Jund",
-    "winrate": "51.28%",
-    "num_drafts": 14
-  },
-  {
-    "rank": "7",
+    "rank": "8",
     "archetype": "Jeskai",
     "winrate": "50.00%",
     "num_drafts": 6
   },
   {
-    "rank": "8",
+    "rank": "9",
     "archetype": "Abzan",
     "winrate": "50.00%",
     "num_drafts": 12
   },
   {
-    "rank": "9",
-    "archetype": "Mardu",
-    "winrate": "47.37%",
+    "rank": "10",
+    "archetype": "4c no White",
+    "winrate": "48.78%",
     "num_drafts": 14
   },
   {
-    "rank": "10",
-    "archetype": "4c no White",
-    "winrate": "45.71%",
-    "num_drafts": 12
+    "rank": "11",
+    "archetype": "Mardu",
+    "winrate": "45.00%",
+    "num_drafts": 15
   },
   {
-    "rank": "11",
+    "rank": "12",
     "archetype": "Sultai",
     "winrate": "38.46%",
     "num_drafts": 15
   },
   {
-    "rank": "12",
+    "rank": "13",
     "archetype": "Naya",
     "winrate": "35.29%",
     "num_drafts": 6
   },
   {
-    "rank": "13",
+    "rank": "14",
     "archetype": "Bant",
-    "winrate": "22.22%",
-    "num_drafts": 8
+    "winrate": "23.81%",
+    "num_drafts": 9
   }
 ]
