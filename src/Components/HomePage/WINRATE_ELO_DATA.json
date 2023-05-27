@@ -2,13 +2,14 @@
   {
     "rank": "1",
     "name": "Tony",
-    "win_percentage": "72.73%",
-    "wins_rounds": "8/11",
-    "total_drafts": "5",
-    "elo": "1075",
-    "change": "None",
-    "last_set": "KTK",
-    "last_date": "5-18-23"
+    "win_percentage": "78.57%",
+    "wins_rounds": "11/14",
+    "total_drafts": "6",
+    "elo": "1116",
+    "change": "+41",
+    "last_set": "BRO",
+    "last_date": "5-25-23",
+    "trophies": "🏆"
   },
   {
     "rank": "2",
@@ -25,13 +26,13 @@
   {
     "rank": "3",
     "name": "Adam",
-    "win_percentage": "68.42%",
-    "wins_rounds": "13/19",
-    "total_drafts": "7",
-    "elo": "1100",
-    "change": "None",
-    "last_set": "KTK",
-    "last_date": "5-18-23",
+    "win_percentage": "68.18%",
+    "wins_rounds": "15/22",
+    "total_drafts": "8",
+    "elo": "1106",
+    "change": "+6",
+    "last_set": "BRO",
+    "last_date": "5-25-23",
     "trophies": "🏆🏆"
   },
   {
@@ -41,7 +42,7 @@
     "wins_rounds": "23/35",
     "total_drafts": "14",
     "elo": "1092",
-    "change": "+42",
+    "change": "None",
     "last_set": "Adam Cube",
     "last_date": "5-20-23",
     "trophies": "🏆🏆🏆"
@@ -49,13 +50,13 @@
   {
     "rank": "5",
     "name": "Chris A",
-    "win_percentage": "65.00%",
-    "wins_rounds": "26/40",
-    "total_drafts": "16",
-    "elo": "1098",
-    "change": "None",
-    "last_set": "KTK",
-    "last_date": "5-18-23",
+    "win_percentage": "63.41%",
+    "wins_rounds": "26/41",
+    "total_drafts": "17",
+    "elo": "1078",
+    "change": "-20",
+    "last_set": "BRO",
+    "last_date": "5-25-23",
     "trophies": "🏆"
   },
   {
@@ -73,13 +74,13 @@
   {
     "rank": "7",
     "name": "Todd",
-    "win_percentage": "51.61%",
-    "wins_rounds": "16/31",
-    "total_drafts": "13",
-    "elo": "1033",
-    "change": "None",
-    "last_set": "MH2",
-    "last_date": "5-13-23",
+    "win_percentage": "50.00%",
+    "wins_rounds": "17/34",
+    "total_drafts": "14",
+    "elo": "1015",
+    "change": "-19",
+    "last_set": "BRO",
+    "last_date": "5-25-23",
     "trophies": "🏆🏆🏆"
   },
   {
@@ -112,7 +113,7 @@
     "wins_rounds": "14/29",
     "total_drafts": "11",
     "elo": "997",
-    "change": "+19",
+    "change": "None",
     "last_set": "Adam Cube",
     "last_date": "5-20-23"
   },
@@ -134,23 +135,34 @@
     "wins_rounds": "6/13",
     "total_drafts": "5",
     "elo": "985",
-    "change": "-12",
+    "change": "None",
     "last_set": "Adam Cube",
     "last_date": "5-20-23"
   },
   {
     "rank": "13",
-    "name": "Simon",
+    "name": "John K",
     "win_percentage": "45.45%",
-    "wins_rounds": "15/33",
-    "total_drafts": "13",
-    "elo": "1024",
-    "change": "+30",
-    "last_set": "Adam Cube",
-    "last_date": "5-20-23"
+    "wins_rounds": "5/11",
+    "total_drafts": "4",
+    "elo": "993",
+    "change": "+6",
+    "last_set": "BRO",
+    "last_date": "5-25-23"
   },
   {
     "rank": "14",
+    "name": "Simon",
+    "win_percentage": "44.44%",
+    "wins_rounds": "16/36",
+    "total_drafts": "14",
+    "elo": "1007",
+    "change": "-17",
+    "last_set": "BRO",
+    "last_date": "5-25-23"
+  },
+  {
+    "rank": "15",
     "name": "Brian H",
     "win_percentage": "40.00%",
     "wins_rounds": "4/10",
@@ -161,7 +173,7 @@
     "last_date": "5-13-23"
   },
   {
-    "rank": "15",
+    "rank": "16",
     "name": "Patrick R",
     "win_percentage": "30.00%",
     "wins_rounds": "3/10",
@@ -172,7 +184,7 @@
     "last_date": "5-13-23"
   },
   {
-    "rank": "16",
+    "rank": "17",
     "name": "Jacob",
     "win_percentage": "0%",
     "wins_rounds": "0/10",
