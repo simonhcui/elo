@@ -18,5 +18,15 @@
     "season": "Season II",
     "player": "Juwan",
     "achievement": "Trophies Champion"
+  },
+  {
+    "season": "Season III",
+    "player": "Matt",
+    "achievement": "Winrate Champion"
+  },
+  {
+    "season": "Season III",
+    "player": "Evan S",
+    "achievement": "Trophies Champion"
   }
 ]

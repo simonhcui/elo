@@ -5,6 +5,7 @@ import MH1 from "./mh1.svg";
 import MH2 from "./mh2.svg";
 import SeasonOne from "./seasonone.svg";
 import SeasonTwo from "./seasontwo.svg";
+import SeasonThree from "./seasonthree.svg";
 import Lifetime from "./lifetime.svg";
 
 export const SidebarData = [
@@ -37,6 +38,11 @@ export const SidebarData = [
     title: "Season 2",
     icon: <img width="40px" src={SeasonTwo} />,
     link: "/seasontwo",
+  },
+  {
+    title: "Season 3",
+    icon: <img width="40px" src={SeasonThree} />,
+    link: "/seasonthree",
   },
   {
     title: "Lifetime Stats",

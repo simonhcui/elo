@@ -12,6 +12,7 @@ import ModernHorizonsOne from "./Pages/modernhorizonsone";
 import ModernHorizonsTwo from "./Pages/modernhorizonstwo";
 import SeasonOne from "./Pages/seasonone";
 import SeasonTwo from "./Pages/seasontwo";
+import SeasonThree from "./Pages/seasonthree";
 import Lifetime from "./Pages/lifetime";
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
         <Route path="/mh2" element={<ModernHorizonsTwo />} />
         <Route path="/seasonone" element={<SeasonOne />} />
         <Route path="/seasontwo" element={<SeasonTwo />} />
+        <Route path="/seasonthree" element={<SeasonThree />} />
         <Route path="/lifetime" element={<Lifetime />} />
       </Routes>
     </Router>
