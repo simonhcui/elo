@@ -1,7 +1,7 @@
 import React, { useMemo } from "react";
 import { useTable } from "react-table";
 import { Scrollbars } from "react-custom-scrollbars";
-import WINRATE_DATA from "./2X2_WINRATE_DATA.json";
+import WINRATE_DATA from "../2X2_WINRATE_DATA.json";
 import { COLUMNS } from "./2x2WinrateColumns";
 import "./table.css";
 

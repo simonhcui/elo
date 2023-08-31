@@ -1,9 +1,9 @@
 import React from "react";
 import { StyleSheet, View } from "react-native";
-import { TrophiesTable } from "../Components/DoubleMasters/2x2TrophiesTable";
+//import { TrophiesTable } from "../Components/DoubleMasters/2x2TrophiesTable";
 import { Table } from "../Components/DoubleMasters/2x2ArchetypeTable";
-import { EloTable } from "../Components/DoubleMasters/2x2EloTable";
-import { WinrateTable } from "../Components/DoubleMasters/2x2WinrateTable";
+//import { EloTable } from "../Components/DoubleMasters/2x2EloTable";
+//import { WinrateTable } from "../Components/DoubleMasters/2x2WinrateTable";
 import { ColorTable } from "../Components/DoubleMasters/2x2ColorTable";
 import { WinrateEloTable } from "../Components/DoubleMasters/WinrateEloTable";
 
@@ -11,10 +11,10 @@ const DoubleMasters = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>
-        Double Masters 2022 Stats (25 Drafts Total)
+        Double Masters 2022 Stats (26 Drafts Total)
       </h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 5/5/23
+        ELO and Winrates (Min 4 drafts). Last Updated 8/24/23
       </h2>
       <div>
         <View style={styles.container}>
