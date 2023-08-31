@@ -7,6 +7,7 @@ import SeasonOne from "./seasonone.svg";
 import SeasonTwo from "./seasontwo.svg";
 import SeasonThree from "./seasonthree.svg";
 import Lifetime from "./lifetime.svg";
+import Chaos from "./chaos.svg";
 
 export const SidebarData = [
   {
@@ -28,6 +29,11 @@ export const SidebarData = [
     title: "MH2",
     icon: <img width="40px" src={MH2} />,
     link: "/mh2",
+  },
+  {
+    title: "Chaos",
+    icon: <img width="40px" src={Chaos} />,
+    link: "/chaos",
   },
   {
     title: "Season 1",

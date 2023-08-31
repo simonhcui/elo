@@ -1,0 +1,118 @@
+[
+  {
+    "rank": "1",
+    "name": "Tony",
+    "win_percentage": "84.00%",
+    "wins_losses": "21-4",
+    "total_drafts": "11",
+    "elo": "1156",
+    "glicko": "1940.07 ± 103.23",
+    "gxe": "83.96%",
+    "last_date": "8-17-23",
+    "trophies": "🏆🏆"
+  },
+  {
+    "rank": "2",
+    "name": "Evan S",
+    "win_percentage": "76.19%",
+    "wins_losses": "16-5",
+    "total_drafts": "10",
+    "elo": "1093",
+    "glicko": "1840.70 ± 101.61",
+    "gxe": "78.29%",
+    "last_date": "6-17-23"
+  },
+  {
+    "rank": "3",
+    "name": "Chris A",
+    "win_percentage": "58.82%",
+    "wins_losses": "20-14",
+    "total_drafts": "16",
+    "elo": "1048",
+    "glicko": "1721.57 ± 79.95",
+    "gxe": "69.87%",
+    "last_date": "8-17-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "4",
+    "name": "Walski",
+    "win_percentage": "58.82%",
+    "wins_losses": "10-7",
+    "total_drafts": "8",
+    "elo": "1032",
+    "glicko": "1725.39 ± 105.10",
+    "gxe": "70.00%",
+    "last_date": "6-17-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "5",
+    "name": "Sonny",
+    "win_percentage": "50.00%",
+    "wins_losses": "15-15",
+    "total_drafts": "12",
+    "elo": "1024",
+    "glicko": "1636.33 ± 82.28",
+    "gxe": "62.65%",
+    "last_date": "8-17-23"
+  },
+  {
+    "rank": "6",
+    "name": "Zane",
+    "win_percentage": "47.37%",
+    "wins_losses": "18-20",
+    "total_drafts": "15",
+    "elo": "964",
+    "glicko": "1572.98 ± 75.24",
+    "gxe": "56.89%",
+    "last_date": "8-17-22",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "7",
+    "name": "Adam",
+    "win_percentage": "43.48%",
+    "wins_losses": "10-13",
+    "total_drafts": "9",
+    "elo": "960",
+    "glicko": "1519.48 ± 91.24",
+    "gxe": "51.84%",
+    "last_date": "8-17-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "8",
+    "name": "Simon",
+    "win_percentage": "38.24%",
+    "wins_losses": "13-21",
+    "total_drafts": "14",
+    "elo": "916",
+    "glicko": "1495.41 ± 77.72",
+    "gxe": "49.56%",
+    "last_date": "8-17-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "9",
+    "name": "Todd",
+    "win_percentage": "31.82%",
+    "wins_losses": "7-15",
+    "total_drafts": "9",
+    "elo": "938",
+    "glicko": "1511.16 ± 100.62",
+    "gxe": "51.05%",
+    "last_date": "8-17-23"
+  },
+  {
+    "rank": "10",
+    "name": "Jacob",
+    "win_percentage": "15.38%",
+    "wins_losses": "2-11",
+    "total_drafts": "6",
+    "elo": "907",
+    "glicko": "1346.90 ± 138.49",
+    "gxe": "36.22%",
+    "last_date": "8-17-23"
+  }
+]

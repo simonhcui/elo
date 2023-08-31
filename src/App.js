@@ -14,6 +14,7 @@ import SeasonOne from "./Pages/seasonone";
 import SeasonTwo from "./Pages/seasontwo";
 import SeasonThree from "./Pages/seasonthree";
 import Lifetime from "./Pages/lifetime";
+import Chaos from "./Pages/chaos";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
         <Route path="/seasontwo" element={<SeasonTwo />} />
         <Route path="/seasonthree" element={<SeasonThree />} />
         <Route path="/lifetime" element={<Lifetime />} />
+        <Route path="/chaos" element={<Chaos />} />
       </Routes>
     </Router>
   );
