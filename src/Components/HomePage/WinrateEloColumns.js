@@ -12,8 +12,8 @@ export const COLUMNS = [
     accessor: "win_percentage",
   },
   {
-    Header: "Wins / Total Rounds",
-    accessor: "wins_rounds",
+    Header: "Wins / Losses",
+    accessor: "wins_losses",
   },
   {
     Header: "Total Drafts",
@@ -24,12 +24,12 @@ export const COLUMNS = [
     accessor: "elo",
   },
   {
-    Header: "Change",
-    accessor: "change",
+    Header: "Glicko",
+    accessor: "glicko",
   },
   {
-    Header: "Last Set",
-    accessor: "last_set",
+    Header: "GXE",
+    accessor: "gxe",
   },
   {
     Header: "Last Date",
