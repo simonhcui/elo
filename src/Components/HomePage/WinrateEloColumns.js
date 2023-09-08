@@ -32,6 +32,10 @@ export const COLUMNS = [
     accessor: "gxe",
   },
   {
+    Header: "Last Set",
+    accessor: "last_set",
+  },
+  {
     Header: "Last Date",
     accessor: "last_date",
   },
