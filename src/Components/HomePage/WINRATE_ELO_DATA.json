@@ -1,29 +1,29 @@
 [
   {
     "rank": "1",
-    "name": "Clayton",
-    "win_percentage": "77.14%",
-    "wins_losses": "27-8",
+    "name": "Tony",
+    "win_percentage": "74.19%",
+    "wins_losses": "23-8",
     "total_drafts": "15",
-    "elo": "1162",
-    "glicko": "1820.57 ± 82.48",
-    "gxe": "77.14%",
-    "last_set": "MH2",
-    "last_date": "8-31-23",
-    "trophies": "🏆🏆🏆🏆🏆"
+    "elo": "1130",
+    "glicko": "1790.05 ± 87.26",
+    "gxe": "75.00%",
+    "last_set": "Chaos",
+    "last_date": "9-14-23",
+    "trophies": "🏆🏆🏆"
   },
   {
     "rank": "2",
-    "name": "Tony",
-    "win_percentage": "71.43%",
-    "wins_losses": "20-8",
-    "total_drafts": "14",
-    "elo": "1093",
-    "glicko": "1748.49 ± 91.28",
-    "gxe": "71.90%",
-    "last_set": "LTR",
-    "last_date": "9-7-23",
-    "trophies": "🏆🏆"
+    "name": "Clayton",
+    "win_percentage": "3.68%",
+    "wins_losses": "28-10",
+    "total_drafts": "15",
+    "elo": "1132",
+    "glicko": "1779.80 ± 79.84",
+    "gxe": "74.32%",
+    "last_set": "Chaos",
+    "last_date": "9-14-23",
+    "trophies": "🏆🏆🏆🏆🏆"
   },
   {
     "rank": "3",
@@ -66,14 +66,14 @@
   {
     "rank": "6",
     "name": "Chris A",
-    "win_percentage": "57.58%",
-    "wins_losses": "19-14",
-    "total_drafts": "17",
-    "elo": "1063",
-    "glicko": "1683.25 ± 79.90",
-    "gxe": "66.73%",
-    "last_set": "LTR",
-    "last_date": "9-7-23",
+    "win_percentage": "58.33%",
+    "wins_losses": "21-15",
+    "total_drafts": "18",
+    "elo": "1077",
+    "glicko": "1697.54 ± 77.08",
+    "gxe": "67.94%",
+    "last_set": "Chaos",
+    "last_date": "9-14-23",
     "trophies": "🏆🏆🏆"
   },
   {
@@ -115,6 +115,32 @@
   },
   {
     "rank": "10",
+    "name": "Zane",
+    "win_percentage": "43.59%",
+    "wins_losses": "12-22",
+    "total_drafts": "14",
+    "elo": "944",
+    "glicko": "1453.88 ± 77.08",
+    "gxe": "45.63%",
+    "last_set": "Chaos",
+    "last_date": "9-14-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "11",
+    "name": "John K",
+    "win_percentage": "42.86%",
+    "wins_losses": "12-16",
+    "total_drafts": "12",
+    "elo": "999",
+    "glicko": "1548.14 ± 83.57",
+    "gxe": "54.55%",
+    "last_set": "Chaos",
+    "last_date": "9-14-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "12",
     "name": "Brian H",
     "win_percentage": "42.86%",
     "wins_losses": "6-8",
@@ -127,45 +153,7 @@
     "trophies": "🏆"
   },
   {
-    "rank": "11",
-    "name": "John K",
-    "win_percentage": "42.31%",
-    "wins_losses": "11-15",
-    "total_drafts": "11",
-    "elo": "994",
-    "glicko": "1535.29 ± 86.24",
-    "gxe": "53.34%",
-    "last_set": "LTR",
-    "last_date": "9-7-23",
-    "trophies": "🏆"
-  },
-  {
-    "rank": "12",
-    "name": "Sonny",
-    "win_percentage": "42.11%",
-    "wins_losses": "8-11",
-    "total_drafts": "7",
-    "elo": "993",
-    "glicko": "1555.86 ± 98.72",
-    "gxe": "55.25%",
-    "last_set": "MH2",
-    "last_date": "8-31-23"
-  },
-  {
     "rank": "13",
-    "name": "Zane",
-    "win_percentage": "41.67%",
-    "wins_losses": "15-21",
-    "total_drafts": "13",
-    "elo": "919",
-    "glicko": "1419.05 ± 79.33",
-    "gxe": "42.37%",
-    "last_set": "LTR",
-    "last_date": "9-7-23",
-    "trophies": "🏆"
-  },
-  {
-    "rank": "14",
     "name": "Adam",
     "win_percentage": "41.38%",
     "wins_losses": "12-17",
@@ -175,6 +163,18 @@
     "gxe": "45.31%",
     "last_set": "LTR",
     "last_date": "9-7-23"
+  },
+  {
+    "rank": "14",
+    "name": "Sonny",
+    "win_percentage": "40.91%",
+    "wins_losses": "9-13",
+    "total_drafts": "8",
+    "elo": "977",
+    "glicko": "1532.42 ± 91.16",
+    "gxe": "53.06%",
+    "last_set": "Chaos",
+    "last_date": "9-14-23"
   },
   {
     "rank": "15",
@@ -191,14 +191,14 @@
   {
     "rank": "16",
     "name": "Simon",
-    "win_percentage": "30.77%",
-    "wins_losses": "8-18",
+    "win_percentage": "28.57%",
+    "wins_losses": "8-20",
     "total_drafts": "14",
-    "elo": "921",
-    "glicko": "1426.80 ± 91.72",
-    "gxe": "43.12%",
-    "last_set": "Adam Cube",
-    "last_date": "8-26-23"
+    "elo": "900",
+    "glicko": "1400.68 ± 89.00",
+    "gxe": "40.71%",
+    "last_set": "Chaos",
+    "last_date": "9-14-23"
   },
   {
     "rank": "17",
