@@ -15,14 +15,14 @@
   {
     "rank": "2",
     "name": "Clayton",
-    "win_percentage": "73.68%",
-    "wins_losses": "28-10",
-    "total_drafts": "15",
-    "elo": "1132",
-    "glicko": "1779.80 ± 79.84",
-    "gxe": "74.32%",
-    "last_set": "Chaos",
-    "last_date": "9-14-23",
+    "win_percentage": "70.73%",
+    "wins_losses": "29-12",
+    "total_drafts": "18",
+    "elo": "1098",
+    "glicko": "1731.06 ± 78.99",
+    "gxe": "70.63%",
+    "last_set": "RNA",
+    "last_date": "9-16-23",
     "trophies": "🏆🏆🏆🏆🏆"
   },
   {
@@ -66,18 +66,30 @@
   {
     "rank": "6",
     "name": "Chris A",
-    "win_percentage": "58.33%",
-    "wins_losses": "21-15",
-    "total_drafts": "18",
-    "elo": "1077",
-    "glicko": "1697.54 ± 77.08",
-    "gxe": "67.94%",
-    "last_set": "Chaos",
-    "last_date": "9-14-23",
+    "win_percentage": "61.64%",
+    "wins_losses": "24-15",
+    "total_drafts": "21",
+    "elo": "1111",
+    "glicko": "1722.53 ± 75.42",
+    "gxe": "69.98%",
+    "last_set": "RNA",
+    "last_date": "9-16-23",
     "trophies": "🏆🏆🏆"
   },
   {
     "rank": "7",
+    "name": "Juwan",
+    "win_percentage": "60.00%",
+    "wins_losses": "6-4",
+    "total_drafts": "6",
+    "elo": "1030",
+    "glicko": "1578.35 ± 130.35",
+    "gxe": "57.22%",
+    "last_set": "RNA",
+    "last_date": "9-16-23"
+  },
+  {
+    "rank": "8",
     "name": "Todd",
     "win_percentage": "53.85%",
     "wins_losses": "7-6",
@@ -88,18 +100,6 @@
     "last_set": "MH2",
     "last_date": "8-24-23",
     "trophies": "🏆"
-  },
-  {
-    "rank": "8",
-    "name": "Juwan",
-    "win_percentage": "50.00%",
-    "wins_losses": "4-4",
-    "total_drafts": "5",
-    "elo": "1006",
-    "glicko": "1527.58 ± 144.12",
-    "gxe": "52.54%",
-    "last_set": "NEO",
-    "last_date": "8-10-23"
   },
   {
     "rank": "9",
@@ -128,19 +128,6 @@
   },
   {
     "rank": "11",
-    "name": "John K",
-    "win_percentage": "42.86%",
-    "wins_losses": "12-16",
-    "total_drafts": "12",
-    "elo": "999",
-    "glicko": "1548.14 ± 83.57",
-    "gxe": "54.55%",
-    "last_set": "Chaos",
-    "last_date": "9-14-23",
-    "trophies": "🏆"
-  },
-  {
-    "rank": "12",
     "name": "Brian H",
     "win_percentage": "42.86%",
     "wins_losses": "6-8",
@@ -150,6 +137,19 @@
     "gxe": "49.36%",
     "last_set": "DMR",
     "last_date": "8-3-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "12",
+    "name": "John K",
+    "win_percentage": "41.94%",
+    "wins_losses": "13-18",
+    "total_drafts": "15",
+    "elo": "996",
+    "glicko": "1555.14 ± 80.33",
+    "gxe": "55.21%",
+    "last_set": "RNA",
+    "last_date": "9-16-23",
     "trophies": "🏆"
   },
   {
@@ -191,25 +191,25 @@
   {
     "rank": "16",
     "name": "Simon",
-    "win_percentage": "28.57%",
-    "wins_losses": "8-20",
-    "total_drafts": "14",
-    "elo": "900",
-    "glicko": "1400.68 ± 89.00",
-    "gxe": "40.71%",
-    "last_set": "Chaos",
-    "last_date": "9-14-23"
+    "win_percentage": "30.00%",
+    "wins_losses": "9-21",
+    "total_drafts": "16",
+    "elo": "909",
+    "glicko": "1404.72 ± 86.91",
+    "gxe": "41.08%",
+    "last_set": "RNA",
+    "last_date": "9-16-23"
   },
   {
     "rank": "17",
     "name": "Jacob",
-    "win_percentage": "25.00%",
-    "wins_losses": "6-18",
-    "total_drafts": "10",
-    "elo": "876",
-    "glicko": "1337.92 ± 91.77",
-    "gxe": "35.14%",
-    "last_set": "LTR",
-    "last_date": "9-7-23"
+    "win_percentage": "25.93%",
+    "wins_losses": "7-20",
+    "total_drafts": "13",
+    "elo": "880",
+    "glicko": "1342.25 ± 89.19",
+    "gxe": "35.50%",
+    "last_set": "RNA",
+    "last_date": "9-16-23"
   }
 ]
