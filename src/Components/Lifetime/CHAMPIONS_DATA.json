@@ -28,5 +28,15 @@
     "season": "Season III",
     "player": "Evan S",
     "achievement": "Trophies Champion"
+  },
+  {
+    "season": "Season IV",
+    "player": "Tony",
+    "achievement": "Winrate Champion"
+  },
+  {
+    "season": "Season IV",
+    "player": "Clayton",
+    "achievement": "Trophies Champion"
   }
 ]

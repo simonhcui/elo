@@ -13,6 +13,7 @@ import ModernHorizonsTwo from "./Pages/modernhorizonstwo";
 import SeasonOne from "./Pages/seasonone";
 import SeasonTwo from "./Pages/seasontwo";
 import SeasonThree from "./Pages/seasonthree";
+import SeasonFour from "./Pages/seasonfour";
 import Lifetime from "./Pages/lifetime";
 import Chaos from "./Pages/chaos";
 
@@ -29,6 +30,7 @@ function App() {
         <Route path="/seasonone" element={<SeasonOne />} />
         <Route path="/seasontwo" element={<SeasonTwo />} />
         <Route path="/seasonthree" element={<SeasonThree />} />
+        <Route path="/seasonfour" element={<SeasonFour />} />
         <Route path="/lifetime" element={<Lifetime />} />
         <Route path="/chaos" element={<Chaos />} />
       </Routes>

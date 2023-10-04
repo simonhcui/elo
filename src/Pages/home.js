@@ -7,14 +7,14 @@ const Home = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>Simon LGS Stats</h1>
-      <h2 style={{ textAlign: "center" }}>Season 4 (6/29/23 - 9/28/23)</h2>
+      <h2 style={{ textAlign: "center" }}>Season 5 (9/30/23 - 12/28/23)</h2>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates. Last Updated 9/16/23 (Min 4 Drafts)
-        {/* <p>Updated under Season 3, Season 4 about to start</p> */}
+        ELO and Winrates. Last Updated 9/28/23 (Min 4 Drafts)
+        <p>Updated under Season 4, Season 5 just started</p>
       </h2>
       <div>
         <View style={styles.container}>
-          <WinrateEloTable />
+          {/* <WinrateEloTable /> */}
           {/* <TrophiesTable /> */}
         </View>
       </div>
