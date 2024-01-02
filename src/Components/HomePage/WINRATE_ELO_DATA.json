@@ -41,14 +41,14 @@
   {
     "rank": "4",
     "name": "Matt",
-    "win_percentage": "66.67%",
-    "wins_losses": "20-10",
-    "total_drafts": "15",
-    "elo": "1083",
-    "glicko": "1623.91 ± 82.71",
-    "gxe": "61.54%",
-    "last_set": "TSR",
-    "last_date": "12-21-23",
+    "win_percentage": "64.71%",
+    "wins_losses": "22-12",
+    "total_drafts": "17",
+    "elo": "1068",
+    "glicko": "1626.80 ± 79.48",
+    "gxe": "61.81%",
+    "last_set": "BFZ/OGW",
+    "last_date": "12-28-23",
     "trophies": "🏆"
   },
   {
@@ -193,6 +193,18 @@
   },
   {
     "rank": "16",
+    "name": "Juwan",
+    "win_percentage": "51.85%",
+    "wins_losses": "14-13",
+    "total_drafts": "12",
+    "elo": "1026",
+    "glicko": "1514.58 ± 82.51",
+    "gxe": "51.38%",
+    "last_set": "ELD",
+    "last_date": "12-28-23"
+  },
+  {
+    "rank": "17",
     "name": "Patrick H",
     "win_percentage": "50.00%",
     "wins_losses": "7-7",
@@ -204,9 +216,8 @@
     "last_date": "12-2-23",
     "trophies": "🏆"
   }, 
-  
   {
-    "rank": "17",
+    "rank": "18",
     "name": "Adam",
     "win_percentage": "50.00%",
     "wins_losses": "7-7",
@@ -219,7 +230,7 @@
     "trophies": "🏆"
   },  
   {
-    "rank": "18",
+    "rank": "19",
     "name": "Danny",
     "win_percentage": "50.00%",
     "wins_losses": "4-4",
@@ -230,53 +241,42 @@
     "last_set": "Chaos",
     "last_date": "11-18-23"
   },   
-  {
-    "rank": "19",
-    "name": "Juwan",
-    "win_percentage": "48.00%",
-    "wins_losses": "12-13",
-    "total_drafts": "11",
-    "elo": "999",
-    "glicko": "1485.75 ± 85.02",
-    "gxe": "48.65%",
-    "last_set": "2x2",
-    "last_date": "12-14-23"
-  },
+  
   {
     "rank": "20",
     "name": "Jacob",
-    "win_percentage": "44.44%",
-    "wins_losses": "16-20",
-    "total_drafts": "18",
-    "elo": "956",
-    "glicko": "1463.90 ± 77.68",
-    "gxe": "46.58%",
-    "last_set": "MB1",
-    "last_date": "12-9-23"
+    "win_percentage": "41.03%",
+    "wins_losses": "16-23",
+    "total_drafts": "19",
+    "elo": "916",
+    "glicko": "1424.77 ± 75.71",
+    "gxe": "42.90%",
+    "last_set": "BFZ/OGW",
+    "last_date": "12-18-23"
   }, 
   {
     "rank": "21",
     "name": "Andrew",
-    "win_percentage": "39.13%",
-    "wins_losses": "9-14",
-    "total_drafts": "10",
-    "elo": "937",
-    "glicko": "1439.99 ± 89.25",
-    "gxe": "44.35%",
-    "last_set": "TSR",
-    "last_date": "12-21-23"
+    "win_percentage": "40.74%",
+    "wins_losses": "11-16",
+    "total_drafts": "11",
+    "elo": "940",
+    "glicko": "1450.90 ± 84.02",
+    "gxe": "45.36%",
+    "last_set": "BFZ/OGW",
+    "last_date": "12-28-23"
   },
   {
     "rank": "22",
     "name": "Sonny",
-    "win_percentage": "38.10%",
-    "wins_losses": "16-26",
-    "total_drafts": "17",
-    "elo": "960",
-    "glicko": "1487.31 ± 73.64",
-    "gxe": "48.79%",
-    "last_set": "TSR",
-    "last_date": "12-21-23",
+    "win_percentage": "36.36%",
+    "wins_losses": "16-28",
+    "total_drafts": "18",
+    "elo": "934",
+    "glicko": "1461.73 ± 72.35",
+    "gxe": "46.36%",
+    "last_set": "BFZ/OGW",
+    "last_date": "12-28-23",
     "trophies": "🏆"
   },
   {
@@ -330,14 +330,14 @@
   {
     "rank": "27",
     "name": "Simon",
-    "win_percentage": "30.23%",
-    "wins_losses": "13-30",
+    "win_percentage": "31.11%",
+    "wins_losses": "14-31",
     "total_drafts": "21",
-    "elo": "878",
-    "glicko": "1362.42 ± 75.36",
-    "gxe": "37.21%",
-    "last_set": "TSR",
-    "last_date": "12-21-23"
+    "elo": "876",
+    "glicko": "1362.57 ± 73.82",
+    "gxe": "37.04%",
+    "last_set": "BFZ/OGW",
+    "last_date": "12-28-23"
   },
   {
     "rank": "28",
@@ -354,14 +354,14 @@
   {
     "rank": "29",
     "name": "John K",
-    "win_percentage": "21.74%",
-    "wins_losses": "10-36",
-    "total_drafts": "24",
-    "elo": "806",
-    "glicko": "1256.41 ± 79.10",
-    "gxe": "28.62%",
-    "last_set": "TSR",
-    "last_date": "12-21-23"
+    "win_percentage": "22.45%",
+    "wins_losses": "11-38",
+    "total_drafts": "25",
+    "elo": "808",
+    "glicko": "1265.05 ± 77.19",
+    "gxe": "29.05%",
+    "last_set": "BFZ/OGW",
+    "last_date": "12-28-23"
   },
   {
     "rank": "30",
