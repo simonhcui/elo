@@ -153,36 +153,95 @@
     "last_date": "12-28-23",
     "trophies": "🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆"
   },
-
   {
-    "rank": "5",
-    "name": "Karen",
-    "win_percentage": "61.54%",
-    "wins_rounds": "16/26",
-    "total_drafts": "10",
-    "elo": "1037",
-    "glicko": "1560.93 ± 86.65",
-    "gxe": "55.74%",
-    "last_set": "ELD",
-    "last_date": "7-8-23",
+    "rank": "13",
+    "name": "Walski",
+    "win_percentage": "55.36%",
+    "wins_rounds": "31-25",
+    "total_drafts": "25",
+    "elo": "1034",
+    "glicko": "1601 ± 66",
+    "gxe": "59.50%",
+    "last_set": "Chaos",
+    "last_date": "12-2-23",
     "trophies": "🏆"
   },
-  
-  
-  
-  
-  
   {
-    "rank": "11",
-    "name": "Charles",
-    "win_percentage": "55.56%",
-    "wins_rounds": "10/18",
-    "total_drafts": "7",
-    "elo": "1023",
-    "glicko": "1558.15 ± 109.51",
-    "gxe": "55.43%",
+    "rank": "14",
+    "name": "Luca",
+    "win_percentage": "53.85%",
+    "wins_rounds": "21-18",
+    "total_drafts": "15",
+    "elo": "1046",
+    "glicko": "1599 ± 70",
+    "gxe": "59.35%",
     "last_set": "DMR",
-    "last_date": "8-3-23"
+    "last_date": "12-2-23",
+    "trophies": "🏆🏆"
+  },
+  {
+    "rank": "15",
+    "name": "Karen",
+    "win_percentage": "53.85%",
+    "wins_rounds": "14-12",
+    "total_drafts": "10",
+    "elo": "1009",
+    "glicko": "1522 ± 84",
+    "gxe": "52.04%",
+    "last_set": "NEO",
+    "last_date": "9-30-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "16",
+    "name": "David",
+    "win_percentage": "53.33%",
+    "wins_rounds": "40-35",
+    "total_drafts": "28",
+    "elo": "1090",
+    "glicko": "1627 ± 64",
+    "gxe": "61.91%",
+    "last_set": "MH2",
+    "last_date": "12-14-23",
+    "trophies": "🏆🏆"
+  },
+  {
+    "rank": "17",
+    "name": "Charles",
+    "win_percentage": "52.94%",
+    "wins_rounds": "9-8",
+    "total_drafts": "7",
+    "elo": "1016",
+    "glicko": "1545 ± 102",
+    "gxe": "54.19%",
+    "last_set": "ELD",
+    "last_date": "12-28-23"
+  },
+  {
+    "rank": "20",
+    "name": "Angga",
+    "win_percentage": "51.72%",
+    "wins_rounds": "15-14",
+    "total_drafts": "9",
+    "elo": "999",
+    "glicko": "1577 ± 83",
+    "gxe": "57.27%",
+    "last_set": "Adam Cube",
+    "last_date": "4-13-23",
+    "trophies": "🏆🏆🏆🏆"
+  },
+  {
+    "rank": "21",
+    "name": "Adam",
+    "win_percentage": "51.30%",
+    "wins_rounds": "79-75",
+    "total_drafts": "59",
+    "elo": "999",
+    "glicko": "1561 ± 63",
+    "gxe": "55.78%",
+    "last_set": "2X2",
+    "last_date": "12-14-23",
+    "trophies": "🏆🏆🏆🏆🏆🏆🏆🏆"
   },
   {
     "rank": "12",
@@ -209,58 +268,10 @@
     "last_date": "7-8-23",
     "trophies": "🏆"
   },
-  {
-    "rank": "14",
-    "name": "Adam",
-    "win_percentage": "52.87%",
-    "wins_rounds": "83/157",
-    "total_drafts": "60",
-    "elo": "968",
-    "glicko": "1538.03 ± 62.45",
-    "gxe": "53.62%",
-    "last_set": "LTR",
-    "last_date": "9-7-23",
-    "trophies": "🏆🏆🏆🏆🏆🏆🏆"
-  },
-  {
-    "rank": "15",
-    "name": "Luca",
-    "win_percentage": "52.38%",
-    "wins_rounds": "11/21",
-    "total_drafts": "7",
-    "elo": "1023",
-    "glicko": "1550.21 ± 85.22",
-    "gxe": "54.74%",
-    "last_set": "KTK",
-    "last_date": "9-28-23",
-    "trophies": "🏆"
-  },
-  {
-    "rank": "16",
-    "name": "Walski",
-    "win_percentage": "51.85%",
-    "wins_rounds": "14/27",
-    "total_drafts": "12",
-    "elo": "1037",
-    "glicko": "1621.67 ± 78.68",
-    "gxe": "61.35%",
-    "last_set": "LTR",
-    "last_date": "8-12-23",
-    "trophies": "🏆"
-  },
-  {
-    "rank": "17",
-    "name": "David",
-    "win_percentage": "50.85%",
-    "wins_rounds": "30/59",
-    "total_drafts": "22",
-    "elo": "1067",
-    "glicko": "1598.34 ± 65.81",
-    "gxe": "59.27%",
-    "last_set": "Adam Cube",
-    "last_date": "8-26-23",
-    "trophies": "🏆"
-  },
+  
+  
+  
+  
   {
     "rank": "18",
     "name": "Sonny",
@@ -287,19 +298,7 @@
     "last_date": "9-16-23",
     "trophies": "🏆🏆🏆🏆🏆"
   },
-  {
-    "rank": "20",
-    "name": "Angga",
-    "win_percentage": "48.94%",
-    "wins_rounds": "23/47",
-    "total_drafts": "15",
-    "elo": "999",
-    "glicko": "1577.26 ± 83.49",
-    "gxe": "57.27%",
-    "last_set": "Adam Cube",
-    "last_date": "4-13-23",
-    "trophies": "🏆🏆🏆🏆"
-  },
+  
   {
     "rank": "21",
     "name": "Patrick H",
