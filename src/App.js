@@ -14,6 +14,7 @@ import SeasonOne from "./Pages/seasonone";
 import SeasonTwo from "./Pages/seasontwo";
 import SeasonThree from "./Pages/seasonthree";
 import SeasonFour from "./Pages/seasonfour";
+import SeasonFive from "./Pages/seasonfive";
 import Lifetime from "./Pages/lifetime";
 import Chaos from "./Pages/chaos";
 
@@ -31,6 +32,7 @@ function App() {
         <Route path="/seasontwo" element={<SeasonTwo />} />
         <Route path="/seasonthree" element={<SeasonThree />} />
         <Route path="/seasonfour" element={<SeasonFour />} />
+        <Route path="/seasonfive" element={<SeasonFive />} />
         <Route path="/lifetime" element={<Lifetime />} />
         <Route path="/chaos" element={<Chaos />} />
       </Routes>
