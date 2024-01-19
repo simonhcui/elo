@@ -57,6 +57,11 @@ export const SidebarData = [
     link: "/seasonfour",
   },
   {
+    title: "Season 5",
+    icon: <img width="40px" src={SeasonFour} />,
+    link: "/seasonfive",
+  },
+  {
     title: "Lifetime Stats",
     icon: <img width="40px" src={Lifetime} />,
     link: "/lifetime",
