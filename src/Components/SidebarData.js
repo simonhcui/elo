@@ -7,6 +7,7 @@ import SeasonOne from "./seasonone.svg";
 import SeasonTwo from "./seasontwo.svg";
 import SeasonThree from "./seasonthree.svg";
 import SeasonFour from "./seasonfour.svg";
+import SeasonFive from "./seasonfive.svg";
 import Lifetime from "./lifetime.svg";
 import Chaos from "./chaos.svg";
 
@@ -58,7 +59,7 @@ export const SidebarData = [
   },
   {
     title: "Season 5",
-    icon: <img width="40px" src={SeasonFour} />,
+    icon: <img width="40px" src={SeasonFive} />,
     link: "/seasonfive",
   },
   {
