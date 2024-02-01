@@ -5,11 +5,12 @@
     "win_percentage": "80.00%",
     "wins_losses": "8-2",
     "total_drafts": "5",
-    "elo": "1082",
     "glicko": "1849 ± 135",
     "gxe": "78.45%",
     "last_set": "Chaos",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "7"
   },
   {
     "rank": "2",
@@ -17,11 +18,12 @@
     "win_percentage": "80.00%",
     "wins_losses": "8-2",
     "total_drafts": "5",
-    "elo": "1081",
     "glicko": "1819 ± 135",
     "gxe": "76.52%",
     "last_set": "Chaos",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "5",
+    "longest_winstreak": "5"
   },
   {
     "rank": "3",
@@ -29,11 +31,12 @@
     "win_percentage": "66.67%",
     "wins_losses": "10-5",
     "total_drafts": "7",
-    "elo": "1062",
     "glicko": "1729 ± 115",
     "gxe": "70.21%",
     "last_set": "Chaos",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "2",
+    "longest_winstreak": "3"
   },
   {
     "rank": "4",
@@ -41,11 +44,12 @@
     "win_percentage": "62.50%",
     "wins_losses": "5-3",
     "total_drafts": "4",
-    "elo": "1016",
     "glicko": "1557 ± 153",
     "gxe": "55.23%",
     "last_set": "Chaos",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "4"
   },
   {
     "rank": "5",
@@ -53,11 +57,12 @@
     "win_percentage": "57.14%",
     "wins_losses": "12-9",
     "total_drafts": "11",
-    "elo": "1008",
     "glicko": "1572 ± 95",
     "gxe": "56.79%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "5"
   },
   {
     "rank": "6",
@@ -65,11 +70,12 @@
     "win_percentage": "56.52%",
     "wins_losses": "13-10",
     "total_drafts": "11",
-    "elo": "1020",
     "glicko": "1584 ± 94",
     "gxe": "57.90%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "1",
+    "longest_winstreak": "5"
   },
   {
     "rank": "8",
@@ -77,11 +83,12 @@
     "win_percentage": "55.56%",
     "wins_losses": "10-8",
     "total_drafts": "8",
-    "elo": "1022",
     "glicko": "1549 ± 99",
     "gxe": "54.56%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "3",
+    "longest_winstreak": "3"
   },
   {
     "rank": "9",
@@ -89,11 +96,12 @@
     "win_percentage": "54.55%",
     "wins_losses": "6-5",
     "total_drafts": "5",
-    "elo": "1018",
     "glicko": "1562 ± 119",
     "gxe": "55.73%",
     "last_set": "RVR",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "2",
+    "longest_winstreak": "3"
   },
   {
     "rank": "10",
@@ -101,11 +109,12 @@
     "win_percentage": "53.85%",
     "wins_losses": "7-6",
     "total_drafts": "7",
-    "elo": "1025",
     "glicko": "1635 ± 117",
     "gxe": "62.38%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "5"
   },
   {
     "rank": "11",
@@ -113,11 +122,12 @@
     "win_percentage": "50.00%",
     "wins_losses": "4-4",
     "total_drafts": "4",
-    "elo": "1005",
     "glicko": "1561 ± 137",
     "gxe": "55.58%",
     "last_set": "Chaos",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "1",
+    "longest_winstreak": "1"
   },
   {
     "rank": "12",
@@ -125,11 +135,12 @@
     "win_percentage": "45.45%",
     "wins_losses": "5-6",
     "total_drafts": "5",
-    "elo": "999",
     "glicko": "1515 ± 127",
     "gxe": "51.36%",
     "last_set": "Chaos",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "1",
+    "longest_winstreak": "2"
   },
   {
     "rank": "13",
@@ -137,11 +148,12 @@
     "win_percentage": "42.86%",
     "wins_losses": "6-8",
     "total_drafts": "7",
-    "elo": "988",
     "glicko": "1511 ± 110",
     "gxe": "50.99%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "2",
+    "longest_winstreak": "2"
   },
   {
     "rank": "14",
@@ -149,11 +161,12 @@
     "win_percentage": "35.71%",
     "wins_losses": "5-9",
     "total_drafts": "7",
-    "elo": "967",
     "glicko": "1488 ± 120",
     "gxe": "48.93%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "1"
   },
   {
     "rank": "15",
@@ -161,11 +174,12 @@
     "win_percentage": "33.33%",
     "wins_losses": "5-10",
     "total_drafts": "7",
-    "elo": "933",
     "glicko": "1344 ± 110",
     "gxe": "35.80%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "1",
+    "longest_winstreak": "2"
   },
   {
     "rank": "16",
@@ -173,11 +187,12 @@
     "win_percentage": "22.22%",
     "wins_losses": "4-14",
     "total_drafts": "9",
-    "elo": "889",
     "glicko": "1287 ± 111",
     "gxe": "31.00%",
     "last_set": "Chaos",
-    "last_date": "1-20-24"
+    "last_date": "1-20-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "1"
   },
   {
     "rank": "17",
@@ -185,10 +200,11 @@
     "win_percentage": "18.18%",
     "wins_losses": "2-9",
     "total_drafts": "6",
-    "elo": "904",
     "glicko": "1239 ± 129",
     "gxe": "27.52%",
     "last_set": "Chaos",
-    "last_date": "1-25-24"
+    "last_date": "1-25-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "1"
   }
 ]
