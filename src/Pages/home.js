@@ -9,7 +9,7 @@ const Home = () => {
       <h1 style={{ textAlign: "center" }}>Simon LGS Stats</h1>
       <h2 style={{ textAlign: "center" }}>Season 6 (1/4/24 - 3/28/24)</h2>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates. Last Updated 2/7/24 (Min 4 Drafts)
+        ELO and Winrates. Last Updated 2/15/24 (Min 4 Drafts)
         {/* <p>Updated under Season 4, Season 5 just started</p> */}
       </h2>
       <div>
