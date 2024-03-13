@@ -3,13 +3,14 @@ import { StyleSheet, View } from "react-native";
 //import { TrophiesTable } from "../Components/ModernHorizonsTwo/MH2TrophiesTable";
 //import { WinrateTable } from "../Components/ModernHorizonsTwo/MH2WinrateTable";
 import { Table } from "../Components/ModernHorizonsTwo/MH2ArchetypeTable";
+import { ColorTable } from "../Components/ModernHorizonsTwo/MH2ColorTable";
 import { WinrateEloTable } from "../Components/ModernHorizonsTwo/WinrateEloTable";
 
 const ModernHorizonsTwo = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>
-        Modern Horizons 2 Stats (20 Drafts Total)
+        Modern Horizons 2 Stats (27 Drafts Total)
       </h1>
       <h2 style={{ textAlign: "center" }}>
         ELO and Winrates (Min 4 drafts). Last Updated 12/14/23
@@ -18,7 +19,7 @@ const ModernHorizonsTwo = () => {
       <div>
         <View style={styles.container}>
           <View style={stylesTwo.container}>
-            {/* <ColorTable /> */}
+            <ColorTable />
             <Table />
           </View>
 
