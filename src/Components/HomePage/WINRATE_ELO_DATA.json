@@ -40,28 +40,28 @@
   },
   {
     "rank": "4",
-    "name": "Tony",
-    "win_percentage": "67.65%",
-    "wins_losses": "23-11",
-    "total_drafts": "17",
-    "glicko": "1660 ± 79",
-    "gxe": "64.77%",
-    "last_set": "Chaos",
-    "last_date": "3-7-24",
-    "current_winstreak": "5",
+    "name": "Evan S",
+    "win_percentage": "68.42%",
+    "wins_losses": "13-6",
+    "total_drafts": "8",
+    "glicko": "1622 ± 95",
+    "gxe": "61.34%",
+    "last_set": "2X2",
+    "last_date": "3-21-24",
+    "current_winstreak": "3",
     "longest_winstreak": "5"
   },
   {
     "rank": "5",
     "name": "Alberto",
-    "win_percentage": "65.79%",
-    "wins_losses": "25-13",
-    "total_drafts": "18",
-    "glicko": "1620 ± 77",
-    "gxe": "61.21%",
-    "last_set": "Chaos",
-    "last_date": "3-14-24",
-    "current_winstreak": "3",
+    "win_percentage": "65.12%",
+    "wins_losses": "28-15",
+    "total_drafts": "20",
+    "glicko": "1622 ± 74",
+    "gxe": "61.42%",
+    "last_set": "MB1",
+    "last_date": "3-21-24",
+    "current_winstreak": "0",
     "longest_winstreak": "8"
   },
   {
@@ -79,19 +79,6 @@
   },
   {
     "rank": "7",
-    "name": "Evan S",
-    "win_percentage": "62.50%",
-    "wins_losses": "10-6",
-    "total_drafts": "7",
-    "glicko": "1539 ± 105",
-    "gxe": "53.69%",
-    "last_set": "Chaos",
-    "last_date": "3-7-24",
-    "current_winstreak": "0",
-    "longest_winstreak": "5"
-  },
-  {
-    "rank": "8",
     "name": "Frank",
     "win_percentage": "62.50%",
     "wins_losses": "5-3",
@@ -102,6 +89,19 @@
     "last_date": "1-20-24",
     "current_winstreak": "0",
     "longest_winstreak": "4"
+  },
+  {
+    "rank": "8",
+    "name": "Tony",
+    "win_percentage": "62.16%",
+    "wins_losses": "23-14",
+    "total_drafts": "19",
+    "glicko": "1595 ± 77",
+    "gxe": "58.96%",
+    "last_set": "MB1",
+    "last_date": "3-21-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "5"
   },
   {
     "rank": "9",
@@ -118,16 +118,16 @@
   },
   {
     "rank": "10",
-    "name": "Andrew",
-    "win_percentage": "56.67%",
-    "wins_losses": "17-13",
-    "total_drafts": "15",
-    "glicko": "1548 ± 86",
-    "gxe": "54.51%",
+    "name": "Stephen",
+    "win_percentage": "55.56%",
+    "wins_losses": "5-4",
+    "total_drafts": "5",
+    "glicko": "1579 ± 130",
+    "gxe": "57.25%",
     "last_set": "MB1",
-    "last_date": "2-21-24",
+    "last_date": "3-21-24",
     "current_winstreak": "0",
-    "longest_winstreak": "3"
+    "longest_winstreak": "2"
   },
   {
     "rank": "11",
@@ -144,6 +144,19 @@
   },
   {
     "rank": "12",
+    "name": "Andrew",
+    "win_percentage": "52.94%",
+    "wins_losses": "18-16",
+    "total_drafts": "17",
+    "glicko": "1523 ± 81",
+    "gxe": "52.17%",
+    "last_set": "MB1",
+    "last_date": "3-21-24",
+    "current_winstreak": "1",
+    "longest_winstreak": "3"
+  },
+  {
+    "rank": "13",
     "name": "Adam",
     "win_percentage": "50.00%",
     "wins_losses": "8-8",
@@ -156,7 +169,7 @@
     "longest_winstreak": "3"
   },
   {
-    "rank": "13",
+    "rank": "14",
     "name": "Jorgie",
     "win_percentage": "50.00%",
     "wins_losses": "4-4",
@@ -169,7 +182,7 @@
     "longest_winstreak": "1"
   },
   {
-    "rank": "14",
+    "rank": "15",
     "name": "Juwan",
     "win_percentage": "45.45%",
     "wins_losses": "5-6",
@@ -182,20 +195,20 @@
     "longest_winstreak": "2"
   },
   {
-    "rank": "15",
+    "rank": "16",
     "name": "Simon",
-    "win_percentage": "44.19%",
-    "wins_losses": "19-24",
-    "total_drafts": "20",
-    "glicko": "1468 ± 74",
-    "gxe": "46.92%",
-    "last_set": "Chaos",
-    "last_date": "3-14-24",
-    "current_winstreak": "0",
+    "win_percentage": "43.48%",
+    "wins_losses": "20-26",
+    "total_drafts": "22",
+    "glicko": "1453 ± 73",
+    "gxe": "45.54%",
+    "last_set": "MB1",
+    "last_date": "3-21-24",
+    "current_winstreak": "1",
     "longest_winstreak": "3"
   },
   {
-    "rank": "16",
+    "rank": "17",
     "name": "Woody",
     "win_percentage": "41.67%",
     "wins_losses": "5-7",
@@ -208,20 +221,20 @@
     "longest_winstreak": "2"
   },
   {
-    "rank": "17",
+    "rank": "18",
     "name": "John K",
-    "win_percentage": "38.89%",
-    "wins_losses": "14-22",
-    "total_drafts": "20",
-    "glicko": "1372 ± 77",
-    "gxe": "38.09%",
-    "last_set": "Chaos",
-    "last_date": "3-14-24",
-    "current_winstreak": "1",
+    "win_percentage": "39.47%",
+    "wins_losses": "15-22",
+    "total_drafts": "21",
+    "glicko": "1392 ± 76",
+    "gxe": "39.84%",
+    "last_set": "2x2",
+    "last_date": "3-21-24",
+    "current_winstreak": "0",
     "longest_winstreak": "4"
   },
   {
-    "rank": "18",
+    "rank": "19",
     "name": "Kevin",
     "win_percentage": "38.89%",
     "wins_losses": "7-11",
@@ -234,7 +247,7 @@
     "longest_winstreak": "2"
   }, 
   {
-    "rank": "19",
+    "rank": "20",
     "name": "Mike",
     "win_percentage": "36.36%",
     "wins_losses": "4-7",
@@ -247,7 +260,7 @@
     "longest_winstreak": "3"
   },
   {
-    "rank": "20",
+    "rank": "21",
     "name": "Zane",
     "win_percentage": "35.71%",
     "wins_losses": "5-9",
@@ -260,7 +273,7 @@
     "longest_winstreak": "1"
   },
   {
-    "rank": "21",
+    "rank": "22",
     "name": "Matt",
     "win_percentage": "35.71%",
     "wins_losses": "5-9",
@@ -273,7 +286,7 @@
     "longest_winstreak": "2"
   },
   {
-    "rank": "22",
+    "rank": "23",
     "name": "Jacob",
     "win_percentage": "29.79%",
     "wins_losses": "14-33",
@@ -286,7 +299,7 @@
     "longest_winstreak": "3"
   },
   {
-    "rank": "23",
+    "rank": "24",
     "name": "Jesse",
     "win_percentage": "14.29%",
     "wins_losses": "2-12",
