@@ -20,10 +20,6 @@ export const COLUMNS = [
     accessor: "total_drafts",
   },
   {
-    Header: "Elo",
-    accessor: "elo",
-  },
-  {
     Header: "Glicko",
     accessor: "glicko",
   },
@@ -40,7 +36,11 @@ export const COLUMNS = [
     accessor: "last_date",
   },
   {
-    Header: "Trophies",
-    accessor: "trophies",
+    Header: "Longest Winstreak",
+    accessor: "longest_winstreak",
+  },
+  {
+    Header: "Current Winstreak",
+    accessor: "current_winstreak",
   },
 ];

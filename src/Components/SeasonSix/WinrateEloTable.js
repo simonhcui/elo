@@ -21,7 +21,7 @@ export const WinrateEloTable = () => {
     tableInstance;
 
   return (
-    <Scrollbars style={{ justifyContent: "right", width: 900, height: 1000 }}>
+    <Scrollbars style={{ justifyContent: "right", width: 900, height: 800 }}>
       <table {...getTableProps()}>
         <thead>
           {headerGroups.map((headerGroup) => (
