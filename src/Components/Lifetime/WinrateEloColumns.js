@@ -14,7 +14,7 @@ export const COLUMNS = [
   {
     Header: "Wins / Losses",
     accessor: "wins_losses",
-  }
+  },
   {
     Header: "Total Drafts",
     accessor: "total_drafts",
