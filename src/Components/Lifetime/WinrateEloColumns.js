@@ -12,16 +12,12 @@ export const COLUMNS = [
     accessor: "win_percentage",
   },
   {
-    Header: "Wins / Total Rounds",
-    accessor: "wins_rounds",
-  },
+    Header: "Wins / Losses",
+    accessor: "wins_losses",
+  }
   {
     Header: "Total Drafts",
     accessor: "total_drafts",
-  },
-  {
-    Header: "Elo",
-    accessor: "elo",
   },
   {
     Header: "Glicko",
@@ -42,5 +38,9 @@ export const COLUMNS = [
   {
     Header: "Trophies",
     accessor: "trophies",
+  },
+  {
+    Header: "Longest Winstreak",
+    accessor: "longest_winstreak",
   },
 ];

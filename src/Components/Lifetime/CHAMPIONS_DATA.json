@@ -48,5 +48,15 @@
     "season": "Season V",
     "player": "Chris A",
     "achievement": "Trophies Champion"
+  },
+  {
+    "season": "Season VI",
+    "player": "Alberto M",
+    "achievement": "Winrate Champion"
+  },
+  {
+    "season": "Season VI",
+    "player": "Alberto M",
+    "achievement": "Winstreak Champion"
   }
 ]
