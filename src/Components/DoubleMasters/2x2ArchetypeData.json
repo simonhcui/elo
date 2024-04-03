@@ -1,86 +1,122 @@
 [
   {
     "rank": "1",
-    "archetype": "4c no Red",
-    "winrate": "68.57%",
-    "num_drafts": 12
+    "archetype": "Rakdos",
+    "winrate": "66.67%",
+    "num_drafts": 5
   },
   {
     "rank": "2",
     "archetype": "Selesnya",
-    "winrate": "64.00%",
-    "num_drafts": 9
+    "winrate": "64.29%",
+    "num_drafts": 11,
+    "num_trophies": "🏆"
   },
   {
     "rank": "3",
-    "archetype": "Grixis",
-    "winrate": "58.82%",
-    "num_drafts": 12
+    "archetype": "4c no Red",
+    "winrate": "63.41%",
+    "num_drafts": 15,
+    "num_trophies": "🏆🏆🏆"
   },
+  
   {
     "rank": "4",
-    "archetype": "Boros",
-    "winrate": "58.82%",
-    "num_drafts": 12
+    "archetype": "Grixis",
+    "winrate": "63.04%",
+    "num_drafts": 17,
+    "num_trophies": "🏆🏆🏆🏆"
   },
   {
     "rank": "5",
-    "archetype": "Esper",
-    "winrate": "56.25%",
-    "num_drafts": 13
+    "archetype": "Boros",
+    "winrate": "59.52%",
+    "num_drafts": 15,
+    "num_trophies": "🏆🏆🏆"
   },
   {
     "rank": "6",
-    "archetype": "Jund",
-    "winrate": "53.33%",
-    "num_drafts": 16
+    "archetype": "Esper",
+    "winrate": "54.05%",
+    "num_drafts": 15,
+    "num_trophies": "🏆🏆🏆"
   },
   {
     "rank": "7",
-    "archetype": "5c",
-    "winrate": "53.12%",
-    "num_drafts": 12
+    "archetype": "4c no White",
+    "winrate": "52.94%",
+    "num_drafts": 18,
+    "num_trophies": "🏆"
   },
   {
     "rank": "8",
     "archetype": "Jeskai",
-    "winrate": "50.00%",
-    "num_drafts": 7
+    "winrate": "52.00%",
+    "num_drafts": 10,
+    "num_trophies": "🏆"
   },
   {
     "rank": "9",
-    "archetype": "Abzan",
-    "winrate": "50.00%",
-    "num_drafts": 14
+    "archetype": "Jund",
+    "winrate": "50.94%",
+    "num_drafts": 19,
+    "num_trophies": "🏆🏆🏆"
   },
   {
     "rank": "10",
-    "archetype": "4c no White",
-    "winrate": "48.84%",
-    "num_drafts": 15
+    "archetype": "Abzan",
+    "winrate": "47.73%",
+    "num_drafts": 17,
+    "num_trophies": "🏆🏆"
   },
   {
     "rank": "11",
     "archetype": "Mardu",
     "winrate": "46.51%",
-    "num_drafts": 16
+    "num_drafts": 16,
+    "num_trophies": "🏆"
   },
   {
     "rank": "12",
-    "archetype": "Sultai",
-    "winrate": "38.46%",
-    "num_drafts": 15
+    "archetype": "4c no green",
+    "winrate": "46.15%",
+    "num_drafts": 5
   },
   {
     "rank": "13",
-    "archetype": "Naya",
-    "winrate": "35.29%",
-    "num_drafts": 6
+    "archetype": "5c",
+    "winrate": "42.86%",
+    "num_drafts": 16,
+    "num_trophies": "🏆"
   },
   {
     "rank": "14",
+    "archetype": "Golgari",
+    "winrate": "42.86%",
+    "num_drafts": 5
+  },
+  {
+    "rank": "15",
+    "archetype": "Sultai",
+    "winrate": "39.53%",
+    "num_drafts": 17
+  },
+  {
+    "rank": "16",
+    "archetype": "Naya",
+    "winrate": "36.84%",
+    "num_drafts": 7
+  },
+  {
+    "rank": "17",
+    "archetype": "Temur",
+    "winrate": "36.36%",
+    "num_drafts": 5
+  }
+  {
+    "rank": "18",
     "archetype": "Bant",
-    "winrate": "23.81%",
-    "num_drafts": 9
+    "winrate": "26.09%",
+    "num_drafts": 10
   }
 ]

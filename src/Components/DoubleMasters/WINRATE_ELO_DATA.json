@@ -8,7 +8,8 @@
     "glicko": "1766 ± 103",
     "gxe": "73.11%",
     "last_date": "3-21-24",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "Rakdos (2)"
   },
   {
     "rank": "2",
@@ -19,7 +20,8 @@
     "glicko": "1725 ± 94",
     "gxe": "70.06%",
     "last_date": "11-19-22",
-    "trophies": "🏆🏆"
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "Abzan (3)"
   },
   {
     "rank": "3",
@@ -30,7 +32,8 @@
     "glicko": "1693 ± 77",
     "gxe": "67.53%",
     "last_date": "12-14-23",
-    "trophies": "🏆🏆"
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "Boros/Golgari (3)"
   },
   {
     "rank": "4",
@@ -41,7 +44,8 @@
     "glicko": "1637 ± 87",
     "gxe": "62.71%",
     "last_date": "3-21-24",
-    "trophies": "🏆🏆"
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "4c no white (3)"
   },
   {
     "rank": "5",
@@ -52,7 +56,8 @@
     "glicko": "1681 ± 80",
     "gxe": "66.51%",
     "last_date": "2-7-24",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "4c no red/Grixis/Jeskai (2)"
   },
   {
     "rank": "6",
@@ -63,7 +68,8 @@
     "glicko": "1642 ± 76",
     "gxe": "63.19%",
     "last_date": "2-21-24",
-    "trophies": "🏆🏆🏆"
+    "trophies": "🏆🏆🏆",
+    "most_drafted_archetype": "Abzan/Boros (3)"
   },
   {
     "rank": "7",
@@ -74,7 +80,8 @@
     "glicko": "1670 ± 77",
     "gxe": "65.63%",
     "last_date": "12-14-23",
-    "trophies": "🏆🏆🏆"
+    "trophies": "🏆🏆🏆",
+    "most_drafted_archetype": "Jund (4)"
   },
   {
     "rank": "8",
@@ -84,7 +91,8 @@
     "total_drafts": "4",
     "glicko": "1633 ± 159",
     "gxe": "61.92%",
-    "last_date": "10-6-23"
+    "last_date": "10-6-23",
+    "most_drafted_archetype": "4c no white (2)"
   },
   {
     "rank": "9",
@@ -95,7 +103,8 @@
     "glicko": "1855 ± 182",
     "gxe": "78.18%",
     "last_date": "8-24-23",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "5c (2)"
   },
   {
     "rank": "10",
@@ -106,7 +115,8 @@
     "glicko": "1602 ± 129",
     "gxe": "59.37%",
     "last_date": "11-19-22",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "Bant (3)"
   },
   {
     "rank": "11",
@@ -116,7 +126,8 @@
     "total_drafts": "4",
     "glicko": "1511 ± 139",
     "gxe": "51.02%",
-    "last_date": "11-19-22"
+    "last_date": "11-19-22",
+    "most_drafted_archetype": "Jeskai/Mardu (2)"
   },
   {
     "rank": "12",
@@ -127,7 +138,8 @@
     "glicko": "1610 ± 71",
     "gxe": "60.35%",
     "last_date": "10-12-23",
-    "trophies": "🏆🏆"
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "Sultai (4)"
   },
   {
     "rank": "13",
@@ -138,7 +150,8 @@
     "glicko": "1533 ± 69",
     "gxe": "53.13%",
     "last_date": "3-21-24",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "5c (8)"
   },
   {
     "rank": "14",
@@ -148,7 +161,8 @@
     "total_drafts": "5",
     "glicko": "1656 ± 137",
     "gxe": "64.00%",
-    "last_date": "2-21-24"
+    "last_date": "2-21-24",
+    "most_drafted_archetype": "Izzet/Jeskai (2)"
   },
   {
     "rank": "15",
@@ -159,7 +173,8 @@
     "glicko": "1608 ± 105",
     "gxe": "60.05%",
     "last_date": "9-15-22",
-    "trophies": "🏆🏆"
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "Mardu (2)"
   },
   {
     "rank": "16",
@@ -169,7 +184,8 @@
     "total_drafts": "6",
     "glicko": "1580 ± 95",
     "gxe": "57.47%",
-    "last_date": "9-15-22"
+    "last_date": "9-15-22",
+    "most_drafted_archetype": "4c no white/5c (2)"
   },
   {
     "rank": "17",
@@ -179,7 +195,8 @@
     "total_drafts": "4",
     "glicko": "1526 ± 137",
     "gxe": "52.36%",
-    "last_date": "11-19-22"
+    "last_date": "11-19-22",
+    "most_drafted_archetype": "Abzan (3)"
   },
   {
     "rank": "18",
@@ -189,7 +206,8 @@
     "total_drafts": "8",
     "glicko": "1443 ± 108",
     "gxe": "44.63%",
-    "last_date": "5-5-23"
+    "last_date": "5-5-23",
+    "most_drafted_archetype": "Gruul/Jund (3)"
   },
   {
     "rank": "19",
@@ -200,7 +218,8 @@
     "glicko": "1459 ± 87",
     "gxe": "46.15%",
     "last_date": "5-5-23",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "Sultai (6)"
   },
   {
     "rank": "20",
@@ -211,7 +230,8 @@
     "glicko": "1521 ± 103",
     "gxe": "51.95%",
     "last_date": "3-21-24",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "4c no white (3)"
   },
   {
     "rank": "21",
@@ -221,7 +241,8 @@
     "total_drafts": "7",
     "glicko": "1317 ± 103",
     "gxe": "33.45%",
-    "last_date": "12-3-22"
+    "last_date": "12-3-22",
+    "most_drafted_archetype": "Jund (4)"
   },
   {
     "rank": "22",
@@ -232,7 +253,8 @@
     "glicko": "1452 ± 87",
     "gxe": "45.43%",
     "last_date": "10-12-23",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "Esper (7)"
   },
   {
     "rank": "23",
@@ -242,7 +264,8 @@
     "total_drafts": "4",
     "glicko": "1339 ± 137",
     "gxe": "35.54%",
-    "last_date": "2-7-24"
+    "last_date": "2-7-24",
+    "most_drafted_archetype": "4c no white (2)"
   },
   {
     "rank": "24",
@@ -252,6 +275,7 @@
     "total_drafts": "4",
     "glicko": "1259 ± 146",
     "gxe": "29.16%",
-    "last_date": "3-21-24"
+    "last_date": "3-21-24",
+    "most_drafted_archetype": "Grixis (3)"
   }
 ]
