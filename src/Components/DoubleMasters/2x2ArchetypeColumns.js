@@ -15,8 +15,8 @@ export const COLUMNS = [
     Header: "Number of Drafts",
     accessor: "num_drafts",
   },
-  {
-    Header: "Trophies",
-    assessor: "num_trophies",
-  },
+  // {
+  //   Header: "Trophies",
+  //   assessor: "num_trophies",
+  // },
 ];
