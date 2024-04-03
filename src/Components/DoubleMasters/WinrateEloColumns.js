@@ -20,10 +20,6 @@ export const COLUMNS = [
     accessor: "total_drafts",
   },
   {
-    Header: "Elo",
-    accessor: "elo",
-  },
-  {
     Header: "Glicko",
     accessor: "glicko",
   },
