@@ -19,7 +19,7 @@ const DoubleMasters = () => {
       <div>
         <View style={styles.container}>
           <View style={stylesTwo.container}>
-            {/* <ColorTable /> */}
+            <ColorTable />
             <Table />
           </View>
 
