@@ -2,12 +2,12 @@
   {
     "rank": "1",
     "name": "Nick D",
-    "win_percentage": "77.08%",
-    "wins_losses": "37-11",
-    "total_drafts": "19",
-    "glicko": "1690 ± 84",
-    "gxe": "67.24%",
-    "last_date": "11-18-23",
+    "win_percentage": "74.51%",
+    "wins_losses": "38-13",
+    "total_drafts": "20",
+    "glicko": "1662 ± 81",
+    "gxe": "64.90%",
+    "last_date": "4-5-24",
     "trophies": "🏆🏆🏆🏆"
   },
   {
@@ -24,12 +24,12 @@
   {
     "rank": "3",
     "name": "Matt",
-    "win_percentage": "72.00%",
-    "wins_losses": "36-14",
-    "total_drafts": "22",
-    "glicko": "1651 ± 83",
-    "gxe": "63.98%",
-    "last_date": "10-28-23",
+    "win_percentage": "71.15%",
+    "wins_losses": "37-15",
+    "total_drafts": "23",
+    "glicko": "1632 ± 82",
+    "gxe": "62.28%",
+    "last_date": "4-5-24",
     "trophies": "🏆🏆"
   },
   {
@@ -47,7 +47,7 @@
     "name": "Adam",
     "win_percentage": "56.82%",
     "wins_losses": "25-19",
-    "total_drafts": "15",
+    "total_drafts": "16",
     "glicko": "1601 ± 74",
     "gxe": "59.52%",
     "last_date": "12-14-23",
@@ -56,12 +56,12 @@
   {
     "rank": "6",
     "name": "Juwan",
-    "win_percentage": "54.55%",
-    "wins_losses": "24-20",
-    "total_drafts": "17",
-    "glicko": "1558 ± 80",
-    "gxe": "55.52%",
-    "last_date": "12-14-23",
+    "win_percentage": "55.32%",
+    "wins_losses": "26-21",
+    "total_drafts": "19",
+    "glicko": "1577 ± 78",
+    "gxe": "57.29%",
+    "last_date": "4-5-24",
     "trophies": "🏆🏆"
   },
   {
@@ -129,6 +129,16 @@
   },
   {
     "rank": "13",
+    "name": "Tony",
+    "win_percentage": "36.36%",
+    "wins_losses": "4-7",
+    "total_drafts": "5",
+    "glicko": "1507 ± 129",
+    "gxe": "50.66%",
+    "last_date": "4-5-24"
+  },
+  {
+    "rank": "14",
     "name": "Sonny",
     "win_percentage": "33.33%",
     "wins_losses": "5-10",
@@ -136,16 +146,6 @@
     "glicko": "1357 ± 126",
     "gxe": "36.96%",
     "last_date": "8-31-23"
-  },
-  {
-    "rank": "14",
-    "name": "Tony",
-    "win_percentage": "33.33%",
-    "wins_losses": "3-6",
-    "total_drafts": "4",
-    "glicko": "1512 ± 139",
-    "gxe": "51.11%",
-    "last_date": "7-13-23"
   },
   {
     "rank": "15",
