@@ -10,6 +10,7 @@ import Home from "./Pages/home";
 import DoubleMasters from "./Pages/doublemasters";
 import ModernHorizonsOne from "./Pages/modernhorizonsone";
 import ModernHorizonsTwo from "./Pages/modernhorizonstwo";
+import DominariaRemastered from "./Pages/dominariaremastered";
 import SeasonOne from "./Pages/seasonone";
 import SeasonTwo from "./Pages/seasontwo";
 import SeasonThree from "./Pages/seasonthree";
@@ -29,6 +30,7 @@ function App() {
         <Route path="/2x2" element={<DoubleMasters />} />
         <Route path="/mh1" element={<ModernHorizonsOne />} />
         <Route path="/mh2" element={<ModernHorizonsTwo />} />
+        <Route path="/dmr" element={<DominariaRemastered />} />
         <Route path="/seasonone" element={<SeasonOne />} />
         <Route path="/seasontwo" element={<SeasonTwo />} />
         <Route path="/seasonthree" element={<SeasonThree />} />

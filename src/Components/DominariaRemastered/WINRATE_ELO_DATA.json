@@ -1,0 +1,97 @@
+[
+  {
+    "rank": "1",
+    "name": "Chris A",
+    "win_percentage": "62.07%",
+    "wins_losses": "18-11",
+    "total_drafts": "12",
+    "glicko": "1668 ± 87",
+    "gxe": "65.41%",
+    "last_date": "12-2-23",
+    "trophies": "🏆🏆"
+  },
+  {
+    "rank": "2",
+    "name": "Nick D",
+    "win_percentage": "61.29%",
+    "wins_losses": "19-12",
+    "total_drafts": "12",
+    "glicko": "1602 ± 86",
+    "gxe": "59.50%",
+    "last_date": "4-5-24",
+    "trophies": "🏆🏆"
+  },
+  {
+    "rank": "3",
+    "name": "Juwan",
+    "win_percentage": "61.11%",
+    "wins_losses": "11-7",
+    "total_drafts": "7",
+    "glicko": "1590 ± 107",
+    "gxe": "58.34%",
+    "last_date": "4-5-24",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "4",
+    "name": "Simon",
+    "win_percentage": "57.14%",
+    "wins_losses": "12-9",
+    "total_drafts": "8",
+    "glicko": "1568 ± 102",
+    "gxe": "56.35%",
+    "last_date": "10-6-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "5",
+    "name": "Matt",
+    "win_percentage": "54.55%",
+    "wins_losses": "12-10",
+    "total_drafts": "9",
+    "glicko": "1642 ± 89",
+    "gxe": "63.09%",
+    "last_date": "4-5-24"
+  },
+  {
+    "rank": "6",
+    "name": "Zane",
+    "win_percentage": "53.33%",
+    "wins_losses": "8-7",
+    "total_drafts": "6",
+    "glicko": "1526 ± 115",
+    "gxe": "52.39%",
+    "last_date": "10-6-23",
+    "trophies": "🏆"
+  },
+  {
+    "rank": "7",
+    "name": "Travis",
+    "win_percentage": "42.86%",
+    "wins_losses": "6-8",
+    "total_drafts": "6",
+    "glicko": "1438 ± 113",
+    "gxe": "44.17%",
+    "last_date": "10-7-23"
+  },
+  {
+    "rank": "8",
+    "name": "Evan S",
+    "win_percentage": "42.86%",
+    "wins_losses": "6-8",
+    "total_drafts": "5",
+    "glicko": "1515 ± 122",
+    "gxe": "51.37%",
+    "last_date": "12-2-23"
+  },
+  {
+    "rank": "9",
+    "name": "Jacob",
+    "win_percentage": "19.05%",
+    "wins_losses": "4-17",
+    "total_drafts": "8",
+    "glicko": "1308 ± 116",
+    "gxe": "32.82%",
+    "last_date": "12-2-23"
+  }
+]
