@@ -1,8 +1,8 @@
 import React, { useMemo } from "react";
 import { useTable } from "react-table";
 import { Scrollbars } from "react-custom-scrollbars";
-import COLOR_DATA from "./MH2_COLOR_DATA.json";
-import { COLUMNS } from "./MH2ColorColumns";
+import COLOR_DATA from "./DMR_COLOR_DATA.json";
+import { COLUMNS } from "./DMRColorColumns";
 import "./table.css";
 
 export const ColorTable = () => {

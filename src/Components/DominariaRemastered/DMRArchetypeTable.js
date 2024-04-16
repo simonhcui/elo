@@ -1,8 +1,8 @@
 import React, { useMemo } from "react";
 import { useTable } from "react-table";
 import { Scrollbars } from "react-custom-scrollbars";
-import ARCHETYPE_DATA from "./MH2ArchetypeData.json";
-import { COLUMNS } from "./MH2ArchetypeColumns";
+import ARCHETYPE_DATA from "./DMRArchetypeData.json";
+import { COLUMNS } from "./DMRArchetypeColumns";
 import "./table.css";
 
 export const Table = () => {

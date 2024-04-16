@@ -11,6 +11,7 @@ import SeasonFive from "./seasonfive.svg";
 import SeasonSix from "./seasonsix.svg"
 import Lifetime from "./lifetime.svg";
 import Chaos from "./chaos.svg";
+import DMR from"./dmr.svg";
 
 export const SidebarData = [
   {
@@ -24,6 +25,16 @@ export const SidebarData = [
     link: "/2x2",
   },
   {
+    title: "Chaos",
+    icon: <img width="40px" src={Chaos} />,
+    link: "/chaos",
+  },
+  {
+    title: "DMR",
+    icon: <img width="40px" src={DMR} />,
+    link: "/dmr",
+  },
+  {
     title: "MH1",
     icon: <img width="40px" src={MH1} />,
     link: "/mh1",
@@ -32,11 +43,6 @@ export const SidebarData = [
     title: "MH2",
     icon: <img width="40px" src={MH2} />,
     link: "/mh2",
-  },
-  {
-    title: "Chaos",
-    icon: <img width="40px" src={Chaos} />,
-    link: "/chaos",
   },
   {
     title: "Season 1",

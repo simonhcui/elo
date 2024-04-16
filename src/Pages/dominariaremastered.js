@@ -2,8 +2,8 @@ import React from "react";
 import { StyleSheet, View } from "react-native";
 //import { TrophiesTable } from "../Components/ModernHorizonsTwo/MH2TrophiesTable";
 //import { WinrateTable } from "../Components/ModernHorizonsTwo/MH2WinrateTable";
-import { Table } from "../Components/ModernHorizonsTwo/MH2ArchetypeTable";
-import { ColorTable } from "../Components/ModernHorizonsTwo/MH2ColorTable";
+import { Table } from "../Components/DominariaRemastered/DMRArchetypeTable";
+import { ColorTable } from "../Components/DominariaRemastered/DMRColorTable";
 import { WinrateEloTable } from "../Components/DominariaRemastered/WinrateEloTable";
 
 const ModernHorizonsTwo = () => {
