@@ -66,6 +66,19 @@
   },
   {
     "rank": "6",
+    "name": "John K",
+    "win_percentage": "50.00%",
+    "wins_losses": "4-4",
+    "total_drafts": "4",
+    "glicko": "1506 ± 157",
+    "gxe": "50.54%",
+    "last_set": "Chaos",
+    "last_date": "4-25-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "2"
+  },
+  {
+    "rank": "7",
     "name": "Adam",
     "win_percentage": "45.45%",
     "wins_losses": "5-6",
@@ -78,7 +91,7 @@
     "longest_winstreak": "2"
   },
   {
-    "rank": "7",
+    "rank": "8",
     "name": "Luca",
     "win_percentage": "45.45%",
     "wins_losses": "5-6",
@@ -91,20 +104,20 @@
     "longest_winstreak": "2"
   },
   {
-    "rank": "8",
+    "rank": "9",
     "name": "Stephen",
-    "win_percentage": "33.33%",
-    "wins_losses": "3-6",
-    "total_drafts": "5",
-    "glicko": "1440 ± 139",
-    "gxe": "44.45%",
-    "last_set": "OTJ",
-    "last_date": "4-17-24",
+    "win_percentage": "38.46%",
+    "wins_losses": "5-8",
+    "total_drafts": "7",
+    "glicko": "1457 ± 120",
+    "gxe": "46.00%",
+    "last_set": "Chaos",
+    "last_date": "4-25-24",
     "current_winstreak": "0",
-    "longest_winstreak": "1"
+    "longest_winstreak": "2"
   },
   {
-    "rank": "9",
+    "rank": "10",
     "name": "Jacob",
     "win_percentage": "25.00%",
     "wins_losses": "2-6",
@@ -115,5 +128,18 @@
     "last_date": "4-11-24",
     "current_winstreak": "0",
     "longest_winstreak": "1"
+  },
+  {
+    "rank": "11",
+    "name": "Ian C",
+    "win_percentage": "0.00%",
+    "wins_losses": "0-8",
+    "total_drafts": "4",
+    "glicko": "1101 ± 164",
+    "gxe": "19.00%",
+    "last_set": "Chaos",
+    "last_date": "4-25-24",
+    "current_winstreak": "0",
+    "longest_winstreak": "0"
   }
 ]
