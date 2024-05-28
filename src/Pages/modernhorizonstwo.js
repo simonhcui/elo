@@ -10,10 +10,10 @@ const ModernHorizonsTwo = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>
-        Modern Horizons 2 Stats (28 Drafts Total)
+        Modern Horizons 2 Stats (30 Drafts Total)
       </h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 4/5/24
+        ELO and Winrates (Min 4 drafts). Last Updated 4/27/24
       </h2>
       <h2 style={{ textAlign: "center" }}></h2>
       <div>
