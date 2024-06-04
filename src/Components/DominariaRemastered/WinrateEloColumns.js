@@ -35,4 +35,8 @@ export const COLUMNS = [
     Header: "Trophies",
     accessor: "trophies",
   },
+  {
+    Header: "Most Drafted Archetype",
+    accessor: "most_drafted_archetype",
+  },
 ];

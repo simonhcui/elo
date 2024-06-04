@@ -8,7 +8,8 @@
     "glicko": "1668 ± 87",
     "gxe": "65.41%",
     "last_date": "12-2-23",
-    "trophies": "🏆🏆"
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "Boros (5)"
   },
   {
     "rank": "2",
@@ -19,7 +20,8 @@
     "glicko": "1602 ± 86",
     "gxe": "59.50%",
     "last_date": "4-5-24",
-    "trophies": "🏆🏆"
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "Azorius (5)"
   },
   {
     "rank": "3",
@@ -30,7 +32,8 @@
     "glicko": "1590 ± 107",
     "gxe": "58.34%",
     "last_date": "4-5-24",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "Rakdos (3)"
   },
   {
     "rank": "4",
@@ -41,7 +44,8 @@
     "glicko": "1568 ± 102",
     "gxe": "56.35%",
     "last_date": "10-6-23",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "Bant/4c no Black (2)"
   },
   {
     "rank": "5",
@@ -51,7 +55,8 @@
     "total_drafts": "9",
     "glicko": "1642 ± 89",
     "gxe": "63.09%",
-    "last_date": "4-5-24"
+    "last_date": "4-5-24",
+    "most_drafted_archetype": "Golgari/Sultai/Abzan (2)"
   },
   {
     "rank": "6",
@@ -62,7 +67,8 @@
     "glicko": "1526 ± 115",
     "gxe": "52.39%",
     "last_date": "10-6-23",
-    "trophies": "🏆"
+    "trophies": "🏆",
+    "most_drafted_archetype": "Selesnya (5)"
   },
   {
     "rank": "7",
@@ -72,7 +78,8 @@
     "total_drafts": "6",
     "glicko": "1438 ± 113",
     "gxe": "44.17%",
-    "last_date": "10-7-23"
+    "last_date": "10-7-23",
+    "most_drafted_archetype": "Bant (4)"
   },
   {
     "rank": "8",
@@ -82,7 +89,8 @@
     "total_drafts": "5",
     "glicko": "1515 ± 122",
     "gxe": "51.37%",
-    "last_date": "12-2-23"
+    "last_date": "12-2-23",
+    "most_drafted_archetype": "Golgari (2)"
   },
   {
     "rank": "9",
@@ -92,6 +100,7 @@
     "total_drafts": "8",
     "glicko": "1308 ± 116",
     "gxe": "32.82%",
-    "last_date": "12-2-23"
+    "last_date": "12-2-23",
+    "most_drafted_archetype": "Bant (3)"
   }
 ]
