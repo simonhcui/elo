@@ -8,11 +8,11 @@ import SeasonTwo from "./seasontwo.svg";
 import SeasonThree from "./seasonthree.svg";
 import SeasonFour from "./seasonfour.svg";
 import SeasonFive from "./seasonfive.svg";
-import SeasonSix from "./seasonsix.svg"
-import SeasonSeven from "./seasonsix.svg"
+import SeasonSix from "./seasonsix.svg";
+import SeasonSeven from "./seasonseven.svg";
 import Lifetime from "./lifetime.svg";
 import Chaos from "./chaos.svg";
-import DMR from"./dmr.svg";
+import DMR from "./dmr.svg";
 
 export const SidebarData = [
   {
