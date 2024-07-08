@@ -9,7 +9,7 @@ const SeasonOne = () => {
     <>
       <h1 style={{ textAlign: "center" }}>Lifetime Stats</h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 5 drafts). Last Updated 3/28/24. Updated at end of
+        ELO and Winrates (Min 5 drafts). Last Updated 6/27/24. Updated at end of
         season.
       </h2>
       <div>
