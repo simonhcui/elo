@@ -1,3 +1,98 @@
 [
-
+    {
+        "rank": "1",
+        "name": "Matt",
+        "win_percentage": "80.00%",
+        "wins_losses": "8-2",
+        "total_drafts": "5",
+        "glicko": "1817 ± 154",
+        "gxe": "76.16%",
+        "last_set": "MH3",
+        "last_date": "7-25-24",
+        "points": "29"
+    },
+    {
+        "rank": "2",
+        "name": "Nick D",
+        "win_percentage": "72.73%",
+        "wins_losses": "8-3",
+        "total_drafts": "5",
+        "glicko": "1796 ± 129",
+        "gxe": "75.05%",
+        "last_set": "MH3",
+        "last_date": "7-25-24",
+        "points": "28"
+    },
+    {
+        "rank": "3",
+        "name": "Alan",
+        "win_percentage": "62.50%",
+        "wins_losses": "5-3",
+        "total_drafts": "3",
+        "glicko": "1556 ± 161",
+        "gxe": "55.05%",
+        "last_set": "MH3",
+        "last_date": "7-25-24",
+        "points": "16"
+    },
+    {
+        "rank": "4",
+        "name": "Stephen",
+        "win_percentage": "58.33%",
+        "wins_losses": "7-5",
+        "total_drafts": "5",
+        "glicko": "1555 ± 134",
+        "gxe": "55.04%",
+        "last_set": "MH3",
+        "last_date": "7-18-24",
+        "points": "25"
+    },
+    {
+        "rank": "5",
+        "name": "Tony",
+        "win_percentage": "57.14%",
+        "wins_losses": "4-3",
+        "total_drafts": "3",
+        "glicko": "1576 ± 159",
+        "gxe": "56.87%",
+        "last_set": "MH3",
+        "last_date": "7-18-24",
+        "points": "14"
+    },
+    {
+        "rank": "6",
+        "name": "Chris A",
+        "win_percentage": "30.77%",
+        "wins_losses": "4-9",
+        "total_drafts": "6",
+        "glicko": "1362 ± 130",
+        "gxe": "37.43%",
+        "last_set": "MH3",
+        "last_date": "7-25-24",
+        "points": "19"
+    },
+    {
+        "rank": "7",
+        "name": "Jacob",
+        "win_percentage": "13.33%",
+        "wins_losses": "2-13",
+        "total_drafts": "6",
+        "glicko": "1200 ± 140",
+        "gxe": "24.86%",
+        "last_set": "MH3",
+        "last_date": "7-25-24",
+        "points": "9"
+    },
+    {
+        "rank": "8",
+        "name": "John K",
+        "win_percentage": "11.11%",
+        "wins_losses": "1-8",
+        "total_drafts": "5",
+        "glicko": "1162 ± 147",
+        "gxe": "22.41%",
+        "last_set": "MH3",
+        "last_date": "7-25-24",
+        "points": "9"
+    }
 ]
