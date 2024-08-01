@@ -14,7 +14,7 @@ const Home = () => {
       </h2>
       <div>
         <View style={styles.container}>
-          {/* <WinrateEloTable /> */}
+          <WinrateEloTable />
           {/* <TrophiesTable /> */}
         </View>
       </div>
