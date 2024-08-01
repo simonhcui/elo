@@ -36,11 +36,7 @@ export const COLUMNS = [
     accessor: "last_date",
   },
   {
-    Header: "Longest Winstreak",
-    accessor: "longest_winstreak",
-  },
-  {
-    Header: "Current Winstreak",
-    accessor: "current_winstreak",
+    Header: "Points",
+    accessor: "points",
   },
 ];
