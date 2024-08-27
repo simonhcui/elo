@@ -5,9 +5,9 @@ import { WinrateEloTable } from "../Components/Chaos/WinrateEloTable";
 const ModernHorizonsTwo = () => {
   return (
     <>
-      <h1 style={{ textAlign: "center" }}>Chaos Stats (54 Drafts Total)</h1>
+      <h1 style={{ textAlign: "center" }}>Chaos Stats (56 Drafts Total)</h1>
       <h2 style={{ textAlign: "center" }}>
-        ELO and Winrates (Min 4 drafts). Last Updated 6/6/24
+        ELO and Winrates (Min 4 drafts). Last Updated 8/1/24
       </h2>
       <h2 style={{ textAlign: "center" }}></h2>
       <div>
