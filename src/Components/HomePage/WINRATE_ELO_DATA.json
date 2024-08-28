@@ -14,50 +14,50 @@
     {
         "rank": "2",
         "name": "Clayton",
-        "win_percentage": "76.47%",
-        "wins_losses": "13-4",
-        "total_drafts": "9",
-        "glicko": "1731 ± 107",
-        "gxe": "70.45%",
+        "win_percentage": "76.19%",
+        "wins_losses": "16-5",
+        "total_drafts": "11",
+        "glicko": "1757 ± 96",
+        "gxe": "72.54%",
         "last_set": "NEO",
-        "last_date": "8-24-24",
-        "points": "44"
+        "last_date": "8-27-24",
+        "points": "55"
     },
     {
         "rank": "3",
         "name": "Matt",
-        "win_percentage": "73.68%",
-        "wins_losses": "14-5",
-        "total_drafts": "12",
-        "glicko": "1758 ± 115",
-        "gxe": "72.42%",
+        "win_percentage": "73.91%",
+        "wins_losses": "17-6",
+        "total_drafts": "14",
+        "glicko": "1780 ± 103",
+        "gxe": "74.18%",
         "last_set": "NEO",
-        "last_date": "8-24-24",
-        "points": "53"
+        "last_date": "8-27-24",
+        "points": "64"
     },
     {
         "rank": "4",
         "name": "Tony",
-        "win_percentage": "70.00%",
-        "wins_losses": "14-6",
-        "total_drafts": "9",
-        "glicko": "1650 ± 105",
-        "gxe": "63.72%",
-        "last_set": "Vintage Cube",
-        "last_date": "8-22-24",
-        "points": "50"
+        "win_percentage": "70.83%",
+        "wins_losses": "17-7",
+        "total_drafts": "11",
+        "glicko": "1654 ± 96",
+        "gxe": "64.14%",
+        "last_set": "NEO",
+        "last_date": "8-27-24",
+        "points": "61"
     },
     {
         "rank": "5",
         "name": "Alan",
-        "win_percentage": "63.64%",
-        "wins_losses": "7-4",
-        "total_drafts": "6",
-        "glicko": "1567 ± 146",
-        "gxe": "56.12%",
-        "last_set": "MH3",
-        "last_date": "8-8-24",
-        "points": "22"
+        "win_percentage": "60.00%",
+        "wins_losses": "9-6",
+        "total_drafts": "8",
+        "glicko": "1578 ± 118",
+        "gxe": "57.26%",
+        "last_set": "NEO",
+        "last_date": "8-27-24",
+        "points": "30"
     },
     {
         "rank": "6",
@@ -86,41 +86,17 @@
     {
         "rank": "8",
         "name": "Simon",
-        "win_percentage": "53.33%",
-        "wins_losses": "8-7",
-        "total_drafts": "8",
-        "glicko": "1478 ± 104",
-        "gxe": "47.93%",
+        "win_percentage": "52.94%",
+        "wins_losses": "9-8",
+        "total_drafts": "9",
+        "glicko": "1483 ± 100",
+        "gxe": "48.42%",
         "last_set": "NEO",
-        "last_date": "8-24-24",
-        "points": "31"
+        "last_date": "8-27-24",
+        "points": "35"
     },
     {
         "rank": "9",
-        "name": "Luca",
-        "win_percentage": "52.63%",
-        "wins_losses": "10-9",
-        "total_drafts": "10",
-        "glicko": "1503 ± 95",
-        "gxe": "50.29%",
-        "last_set": "NEO",
-        "last_date": "8-24-24",
-        "points": "41"
-    },
-    {
-        "rank": "10",
-        "name": "Stephen",
-        "win_percentage": "46.15%",
-        "wins_losses": "12-14",
-        "total_drafts": "14",
-        "glicko": "1464 ± 89",
-        "gxe": "46.62%",
-        "last_set": "NEO",
-        "last_date": "8-24-24",
-        "points": "50"
-    },
-    {
-        "rank": "11",
         "name": "Juwan",
         "win_percentage": "45.45%",
         "wins_losses": "5-6",
@@ -132,7 +108,43 @@
         "points": "18"
     },
     {
+        "rank": "10",
+        "name": "Adam",
+        "win_percentage": "44.44%",
+        "wins_losses": "4-5",
+        "total_drafts": "5",
+        "glicko": "1492 ± 129",
+        "gxe": "49.24%",
+        "last_set": "NEO",
+        "last_date": "8-27-24",
+        "points": "18"
+    },
+    {
+        "rank": "11",
+        "name": "Luca",
+        "win_percentage": "43.48%",
+        "wins_losses": "10-13",
+        "total_drafts": "12",
+        "glicko": "1439 ± 88",
+        "gxe": "44.29%",
+        "last_set": "NEO",
+        "last_date": "8-27-24",
+        "points": "43"
+    },
+    {
         "rank": "12",
+        "name": "Stephen",
+        "win_percentage": "42.86%",
+        "wins_losses": "12-16",
+        "total_drafts": "15",
+        "glicko": "1422 ± 87",
+        "gxe": "42.67%",
+        "last_set": "MB1",
+        "last_date": "8-27-24",
+        "points": "51"
+    },
+    {
+        "rank": "13",
         "name": "Harrison",
         "win_percentage": "37.50%",
         "wins_losses": "3-5",
@@ -144,7 +156,7 @@
         "points": "12"
     },
     {
-        "rank": "13",
+        "rank": "14",
         "name": "Jacob",
         "win_percentage": "22.86%",
         "wins_losses": "8-27",
@@ -156,16 +168,16 @@
         "points": "35"
     },
     {
-        "rank": "14",
+        "rank": "15",
         "name": "John K",
-        "win_percentage": "20.08%",
-        "wins_losses": "5-19",
-        "total_drafts": "14",
-        "glicko": "1269 ± 103",
-        "gxe": "29.56%",
-        "last_set": "Vintage Cube",
-        "last_date": "8-22-24",
-        "points": "27"
+        "win_percentage": "21.43%",
+        "wins_losses": "6-22",
+        "total_drafts": "16",
+        "glicko": "1272 ± 95",
+        "gxe": "29.73%",
+        "last_set": "NEO",
+        "last_date": "8-27-24",
+        "points": "32"
     },
     {
         "rank": "15",
