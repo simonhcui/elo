@@ -1,0 +1,44 @@
+[
+  {
+    "rank": "1",
+    "archetype": "Rakdos",
+    "winrate": "66.67%",
+    "num_drafts": "8"
+  },
+  {
+    "rank": "2",
+    "archetype": "Boros",
+    "winrate": "62.50%",
+    "num_drafts": "6"
+  },
+  {
+    "rank": "3",
+    "archetype": "Izzet",
+    "winrate": "59.09%",
+    "num_drafts": "8"
+  },
+  {
+    "rank": "4",
+    "archetype": "Orzhov",
+    "winrate": "53.33%",
+    "num_drafts": "6"
+  },
+  {
+    "rank": "5",
+    "archetype": "Azorius",
+    "winrate": "40.91%",
+    "num_drafts": "8"
+  },
+  {
+    "rank": "6",
+    "archetype": "Mardu",
+    "winrate": "40.00%",
+    "num_drafts": "6"
+  },
+  {
+    "rank": "7",
+    "archetype": "Sultai",
+    "winrate": "36.36%",
+    "num_drafts": "8"
+  }
+]
