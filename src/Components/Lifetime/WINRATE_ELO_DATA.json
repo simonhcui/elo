@@ -8,11 +8,21 @@
     "glicko": "1774 ± 119",
     "gxe": "73.55%",
     "last_set": "Chaos",
-    "last_date": "1-20-24",
-    "longest_winstreak": "5" 
+    "last_date": "1-20-24"
   },
   {
     "rank": "2",
+    "name": "Eric",
+    "win_percentage": "77.78%",
+    "wins_losses": "14-4",
+    "total_drafts": "8",
+    "glicko": "1850 ± 100",
+    "gxe": "78.91%",
+    "last_set": "MB2",
+    "last_date": "9-24-24"
+  },
+  {
+    "rank": "3",
     "name": "Tim",
     "win_percentage": "76.92%",
     "wins_losses": "10-3",
@@ -21,21 +31,7 @@
     "gxe": "74.67%",
     "last_set": "UMA",
     "last_date": "12-7-23",
-    "trophies": "🏆🏆",
-    "longest_winstreak": "6" 
-  },
-  {
-    "rank": "3",
-    "name": "Clayton",
-    "win_percentage": "75.86%",
-    "wins_losses": "44-14",
-    "total_drafts": "27",
-    "glicko": "1768 ± 71",
-    "gxe": "73.51%",
-    "last_set": "TSR",
-    "last_date": "3-28-24",
-    "trophies": "🏆🏆🏆🏆🏆",
-    "longest_winstreak": "6" 
+    "trophies": "🏆🏆"
   },
   {
     "rank": "4",
@@ -46,9 +42,21 @@
     "glicko": "1740 ± 113",
     "gxe": "71.10%",
     "last_set": "RVR",
-    "last_date": "4-27-24",
-    "longest_winstreak": "4" 
+    "last_date": "4-27-24"
   },
+  {
+    "rank": "5",
+    "name": "Clayton",
+    "win_percentage": "74.04%",
+    "wins_losses": "77-27",
+    "total_drafts": "50",
+    "glicko": "1789 ± 64",
+    "gxe": "75.05%",
+    "last_set": "Vintage Cube",
+    "last_date": "9-19-24",
+    "trophies": "🏆🏆🏆🏆🏆🏆"
+  },
+  
   {
     "rank": "5",
     "name": "Alberto",
