@@ -1,0 +1,178 @@
+[
+  {
+    "rank": "1",
+    "name": "Noah",
+    "win_percentage": "87.50%",
+    "wins_losses": "7-1",
+    "total_drafts": "4",
+    "glicko": "1864 ± 162",
+    "gxe": "78.98%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "2",
+    "name": "Walski",
+    "win_percentage": "81.82%",
+    "wins_losses": "9-2",
+    "total_drafts": "5",
+    "glicko": "1774 ± 138",
+    "gxe": "73.31%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "3",
+    "name": "Tony",
+    "win_percentage": "69.23%",
+    "wins_losses": "9-4",
+    "total_drafts": "7",
+    "glicko": "1674 ± 127",
+    "gxe": "65.64%",
+    "last_set": "NEO",
+    "last_date": "10-15-24"
+  },
+  {
+    "rank": "4",
+    "name": "Chris A",
+    "win_percentage": "68.42%",
+    "wins_losses": "13-6",
+    "total_drafts": "9",
+    "glicko": "1692 ± 109",
+    "gxe": "67.27%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "5",
+    "name": "Simon",
+    "win_percentage": "66.67%",
+    "wins_losses": "12-6",
+    "total_drafts": "8",
+    "glicko": "1675 ± 111",
+    "gxe": "65.83%",
+    "last_set": "NEO",
+    "last_date": "10-15-24"
+  },
+  {
+    "rank": "6",
+    "name": "Bradley Smith",
+    "win_percentage": "62.50%",
+    "wins_losses": "5-3",
+    "total_drafts": "4",
+    "glicko": "1698 ± 148",
+    "gxe": "67.40%",
+    "last_set": "NEO",
+    "last_date": "10-15-24"
+  },
+  {
+    "rank": "7",
+    "name": "Alan",
+    "win_percentage": "62.50%",
+    "wins_losses": "5-3",
+    "total_drafts": "4",
+    "glicko": "1637 ± 148",
+    "gxe": "62.32%",
+    "last_set": "NEO",
+    "last_date": "10-15-24"
+  },
+  {
+    "rank": "8",
+    "name": "Nick D",
+    "win_percentage": "55.56%",
+    "wins_losses": "5-4",
+    "total_drafts": "4",
+    "glicko": "1537 ± 139",
+    "gxe": "53.41%",
+    "last_set": "Chaos",
+    "last_date": "10-5-24"
+  },
+  {
+    "rank": "9",
+    "name": "Kevin",
+    "win_percentage": "55.56%",
+    "wins_losses": "5-4",
+    "total_drafts": "4",
+    "glicko": "1556 ± 148",
+    "gxe": "55.17%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "10",
+    "name": "Adam",
+    "win_percentage": "54.55%",
+    "wins_losses": "6-5",
+    "total_drafts": "6",
+    "glicko": "1612 ± 123",
+    "gxe": "60.29%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "11",
+    "name": "Juwan",
+    "win_percentage": "54.55%",
+    "wins_losses": "6-5",
+    "total_drafts": "5",
+    "glicko": "1558 ± 131",
+    "gxe": "55.36%",
+    "last_set": "MB2",
+    "last_date": "10-10-24"
+  },
+  {
+    "rank": "12",
+    "name": "Matt",
+    "win_percentage": "50.00%",
+    "wins_losses": "4-4",
+    "total_drafts": "4",
+    "glicko": "1536 ± 151",
+    "gxe": "53.27%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "13",
+    "name": "Harrison",
+    "win_percentage": "40.00%",
+    "wins_losses": "6-9",
+    "total_drafts": "7",
+    "glicko": "1533 ± 111",
+    "gxe": "53.12%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "14",
+    "name": "Andrew D",
+    "win_percentage": "40.00%",
+    "wins_losses": "4-6",
+    "total_drafts": "5",
+    "glicko": "1453 ± 147",
+    "gxe": "45.72%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  },
+  {
+    "rank": "14",
+    "name": "Luca",
+    "win_percentage": "12.50%",
+    "wins_losses": "1-7",
+    "total_drafts": "4",
+    "glicko": "1343 ± 170",
+    "gxe": "36.19%",
+    "last_set": "NEO",
+    "last_date": "10-15-24"
+  },
+  {
+    "rank": "15",
+    "name": "John K",
+    "win_percentage": "0%",
+    "wins_losses": "0-10",
+    "total_drafts": "5",
+    "glicko": "1037 ± 173",
+    "gxe": "15.77%",
+    "last_set": "EMN",
+    "last_date": "10-17-24"
+  }
+]
