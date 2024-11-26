@@ -50,12 +50,12 @@
   {
     "rank": "5",
     "name": "Chris A",
-    "win_percentage": "62.71%",
-    "wins_losses": "37-22",
-    "total_drafts": "24",
-    "glicko": "1670 ± 75",
-    "gxe": "65.62%",
-    "last_date": "9-14-24",
+    "win_percentage": "62.30%",
+    "wins_losses": "38-23",
+    "total_drafts": "25",
+    "glicko": "1652 ± 75",
+    "gxe": "64.11%",
+    "last_date": "11-19-24",
     "trophies": "🏆🏆",
     "most_drafted_archetype": "Boros (4)"
   },
@@ -108,6 +108,18 @@
   },
   {
     "rank": "10",
+    "name": "Matt",
+    "win_percentage": "56.06%",
+    "wins_losses": "37-29",
+    "total_drafts": "26",
+    "glicko": "1623 ± 71",
+    "gxe": "61.54%",
+    "last_date": "11-19-24",
+    "trophies": "🏆🏆",
+    "most_drafted_archetype": "4c no red (5)"
+  },
+  {
+    "rank": "11",
     "name": "Mike",
     "win_percentage": "55.56%",
     "wins_losses": "5-4",
@@ -117,18 +129,6 @@
     "last_date": "11-19-22",
     "trophies": "🏆",
     "most_drafted_archetype": "Bant (3)"
-  },
-  {
-    "rank": "11",
-    "name": "Matt",
-    "win_percentage": "55.38%",
-    "wins_losses": "36-29",
-    "total_drafts": "25",
-    "glicko": "1616 ± 71",
-    "gxe": "60.86%",
-    "last_date": "9-14-24",
-    "trophies": "🏆🏆",
-    "most_drafted_archetype": "4c no red/Sultai (4)"
   },
   {
     "rank": "12",
@@ -144,14 +144,14 @@
   {
     "rank": "13",
     "name": "Simon",
-    "win_percentage": "52.00%",
-    "wins_losses": "39-36",
-    "total_drafts": "29",
-    "glicko": "1541 ± 68",
-    "gxe": "53.91%",
-    "last_date": "8-29-24",
+    "win_percentage": "51.95%",
+    "wins_losses": "40-37",
+    "total_drafts": "30",
+    "glicko": "1546 ± 68",
+    "gxe": "54.38%",
+    "last_date": "11-19-24",
     "trophies": "🏆",
-    "most_drafted_archetype": "5c (9)"
+    "most_drafted_archetype": "5c (10)"
   },
   {
     "rank": "14",
@@ -189,6 +189,17 @@
   },
   {
     "rank": "17",
+    "name": "John K",
+    "win_percentage": "41.67%",
+    "wins_losses": "10-14",
+    "total_drafts": "11",
+    "glicko": "1531 ± 87",
+    "gxe": "52.96%",
+    "last_date": "11-19-24",
+    "most_drafted_archetype": "5c (3)"
+  },
+  {
+    "rank": "18",
     "name": "Patrick R",
     "win_percentage": "40.91%",
     "wins_losses": "9-13",
@@ -197,17 +208,6 @@
     "gxe": "44.63%",
     "last_date": "5-5-23",
     "most_drafted_archetype": "Gruul/Jund (3)"
-  },
-  {
-    "rank": "18",
-    "name": "John K",
-    "win_percentage": "39.13%",
-    "wins_losses": "9-14",
-    "total_drafts": "10",
-    "glicko": "1502 ± 88",
-    "gxe": "50.20%",
-    "last_date": "9-14-24",
-    "most_drafted_archetype": "5c (3)"
   },
   {
     "rank": "19",
