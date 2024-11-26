@@ -1,6 +1,17 @@
 [
   {
     "rank": "1",
+    "name": "Nick D",
+    "win_percentage": "75.00%",
+    "wins_losses": "45-15",
+    "total_drafts": "25",
+    "glicko": "1688 ± 77",
+    "gxe": "67.15%",
+    "last_date": "11-16-24",
+    "trophies": "🏆🏆🏆🏆"
+  },
+  {
+    "rank": "2",
     "name": "Clayton",
     "win_percentage": "75.00%",
     "wins_losses": "9-3",
@@ -11,39 +22,18 @@
     "trophies": "🏆🏆"
   },
   {
-    "rank": "2",
-    "name": "Nick D",
-    "win_percentage": "74.14%",
-    "wins_losses": "43-15",
-    "total_drafts": "24",
-    "glicko": "1678 ± 77",
-    "gxe": "66.27%",
-    "last_date": "9-7-24",
-    "trophies": "🏆🏆🏆🏆"
-  },
-  {
     "rank": "3",
     "name": "Matt",
-    "win_percentage": "72.88%",
-    "wins_losses": "43-16",
-    "total_drafts": "27",
-    "glicko": "1699 ± 78",
-    "gxe": "68.04%",
-    "last_date": "9-7-24",
+    "win_percentage": "73.77%",
+    "wins_losses": "45-16",
+    "total_drafts": "28",
+    "glicko": "1715 ± 77",
+    "gxe": "69.46%",
+    "last_date": "11-16-24",
     "trophies": "🏆🏆"
   },
   {
     "rank": "4",
-    "name": "Ana",
-    "win_percentage": "61.11%",
-    "wins_losses": "11-7",
-    "total_drafts": "8",
-    "glicko": "1622 ± 98",
-    "gxe": "61.33%",
-    "last_date": "9-7-24"
-  },
-  {
-    "rank": "5",
     "name": "Adam",
     "win_percentage": "56.82%",
     "wins_losses": "25-19",
@@ -52,6 +42,16 @@
     "gxe": "59.52%",
     "last_date": "12-14-23",
     "trophies": "🏆🏆"
+  },
+  {
+    "rank": "5",
+    "name": "Ana",
+    "win_percentage": "55.00%",
+    "wins_losses": "11-9",
+    "total_drafts": "9",
+    "glicko": "1563 ± 94",
+    "gxe": "55.96%",
+    "last_date": "11-16-24"
   },
   {
     "rank": "6",
