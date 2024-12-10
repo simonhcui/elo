@@ -50,12 +50,12 @@
   {
     "rank": "5",
     "name": "Chris A",
-    "win_percentage": "62.30%",
-    "wins_losses": "38-23",
-    "total_drafts": "25",
-    "glicko": "1652 ± 75",
-    "gxe": "64.11%",
-    "last_date": "11-19-24",
+    "win_percentage": "63.49%",
+    "wins_losses": "40-23",
+    "total_drafts": "26",
+    "glicko": "1667 ± 74",
+    "gxe": "65.40%",
+    "last_date": "12-7-24",
     "trophies": "🏆🏆",
     "most_drafted_archetype": "Boros (4)"
   },
@@ -109,12 +109,12 @@
   {
     "rank": "10",
     "name": "Matt",
-    "win_percentage": "56.06%",
-    "wins_losses": "37-29",
-    "total_drafts": "26",
-    "glicko": "1623 ± 71",
-    "gxe": "61.54%",
-    "last_date": "11-19-24",
+    "win_percentage": "56.72%",
+    "wins_losses": "38-29",
+    "total_drafts": "27",
+    "glicko": "1631 ± 71",
+    "gxe": "62.25%",
+    "last_date": "12-7-24",
     "trophies": "🏆🏆",
     "most_drafted_archetype": "4c no red (5)"
   },
@@ -144,26 +144,26 @@
   {
     "rank": "13",
     "name": "Simon",
-    "win_percentage": "51.95%",
-    "wins_losses": "40-37",
-    "total_drafts": "30",
-    "glicko": "1546 ± 68",
-    "gxe": "54.38%",
-    "last_date": "11-19-24",
+    "win_percentage": "51.90%",
+    "wins_losses": "41-38",
+    "total_drafts": "31",
+    "glicko": "1548 ± 67",
+    "gxe": "54.58%",
+    "last_date": "12-7-24",
     "trophies": "🏆",
     "most_drafted_archetype": "5c (10)"
   },
   {
     "rank": "14",
     "name": "Angga",
-    "win_percentage": "48.57%",
-    "wins_losses": "17-18",
-    "total_drafts": "12",
-    "glicko": "1608 ± 105",
-    "gxe": "60.05%",
-    "last_date": "9-15-22",
+    "win_percentage": "51.35%",
+    "wins_losses": "19-18",
+    "total_drafts": "13",
+    "glicko": "1644 ± 100",
+    "gxe": "63.23%",
+    "last_date": "12-7-24",
     "trophies": "🏆🏆",
-    "most_drafted_archetype": "Mardu (2)"
+    "most_drafted_archetype": "Mardu/Selesnya (2)"
   },
   {
     "rank": "15",
@@ -179,12 +179,12 @@
   {
     "rank": "16",
     "name": "Jacob",
-    "win_percentage": "43.75%",
-    "wins_losses": "7-9",
-    "total_drafts": "7",
-    "glicko": "1583 ± 115",
-    "gxe": "57.68%",
-    "last_date": "8-29-24",
+    "win_percentage": "44.44%",
+    "wins_losses": "8-10",
+    "total_drafts": "8",
+    "glicko": "1532 ± 106",
+    "gxe": "53.04%",
+    "last_date": "12-7-24",
     "most_drafted_archetype": "Jeskai (3)"
   },
   {
@@ -247,12 +247,12 @@
   {
     "rank": "22",
     "name": "Andrew D",
-    "win_percentage": "28.57%",
-    "wins_losses": "4-10",
-    "total_drafts": "6",
-    "glicko": "1404 ± 138",
-    "gxe": "41.19%",
-    "last_date": "6-1-24",
+    "win_percentage": "26.67%",
+    "wins_losses": "4-11",
+    "total_drafts": "7",
+    "glicko": "1385 ± 133",
+    "gxe": "39.53%",
+    "last_date": "12-7-24",
     "most_drafted_archetype": "Grixis (4)"
   },
   {
@@ -270,12 +270,12 @@
   {
     "rank": "24",
     "name": "Travis",
-    "win_percentage": "23.08%",
-    "wins_losses": "3-10",
-    "total_drafts": "5",
-    "glicko": "1385 ± 126",
-    "gxe": "39.45%",
-    "last_date": "9-14-24",
-    "most_drafted_archetype": "4c no white (2)"
+    "win_percentage": "20.00%",
+    "wins_losses": "3-12",
+    "total_drafts": "6",
+    "glicko": "1346 ± 117",
+    "gxe": "36.00%",
+    "last_date": "12-7-24",
+    "most_drafted_archetype": "4c no white/Abzan/Grixis (2)"
   }
 ]

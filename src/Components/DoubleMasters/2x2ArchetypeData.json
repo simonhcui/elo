@@ -1,16 +1,16 @@
 [
   {
     "rank": "1",
-    "archetype": "Rakdos",
-    "winrate": "64.29%",
-    "num_drafts": 6
+    "archetype": "Selesnya",
+    "winrate": "65.62%",
+    "num_drafts": 13,
+    "num_trophies": "🏆"
   },
   {
     "rank": "2",
-    "archetype": "Selesnya",
-    "winrate": "63.33%",
-    "num_drafts": 12,
-    "num_trophies": "🏆"
+    "archetype": "Rakdos",
+    "winrate": "64.29%",
+    "num_drafts": 6
   },
   {
     "rank": "3",
@@ -22,8 +22,8 @@
   {
     "rank": "4",
     "archetype": "Grixis",
-    "winrate": "62.50%",
-    "num_drafts": 22,
+    "winrate": "60.34%",
+    "num_drafts": 23,
     "num_trophies": "🏆🏆🏆🏆"
   },
   {
@@ -50,23 +50,23 @@
   {
     "rank": "8",
     "archetype": "Jund",
-    "winrate": "50.88%",
-    "num_drafts": 21,
+    "winrate": "51.67%",
+    "num_drafts": 23,
     "num_trophies": "🏆🏆🏆"
   },
   {
     "rank": "9",
-    "archetype": "Abzan",
-    "winrate": "50.00%",
+    "archetype": "Mardu",
+    "winrate": "48.94%",
     "num_drafts": 18,
-    "num_trophies": "🏆🏆"
+    "num_trophies": "🏆"
   },
   {
     "rank": "10",
-    "archetype": "Mardu",
-    "winrate": "48.89%",
-    "num_drafts": 17,
-    "num_trophies": "🏆"
+    "archetype": "Abzan",
+    "winrate": "47.92%",
+    "num_drafts": 19,
+    "num_trophies": "🏆🏆"
   },
   {
     "rank": "11",
@@ -103,8 +103,8 @@
   {
     "rank": "16",
     "archetype": "Sultai",
-    "winrate": "38.78%",
-    "num_drafts": 20
+    "winrate": "39.62%",
+    "num_drafts": 22
   },
   {
     "rank": "17",
