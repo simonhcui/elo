@@ -41,13 +41,13 @@
   },
   {
     "rank": "5",
-    "name": "Nick D",
-    "win_percentage": "62.50%",
-    "wins_losses": "5-3",
-    "total_drafts": "4",
-    "glicko": "1584 ± 140",
-    "gxe": "57.72%",
-    "last_date": "11-26-24"
+    "name": "Matt",
+    "win_percentage": "63.16%",
+    "wins_losses": "12-7",
+    "total_drafts": "10",
+    "glicko": "1721 ± 100",
+    "gxe": "69.68%",
+    "last_date": "12-7-24"
   },
   {
     "rank": "6",
@@ -71,23 +71,23 @@
   },
   {
     "rank": "8",
-    "name": "Matt",
-    "win_percentage": "58.82%",
-    "wins_losses": "10-7",
-    "total_drafts": "9",
-    "glicko": "1685 ± 105",
-    "gxe": "66.75%",
-    "last_date": "11-19-24"
+    "name": "Nick D",
+    "win_percentage": "60.00%",
+    "wins_losses": "6-4",
+    "total_drafts": "5",
+    "glicko": "1580 ± 128",
+    "gxe": "57.37%",
+    "last_date": "12-7-24"
   },
   {
     "rank": "9",
     "name": "Andrew D",
     "win_percentage": "50.00%",
-    "wins_losses": "4-4",
-    "total_drafts": "4",
-    "glicko": "1566 ± 133",
-    "gxe": "56.09%",
-    "last_date": "11-26-24"
+    "wins_losses": "5-5",
+    "total_drafts": "5",
+    "glicko": "1553 ± 123",
+    "gxe": "54.97%",
+    "last_date": "12-7-24"
   },
   {
     "rank": "10",
@@ -102,12 +102,12 @@
   {
     "rank": "11",
     "name": "Chris A",
-    "win_percentage": "43.75%",
-    "wins_losses": "7-9",
-    "total_drafts": "8",
-    "glicko": "1537 ± 105",
-    "gxe": "53.45%",
-    "last_date": "11-26-24"
+    "win_percentage": "44.44%",
+    "wins_losses": "8-10",
+    "total_drafts": "9",
+    "glicko": "1532 ± 101",
+    "gxe": "53.01%",
+    "last_date": "12-7-24"
   },
   {
     "rank": "12",
