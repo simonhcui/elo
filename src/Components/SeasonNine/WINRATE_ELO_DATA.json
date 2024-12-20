@@ -1,6 +1,17 @@
 [
   {
     "rank": "1",
+    "name": "Clayton",
+    "win_percentage": "80.00%",
+    "wins_losses": "8-2",
+    "total_drafts": "5",
+    "glicko": "1789 ± 123",
+    "gxe": "74.59%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
+  },
+  {
+    "rank": "2",
     "name": "Aaron",
     "win_percentage": "77.78%",
     "wins_losses": "7-2",
@@ -11,7 +22,18 @@
     "last_date": "12-5-24"
   },
   {
-    "rank": "2",
+    "rank": "3",
+    "name": "Alan",
+    "win_percentage": "75.68%",
+    "wins_losses": "28-9",
+    "total_drafts": "19",
+    "glicko": "1809 ± 77",
+    "gxe": "76.37%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
+  },
+  {
+    "rank": "4",
     "name": "Walski",
     "win_percentage": "75.00%",
     "wins_losses": "24-8",
@@ -22,18 +44,7 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "3",
-    "name": "Alan",
-    "win_percentage": "72.73%",
-    "wins_losses": "24-9",
-    "total_drafts": "17",
-    "glicko": "1758 ± 81",
-    "gxe": "72.70%",
-    "last_set": "MH2",
-    "last_date": "12-14-24"
-  },
-  {
-    "rank": "4",
+    "rank": "5",
     "name": "Matt",
     "win_percentage": "70.27%",
     "wins_losses": "26-11",
@@ -44,7 +55,7 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "5",
+    "rank": "6",
     "name": "Nick D",
     "win_percentage": "68.00%",
     "wins_losses": "17-8",
@@ -55,18 +66,18 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "6",
+    "rank": "7",
     "name": "Eric",
-    "win_percentage": "65.71%",
-    "wins_losses": "23-12",
-    "total_drafts": "17",
-    "glicko": "1716 ± 79",
-    "gxe": "69.46%",
-    "last_set": "Chaos",
-    "last_date": "12-14-24"
+    "win_percentage": "64.10%",
+    "wins_losses": "25-14",
+    "total_drafts": "19",
+    "glicko": "1706 ± 76",
+    "gxe": "68.68%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
   },
   {
-    "rank": "7",
+    "rank": "8",
     "name": "Collin",
     "win_percentage": "62.50%",
     "wins_losses": "10-6",
@@ -77,7 +88,7 @@
     "last_date": "11-19-24"
   },
   {
-    "rank": "8",
+    "rank": "9",
     "name": "Zane",
     "win_percentage": "62.50%",
     "wins_losses": "5-3",
@@ -88,7 +99,7 @@
     "last_date": "10-31-24"
   },
   {
-    "rank": "9",
+    "rank": "10",
     "name": "Bradley Smith",
     "win_percentage": "62.50%",
     "wins_losses": "5-3",
@@ -97,17 +108,6 @@
     "gxe": "67.40%",
     "last_set": "NEO",
     "last_date": "10-15-24"
-  },
-  {
-    "rank": "10",
-    "name": "Noah",
-    "win_percentage": "61.11%",
-    "wins_losses": "22-14",
-    "total_drafts": "18",
-    "glicko": "1678 ± 77",
-    "gxe": "66.31%",
-    "last_set": "Chaos",
-    "last_date": "12-14-24"
   },
   {
     "rank": "11",
@@ -133,34 +133,34 @@
   },
   {
     "rank": "13",
+    "name": "Noah",
+    "win_percentage": "57.50%",
+    "wins_losses": "23-17",
+    "total_drafts": "20",
+    "glicko": "1653 ± 74",
+    "gxe": "64.14%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
+  },
+  {
+    "rank": "14",
+    "name": "Adam",
+    "win_percentage": "57.50%",
+    "wins_losses": "23-17",
+    "total_drafts": "20",
+    "glicko": "1622 ± 74",
+    "gxe": "61.42%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
+  },
+  {
+    "rank": "15",
     "name": "Chris A",
     "win_percentage": "56.92%",
     "wins_losses": "37-28",
     "total_drafts": "32",
     "glicko": "1641 ± 69",
     "gxe": "63.10%",
-    "last_set": "Chaos",
-    "last_date": "12-14-24"
-  },
-  {
-    "rank": "14",
-    "name": "Adam",
-    "win_percentage": "55.56%",
-    "wins_losses": "20-16",
-    "total_drafts": "18",
-    "glicko": "1587 ± 76",
-    "gxe": "58.21%",
-    "last_set": "Chaos",
-    "last_date": "12-5-24"
-  },
-  {
-    "rank": "15",
-    "name": "Stephen",
-    "win_percentage": "54.55%",
-    "wins_losses": "18-15",
-    "total_drafts": "16",
-    "glicko": "1612 ± 77",
-    "gxe": "60.47%",
     "last_set": "Chaos",
     "last_date": "12-14-24"
   },
@@ -188,6 +188,17 @@
   },
   {
     "rank": "18",
+    "name": "Stephen",
+    "win_percentage": "50.00%",
+    "wins_losses": "18-18",
+    "total_drafts": "18",
+    "glicko": "1574 ± 74",
+    "gxe": "56.97%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
+  },
+  {
+    "rank": "19",
     "name": "Sonny",
     "win_percentage": "46.67%",
     "wins_losses": "7-8",
@@ -198,7 +209,7 @@
     "last_date": "12-12-24"
   },
   {
-    "rank": "19",
+    "rank": "20",
     "name": "Kevin",
     "win_percentage": "44.44%",
     "wins_losses": "8-10",
@@ -209,7 +220,7 @@
     "last_date": "11-7-24"
   },
   {
-    "rank": "20",
+    "rank": "21",
     "name": "Ana",
     "win_percentage": "44.44%",
     "wins_losses": "4-5",
@@ -220,7 +231,7 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "21",
+    "rank": "22",
     "name": "Christiaan",
     "win_percentage": "42.86%",
     "wins_losses": "3-4",
@@ -231,7 +242,7 @@
     "last_date": "11-16-24"
   },
   {
-    "rank": "22",
+    "rank": "23",
     "name": "Andrew D",
     "win_percentage": "42.42%",
     "wins_losses": "14-19",
@@ -242,7 +253,7 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "23",
+    "rank": "24",
     "name": "Harrison",
     "win_percentage": "40.00%",
     "wins_losses": "14-21",
@@ -253,7 +264,7 @@
     "last_date": "12-12-24"
   },
   {
-    "rank": "24",
+    "rank": "25",
     "name": "Patrick H",
     "win_percentage": "40.00%",
     "wins_losses": "4-6",
@@ -264,7 +275,7 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "25",
+    "rank": "26",
     "name": "Luca",
     "win_percentage": "30.43%",
     "wins_losses": "7-16",
@@ -275,7 +286,7 @@
     "last_date": "11-16-24"
   },
   {
-    "rank": "26",
+    "rank": "27",
     "name": "Jacob",
     "win_percentage": "25.00%",
     "wins_losses": "4-12",
@@ -286,18 +297,18 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "27",
+    "rank": "28",
     "name": "John K",
-    "win_percentage": "19.51%",
-    "wins_losses": "8-33",
-    "total_drafts": "20",
-    "glicko": "1361 ± 93",
-    "gxe": "37.16%",
-    "last_set": "Chaos",
-    "last_date": "12-14-24"
+    "win_percentage": "20.45%",
+    "wins_losses": "9-35",
+    "total_drafts": "22",
+    "glicko": "1354 ± 90",
+    "gxe": "36.56%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
   },
   {
-    "rank": "28",
+    "rank": "29",
     "name": "Kian",
     "win_percentage": "18.18%",
     "wins_losses": "2-9",
@@ -308,7 +319,7 @@
     "last_date": "11-16-24"
   },
   {
-    "rank": "29",
+    "rank": "30",
     "name": "Marco",
     "win_percentage": "15.38%",
     "wins_losses": "4-22",
@@ -319,7 +330,7 @@
     "last_date": "12-12-24"
   },
   {
-    "rank": "30",
+    "rank": "31",
     "name": "Nick C",
     "win_percentage": "12.50%",
     "wins_losses": "1-7",
@@ -330,7 +341,7 @@
     "last_date": "12-14-24"
   },
   {
-    "rank": "31",
+    "rank": "32",
     "name": "Travis",
     "win_percentage": "9.09%",
     "wins_losses": "1-10",
@@ -341,14 +352,14 @@
     "last_date": "12-7-24"
   },
   {
-    "rank": "32",
+    "rank": "33",
     "name": "Luke",
-    "win_percentage": "8.33%",
-    "wins_losses": "1-11",
-    "total_drafts": "6",
-    "glicko": "1210 ± 142",
-    "gxe": "25.57%",
-    "last_set": "2X2",
-    "last_date": "11-19-24"
+    "win_percentage": "6.67%",
+    "wins_losses": "1-14",
+    "total_drafts": "8",
+    "glicko": "1157 ± 132",
+    "gxe": "21.87%",
+    "last_set": "Peasant Cube",
+    "last_date": "12-19-24"
   }
 ]

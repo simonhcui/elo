@@ -8,8 +8,8 @@
   {
     "rank": "2",
     "archetype": "Grixis",
-    "winrate": "59.26%",
-    "num_drafts": "24"
+    "winrate": "60.71%",
+    "num_drafts": "25"
   },
   {
     "rank": "3",
@@ -42,67 +42,67 @@
     "num_drafts": "7"
   },
   {
-    "rank": "7",
+    "rank": "8",
     "archetype": "Naya",
-    "winrate": "52.94%",
-    "num_drafts": "7"
+    "winrate": "52.63%",
+    "num_drafts": "8"
   },
   {
-    "rank": "8",
+    "rank": "9",
     "archetype": "Rakdos",
     "winrate": "51.28%",
     "num_drafts": "16"
   },
   {
-    "rank": "9",
+    "rank": "10",
     "archetype": "4c no black",
     "winrate": "50.00%",
     "num_drafts": "5"
   },
   {
-    "rank": "10",
-    "archetype": "Mardu",
-    "winrate": "44.44%",
+    "rank": "11",
+    "archetype": "Esper",
+    "winrate": "47.62%",
     "num_drafts": "9"
   },
   {
-    "rank": "11",
+    "rank": "12",
+    "archetype": "Mardu",
+    "winrate": "45.45%",
+    "num_drafts": "11"
+  },
+  {
+    "rank": "13",
     "archetype": "Gruul",
     "winrate": "42.86%",
     "num_drafts": "10"
   },
   {
-    "rank": "11",
-    "archetype": "Simic",
-    "winrate": "42.86%",
-    "num_drafts": "10"
-  },
-  {
-    "rank": "12",
-    "archetype": "Esper",
-    "winrate": "42.11%",
-    "num_drafts": "8"
-  },
-  {
-    "rank": "13",
+    "rank": "14",
     "archetype": "Abzan",
     "winrate": "40.00%",
     "num_drafts": "7"
   },
   {
-    "rank": "14",
+    "rank": "15",
+    "archetype": "Simic",
+    "winrate": "39.13%",
+    "num_drafts": "11"
+  },
+  {
+    "rank": "16",
     "archetype": "Jeskai",
     "winrate": "36.36%",
     "num_drafts": "6"
   },
   {
-    "rank": "15",
+    "rank": "17",
     "archetype": "Golgari",
     "winrate": "35.00%",
     "num_drafts": "9"
   },
   {
-    "rank": "16",
+    "rank": "18",
     "archetype": "Azorius",
     "winrate": "28.57%",
     "num_drafts": "7"
