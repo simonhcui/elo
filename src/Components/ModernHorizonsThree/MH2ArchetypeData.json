@@ -14,8 +14,8 @@
   {
     "rank": "3",
     "archetype": "Temur",
-    "winrate": "62.86%",
-    "num_drafts": "17"
+    "winrate": "65.85%",
+    "num_drafts": "20"
   },
   {
     "rank": "4",
@@ -31,15 +31,15 @@
   },
   {
     "rank": "6",
-    "archetype": "Jund",
-    "winrate": "52.38%",
-    "num_drafts": "12"
+    "archetype": "Boros",
+    "winrate": "50.00%",
+    "num_drafts": "9"
   },
   {
     "rank": "7",
-    "archetype": "Boros",
-    "winrate": "50.00%",
-    "num_drafts": "8"
+    "archetype": "Jund",
+    "winrate": "47.83%",
+    "num_drafts": "13"
   },
   {
     "rank": "8",
@@ -74,19 +74,19 @@
   {
     "rank": "13",
     "archetype": "Orzhov",
-    "winrate": "41.67%",
-    "num_drafts": "5"
+    "winrate": "42.86%",
+    "num_drafts": "6"
   },
   {
     "rank": "14",
     "archetype": "Rakdos",
-    "winrate": "40.91%",
-    "num_drafts": "10"
+    "winrate": "37.50%",
+    "num_drafts": "11"
   },
   {
     "rank": "15",
     "archetype": "Jeskai",
-    "winrate": "23.81%",
-    "num_drafts": "10"
+    "winrate": "26.09%",
+    "num_drafts": "11"
   }
 ]
