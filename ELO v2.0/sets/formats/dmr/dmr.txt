@@ -1,0 +1,143 @@
+3,0,Esper,Nick D
+2,1,Boros,Chris A
+2,1,Simic,Nick C
+2,1,Bant,Simon
+1,2,Golgari,Evan S
+1,2,Grixis,Vanndy
+1,2,Golgari,Matt
+0,3,Gruul,Ana
+3,0,Mono R,Juwan
+2,1,Sultai,Matt
+2,1,Naya,David
+1,1,Mardu,Chris A
+1,1,Dimir,Michael D
+1,2,Rakdos,Simon
+1,2,Azorius,Nick D
+0,3,Simic,Evan S
+3,0,Boros,Simon
+2,1,Selesnya,Zane
+2,1,Bant,Travis
+2,1,4c no red,Sonny
+2,1,Simic,Danny
+1,1,Azorius,Chris A
+1,1,Jeskai,Jorgie
+1,2,Jund,Michael D
+1,2,Sultai,Adam
+0,3,Izzet,Jacob
+3,0,Temur,Nick D
+2,1,Azorius,Ana
+2,1,Selesnya,Matt
+1,1,Esper,Chris A
+1,1,Jund,David
+1,2,Golgari,Michael D
+0,2,Rakdos,Nick C
+0,2,Dimir,Adam
+2,0,Azorius,Nick D
+2,0,Izzet,Chris A
+2,1,Boros,Michael D
+1,1,Rakdos,Matt
+1,1,Sultai,Ana
+1,2,Orzhov,Nick C
+0,2,Golgari,Adam
+0,2,Bant,Jacob
+3,0,Azorius,Tim
+2,1,Boros,Chris A
+2,1,Rakdos,Juwan
+2,1,Azorius,Julio
+1,1,Temur,Simon
+1,1,Esper,Sonny
+1,1,Rakdos,Tony
+1,2,Boros,Evan S
+0,2,Rakdos,Zane
+0,3,Naya,Jacob
+2,0,Golgari,David
+2,0,Bant,Travis
+2,1,Izzet,Clayton
+1,1,Mardu,Nick D
+1,1,4c no black,Simon
+1,2,Boros,Khang
+0,2,Rakdos,Juwan
+0,2,Sultai,Matt
+3,0,Rakdos,Todd
+2,1,Selesnya,Chris A
+2,1,4c no red,Simon
+1,1,Selesnya,Zane
+1,1,4c no red,Travis
+1,2,Grixis,Nick D
+1,2,Bant,John K
+0,3,4c no red,Jacob
+3,0,Dimir,Zane
+2,1,Bant,Jacob
+2,1,Azorius,Todd
+1,1,4c no black,Simon
+1,1,Abzan,Matt
+1,2,Sultai,Sonny
+0,2,Naya,Travis
+0,2,Boros,Chris A
+2,0,Abzan,Matt
+2,0,Rakdos,Charles
+1,1,Izzet,Chris A
+1,1,Bant,Travis
+1,1,Temur,Tony
+1,1,Selesnya,Zane
+0,2,Abzan,Brian H
+0,2,4c no black,Jacob
+3,0,Naya,Luca
+2,1,Izzet,Matt
+2,1,Esper,Nick D
+1,2,Selesnya,Zane
+1,2,Dimir,Simon
+0,2,Golgari,Frank
+3,0,Simic,David
+2,1,Grixis,Ana
+2,1,Azorius,Nick D
+2,1,Orzhov,Marco
+1,2,Bant,Nick R
+1,2,Gruul,Nick C
+1,2,Golgari,Reilly
+0,3,Orzhov,Travis
+3,0,Selesnya,Chris A
+2,1,Rakdos,Andrew
+2,1,Rakdos,Juwan
+1,1,Selesnya,Winston
+0,2,Naya,Evan K
+3,0,Izzet,Winston
+2,1,Golgari,Patrick H
+2,1,Azorius,Evan S
+2,1,Dimir,Andrew
+1,2,Naya,Vincent B
+1,2,Boros,Walski
+1,2,Gruul,Frank
+0,3,Dimir,Marco
+3,0,Izzet,Ken
+2,1,Azorius,Nick D
+2,1,Dimir,Luca
+2,1,4c no green,John K
+1,2,Gruul,Juwan
+1,2,Bant,Jacob
+0,2,Golgari,Chris A
+0,2,Rakdos,Kevin
+2,0,Dimir,Evan S
+2,0,Rakdos,Ken
+1,1,Bant,Patrick H
+1,1,Golgari,Winston
+0,1,Naya,John K
+1,1,Boros,Luca
+1,1,Dimir,Andrew
+0,1,Azorius,Nick D
+3,0,Boros,Chris A
+2,1,Naya,Kevin
+2,1,Izzet,Juwan
+2,1,4c no white,Walski
+1,2,Dimir,Vincent B
+1,2,Esper,Frank
+0,2,Izzet,Marco
+0,2,Rakdos,Jacob
+2,0,Azorius,Tony
+2,0,Dimir,Juwan
+1,1,Orzhov,Alan
+1,1,Temur,Matt
+1,1,Boros,Alberto
+1,1,Temur,Nick D
+0,2,Orzhov,Pat
+0,2,Rakdos,Ian C

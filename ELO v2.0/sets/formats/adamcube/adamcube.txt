@@ -1,0 +1,100 @@
+3,0,Rakdos,Juwan
+2,1,Izzet,Alice
+2,1,Naya,Brian H
+2,1,Azorius,Nick C
+1,2,Boros,Ana
+1,2,5c,David
+1,2,Dimir,Angga
+0,3,Sultai,Simon
+3,0,Abzan,Juwan
+2,1,Rakdos,Simon
+2,1,Boros,Nick C
+2,1,Jeskai,David
+1,2,Orzhov,Alice
+1,2,Rakdos,Brian H
+0,2,Mardu,Judre
+0,2,Temur,Ana
+3,0,Izzet,Adam
+2,1,Rakdos,Juwan
+1,1,Dimir,Brian H
+1,2,Boros,Brian M
+1,2,Azorius,Angga
+0,2,4c no red,Khang
+3,0,4c no black,Evan S
+2,1,Mono Black,Juwan
+2,1,4c no blue,Simon
+2,1,Sultai,Luca
+1,2,Izzet,Brian M
+1,2,Grixis,Andrew D
+1,2,Azorius,John K
+0,3,Azorius,Nick R
+3,0,Azorius,Tim
+2,1,Rakdos,Simon
+2,1,Selesnya,Nick R
+2,1,5c,Evan S
+1,2,Temur,Andrew D
+1,2,Azorius,Brian M
+0,2,Esper,Luca
+0,2,Mardu,Evan K
+3,0,Sultai,Alice
+2,1,Mardu,David
+2,1,Orzhov,Simon
+2,1,4c no black,Brian M
+1,2,Sultai,Juwan
+1,2,4c no black,John K
+0,2,Sultai,Khang
+0,2,Jeskai,Jacob
+3,0,Esper,David
+2,1,Rakdos,Simon
+1,1,Boros,Adam
+1,1,Azorius,Khang
+1,2,Selesnya,Brian M
+0,3,5c,John K
+2,0,Jund,Alice
+2,0,Jeskai,Tim
+1,1,Orzhov,David
+1,1,Izzet,Adam
+0,2,Mardu,Simon
+0,2,Orzhov,Clayton
+3,0,Boros,Tony
+2,1,Mardu,Evan S
+2,1,Izzet,Alan
+2,1,Mardu,John K
+2,1,Rakdos,Juwan
+1,2,5c,Jacob
+1,2,Sultai,Simon
+1,2,Izzet,Alberto
+1,2,Sultai,Stephen
+0,3,Esper,Sonny
+3,0,Orzhov,Tony
+2,1,Rakdos,Clayton
+2,1,Izzet,David
+1,1,Temur,Duc
+1,1,Esper,Sonny
+1,2,Temur,Jacob
+0,2,4c no black,John K
+0,2,4c no white,Evan S
+2,0,Boros,Simon
+2,0,Golgari,Stephen
+1,1,Izzet,Adam
+1,1,Orzhov,Chris A
+0,2,Azorius,Juwan
+0,2,Sultai,Luca
+2,0,Boros,Alan
+2,0,4c no blue,Clayton
+1,1,Dimir,Chris A
+1,1,Golgari,Stephen
+1,1,5c,Sonny
+1,1,Rakdos,Simon
+0,2,Orzhov,Brian M
+0,2,Jeskai,John K
+2,0,Orzhov,Harrison
+2,0,Boros,Alan
+1,1,Sultai,Simon
+1,1,Izzet,Luca
+1,1,Azorius,Marco
+1,1,Jund,Jacob
+1,1,Esper,Stephen
+1,1,Golgari,Noah
+0,2,Orzhov,Chris A
+0,2,5c,John K

@@ -1,0 +1,205 @@
+Simon,Nick C,0,DMR,1-29-2023
+Nick D,Evan S,1
+Chris A,Ana,1
+Vanndy,Matt,0
+Chris A,Matt,1
+Ana,Vanndy,0
+Nick C,Nick D,0
+Simon,Evan S,1
+Chris A,Nick D,0
+Nick C,Matt,1
+Evan S,Ana,1
+Simon,Vanndy,1
+
+Simon,Matt,0,DMR,1-29-2023
+Michael D,David,1
+Nick D,Juwan,0
+Chris A,Evan S,1
+Matt,Michael D,1
+David,Simon,1
+Chris A,Juwan,0
+Evan S,Nick D,0
+Nick D,David,0
+Evan S,Simon,0
+Juwan,Matt,1
+
+Simon,Adam,1,DMR,2-9-2023
+Sonny,Jorgie,1
+Travis,Zane,0
+Jacob,Michael D,0
+Danny,Chris A,0
+Zane,Sonny,1
+Simon,Michael D,1
+Adam,Chris A,1
+Travis,Jacob,1
+Danny,Jorgie,1
+Simon,Zane,1
+Adam,Travis,0
+Sonny,Michael,1
+Danny,Jacob,1
+
+Michael D,David,1,DMR,2-18-2023
+Nick D,Nick C,1
+Chris A,Matt,0
+Adam,Ana,0
+Nick D,Matt,1
+Nick C,Chris A,0
+Michael D,Ana,0
+David,Adam,1
+Nick D,Ana,1
+Matt,Michael D,1
+
+Jacob,Nick C,0,DMR,2-18-2023
+Chris A,Matt,1
+Adam,Michael D,0
+Nick D,Ana,1
+Adam,Matt,0
+Chris A,Michael D,1
+Nick C,Nick D,0
+Ana,Jacob,1
+Michael D,Nick C,1
+
+Simon,Jacob,1,DMR,3-2-2023
+Julio,Tim,0
+Chris A,Juwan,1
+Tony,Evan S,1
+Zane,Sonny,0
+Simon,Julio,0
+Tim,Sonny,1
+Tony,Chris A,0
+Zane,Evan S,0
+Jacob,Juwan,0
+Chris A,Tim,0
+Evan S,Juwan,0
+Julio,Jacob,1
+
+Juwan,Simon,0,DMR,3-30-2023
+Clayton,Travis,0
+Matt,David,0
+Nick D,Khang,1
+Nick D,David,0
+Simon,Travis,0
+Khang,Matt,1
+Juwan,Clayton,0
+Khang,Clayton,0
+
+Simon,Travis,0,DMR,5-4-23
+John,Zane,0
+Jacob,Chris A,0
+Nick D,Todd,0
+Chris A,Travis,1
+Nick D,John,1
+Todd,Zane,1
+Jacob,Simon,0
+Simon,Nick D,1
+John,Jacob,1
+Chris A,Todd,0
+
+Simon,Todd,1,DMR,7-6-23
+Sonny,Zane,0
+Chris A,Matt,0
+Travis,Jacob,0
+Simon,Jacob,0
+Todd,Travis,1
+Zane,Matt,1
+Sonny,Chris A,1
+Jacob,Zane,0
+Todd,Sonny,1
+
+Tony,Jacob,1,DMR,8-3-2023
+Brian H,Travis,0
+Matt,Chris A,1
+Zane,Charles,0
+Chris A,Brian H,1
+Matt,Travis,1
+Charles,Tony,1
+Zane,Jacob,1
+
+Simon,John K,1,DMR,10-6-23
+Nick D,Matt,0
+Luca,Frank,1
+Walski,Zane,1
+Simon,Matt,0
+John K,Nick D,0
+Walski,Luca,0
+Zane,Frank,1
+Zane,Nick D,0
+Simon,Walski,0
+Matt,Luca,0
+
+Ana,Reilly,1,DMR,10-7-23
+Nick D,Marco,1
+David,Travis,1
+Nick R,Nick C,1
+Ana,Nick D,1
+Reilly,Marco,0
+Nick R,David,0
+Nick C,Travis,1
+Marco,Nick C,1
+Reilly,Travis,1
+David,Ana,1
+Nick R,Nick D,0
+
+Winston,Juwan,1,DMR,11-18-23
+Patrick H,Evan K,1
+Nick D,Chris A,0
+Nick D,Evan K,1
+Chris A,Patrick H,1
+Winston,Andrew,0
+Nick D,Juwan,0
+Chris A,Andrew,1
+
+Patrick H,Walski,1,DMR,12-2-23
+Marco,Winston,0
+Vincent B,Frank,1
+Andrew,Evan S,1
+Winston,Andrew,1
+Marco,Evan S,0
+Frank,Walski,0
+Patrick H,Vincent B,1
+Frank,Marco,1
+Vincent B,Evan S,0
+Patrick H,Winston,0
+Andrew,Walski,1
+
+Juwan,Jacob,0,DMR,12-2-23
+John K,Nick D,0
+Chris A,Ken,0
+Luca,Kevin,1
+Chris A,Juwan,0
+Ken,Jacob,1
+Luca,Nick D,0
+John K,Kevin,1
+Juwan,John K,0
+Luca,Jacob,0
+Nick D,Ken,0
+
+Evan S,Patrick H,1,DMR,12-2-23
+Ken,John K,1
+Luca,Nick D,1
+Winston,Andrew,0
+Ken,Luca,1
+Evan S,Andrew,1
+
+Chris A,Jacob,1,DMR,12-2-23
+Walski,Marco,1
+Kevin,Juwan,1
+Vincent B,Frank,1
+Walski,Kevin,0
+Marco,Juwan,0
+Vincent B,Chris A,0
+Frank,Jacob,1
+Walski,Vincent B,1
+Kevin,Chris A,0
+Juwan,Frank,1
+
+Alan,Alberto,0,DMR,4-5-2024
+Matt,Nick D,1
+Tony,Ian C,1
+Juwan,Pat,1
+Alan,Ian C,1
+Alberto,Tony,0
+Nick D,Pat,1
+Matt,Juwan,0
+
+PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024

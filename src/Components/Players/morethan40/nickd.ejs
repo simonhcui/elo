@@ -1,0 +1,102 @@
+<%- include('../partials/header') %>
+<main>
+  <div style="text-align: center">
+    <img
+      src="<%= imagePath %>"
+      alt="Profile Image"
+      style="width: 350px; height: 350px; border-radius: 50%; object-fit: cover"
+    />
+
+    <h1>Nick D</h1>
+    <h2 style="color: gold;"">
+      🥇🥇🥇🥉🎖️<br />
+      Season I Winrate Champion<br />
+      Season II Winrate Champion
+      Season VIII Winrate Champion
+      Season I Trophies Champion
+    </h2>
+    <h2 style="color: #CE8946;"">
+      Season V Winrate Third Place
+    </h2>
+    <h2>
+      Lifetime Winrate: 64.73% 134-73 out of 88 drafts
+    </h2>
+
+    <br />
+
+    <h2>Planeswalker Level VI: Guildmage</h2>
+    <img
+      src="<%= planeswalkerPath %>"
+      alt="Planeswalker Image"
+      style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover"
+    />
+    <div class="progress-container">
+        <div class="progress-text">
+            195/240
+        </div>
+        <div id="my-progress-bar" class="progress-bar"></div>
+    </div>
+      
+      
+    <script>
+        function updateProgress(percent) {
+          const progressBar = document.getElementById("my-progress-bar");
+          progressBar.style.width = percent + "%";
+        }
+      
+        
+        updateProgress(81.25);
+    </script>
+  </div>
+
+  <div class="data-table-container">
+    <div class="data-table">
+      <h2>Past Seasons</h2>
+      <table>
+        <thead>
+          <tr>
+            <% if(tableData.length > 0) { %> <%
+            Object.keys(tableData[0]).forEach(function(key) { %>
+            <th><%= key %></th>
+            <% }); %> <% } %>
+          </tr>
+        </thead>
+        <tbody>
+          <% tableData.forEach(function(row) { %>
+          <tr>
+            <% Object.values(row).forEach(function(value) { %>
+            <td><%= value %></td>
+            <% }); %>
+          </tr>
+          <% }); %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="data-table-container">
+    <div class="data-table">
+      <h2>Format History</h2>
+      <table>
+        <thead>
+          <tr>
+            <% if(formatData.length > 0) { %> <%
+            Object.keys(formatData[0]).forEach(function(key) { %>
+            <th><%= key %></th>
+            <% }); %> <% } %>
+          </tr>
+        </thead>
+        <tbody>
+          <% formatData.forEach(function(row) { %>
+          <tr>
+            <% Object.values(row).forEach(function(value) { %>
+            <td><%= value %></td>
+            <% }); %>
+          </tr>
+          <% }); %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</main>
+<%- include('../partials/footer') %>

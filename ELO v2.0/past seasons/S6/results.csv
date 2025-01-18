@@ -1,0 +1,322 @@
+Tony,Sonny,1,Chaos,1-4-2024
+Clayton,Zane,1
+Andrew,John K,1
+Walski,Jacob,0
+Tony,Andrew,1
+Walski,Zane,1
+Clayton,Jacob,1
+
+Andrew,John K,1,Chaos,1-4-2024
+Zane,Tony,1
+Jacob,Clayton,0
+Sonny,Walski,0
+Jacob,John K,0
+Clayton,Andrew,0
+Zane,Walski,0
+Tony,Sonny,0
+
+Simon,Walski,0,Innistrad,1-11-2024
+Matt,Andrew,0
+Alberto,Jacob,1
+Mike,John K,1
+Alberto,Walski,0
+Simon,Jacob,1
+Mike,Andrew,1
+John K,Matt,1
+Alberto,Andrew,0
+Walski,Mike,0
+Simon,John K,1
+
+Simon,Andrew,0,Mystery,1-11-2024
+Walski,Jacob,1
+Luca,John K,1
+Jesse,Alberto,0
+Walski,Luca,1
+Jacob,John K,1
+Jesse,Simon,0
+Alberto,Andrew,0
+
+Juwan,Michael D,1,ELD,1-18-2024
+Bradley Smith,Evan S,0
+Tony,Luca,1
+Matt,Brian H,0
+Alberto,Jacob,1
+Brian H,Alberto,0
+Bradley Smith,Luca,1
+Matt,Evan S,1
+Juwan,Tony,0
+Jacob,Michael D,1
+
+Simon,Juwan,0,DOM,1-18-2024
+Matt,Tony,0
+Luca,Alberto,0
+Jacob,Bradley Smith,0
+Bradley Smith,Alberto,1
+Luca,Jacob,1
+Tony,Juwan,1
+Simon,Matt,0
+
+Tony,Jacob,1,RVR,1-20-2024
+Nick C,Mike,1
+Alberto,Juwan,1
+Nick D,Ana,1
+Matt,Luca,0
+Tony,Matt,0
+Jacob,Mike,1
+Luca,Nick C,1
+Juwan,Ana,1
+Alberto,Nick D,0
+
+Nick C,Luca,1,RVR,1-20-2024
+Alberto,Ana,0
+Mike,Matt,0
+Jacob,Nick D,0
+Alberto,Jacob,1
+Nick C,Matt,1
+Ana,Nick D,0
+Mike,Luca,0
+Nick C,Nick D,0
+Ana,Matt,0
+Alberto,Luca,0
+
+Danny,Zane,1,Chaos,1-20-2024
+Andrew,Bradley Schlesinger,0
+Frank,Grant,1
+Walski,Kevin,0
+Kevin,Frank,0
+Walski,Grant,1
+Andrew,Zane,1
+Bradley Schlesinger,Danny,1
+
+Zane,Simon,1,Chaos,1-20-2024
+Tony,Jorgie,1
+Kevin,Frank,0
+Bradley Schlesinger,Danny,0
+Andrew,Walski,0
+Kevin,Jorgie,0
+Frank,Zane,1
+Andrew,Danny,0
+Bradley Schlesinger,Simon,1
+Tony,Walski,1
+
+Simon,Jacob,1,Chaos,1-20-2024
+Tony,Kevin,1
+Andrew,Bradley Schlesinger,1
+Simon,Kevin,0
+Andrew,Tony,1
+Jacob,Bradley Schlesinger,0
+
+Walski,Jorgie,1,Chaos,1-20-2024
+Zane,Frank,1
+Danny,Sonny,1
+Danny,Walski,1
+Frank,Sonny,1
+Zane,Jorgie,0
+
+Kevin,Bradley Schlesinger,0,Chaos,1-20-2024
+Sonny,Jorgie,1
+Frank,Tony,0
+Walski,Danny,0
+Walski,Jorgie,0
+Sonny,Danny,0
+Frank,Kevin,0
+Tony,Bradley Schlesinger,0
+
+Sonny,Kevin,1,Chaos,1-20-2024
+Tony,Walski,0
+Jorgie,Danny,0
+Simon,Bradley Schlesinger,0
+Tony,Kevin,1
+Walski,Sonny,0
+Danny,Bradley Schlesinger,0
+Simon,Jorgie,0
+
+Walski,Evan S,0,Chaos,1-25-2024
+Simon,Kevin,0
+Sonny,Alberto,1
+Zane,Tony,1
+John K,Adam,0
+Simon,Adam,1
+Walski,Tony,1
+Zane,Evan S,0
+John K,Alberto,0
+Sonny,Kevin,1
+
+Walski,Alberto,0,Chaos,1-25-2024
+Sonny,Tony,1
+John K,Kevin,0
+Zane,Adam,1
+Alberto,Zane,1
+Walski,Adam,1
+Sonny,Kevin,0
+
+Simon,Jesse,0,M21,2-1-2024
+Mike,John K,0
+Bradley Smith,Jacob,1
+Alberto,Andrew,1
+Simon,Andrew,0
+Alberto,Jesse,1
+Jacob,Mike,1
+
+Mike,Jacob,1,STX,2-1-2024
+Andrew,Jesse,1
+Alberto,John K,1
+Sonny,Bradley Smith,1
+Alberto,Mike,1
+John K,Jacob,1
+Andrew,Sonny,0
+Jesse,Bradley Smith,0
+
+Simon,Travis,1,2X2,2-7-2024
+Adam,Marco,1
+Jacob,John K,0
+Andrew,Alberto,0
+Adam,Alberto,1
+Marco,Andrew,0
+Simon,John K,0
+Travis,Jacob,0
+
+Simon,Andrew,1,MB1,2-7-2024
+Jacob,Adam,1
+Travis,Alberto,0
+Marco,John K,0
+Jacob,Alberto,1
+
+Simon,Evan S,1,M20,2-15-2024
+Andrew,John K,1
+Tony,Jacob,1
+Adam,Jesse,1
+Simon,Andrew,0
+Evan S,John K,1
+Adam,Tony,0
+Jacob,Jesse,1
+
+Sonny,Andrew,1,IKO,2-15-2024
+Adam,John K,0
+Tony,Jacob,1
+Simon,Jesse,1
+Simon,Tony,1
+Jesse,Jacob,0
+Sonny,John K,1
+Andrew,Adam,1
+Simon,Sonny,0
+
+Simon,Juwan,0,2X2,2-21-2024
+Jacob,John K,1
+Andrew,Stephen,0
+Woody,Alberto,0
+Jacob,Alberto,0
+John K,Woody,0
+Andrew,Simon,1
+Stephen,Juwan,1
+
+Simon,Andrew,1,MB1,2-21-2024
+Juwan,Jacob,0
+John K,Alberto,0
+Woody,Stephen,1
+Alberto,Woody,1
+Simon,Jacob,1
+Andrew,Juwan,0
+
+Simon,Tony,0,M20,2-29-2024
+Jacob,Adam,0
+Jesse,Evan S,0
+Bradley Smith,Woody,1
+Evan S,Tony,0
+Jesse,John K,0
+Simon,Jacob,1
+Matt,Woody,0
+
+Simon,John K,1,WAR,2-29-2024
+Woody,Evan S,0
+Adam,Bradley Smith,0
+Jesse,Jacob,1
+Matt,Tony,0
+Simon,Jesse,1
+Jacob,John K,1
+Woody,Tony,1
+Matt,Adam,0
+Evan S,Bradley Smith,1
+Evan S,Simon,1
+
+Simon,Jacob,0,Adam Cube,3-7-2024
+Alberto,John K,1
+Tony,Juwan,1
+Stephen,Sonny,1
+Evan S,Alan,1
+Tony,Stephen,1
+Evan S,Jacob,1
+Alan,Sonny,1
+John K,Simon,1
+John K,Jacob,1
+Simon,Sonny,1
+Evan S,Tony,0
+Alberto,Alan,0
+
+Sonny,Alberto,1,Chaos,3-7-2024
+Evan S,John K,0
+Simon,Tony,0
+Adam,Jacob,1
+Simon,Evan S,1
+Tony,John K,1
+Alberto,Jacob,1
+Sonny,Adam,0
+
+Simon,John K,1,Chaos,3-14-2024
+Woody,Alberto,1
+Kevin,Walski,0
+Jacob,Sonny,0
+Jacob,John K,0
+Sonny,Simon,1
+Kevin,Alberto,0
+Walski,Woody,1
+
+Simon,Woody,1,Chaos,3-14-2024
+John K,Walski,0
+Sonny,Kevin,1
+Jacob,Alberto,0
+Walski,Alberto,0
+John K,Jacob,1
+Simon,Sonny,0
+Kevin,Woody,1
+
+Simon,Alberto,0,2X2,3-21-2024
+Ben,Stephen,0
+Tony,John K,0
+Andrew,Evan S,0
+Ben,Andrew,1
+Stephen,Evan S,0
+John K,Alberto,0
+Alberto,Evan S,0
+
+Simon,Stephen,0,MB1,3-21-2024
+Marco,Travis,1
+Andrew,Alberto,0
+Tony,Winston,0
+Marco,Stephen,1
+Travis,Simon,0
+Winston,Alberto,1
+Tony,Andrew,0
+
+Ben,Juwan,1,M20,3-28-2024
+Patrick H,Laurence,1
+Nick D,Alberto,1
+Evan S,Jacob,0
+Clayton,Alan,1
+Evan S,Alan,0
+Patrick H,Jacob,1
+Laurence,Alberto,0
+Clayton,Juwan,1
+Ben,Nick D,1
+
+Alberto,Patrick H,1,TSR,3-28-2024
+Laurence,Tony,1
+Clayton,Jacob,1
+Evan S,Juwan,0
+Alan,Nick D,1
+Clayton,Alberto,1
+Alan,Laurence,0
+Patrick H,Juwan,1
+Nick D,Tony,0
+
+PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024

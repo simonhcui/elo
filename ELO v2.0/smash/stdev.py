@@ -1,0 +1,108 @@
+from statistics import stdev
+
+f = open("smashdeviation.csv", "w")
+
+smash_dict = {}
+
+smash_dict["Banjo-Kazooie"] = [4,7,8,2,3,6]
+smash_dict["Bayonetta"] = [3,6,2,7,6,4,2,1,3,2,8,7,6,1,2,3,4,8,2,6,8,7,4,3,5]
+smash_dict["Bowser"] = [6,5,4,8,7,7,5,2,4]
+smash_dict["Bowser Jr."] = [6,6,5,3,8]
+smash_dict["Byleth"] = [1,2,2,6,3,8,2,4,1,1,1,1,1,3,3,3,2,7,5,1,5,2,2,5,2,2,1,1,5,6,1,1,1,3,5,2,1,7,1,3,6,3,1]
+smash_dict["Captain Falcon"] = [1,1,2,5,1,6,6,8,4,5,8,1,4,2,7,2,8,2,5,7,2,4,3,1,7,2,4,7,8,6,2]
+#smash_dict["Chrom"] = [1]
+smash_dict["Cloud"] = [1,5,8,8,1,2,6,6,6,2,4,6,7,5]
+smash_dict["Corrin"] = [4,2,3,2,2,3,1,3,1,2,5,7,8,3,4,8,4,7,4,5,6,2,2,2,8,3,7,6,4,7,7,1,7,4,6,5,4,8,5,5,6]
+#smash_dict["Daisy"] = [2,6,8]
+smash_dict["Diddy Kong"] = [1,8,8,5,8,6,8,7,8,8,4,8]
+smash_dict["Donkey Kong"] = [7,4,7,7,4,5,8,4,2,6,1,6,5,6,1,6,7,7,6,5,7,5,7,1,3,8,2,4,8,8,3,7,4,8,8,7,5,7]
+smash_dict["Dr. Mario"] = [6,7,1,8,4,5,8,5]
+smash_dict["Duck Hunt"] = [3,4,5,8,8,6]
+smash_dict["Falco"] = [4,2,4,2,3,7,8,4,2]
+smash_dict["Fox"] = [8,6,8,8,4,8,4,4,1,6,7]
+smash_dict["Ganondorf"] = [8,6,1,5,6,3,7,5,8,1,1,7,8,2,6,4,8,6,4,5,5,8,6,7,3,2,2,2,6,6,6,4,7,5,8,3,4,5,2,5,5,7,1]
+smash_dict["Greninja"] = [6,1,6,6,6,4]
+smash_dict["Hero"] = [2,3,5,7,5]
+smash_dict["Ice-Climbers"] = [7,4,7,5,3]
+smash_dict["Ike"] = [8,4,2,4,8, 4,2,6,4,7]
+smash_dict["Incineroar"] = [1,5,4,6,6,4,3,6]
+smash_dict["Inkling"] = [2,6,4,8,2]
+smash_dict["Isabelle"] = [1,1,1,6,4,3,7,7,8,5]
+smash_dict["Jigglypuff"] = [2,4,2,7,8,8,8,7,2,2,2,4,4,3,2,2,1]
+smash_dict["Joker"] = [8,1,3,5,8,4,1,6,2]
+smash_dict["Kazuya"] = [3,1,6,6,3,2]
+smash_dict["Ken"] = [8,5,3,7,8,5,7,5,7,7,7,1]
+smash_dict["King Dedede"] = [5,1,1,8,3,3,4,4,7,1,8,3,4,5,4,3,1,1,3,3,1,4,6,1,2,1,1,4,8,1,3,8,6,1,3,5,7,7,5,8,7,7,
+4,6,4,8,6,7,8,2,2,4,5,4,1,7,5,3,4,5,1,7,2,4,7,3,6,1,1,5,1,7,6,2]
+smash_dict["King K Rool"] = [7,8,7,3,4,7,6,1,5,2,7,3,2,5,3,7,5,5,4,8]
+smash_dict["Kirby"] = [3,1,3,2,4,3,8,1,1,6,7,4,3,8,7,5,4,5,5,2,7,5,6,3,7,3,1,6]
+smash_dict["Link"] = [3,5,1,2,8,6,1]
+smash_dict["Little Mac"] = [5,3,8,8,8,4,7,4,8]
+smash_dict["Lucario"] = [3,1,3,3,4,7,1,6,2,2,6,6,1,2,6,1,3,6,1,6,2,4,3,8,1,3,6,1,2,6,7,3,1,2]
+smash_dict["Lucas"] = [6,4,3,8,3,2,5]
+#smash_dict["Lucina"] = [8]
+smash_dict["Luigi"] = [2,5,6,5,4,8,2,6,6,2]
+smash_dict["Mario"] = [2,3,6,8,2,3,8,7,6,7,5,8,4,5,8,4,6,1,3]
+smash_dict["Marth"] = [1,3,3,3,7,8,8]
+smash_dict["Mega Man"] = [1,6,2,2,7,3,3,6,5,3,7,2,1,2,5,2,1,2,3,3,2,3,7,1,5,5,1,3,6,7,6,1,2,7,3,7]
+smash_dict["Meta Knight"] = [2,3,7,7,4,2,3,5,3,5,5,7,7,4,1,7,8,5,8,8,6,7,6,5,5]
+smash_dict["Mewtwo"] = [3,6,4,3,5]
+smash_dict["Mii Brawler"] = [2]
+smash_dict["Mii Gunner"] = [7,3,7,5,3]
+smash_dict["Mii Swordfighter"] = [2,2,8,1,7]
+smash_dict["Min Min"] = [7,8,6,7]
+smash_dict["Mr. Game & Watch"] = [5,4,2,7,3,6,5]
+smash_dict["Ness"] = [8,2,4,1,5,6,4,5,5,3,3,8,4,7,6,1,1,8,4,2,5,4,6,6,8,2,7,4,3,7,5,3,3,2,1,5,3,3,8,1,8,3]
+smash_dict["Olimar"] = [4,5,8,5,5,3,3]
+smash_dict["Pac Man"] = [6,4,5,8,4,4,2]
+smash_dict["Palutena"] = [7,2,3,5,7,2]
+smash_dict["Pichu"] = [5,7,4,5,8,1,4,7,1,8,3]
+smash_dict["Pikachu"] = [4,8,7,6,2,7,2,6,6,2,3,3,5,3,3,1,4,7,6,3]
+smash_dict["Piranha Plant"] = [6,5,2,2,2,6,4,7]
+smash_dict["Pit"] = [2,1,8,2,6,3,6,2,5]
+smash_dict["Pokemon Trainer"] = [3,4,7,4,1,5,5,4,3,2,4,1,3,8]
+smash_dict["Princess Peach"] = [7,2,3,4,4,5,4,4,7,3,2,6,8,5,6]
+smash_dict["Pyra/Mythra"] = [4,8,4,6,6,2,2,8]
+#smash_dict["Richter"] = [3,8,5]
+smash_dict["Ridley"] = [8,4,5,1,6,7]
+smash_dict["R.O.B."] = [3,2,8,5,3,5,4,3,5,8,5,7,7,8,7]
+smash_dict["Robin"] = [6,5,5,4,2,8]
+smash_dict["Rosalina"] = [5,2,8,8,7,7,6,2]
+smash_dict["Roy"] = [6,6,6,3,5,8,1]
+smash_dict["Ryu"] = [7,3,5,7,4,8]
+smash_dict["Samus"] = [4,5,4,2,8,5,1,2,3,1,2,8,3,6,1,8,4,2,3,1,7,1,4,3,1,3,4,2,6,2,8,7,5,1,6,8,3,5,3,3,7,4,5,6,5,3,7,8,3,1,2,6,5,8,7,8,2,1,1,
+5,4,5,3,2,4,5,6,6,3,4,3,5,8,6,4,4,4,4,8,1,5,7,4,1,6,5,2,1,4,6,5,2,8,6,5,4,6,1,2,7,2,6,3]
+smash_dict["Sephiroth"] = [4,7,1,4,5]
+smash_dict["Sheik"] = [8,3,5,6,3,6]
+smash_dict["Shulk"] = [3,7,7,4,8,7]
+smash_dict["Simon"] = [7,7,2,7,8,3,8,5,8,7]
+smash_dict["Snake"] = [3,1,6,8,6,7,2,6,7,1]
+smash_dict["Sonic"] = [8,3,1,5,6,1,6,8,2,4]
+smash_dict["Sora"] = [8,4,4,3]
+smash_dict["Steve"] = [5,5,7,8,4,3]
+smash_dict["Terry"] = [3,6,1,6,1,4,6,3,6,4,5,5,5,6,1,1,7,3,1,5,2,6,7,7,6]
+smash_dict["Toon Link"] = [2,5,2,8,4]
+smash_dict["Villager"] = [5,7,4,1,8,1,8,2,1,1,5,1,2,7,4,5,2,2,7,5,1,1,8,1,2,6,1,4,1,2,8,1,1,6,1,4,4,7,8,1,5]
+smash_dict["Wario"] = [1,3,8,4,1,5,8,3,4,3]
+smash_dict["Wii Fit Trainer"] = [5,3,3,5,3,7]
+smash_dict["Wolf"] = [7,7,4,8,1,7,2]
+smash_dict["Yoshi"] = [4,6,6,6,8,1,2,4,5,6,6,2,1,8]
+smash_dict["Young Link"] = [1,8,6,6,3]
+smash_dict["Zelda"] = [3,8,4,1,3,2,1,1,2,4,5,8,2,2,7,4,8,7,1]
+smash_dict["Zero Suit Samus"] = [7,6,6,8,2,4]
+smash_dict["Old_Marth"] = [1,3,3,3,7,8]
+smash_dict["Old_Princess_Peach"] = [7,2,3,4,4,5,4,4,7,3]
+smash_dict["Old_Roy"] = [6,6,6,3,5,8]
+smash_dict["Old_Simon"] = [7,7,2,7,8]
+
+for i in smash_dict:
+    if(len(smash_dict[i]) > 1):
+        print(i + ":\t" + str(stdev(smash_dict[i])))
+        f.write(i + "," + str(stdev(smash_dict[i])) +  "\n")
+    else:
+        print(i + ":\tNA\n")
+        f.write(i + "\n")
+
+
+
+

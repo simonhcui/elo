@@ -1,0 +1,140 @@
+Alice,Angga,1,Adam Cube,3-25-2023
+David,Brian H,1
+Nick C,Ana,1
+Simon,Juwan,0
+Brian H,Simon,1
+Angga,Ana,1
+Alice,Nick C,1
+Juwan,David,1
+Nick C,David,1
+Juwan,Alice,1
+Ana,Simon,1
+Angga,Brian H,0
+
+Simon,Ana,1,Adam Cube,3-25-2023
+Nick C,Judre,1
+Juwan,Alice,1
+David,Brian H,0
+David,Ana,1
+Simon,Brian H,1
+Nick C,Juwan,0
+Alice,Judre,1
+Alice,David,0
+Simon,Juwan,0
+Nick C,Brian H,1
+
+Juwan,Angga,1,Adam Cube,4-13-23
+Adam,Brian H,1
+Brian M,Khang,1
+Khang,Brian H,0
+Juwan,Brian M,1
+Angga,Adam,0
+Angga,Brian M,1
+Juwan,Adam,0
+
+Simon,John K,1,Adam Cube,5-20-23
+Andrew,Juwan,0
+Nick R,Brian M,0
+Evan S,Luca,1
+Juwan,Simon,1
+Andrew,John K,1
+Luca,Andrew,1
+Evan S,Brian M,1
+Simon,Brian M,1
+Juwan,Evan S,0
+Luca,Andrew,1
+Nick R,John K,0
+
+Simon,Evan S,1,Adam Cube,5-20-23
+Evan K,Andrew,0
+Luca,Nick R,0
+Tim,Brian M,1
+Andrew,Tim,0
+Evan K,Brian M,0
+Simon,Nick R,1
+Evan S,Luca,1
+Andrew,Nick R,0
+Tim,Simon,1
+Evan S,Brian M,1
+
+Simon,David,0,Adam Cube,6-24-23
+Jacob,Juwan,0
+Brian M,John K,1
+Alice,Khang,1
+Simon,John K,1
+David,Brian M,1
+Juwan,Alice,0
+Simon,Khang,1
+John K,Jacob,1
+Alice,David,1
+Juwan,Brian M,0
+
+Simon,Adam,0,Adam Cube,6-24-23
+Khang,John K,1
+David,Brian M,1
+Simon,John K,1
+Adam,Brian M,0
+David,Khang,1
+David,John K,1
+Brian M,Simon,0
+
+Simon,David,0,Adam Cube,8-26-2023
+Clayton,Tim,0
+Adam,Alice,0
+Simon,Tim,0
+Clayton,Alice,0
+Adam,David,1
+
+Simon,Jacob,0,Adam Cube,3-7-2024
+Alberto,John K,1
+Tony,Juwan,1
+Stephen,Sonny,1
+Evan S,Alan,1
+Tony,Stephen,1
+Evan S,Jacob,1
+Alan,Sonny,1
+John K,Simon,1
+John K,Jacob,1
+Simon,Sonny,1
+Evan S,Tony,0
+Alberto,Alan,0
+
+Tony,Evan S,1,Adam Cube,8-22-2024
+Clayton,Sonny,1
+Jacob,Duc,1
+John K,David,0
+Jacob,Tony,0
+Duc,Evan S,1
+Clayton,David,1
+Sonny,John K,1
+David,Jacob,1
+Clayton,Tony,0
+
+Simon,Luca,1,Adam Cube,8-22-2024
+Juwan,Adam,0
+Chris A,Stephen,0
+Chris A,Juwan,1
+Simon,Adam,1
+Luca,Stephen,0
+
+Simon,Chris A,0,Adam Cube,9-19-24
+Stephen,Alan,0
+John K,Sonny,0
+Clayton,Brian M,1
+Clayton,Chris A,1
+Brian M,Simon,0
+Stephen,John K,1
+Alan,Sonny,1
+
+John K,Jacob,0,Adam Cube,11-14-2024
+Marco,Luca,0
+Harrison,Chris A,1
+Noah,Stephen,0
+Simon,Alan,0
+Simon,Luca,1
+Stephen,Alan,0
+Chris A,Noah,0
+Harrison,Jacob,1
+John K,Marco,0
+
+PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024

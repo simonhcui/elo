@@ -1,0 +1,272 @@
+Simon,Todd,0,Chaos,6-29-23
+Zane,Jacob,1
+Chris A,Tony,0
+Zane,Todd,1
+Sonny,Tony,0
+Zane,Tony,0
+
+Simon,David,0,Chaos,7-1-23
+Zane,Chris A,0
+Tony,Jacob,1
+Tony,David,1
+Simon,Zane,0
+David,Zane,1
+Tony,Chris A,1
+
+Nick D,Adam,1,MH2,7-1-23
+Zane,Chris A,0
+Tony,Matt,0
+David,Juwan,1
+David,Chris A,0
+Juwan,Zane,0
+Matt,Nick D,1
+Matt,Chris A,0
+Zane,Adam,1
+
+Simon,Todd,1,DMR,7-6-23
+Sonny,Zane,0
+Chris A,Matt,0
+Travis,Jacob,0
+Simon,Jacob,0
+Todd,Travis,1
+Zane,Matt,1
+Sonny,Chris A,1
+Jacob,Zane,0
+Todd,Sonny,1
+
+Adam,Michael D,0,ELD,7-8-23
+Juwan,Clayton,0
+RJ,Max,1
+John K,Karen,1
+Clayton,John K,1
+Juwan,Karen,1
+Michael D,RJ,1
+Adam,Max,1
+Clayton,Michael D,1
+John K,RJ,1
+Adam,Juwan,1
+
+Matt,Nick C,0,MH1,7-8-23
+Nick D,Patrick H,0
+Ana,Brian H,1
+Chris A,Zane,1
+Chris A,Ana,1
+Zane,Brian H,1
+Nick C,Patrick H,1
+Matt,Nick D,1
+Zane,Matt,0
+Nick C,Chris A,0
+
+Patrick H,Bastion,1,MB1,7-8-23
+Travis,Evan K,0
+Adam,Vanndy,1
+Max,Clayton,0
+Patrick H,Evan K,1
+Bastion,Travis,1
+Clayton,Adam,0
+Max,Vanndy,1
+Max,Bastion,0
+Vanndy,Travis,1
+Clayton,Evan K,1
+Adam,Patrick H,0
+
+Zane,Nick D,0,MH2,7-8-23
+Matt,David,1
+Brian H,Nick C,1
+Ana,Chris A,1
+Chris A,Zane,0
+Ana,Nick D,0
+David,Nick C,1
+Matt,Brian H,0
+David,Zane,0
+Nick D,Brian H,0
+Ana,Matt,1
+
+Matt,Nick C,1,LTR,7-8-23
+Simon,Brian H,0
+Ana,Clayton,1
+Nick D,Zane,1
+Ana,Matt,0
+Clayton,Nick C,1
+Brian H,Nick D,0
+Zane,Simon,0
+Simon,Clayton,0
+Nick D,Matt,0
+
+Chris A,Brian H,1,MH2,7-13-23
+Matt,Tony,1
+Todd,Clayton,0
+Adam,Sonny,1
+Chris A,Clayton,0
+Brian H,Todd,0
+Matt,Adam,1
+Tony,Sonny,1
+Todd,Tony,0
+
+Simon,Clayton,0,NEO,7-13-23
+Brian H,Tony,0
+Jacob,Matt,0
+Chris A,Adam,1
+Matt,Clayton,1
+Jacob,Simon,1
+Tony,Chris A,1
+Brian H,Adam,1
+Clayton,Chris A,0
+Jacob,Brian H,0
+
+Simon,Adam,0,MH2,7-23-23
+Patrick R,Ken,1
+Nick D,John K,1
+Simon,Nick D,0
+Patrick R,Adam,1
+John K,Ken,0
+Patrick R,Nick D,0
+Simon,Ken,1
+John K,Adam,0
+
+Michael D,Jacob,1,Chaos,7-27-23
+Sonny,Adam,0
+Clayton,John K,1
+Tony,Zane,1
+Michael D,Clayton,0
+Jacob,John K,0
+Tony,Adam,1
+Zane,Sonny,0
+
+Simon,Zane,0,Chaos,7-27-23
+Tony,Clayton,0
+Jacob,Adam,1
+Chris A,Sonny,0
+Simon,Adam,1
+Zane,Jacob,0
+Clayton,Sonny,1
+Zane,Sonny,0
+Jacob,Clayton,0
+
+Tony,Jacob,1,DMR,8-3-2023
+Brian H,Travis,0
+Matt,Chris A,1
+Zane,Charles,0
+Chris A,Brian H,1
+Matt,Travis,1
+Charles,Tony,1
+Zane,Jacob,1
+
+Simon,Michael D,1,RNA,8-10-2023
+Matt,Tony,1
+Chris A,Juwan,0
+John K,Clayton,1
+
+Simon,Tony,0,DMU,8-10-2023
+Juwan,Michael D,1
+Matt,Chris A,0
+Clayton,John K,1
+
+Simon,Clayton,0,NEO,8-10-2023
+Michael D,Juwan,0
+Tony,Matt,1
+Chris A,John K,1
+
+Simon,Tony,0,BRO,8-12-2023
+Grant,Patrick H,1
+Chris A,John K,1
+Walski,Jacob,1
+Walski,Tony,1
+Jacob,Simon,0
+Patrick H,John K,1
+
+Walski,Patrick H,0,LTR,8-12-2023
+Jacob,Tony,0
+John K,Chris A,0
+Clayton,Grant,1
+Patrick H,Clayton,1
+Jacob,John K,0
+Grant,Walski,0
+Walski,John K,0
+Grant,Jacob,1
+Chris A,Patrick H,1
+
+Simon,Adam,1,Chaos,8-17-2023
+Todd,Jacob,1
+Clayton,Tony,1
+Chris A,John K,1
+Zane,Sonny,0
+Simon,Sonny,0
+Adam,John K,1
+Clayton,Chris A,1
+Jacob,Tony,0
+Todd,Zane,0
+Sonny,Clayton,0
+
+Simon,Adam,1,2x2,8-24-2023
+John K,Chris A,0
+Clayton,Zane,1
+Sonny,Matt,1
+Simon,Sonny,0
+Adam,Matt,0
+John K,Zane,1
+Chris A,Clayton,0
+Sonny,Clayton,0
+Matt,John K,0
+
+Simon,David,0,Adam Cube,8-26-2023
+Clayton,Tim,0
+Adam,Alice,0
+Simon,Tim,0
+Clayton,Alice,0
+Adam,David,1
+
+AJ,Zane,0,MH2,8-31-2023
+Matt,Adam,0
+Clayton,Sonny,1
+Todd,John K,1
+Todd,Adam,1
+John K,Matt,0
+Sonny,AJ,0
+Clayton,Zane,1
+Todd,Clayton,0
+Adam,Zane,1
+
+Chris A,Michael P,0,LTR,9-7-2023
+Zane,Tony,0
+John K,Jacob,1
+Tony,Michael P,1
+Zane,Chris A,0
+John K,Adan,1
+Jacob,Adam,1
+Tony,John K,0
+
+Tony,Clayton,1,Chaos,9-14-2023
+Zane,Simon,1
+Sonny,Chris A,1
+Zane,Tony,0
+Simon,Clayton,0
+Sonny,John K,0
+Chris A,Michael P,1
+Zane,Sonny,1
+Tony,John K,1
+Clayton,Chris A,0
+
+Jacob,Nico,0,ZNR,9-16-2023
+John K,Clayton,1
+Evan K,Chris A,0
+
+Clayton,Evan K,0,KHM,9-16-2023
+Nico,Jacob,0
+Simon,Juwan,0
+John K,Chris A,0
+
+Simon,Winston,1,RNA,9-16-2023
+Jacob,Clayton,0
+Nico,Juwan,0
+Chris A,John K,1
+
+Chris A,Jacob,0,KTK,9-28-2023
+Sonny,Luca,1
+Matt,Tony,0
+Evan S,John K,1
+Chris A,Matt,1
+Jacob,Tony,1
+Sonny,Evan S,1
+Luca,John K,1
+Jacob,Sonny,0

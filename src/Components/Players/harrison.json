@@ -1,0 +1,28 @@
+{
+    "tableData": [
+      {
+        "Season": "8",
+        "Ranking": "NR",
+        "Win %": "28.57%",
+        "Record": "4-10",
+        "Drafts": "7",
+        "Glicko": "1311 ± 111"
+      },
+      {
+        "Season": "9",
+        "Ranking": "13",
+        "Win %": "40.00%",
+        "Record": "14-21",
+        "Drafts": "17",
+        "Glicko": "1511 ± 78"
+      }
+    ],
+  
+    "formatData": [
+      {
+        "Format": "Adam Cube",
+        "Win %": "57.14%",
+        "Record": "4-3"
+      }
+    ]
+  }

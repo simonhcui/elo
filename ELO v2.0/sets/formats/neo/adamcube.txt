@@ -1,0 +1,74 @@
+3,0,Izzet,Eric C
+2,1,Dimir,Chris A
+2,1,Golgari,Adam
+1,1,Orzhov,Simon
+1,1,Selesnya,Juwan
+1,2,Dimir,Zane
+0,2,Rakdos,Sonny
+0,2,Naya,Evan K
+2,0,Rakdos,Matt
+2,0,Abzan,Tony
+2,1,Azorius,Brian H
+2,1,Selesnya,Chris A
+1,2,Rakdos,Clayton
+1,2,Dimir,Jacob
+0,2,Sultai,Simon
+0,2,Abzan,Adam
+1,0,Rakdos,Clayton
+1,0,Selesnya,Juwan
+1,0,Selesnya,Tony
+1,0,Orzhov,Chris A
+0,1,5c,Simon
+0,1,Izzet,Michael D
+0,1,Sultai,John K
+0,1,Rakdos,Matt
+1,0,Mardu,Matt
+2,0,Selesnya,Juwan
+2,1,Gruul,Nick R
+1,1,Azorius,Chris A
+1,1,Golgari,Luca
+1,1,Sultai,Simon
+0,2,Boros,Jacob
+0,2,Azorius,Karen
+2,0,Selesnya,Clayton
+2,0,Dimir,Noah
+2,0,Selesnya,Chris A
+1,1,Esper,Luca
+1,1,Dimir,Simon
+1,1,Rakdos,Kian
+1,1,Rakdos,Andrew D
+0,2,Temur,Matt
+0,2,Simic,Jacob
+0,2,Selesnya,Stephen
+2,0,Naya,Matt
+2,0,Esper,Adam
+1,1,Sultai,Alan
+1,1,Orzhov,Tony
+1,1,Temur,Simon
+1,1,Rakdos,Clayton
+0,2,Azorius,Luca
+0,2,Dimir,John K
+2,0,Selesnya,Tony
+2,0,Rakdos,Clayton
+1,1,Sultai,Alan
+1,1,4c no red,Adam
+1,1,Selesnya,Eric
+1,1,Dimir,Noah
+0,2,4c no green,Matt
+0,2,Rakdos,Jesse
+2,0,Rakdos,Simon
+2,0,Azorius,Eric
+1,1,Bant,Tony
+1,1,Boros,Luca
+1,1,Azorius,Bradley
+1,1,4c no red,Matt
+0,2,Orzhov,Alan
+0,2,Rakdos,Nico
+2,0,Rakdos,Angga
+2,0,Orzhov,David O
+1,1,Boros,John C
+1,1,Simic,Juwan
+1,1,5c,Alan
+1,1,Selesnya,Matt
+0,2,Izzet,Nick D
+0,2,Azorius,Travis

@@ -1,0 +1,60 @@
+{
+    "tableData": [
+      {
+        "Season": "3",
+        "Ranking": "NR",
+        "Win %": "37.50%",
+        "Record": "6-10",
+        "Drafts": "5",
+        "Glicko": "N/A"
+      },
+      {
+        "Season": "5",
+        "Ranking": "9",
+        "Win %": "40.74%",
+        "Record": "11-16",
+        "Drafts": "11",
+        "Glicko": "1451 ± 84"
+      },
+      {
+        "Season": "6",
+        "Ranking": "6",
+        "Win %": "52.94%",
+        "Record": "18-16",
+        "Drafts": "17",
+        "Glicko": "1523 ± 81"
+      },
+      {
+        "Season": "7",
+        "Ranking": "8",
+        "Win %": "51.61%",
+        "Record": "16-15",
+        "Drafts": "15",
+        "Glicko": "1634 ± 76"
+      },
+      {
+        "Season": "8",
+        "Ranking": "NR",
+        "Win %": "50.00%",
+        "Record": "5-5",
+        "Drafts": "5",
+        "Glicko": "1565 ± 120"
+      },
+      {
+        "Season": "9",
+        "Ranking": "12",
+        "Win %": "42.42%",
+        "Record": "14-19",
+        "Drafts": "17",
+        "Glicko": "1520 ± 81"
+      }
+    ],
+  
+    "formatData": [
+      {
+        "Format": "Adam Cube",
+        "Win %": "57.14%",
+        "Record": "4-3"
+      }
+    ]
+  }

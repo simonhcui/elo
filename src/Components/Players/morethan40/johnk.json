@@ -1,0 +1,68 @@
+{
+    "tableData": [
+      {
+        "Season": "3",
+        "Ranking": "11",
+        "Win %": "24.24%",
+        "Record": "8-25",
+        "Drafts": "14",
+        "Glicko": "N/A"
+      },
+      {
+        "Season": "4",
+        "Ranking": "7",
+        "Win %": "39.39%",
+        "Record": "13-20",
+        "Drafts": "16",
+        "Glicko": "1530 ± 79"
+      },
+      {
+        "Season": "5",
+        "Ranking": "12",
+        "Win %": "22.45%",
+        "Record": "11-38",
+        "Drafts": "25",
+        "Glicko": "1265 ± 77"
+      },
+      {
+        "Season": "6",
+        "Ranking": "8",
+        "Win %": "39.47%",
+        "Record": "15-22",
+        "Drafts": "21",
+        "Glicko": "1392 ± 76"
+      },
+      {
+        "Season": "7",
+        "Ranking": "10",
+        "Win %": "41.03%",
+        "Record": "16-23",
+        "Drafts": "19",
+        "Glicko": "1489 ± 74"
+      },
+      {
+        "Season": "8",
+        "Ranking": "12",
+        "Win %": "24.07%",
+        "Record": "13-41",
+        "Drafts": "28",
+        "Glicko": "1347 ± 78"
+      },
+      {
+        "Season": "9",
+        "Ranking": "15",
+        "Win %": "20.45%",
+        "Record": "9-35",
+        "Drafts": "22",
+        "Glicko": "1354 ± 90"
+      }
+    ],
+  
+    "formatData": [
+      {
+        "Format": "Adam Cube",
+        "Win %": "57.14%",
+        "Record": "4-3"
+      }
+    ]
+  }

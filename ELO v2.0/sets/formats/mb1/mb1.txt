@@ -1,0 +1,47 @@
+3,0,Dimir,Patrick H
+2,1,Selesnya,Adam
+2,1,Gruul,Bastion
+2,1,Sultai,Clayton
+1,2,4c no blue,Evan K
+1,2,Naya,Vanndy
+1,2,Izzet,Max
+0,3,4c no blue,Travis
+2,0,Gruul,Jacob
+1,0,4c no green,Simon
+1,0,Jund,John K
+1,1,5c,Alberto
+0,1,Orzhov,Marco
+0,1,Naya,Travis
+0,1,Azorius,Adam
+0,1,Grixis,Andrew
+2,0,Gruul,Simon
+2,0,5c,Alberto
+1,1,Azorius,Woody
+1,1,Golgari,Juwan
+0,1,Izzet,John K
+0,1,Naya,Stephen
+1,1,Rakdos,Juwan
+0,1,Temur,Andrew
+2,0,Temur,Winston
+2,0,Temur,Marco
+1,1,Orzhov,Simon
+1,1,Dimir,Alberto
+1,1,Gruul,Andrew
+0,2,4c no red,Tony
+0,2,Orzhov,Travis
+2,0,Dimir,Chris A
+1,0,Mardu,Luca
+1,0,4c no blue,Matt
+1,1,4c no green,Stephen
+1,1,Izzet,Kian
+1,1,Sultai,Andrew
+1,1,5c,Clayton
+0,2,Golgari,Jacob
+2,0,Izzet,Clayton
+2,0,Rakdos,Tony
+1,1,Abzan,Matt
+1,1,Boros,John K
+1,1,Golgari,Adam
+1,1,Esper,Alan
+0,2,Gruul,Stephen
+0,2,Dimir,Luca

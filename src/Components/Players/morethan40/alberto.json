@@ -1,0 +1,33 @@
+{
+    "tableData": [
+      {
+        "Season": "5",
+        "Ranking": "NR",
+        "Win %": "68.00%",
+        "Record": "17-8",
+        "Glicko": "1660 ± 88"
+      },
+      {
+        "Season": "6",
+        "Ranking": "1",
+        "Win %": "63.83%",
+        "Record": "30-17",
+        "Glicko": "1629 ± 74"
+      },
+      {
+        "Season": "7",
+        "Ranking": "3",
+        "Win %": "66.67%",
+        "Record": "18-9",
+        "Glicko": "1778 ± 85"
+      }
+    ],
+  
+    "formatData": [
+      {
+        "Format": "Adam Cube",
+        "Win %": "57.14%",
+        "Record": "4-3"
+      }
+    ]
+  }

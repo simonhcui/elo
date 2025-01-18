@@ -1,0 +1,401 @@
+Chris A,Zane,1,TSR,10-5-23
+Sonny,John K,1
+Sonny,Chris A,0
+John K,Zane,0
+Matt,Long,1
+Evan S,Simon,1
+Chris A,Evan S,0
+Sonny,Simon,0
+
+Simon,John K,1,DMR,10-6-23
+Nick D,Matt,0
+Luca,Frank,1
+Walski,Zane,1
+Simon,Matt,0
+John K,Nick D,0
+Walski,Luca,0
+Zane,Frank,1
+Zane,Nick D,0
+Simon,Walski,0
+Matt,Luca,0
+
+Reilly,Juwan,1,2x2,10-6-23
+Alice,Andre,1
+Evan S,Alberto,1
+Sonny,Tony,1
+Alice,Evan S,0
+Andre,Alberto,0
+Tony,Juwan,0
+Sonny,Reilly,1
+Alberto,Juwan,1
+Alice,Reilly,1
+Sonny,Evan S,1
+
+Simon,Nick D,0,ISD,10-6-23
+Patrick H,Walski,0
+Frank,Matt,1
+Zane,John K,1
+Frank,Nick D,0
+Matt,Simon,1
+Zane,Walski,0
+John K,Patrick H,0
+Patrick H,Matt,0
+Nick D,Walski,0
+Frank,Zane,0
+
+Simon,Tony,0,Chaos,10-6-23
+Sonny,Walski,0
+Frank,Patrick H,0
+Simon,Sonny,1
+Tony,Frank,1
+Patrick H,Walski,1
+Simon,Patrick H,1
+Sonny,Frank,1
+Tony,Walski,0
+
+Jacob,Evan K,1,AKH/HOU,10-7-23
+Matt,Juwan,0
+Tony,Todd,1
+Evan S,John K,1
+Tony,Juwan,1
+Todd,Matt,0
+Jacob,Evan S,0
+Evan K,John K,0
+Tony,Evan S,1
+Juwan,Jacob,0
+
+Ana,Reilly,1,DMR,10-7-23
+Nick D,Marco,1
+David,Travis,1
+Nick R,Nick C,1
+Ana,Nick D,1
+Reilly,Marco,0
+Nick R,David,0
+Nick C,Travis,1
+Marco,Nick C,1
+Reilly,Travis,1
+David,Ana,1
+Nick R,Nick D,0
+
+Tony,Jacob,1,MB1,10-7-23
+Travis,Bastion,0
+Evan K,Marco,0
+Nick R,Nick C,1
+Tony,Nick R,1
+Jacob,Nick C,0
+Travis,Evan K,0
+Marco,Bastion,0
+Evan K,Nick C,1
+Jacob,Travis,0
+Marco,Nick R,0
+Bastion,Tony,1
+
+David,Ana,0,MH2,10-7-23
+John K,Todd,0
+Matt,Evan S,0
+Nick D,Reilly,1
+Evan S,Ana,1
+Matt,David,0
+Reilly,John K,0
+Todd,Nick D,0
+Reilly,Matt,0
+Nick D,Evan S,1
+Todd,Ana,0
+
+Ana,David,0,DMU,10-7-23
+Simon,Matt,0
+Jacob,Nick C,1
+Nick R,Juwan,1
+Simon,Juwan,1
+Matt,Nick R,1
+Ana,Nick C,0
+David,Jacob,0
+Jacob,Matt,0
+
+Tony,Matt,0,2x2,10-12-23
+Adam,Jacob,0
+Zane,Evan S,0
+John K,Alberto,0
+Jacob,Matt,1
+Adam,Tony,1
+Evan S,Alberto,0
+Zane,John K,1
+Alberto,Jacob,1
+Adam,Zane,1
+
+Simon,Tony,1,MH1,10-26-23
+Zane,Matt,1
+John K,Alberto,1
+Sonny,Chris A,0
+Simon,Zane,0
+Tony,Matt,0
+John K,Chris A,0
+Alberto,Sonny,1
+Simon,John K,1
+Zane,Chris A,1
+
+Chris A,Travis,1,MOM,10-28-23
+Matt,Todd,0
+Marco,Nick D,1
+Jacob,John K,1
+
+Marco,Nick D,0,MH2,10-28-23
+Chris A,John K,0
+Matt,Jacob,1
+Todd,Travis,1
+
+Simon,Matt,0,RNA,10-28-23
+Marco,Chris A,0
+Travis,Jacob,0
+Todd,John K,1
+
+Simon,Evan S,0,Chaos,11-9-23
+Chris A,David,1
+Luca,John K,0
+Vincent V,Tony,0
+Sonny,Alberto,0
+Simon,Luca,0
+Vincent V,Evan S,1
+Chris A,Alberto,1
+David,Sonny,1
+John K,Tony,0
+Simon,Vincent V,0
+Tony,Chris A,0
+John K,David,0
+Sonny,Evan S,0
+Luca,Alberto,0
+
+Tony,Travis,1,TSR,11-16-23
+Matt,John K,1
+Luca,Zane,1
+Vincent V,Jacob,1
+Chris A,Sonny,0
+Tony,Jacob,1
+Travis,Chris A,0
+Vincent V,Matt,0
+Sonny,Luca,0
+John K,Zane,0
+Zane,Sonny,0
+Luca,Vincent V,0
+Travis,Jacob,0
+
+Winston,Juwan,1,DMR,11-18-23
+Patrick H,Evan K,1
+Nick D,Chris A,0
+Nick D,Evan K,1
+Chris A,Patrick H,1
+Winston,Andrew,0
+Nick D,Juwan,0
+Chris A,Andrew,1
+
+Evan K,Andrew,1,MH2,11-18-23
+Nick D,Juwan,1
+Jacob,Patrick H,1
+Chris A,Luca,0
+Andrew,Patrick H,0
+Luca,Nick D,0
+Chris A,Juwan,0
+Evan K,Nick D,0
+
+Danny,Walski,1,Chaos,11-18-23
+Sonny,Luis,0
+Tony,Sonny,1
+John K,Jorgie,0
+Danny,Jorgie,1
+Walski,John K,0
+Luis,Tony,1
+Sonny,Zane,0
+
+Luis,Jacob,1,Chaos,11-18-23
+Walski,Zane,0
+Sonny,Jorgie,0
+Danny,John K,1
+Luis,Danny,1
+Sonny,Walski,0
+Jorgie,Zane,0
+
+Simon,Sonny,0,Chaos,11-18-23
+Danny,Walski,0
+Jorgie,Luis,1
+Jacob,Zane,0
+Zane,Sonny,1
+Danny,Luis,0
+Jorgie,Walski,1
+
+Danny,Walski,0,Chaos,11-18-23
+Zane,Jorgie,0
+Sonny,Luis,1
+Jorgie,Walski,0
+Zane,Danny,0
+Simon,Luis,0
+
+Zane,CJ,1,Chaos,11-18-23
+Sonny,Luis,0
+Luis,Simon,1
+Walski,Zane,1
+
+Chris A,Sonny,1,Chaos,11-30-23
+Adam,Evan S,0
+David,Alberto,0
+Sonny,Adam,0
+Chris A,David,0
+Alberto,Evan S,0
+Chris A,Adam,1
+Sonny,Alberto,1
+David,Evan S,0
+
+Patrick H,Walski,1,DMR,12-2-23
+Marco,Winston,0
+Vincent B,Frank,1
+Andrew,Evan S,1
+Winston,Andrew,1
+Marco,Evan S,0
+Frank,Walski,0
+Patrick H,Vincent B,1
+Frank,Marco,1
+Vincent B,Evan S,0
+Patrick H,Winston,0
+Andrew,Walski,1
+
+Juwan,Jacob,0,DMR,12-2-23
+John K,Nick D,0
+Chris A,Ken,0
+Luca,Kevin,1
+Chris A,Juwan,0
+Ken,Jacob,1
+Luca,Nick D,0
+John K,Kevin,1
+Juwan,John K,0
+Luca,Jacob,0
+Nick D,Ken,0
+
+Evan S,Patrick H,1,DMR,12-2-23
+Ken,John K,1
+Luca,Nick D,1
+Winston,Andrew,0
+Ken,Luca,1
+Evan S,Andrew,1
+
+Chris A,Jacob,1,DMR,12-2-23
+Walski,Marco,1
+Kevin,Juwan,1
+Vincent B,Frank,1
+Walski,Kevin,0
+Marco,Juwan,0
+Vincent B,Chris A,0
+Frank,Jacob,1
+Walski,Vincent B,1
+Kevin,Chris A,0
+Juwan,Frank,1
+
+Simon,Chris A,0,Chaos,12-2-23
+Andrew,Walski,1
+Frank,John K,1
+Kevin,Vincent,1
+Simon,Vincent,0
+Andrew,Frank,1
+
+Simon,Kevin,1,Chaos,12-2-23
+Andrew,Frank,0
+Simon,Chris A,0
+Kevin,Andrew,1
+Walski,Frank,0
+
+Simon,Walski,0,Chaos,12-2-23
+Sonny,Frank,1
+Simon,Frank,0
+Walski,Kevin,1
+Chris A,Sonny,1
+Walski,Sonny,0
+
+Adam,Tim,0,UMA,12-7-23
+Jacob,Zane,1
+Alberto,John K,1
+Chris A,Sonny,1
+Jacob,Chris A,1
+Zane,Sonny,0
+Alberto,Tim,1
+John K,Adam,1
+Jacob,Alberto,0
+Chris A,Tim,1
+
+Simon,Chris A,0,Chaos,12-7-23
+Zane,John K,1
+Sonny,Tony,0
+Alberto,Jacob,1
+Alberto,Tony,1
+Simon,John K,1
+Chris A,Zane,0
+
+John K,Ana,0,MB1,12-9-23
+Zane,Jacob,1
+Jacob,Juwan,0
+Nick C,Ana,0
+
+Simon,Adam,0,MH2,12-14-23
+Andrew,David,0
+Alberto,John K,1
+Chris A,Juwan,1
+Simon,Andrew,1
+Adam,David,1
+Alberto,Chris A,0
+John K,Juwan,0
+John K,Andrew,0
+Juwan,Simon,1
+Adam,Chris A,0
+David,Alberto,1
+
+Andrew,Chris A,0,2x2,12-14-23
+Adam,Alberto,1
+Simon,Tony,0
+Sonny,John K,0
+Simon,Andrew,1
+Tony,Chris A,1
+Adam,John K,1
+Alberto,Sonny,1
+Simon,Alberto,0
+Andrew,Sonny,0
+John K,Chris A,0
+Adam,Tony,0
+
+Chris A,Simon,1,TSR,12-21-23
+Nick D,Tony,1
+Clayton,Sonny,1
+Todd,Matt,1
+John K,Andrew,0
+Luis,Zane,0
+Matt,Tony,0
+Clayton,Andrew,1
+Luis,John K,1
+Sonny,Zane,0
+Todd,Nick D,0
+
+Simon,Clayton,0,TSR,12-21-23
+John K,Todd,0
+Andrew,Luis,1
+Simon,John K,1
+Clayton,Andrew,1
+Luis,Todd,0
+
+Tony,Zane,1,TSR,12-21-23
+Matt,Kevin,1
+Sonny,Nick D,1
+Matt,Nick D,1
+Kevin,Zane,0
+Sonny,Tony,1
+
+John K,Charles,0,ELD,12-28-23
+Andrew,Juwan,0
+Bradley,Matt,1
+Jacob,Michael D,0
+Jacob,Matt,0
+Michael D,Bradley,0
+John K,Andrew,0
+Charles,Juwan,0
+
+Bradley,Matt,1,BFZ/OGW,12-28-23
+Sonny,Andrew,0
+Simon,Jacob,1
+Simon,John K,0
+Bradley,Andrew,1
+Matt,Sonny,1
