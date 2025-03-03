@@ -150,3 +150,19 @@
 1,1,Boros,Juwan
 0,2,Rakdos,Angga
 0,2,Jund,Jacob
+2,0,Boros,Angga
+2,0,Temur,Eric
+1,1,Esper,Travis
+1,1,4c no black,AJ
+1,1,Rakdos,John W
+1,1,Selesnya,Michael D
+0,2,Selesnya,Grant
+0,2,Temur,Matt Y
+2,0,Sultai,Simon
+2,0,Dimir,Noah
+1,1,4c no black,Matt Y
+1,1,Abzan,Adam
+1,1,Gruul,Stephen
+1,1,Boros,Max M
+0,2,Naya,Juwan
+0,2,Izzet,Collin

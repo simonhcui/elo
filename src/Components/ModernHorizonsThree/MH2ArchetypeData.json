@@ -1,39 +1,39 @@
 [
   {
     "rank": "1",
-    "archetype": "Esper",
-    "winrate": "66.67%",
-    "num_drafts": "7"
+    "archetype": "Dimir",
+    "winrate": "72.73%",
+    "num_drafts": "6"
   },
   {
     "rank": "2",
-    "archetype": "Dimir",
-    "winrate": "66.67%",
-    "num_drafts": "5"
+    "archetype": "Esper",
+    "winrate": "64.71%",
+    "num_drafts": "8"
   },
   {
     "rank": "3",
     "archetype": "Temur",
-    "winrate": "65.85%",
-    "num_drafts": "20"
+    "winrate": "64.44%",
+    "num_drafts": "22"
   },
   {
     "rank": "4",
-    "archetype": "Abzan",
-    "winrate": "55.56%",
-    "num_drafts": "5"
+    "archetype": "Boros",
+    "winrate": "54.55%",
+    "num_drafts": "11"
   },
   {
     "rank": "5",
-    "archetype": "Gruul",
-    "winrate": "53.33%",
+    "archetype": "Abzan",
+    "winrate": "54.55%",
     "num_drafts": "6"
   },
   {
     "rank": "6",
-    "archetype": "Boros",
-    "winrate": "50.00%",
-    "num_drafts": "9"
+    "archetype": "Gruul",
+    "winrate": "52.94%",
+    "num_drafts": "7"
   },
   {
     "rank": "7",
@@ -43,9 +43,9 @@
   },
   {
     "rank": "8",
-    "archetype": "Selesnya",
-    "winrate": "45.45%",
-    "num_drafts": "6"
+    "archetype": "4c no black",
+    "winrate": "46.15%",
+    "num_drafts": "7"
   },
   {
     "rank": "9",
@@ -55,15 +55,15 @@
   },
   {
     "rank": "10",
-    "archetype": "Simic",
+    "archetype": "Izzet",
     "winrate": "44.44%",
-    "num_drafts": "9"
+    "num_drafts": "5"
   },
   {
     "rank": "11",
-    "archetype": "4c no black",
+    "archetype": "Simic",
     "winrate": "44.44%",
-    "num_drafts": "5"
+    "num_drafts": "9"
   },
   {
     "rank": "12",
@@ -79,12 +79,18 @@
   },
   {
     "rank": "14",
-    "archetype": "Rakdos",
-    "winrate": "37.50%",
-    "num_drafts": "11"
+    "archetype": "Selesnya",
+    "winrate": "40.00%",
+    "num_drafts": "8"
   },
   {
     "rank": "15",
+    "archetype": "Rakdos",
+    "winrate": "38.46%",
+    "num_drafts": "12"
+  },
+  {
+    "rank": "16",
     "archetype": "Jeskai",
     "winrate": "26.09%",
     "num_drafts": "11"
