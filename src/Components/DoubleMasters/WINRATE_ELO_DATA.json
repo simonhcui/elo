@@ -25,18 +25,6 @@
   },
   {
     "rank": "3",
-    "name": "Adam",
-    "win_percentage": "65.62%",
-    "wins_losses": "21-11",
-    "total_drafts": "12",
-    "glicko": "1732 ± 76",
-    "gxe": "70.75%",
-    "last_date": "9-14-24",
-    "trophies": "🏆",
-    "most_drafted_archetype": "4c no red/Grixis/Jeskai (2)"
-  },
-  {
-    "rank": "4",
     "name": "Clayton",
     "win_percentage": "63.64%",
     "wins_losses": "7-4",
@@ -48,7 +36,7 @@
     "most_drafted_archetype": "5c (2)"
   },
   {
-    "rank": "5",
+    "rank": "4",
     "name": "Chris A",
     "win_percentage": "63.49%",
     "wins_losses": "40-23",
@@ -58,6 +46,18 @@
     "last_date": "12-7-24",
     "trophies": "🏆🏆",
     "most_drafted_archetype": "Boros (4)"
+  },
+  {
+    "rank": "5",
+    "name": "Adam",
+    "win_percentage": "61.76%",
+    "wins_losses": "21-13",
+    "total_drafts": "13",
+    "glicko": "1688 ± 76",
+    "gxe": "67.14%",
+    "last_date": "1-9-25",
+    "trophies": "🏆",
+    "most_drafted_archetype": "4c no red/4c no green/Grixis/Jeskai (2)"
   },
   {
     "rank": "6",
@@ -143,18 +143,6 @@
   },
   {
     "rank": "13",
-    "name": "Simon",
-    "win_percentage": "51.90%",
-    "wins_losses": "41-38",
-    "total_drafts": "31",
-    "glicko": "1548 ± 67",
-    "gxe": "54.58%",
-    "last_date": "12-7-24",
-    "trophies": "🏆",
-    "most_drafted_archetype": "5c (10)"
-  },
-  {
-    "rank": "14",
     "name": "Angga",
     "win_percentage": "51.35%",
     "wins_losses": "19-18",
@@ -164,6 +152,18 @@
     "last_date": "12-7-24",
     "trophies": "🏆🏆",
     "most_drafted_archetype": "Mardu/Selesnya (2)"
+  },
+  {
+    "rank": "14",
+    "name": "Simon",
+    "win_percentage": "50.62%",
+    "wins_losses": "41-40",
+    "total_drafts": "32",
+    "glicko": "1527 ± 67",
+    "gxe": "52.56%",
+    "last_date": "1-9-25",
+    "trophies": "🏆",
+    "most_drafted_archetype": "5c (10)"
   },
   {
     "rank": "15",
@@ -224,12 +224,12 @@
   {
     "rank": "20",
     "name": "Tony",
-    "win_percentage": "35.71%",
-    "wins_losses": "5-9",
-    "total_drafts": "6",
-    "glicko": "1521 ± 103",
-    "gxe": "51.95%",
-    "last_date": "3-21-24",
+    "win_percentage": "37.50%",
+    "wins_losses": "6-10",
+    "total_drafts": "7",
+    "glicko": "1537 ± 98",
+    "gxe": "53.48%",
+    "last_date": "1-9-25",
     "trophies": "🏆",
     "most_drafted_archetype": "4c no white (3)"
   },
