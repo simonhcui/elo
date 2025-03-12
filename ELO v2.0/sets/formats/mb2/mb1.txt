@@ -142,3 +142,69 @@
 1,1,Dimir,Chris A
 0,2,Gruul,Marco
 0,2,Izzet,Eric
+2,0,Izzet,Chris A
+2,0,Dimir,Luis
+1,1,Boros,Tony
+1,1,Mardu,John K
+1,1,4c no black,Juwan
+1,1,Bant,Stephen
+0,2,Jund,Matt
+0,2,Temur,Walski
+2,0,Izzet,Jacob
+1,0,Rakdos,John K
+1,0,Naya,Matt
+1,1,Dimir,Chris A
+1,1,Abzan,Walski
+1,1,Golgari,Stephen
+0,2,Gruul,Juwan
+0,2,Dimir,Kevin
+2,0,Abzan,Matt
+2,0,Abzan,Stephen
+1,1,Izzet,Chris A
+1,1,Sultai,Aaron
+1,1,Gruul,John K
+1,1,Dimir,Luke
+0,2,Mono G,Marco
+0,2,4c no green,Jacob
+2,0,Rakdos,Andrew
+2,0,4c no blue,Matt
+1,1,Boros,Chris A
+1,1,Mono U,Collin
+1,1,Azorius,Stephen
+0,1,Mardu,Tony
+0,2,Dimir,Luke
+0,1,Gruul,Jacob
+1,0,Boros,Eric
+1,0,Jund,Jacob
+2,0,Selesnya,Travis
+2,0,Golgari,Luke
+1,1,Orzhov,Pat Sun
+1,1,Naya,Hanul
+1,1,Golgari,Noah
+0,2,Esper,Patrick H
+0,2,Jeskai,Oscar
+0,2,Azorius,Kai
+2,0,Esper,Luke
+2,0,Selesnya,Eric
+1,1,Jund,Noah
+1,1,Azorius,Simon
+1,1,Sultai,Travis
+1,1,Dimir,Patrick H
+0,2,Boros,Oscar
+0,2,Selesnya,Hanul
+2,0,Temur,Noah
+2,0,Abzan,Alan
+1,1,Golgari,Collin
+1,1,Esper,Patrick H
+1,1,Temur,Travis
+1,1,Boros,Nick C
+0,2,Gruul,Matt Y
+0,2,Gruul,Chris C
+2,0,Izzet,Simon
+2,0,Mardu,Alan
+1,1,Rakdos,Matt
+1,1,Bant,Patrick H
+1,1,Orzhov,Collin
+1,1,Selesnya,Noah
+0,2,Golgari,Travis
+0,2,Simic,Nick C
