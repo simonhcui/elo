@@ -15,8 +15,8 @@
   {
     "rank": "3",
     "archetype": "4c no Red",
-    "winrate": "63.04%",
-    "num_drafts": 18,
+    "winrate": "64.00%",
+    "num_drafts": 20,
     "num_trophies": "🏆🏆🏆"
   },
   {
@@ -28,23 +28,23 @@
   },
   {
     "rank": "5",
-    "archetype": "Boros",
-    "winrate": "56.52%",
-    "num_drafts": 17,
-    "num_trophies": "🏆🏆🏆"
-  },
-  {
-    "rank": "6",
     "archetype": "Esper",
     "winrate": "56.41%",
     "num_drafts": 16,
     "num_trophies": "🏆🏆🏆"
   },
   {
+    "rank": "6",
+    "archetype": "Boros",
+    "winrate": "54.00%",
+    "num_drafts": 19,
+    "num_trophies": "🏆🏆🏆"
+  },
+  {
     "rank": "7",
     "archetype": "4c no White",
-    "winrate": "52.94%",
-    "num_drafts": 18,
+    "winrate": "52.83%",
+    "num_drafts": 19,
     "num_trophies": "🏆"
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "rank": "9",
+    "archetype": "Abzan",
+    "winrate": "50.00%",
+    "num_drafts": 20,
+    "num_trophies": "🏆🏆"
+  },
+  {
+    "rank": "10",
     "archetype": "Mardu",
     "winrate": "48.94%",
     "num_drafts": 18,
     "num_trophies": "🏆"
-  },
-  {
-    "rank": "10",
-    "archetype": "Abzan",
-    "winrate": "47.92%",
-    "num_drafts": 19,
-    "num_trophies": "🏆🏆"
   },
   {
     "rank": "11",
@@ -77,34 +77,34 @@
   },
   {
     "rank": "12",
-    "archetype": "4c no green",
-    "winrate": "46.15%",
-    "num_drafts": 5
-  },
-  {
-    "rank": "13",
     "archetype": "Naya",
     "winrate": "42.86%",
     "num_drafts": 8
   },
   {
-    "rank": "14",
+    "rank": "13",
     "archetype": "Golgari",
     "winrate": "42.86%",
     "num_drafts": 5
   },
   {
-    "rank": "15",
+    "rank": "14",
     "archetype": "5c",
     "winrate": "42.31%",
     "num_drafts": 21,
     "num_trophies": "🏆"
   },
   {
-    "rank": "16",
+    "rank": "15",
     "archetype": "Sultai",
-    "winrate": "39.62%",
-    "num_drafts": 22
+    "winrate": "40.00%",
+    "num_drafts": 23
+  },
+  {
+    "rank": "16",
+    "archetype": "4c no green",
+    "winrate": "40.00%",
+    "num_drafts": 6
   },
   {
     "rank": "17",

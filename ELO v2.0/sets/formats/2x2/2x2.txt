@@ -280,3 +280,11 @@
 0,2,Sultai,Andrew D
 0,2,Grixis,Andrew N
 0,2,Abzan,Travis
+2,0,Abzan,Matt
+2,0,4c no red,Alan
+1,1,4c no white,John C
+1,1,Sultai,Jason P
+1,1,4c no red,Tony
+1,1,Boros,Eric
+0,2,Boros,Simon
+0,2,4c no green,Adam
