@@ -98,3 +98,25 @@
 1,1,Golgari,Noah
 0,2,Orzhov,Chris A
 0,2,5c,John K
+2,0,Rakdos,Simon
+1,1,Naya,Collin
+1,1,5c,Stephen
+1,1,Dimir,Chris A
+1,1,Boros,Harrison
+0,2,Azorius,Marco
+2,0,5c,David
+1,0,Naya,Max
+1,0,Simic,Luke
+1,1,Abzan,Eric
+1,1,Temur,Noah
+1,1,Esper,Tony
+0,2,Mardu,Collin
+0,2,Rakdos,Jay
+2,0,Sultai,Tony
+2,0,Sultai,Collin
+1,1,Mardu,Oscar
+1,1,Golgari,Juwan
+1,1,Esper,David O
+1,1,Rakdos,Eric
+0,2,Boros,Noah
+0,2,Sultai,Luke
