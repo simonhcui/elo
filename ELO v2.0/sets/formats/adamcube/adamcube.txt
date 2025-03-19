@@ -113,7 +113,7 @@
 0,2,Mardu,Collin
 0,2,Rakdos,Jay
 2,0,Sultai,Tony
-2,0,Sultai,Collin
+2,0,Temur,Collin
 1,1,Mardu,Oscar
 1,1,Golgari,Juwan
 1,1,Esper,David O
