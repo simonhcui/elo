@@ -45,3 +45,11 @@
 1,1,Esper,Alan
 0,2,Gruul,Stephen
 0,2,Dimir,Luca
+2,0,Orzhov,Alan
+2,0,Azorius,Chris A
+1,1,Sultai,Adam
+1,1,Boros,Eric
+1,1,Jeskai,Walski
+1,1,Rakdos,Tony
+0,2,Temur,Stephen
+0,2,Azorius,Marco
