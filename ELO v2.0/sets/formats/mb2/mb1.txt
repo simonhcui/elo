@@ -208,3 +208,83 @@
 1,1,Selesnya,Noah
 0,2,Golgari,Travis
 0,2,Simic,Nick C
+2,0,Rakdos,Matt
+2,0,Selesnya,Tony
+2,0,Abzan,Eric
+1,1,Izzet,Noah
+1,1,Izzet,Alan
+1,1,Simic,Stephen
+1,1,Orzhov,Nick D
+0,2,Orzhov,Thana
+0,2,Orzhov,Marco
+0,2,Azorius,Chris A
+2,0,Abzan,Patrick H
+2,0,Boros,Eric
+1,1,Orzhov,Nick D
+1,1,Izzet,Alan
+1,1,Golgari,Thana
+1,1,Orzhov,Randy
+0,2,Azorius,Travis
+0,2,Sultai,Todd
+2,0,Azorius,Patrick H
+2,0,Naya,Todd
+1,1,Grixis,Alan
+1,1,Selesnya,Eric
+1,1,Rakdos,Nick D
+1,1,Boros,Thana
+0,2,Selesnya,Jesse
+0,2,Temur,Randy
+2,0,Naya,Eric
+2,0,Simic,Tony
+2,0,Orzhov,Andrew D
+1,1,Izzet,Jacob
+1,1,Bant,Walski
+1,1,Orzhov,Matt
+1,1,Simic,John K
+0,2,Golgari,Mike
+0,2,Azorius,Thana
+0,2,5c,Zane
+2,0,Gruul,Tony
+2,0,Boros,Eric
+1,1,Selesnya,Thana
+1,1,Izzet,Juwan
+1,1,Jund,Noah
+1,1,Orzhov,Andrew D
+0,2,Dimir,Walski
+0,2,Golgari,Zane
+2,0,Jeskai,Noah
+2,0,Rakdos,Eric
+1,1,Naya,Alan
+1,1,Golgari,Adam
+1,1,Simic,Luke
+1,1,Dimir,Stephen
+1,1,Orzhov,Andrew D
+0,1,Mardu,Juwan
+0,1,Boros,Chris A
+0,2,Azorius,Thana
+2,0,Naya,Collin
+2,0,Rakdos,Eric
+1,1,Simic,Stephen
+1,1,Rakdos,Thana
+1,1,Golgari,Noah
+1,1,Dimir,Adam
+1,1,Simic,Jesse
+1,1,Mono W,Luke
+0,2,Azorius,Nick D
+0,2,Gruul,Juwan
+2,0,Golgari,Thana
+2,0,Gruul,Juwan
+1,1,Dimir,Jesse
+1,1,Azorius,Noah
+1,1,4c no white,Stephen
+1,1,Mardu,Nick D
+0,2,Mono W,Eric
+0,2,Temur,Collin
+2,0,5c,Noah
+2,0,Izzet,Collin
+1,1,Azorius,Thana
+1,1,Temur,Andrew D
+1,1,Abzan,John C
+1,1,Golgari,Charles
+0,2,Simic,Wesley
+0,2,Selesnya,Ivan
