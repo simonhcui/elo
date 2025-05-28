@@ -120,3 +120,11 @@
 1,1,Rakdos,Eric
 0,2,Boros,Noah
 0,2,Sultai,Luke
+2,0,Sultai,Alan
+2,0,Abzan,Collin
+1,1,Esper,Noah
+1,1,Rakdos,Tony
+1,1,Selesnya,Adam
+0,1,4c no blue,David
+0,2,Boros,Eric
+0,1,Grixis,Jacob
