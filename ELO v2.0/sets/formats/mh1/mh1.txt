@@ -81,3 +81,11 @@
 0,1,4c no red,John K
 0,1,Rakdos,Stephen
 0,1,Gruul,Jacob
+2,0,Rakdos,Ivan
+2,0,Simic,Andrew D
+1,1,Temur,Matt
+1,1,Mardu,Charles
+1,1,Jund,Alan
+1,1,Orzhov,Stephen
+0,2,Bant,Collin
+0,2,Boros,John C
