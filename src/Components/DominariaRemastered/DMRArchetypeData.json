@@ -50,8 +50,8 @@
   {
     "rank": "9",
     "archetype": "Rakdos",
-    "winrate": "45.71%",
-    "num_drafts": "15"
+    "winrate": "46.15%",
+    "num_drafts": "17"
   },
   {
     "rank": "10",
@@ -73,8 +73,14 @@
   },
   {
     "rank": "13",
-    "archetype": "Orzhov",
-    "winrate": "30.77%",
+    "archetype": "Gruul",
+    "winrate": "35.71%",
     "num_drafts": "5"
+  },
+  {
+    "rank": "14",
+    "archetype": "Orzhov",
+    "winrate": "26.67%",
+    "num_drafts": "6"
   }
 ]
