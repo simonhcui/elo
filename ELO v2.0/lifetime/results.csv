@@ -1645,8 +1645,8 @@ Juwan,Frank,1
 Simon,Chris A,0,Chaos,12-2-23
 Andrew D,Walski,1
 Frank,John K,1
-Kevin,Vincent,1
-Simon,Vincent,0
+Kevin,Vincent B,1
+Simon,Vincent B,0
 Andrew D,Frank,1
 
 Simon,Kevin,1,Chaos,12-2-23
@@ -3876,14 +3876,14 @@ Eric,Alan,1
 Randy,Todd,1
 Thana,Patrick H,0
 
-Patrick H,Jesse,1,MB2,4-19-2025
+Patrick H,Jesse Luong,1,MB2,4-19-2025
 Thana,Todd,0
 Eric,Nick D,1
 Alan,Randy,1
 Thana,Randy,1
 Todd,Alan,1
 Eric,Patrick H,0
-Nick D,Jesse,1
+Nick D,Jesse Luong,1
 
 Oscar,Stephen,1,Chaos,4-19-2025
 Walski,David O,0
@@ -3936,7 +3936,7 @@ Matt Y,Walski,0
 Andrew D,Mike,1
 Tony,Zane,1
 Eric,Thana,1
-Mike,Matt,0
+Mike,Matt Y,0
 Walski,Eric,0
 Thana,Andrew D,0
 John K,Zane,1
@@ -4027,24 +4027,24 @@ Thana,Alan,0
 Andrew D,Luke,0
 Adam,Eric,0
 
-Jesse,Stephen,1,MB2,5-17-2025
+Jesse Luong,Stephen,1,MB2,5-17-2025
 Luke,Noah,1
 Adam,Nick D,1
 Collin,Juwan,1
 Eric,Thana,1
 Adam,Stephen,0
 Collin,Luke,1
-Eric,Jesse,1
+Eric,Jesse Luong,1
 Thana,Juwan,1
 Noah,Nick D,1
 
 Collin,Thana,0,MB2,5-17-2025
-Eric,Jesse,0
+Eric,Jesse Luong,0
 Stephen,Noah,0
 Juwan,Nick D,1
 Collin,Stephen,0
 Thana,Noah,1
-Juwan,Jesse,1
+Juwan,Jesse Luong,1
 Nick D,Eric,1
 
 Jacob,Simon,1,Chaos,5-17-2025
@@ -4069,7 +4069,7 @@ Kevin,Chris A,0
 Aaron,Luis,0
 Bradley Smith,Jacob,1
 
-Jesse,Chris A,0,Chaos,5-17-2025
+Jesse Luong,Chris A,0,Chaos,5-17-2025
 Kevin,Stephen,1
 Nick D,Christiaan,1
 Walski,Collin,0
@@ -4077,7 +4077,7 @@ Eric,Luis,1
 Walski,Christiaan,1
 Stephen,Chris A,0
 Kevin,Collin,1
-Jesse,Luis,0
+Jesse Luong,Luis,0
 Eric,Nick D,0
 
 Charles,Ivan,0,MH1,5-22-2025
@@ -4116,10 +4116,10 @@ Max M,Alan,1
 
 Eric,Bradley Schlesinger,1,DFT,5-29-2025
 Felix,Simon,1
-Alan,Vincent,1
+Alan,Vincent V,1
 Collin,Max M,0
 Alan,Eric,0
-Vincent,Bradley Schlesinger,0
+Vincent V,Bradley Schlesinger,0
 Felix,Max M,1
 Simon,Collin,0
 
@@ -4134,10 +4134,10 @@ Christiaan,Adam,0
 
 Noah,Wesley,1,DMR,5-29-2025
 Bradley Schlesinger,Eric,1
-Vincent,Alan,0
+Vincent V,Alan,0
 Thana,Max M,0
 Noah,Alan,0
-Wesley,Vincent,1
+Wesley,Vincent V,1
 Eric,Thana,1
 Bradley Schlesinger,Max M,1
 
@@ -4230,5 +4230,53 @@ Collin,Noah,0
 Eric,Luke,0
 Adam,Thana,1
 Alan,David O,1
+
+Alberto,Todd,1,FIN,6-26-2025
+Walski,Collin,1
+Zane,Frank,1
+Eric,Chris A,1
+Alberto,Zane,1
+Frank,Todd,0
+Collin,Chris A,0
+Walski,Eric,0
+
+Luke,Jacob,0,FIN,6-26-2025
+Stephen,Tony,0
+Marco,Sonny,0
+Sonny,Jacob,1
+Stephen,Luke,0
+Tony,Marco,0
+
+Evan C,Clayton,0,Chaos,6-26-2025
+Max M,Alan,0
+David O,Kian,0
+Evan C,Max M,1
+Clayton,Kian,1
+Alan,David O,1
+
+Walski,Chris A,1,FIN,6-26-2025
+Todd,Thana,0
+Alberto,Tony,0
+Zane,Frank,1
+Zane,Thana,1
+Todd,Frank,1
+Alberto,Chris A,0
+Tony,Walski,1
+
+Luke,Andrew D,0,FIN,6-26-2025
+Stephen,Marco,1
+Matt H,Evan C,1
+Luke,Stephen,1
+Marco,Evan C,0
+Andrew D,Matt H,1
+
+Kian,Collin,1,Chaos,6-26-2025
+David O,Clayton,1
+Eric,Simon,1
+Max M,Noah,0
+David O,Noah,0
+Clayton,Max M,1
+Simon,Collin,0
+Kian,Eric,1
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
