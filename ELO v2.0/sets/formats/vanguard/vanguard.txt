@@ -1,0 +1,56 @@
+2,0,Barrin,Nick D
+2,0,Mishra,Chris A
+1,1,Maraxus,Noah
+1,1,Sisay,Adam
+1,1,Lyna,Tony
+1,1,Crovax,Simon
+0,2,Gerrard,Juwan
+0,2,Squee,Luke
+2,0,Ertai,Tony
+2,0,Tawnos,Noah
+1,1,Mirri,Adam
+1,1,Volrath,Luke
+1,1,Serra,Simon
+1,1,Hanna,Chris A
+0,2,Selenia,Juwan
+0,2,Starke,Nick D
+2,0,Oracle,Eric
+2,0,Maraxus,Kevin P
+1,1,Squee,Nick D
+1,1,Serra,Grant
+1,1,Rofellos,Ana
+1,1,Sisay,Luke
+0,2,Tawnos,Adam
+0,2,Volrath,Oscar
+2,0,Hanna,Adam
+2,0,Sisay,David O
+1,1,Oracle,Grant
+1,1,Mirri,Eric
+1,1,Squee,Luke
+1,1,Tawnos,Ana
+0,2,Mishra,Oscar
+0,2,Ertai,Nick D
+2,0,Ertai,Jesse
+2,0,Titania,Noah
+1,1,Hanna,Kevin P
+1,1,Eladamri,Andrew
+1,1,Maraxus,Adam
+1,1,Volrath,Juwan
+0,2,Gerrard,Mike
+0,2,Mishra,Luke
+2,0,Titania,Adam
+2,0,Takara,Eric
+1,1,Ashnod,Jesse Luong
+1,1,Tahngarth,Wesley
+1,1,Mishra,Alan
+1,1,Selenia,Juwan
+0,2,Ertai,Christiaan
+0,2,Mirri,Luke
+2,0,Takara,Alan
+2,0,Karn,Stephen
+1,1,Hanna,Adam
+1,1,Tawnos,Luke
+1,1,Sisay,Jesse
+1,1,Titania,Collin
+0,2,Greven il-Vec,Jack
+0,2,Mishra,Christiaan
