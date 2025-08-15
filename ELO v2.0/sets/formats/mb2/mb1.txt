@@ -288,3 +288,43 @@
 1,1,Golgari,Charles
 0,2,Simic,Wesley
 0,2,Selesnya,Ivan
+2,0,Dimir,Eric K
+2,0,Abzan,Matt Y
+1,1,Abzan,Thana
+1,1,Mono W,Noah
+1,1,Rakdos,Alan
+1,1,Naya,Todd
+0,2,Izzet,Kian
+0,2,Golgari,Luke
+2,0,Gruul,Collin
+2,0,Orzhov,Patrick H
+1,1,Golgari,Andrew N
+1,1,Rakdos,Thana
+1,1,Sultai,Todd
+1,1,Azorius,Kian
+0,2,Jeskai,Jesse Lee
+0,2,Bant,Travis
+2,0,Selesnya,Nick D
+2,0,Orzhov,Kian
+1,1,Selesnya,Thana
+1,1,Jund,Todd
+1,1,Boros,Eric K
+1,1,Esper,Andrew N
+0,2,Azorius,Jesse Lee
+0,2,Naya,Travis
+2,0,Jund,Collin
+2,0,Gruul,Adan
+1,1,Bant,Juwan
+1,1,Izzet,Noah
+1,1,Dimir,Thana
+1,1,Orzhov,Eric C
+0,2,Simic,Patrick H
+0,2,Bant,Luke
+2,0,Esper,Tony
+2,0,Orzhov,Collin
+1,1,Jund,Patrick H
+1,1,4c no blue,Eric K
+1,1,Gruul,Clayton
+1,1,Sultai,Stephen
+0,2,4c no black,Luke
+0,2,Boros,Marco
