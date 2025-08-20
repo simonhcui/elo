@@ -328,3 +328,19 @@
 1,1,Sultai,Stephen
 0,2,4c no black,Luke
 0,2,Boros,Marco
+2,0,Azorius,Collin
+2,0,Boros,Eric K
+1,1,Sultai,Clayton
+1,1,Izzet,Thana
+1,1,Simic,Nick C
+1,1,Golgari,Luke
+0,2,Selesnya,Nick C
+0,2,Rakdos,Adam
+2,0,Rakdos,Thana
+2,0,Azorius,Nick D
+1,1,Grixis,Collin
+1,1,Dimir,Simon
+1,1,Rakdos,Nick C
+1,1,Selesnya,Eric K
+0,2,Sultai,Adam
+0,2,4c no black,Luke
