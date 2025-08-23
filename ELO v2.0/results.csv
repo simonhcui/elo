@@ -333,4 +333,40 @@ Collin,Clayton,1
 Walski,Luis,0
 Luke,Kevin,0
 
+Clayton,Stephen,1,IMA,8-21-2025
+Wesley,Matt H,0
+Austin,Walski,0
+Zane,Eric K,0
+Eric K,Matt H,0
+Wesley,Zane,0
+Austin,Stephen,0
+Clayton,Walski,1
+
+Travis,Marco,0,Chaos,8-21-2025
+Luke,Alberto,0
+Simon,Chris A,0
+David O,Frank,0
+Sonny,Jacob,1
+Chris A,Marco,0
+Simon,Travis,1
+Luke,David O,0
+Sonny,Frank,0
+Alberto,Jacob,0
+
+Clayton,Thana,1,WAR,8-21-2025
+Simon,Wesley,0
+Noah,Stephen,1
+Eric K,Austin,1
+Noah,Clayton,0
+Thana,Stephen,1
+Simon,Austin,1
+Wesley,Eric K,0
+
+Marco,Walski,0,Chaos,8-21-2025
+Travis,Alberto,0
+Luke,David O,0
+David O,Chris A,0
+Travis,Luke,1
+Alberto,Walski,1
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
