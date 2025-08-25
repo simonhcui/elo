@@ -1,0 +1,1208 @@
+Aaron v Alan 1-0
+Aaron v Andrew D 0-1
+Aaron v Brian H 1-0
+Aaron v Chris A 1-3
+Aaron v Clayton 1-1
+Aaron v David M 1-0
+Aaron v David O 2-1
+Aaron v Eric 2-2
+Aaron v Frank 1-0
+Aaron v Harrison 1-1
+Aaron v Jacob 1-1
+Aaron v John C 0-1
+Aaron v John K 0-2
+Aaron v Juwan 1-0
+Aaron v Luis 0-1
+Aaron v Luke 1-1
+Aaron v Marco 6-0
+Aaron v Nick R 1-0
+Aaron v Sonny 2-0
+Aaron v Stephen 5-1
+Aaron v Walski 0-1
+Adam v Alan 6-8
+Adam v Alberto 2-0
+Adam v Alice 0-1
+Adam v Ana 0-1
+Adam v Andrew D 1-2
+Adam v Andrew N 1-0
+Adam v Angga 1-0
+Adam v Bradley Smith 0-1
+Adam v Brian H 2-2
+Adam v Brian M 0-1
+Adam v Charles 1-0
+Adam v Chris A 15-18
+Adam v Christiaan 1-0
+Adam v Clayton 2-3
+Adam v Collin 2-4
+Adam v David O 7-1
+Adam v Eric 3-7
+Adam v Evan K 2-0
+Adam v Evan S 6-5
+Adam v Frank 1-1
+Adam v Grant 2-0
+Adam v Harrison 4-3
+Adam v Ian 1-1
+Adam v Ivan 1-0
+Adam v Jacob 6-5
+Adam v Jason 0-1
+Adam v Jesse 4-0
+Adam v John C 1-0
+Adam v John K 9-5
+Adam v Juwan 11-6
+Adam v Kevin 4-0
+Adam v Lawrence 1-0
+Adam v Luca 2-2
+Adam v Luis 0-2
+Adam v Luke 2-1
+Adam v Marco 4-2
+Adam v Matt Y 10-7
+Adam v Max 1-0
+Adam v Max M 1-0
+Adam v Max P 1-0
+Adam v Michael D 0-2
+Adam v Nick C 2-0
+Adam v Nick D 4-4
+Adam v Noah 1-5
+Adam v Oscar 1-1
+Adam v Patrick H 1-1
+Adam v Patrick R 0-1
+Adam v Simon 14-12
+Adam v Sonny 11-6
+Adam v Stephen 12-4
+Adam v Thana 2-0
+Adam v Tim 0-1
+Adam v Todd 2-3
+Adam v Tony 6-11
+Adam v Travis 2-3
+Adam v Vanndy 1-0
+Adam v Walski 3-4
+Adam v Will 1-1
+Adam v Zane 10-6
+Adan v Chris A 0-1
+Adan v David O 1-0
+Adan v Jacob 2-0
+Adan v John K 0-1
+Adan v Noah 0-1
+Adan v Tony 1-1
+AJ v Grant 1-0
+AJ v John W 0-1
+AJ v Kevin 0-1
+AJ v Kian 0-1
+AJ v Matt Y 0-1
+AJ v Sonny 1-0
+AJ v Zane 0-1
+Alan v Alberto 1-4
+Alan v Ana 1-0
+Alan v Andrew D 1-1
+Alan v Ben 1-0
+Alan v Charles 2-0
+Alan v Chris A 5-4
+Alan v Christiaan 1-0
+Alan v Clayton 1-4
+Alan v Collin 3-2
+Alan v David O 5-3
+Alan v Eric 9-5
+Alan v Evan S 3-2
+Alan v Harrison 3-0
+Alan v Ian C 1-0
+Alan v Ivan 1-0
+Alan v Jacob 8-0
+Alan v John C 1-0
+Alan v John K 6-1
+Alan v Juwan 1-2
+Alan v Kevin 1-0
+Alan v Laurence 0-1
+Alan v Luca 3-1
+Alan v Luis 2-0
+Alan v Luke 2-1
+Alan v Marco 4-0
+Alan v Matt Y 4-9
+Alan v Max M 1-1
+Alan v Nick C 1-0
+Alan v Nick D 4-3
+Alan v Noah 10-3
+Alan v Oscar 1-1
+Alan v Randy 1-0
+Alan v Simon 5-0
+Alan v Sonny 5-1
+Alan v Stephen 10-2
+Alan v Thana 3-0
+Alan v Todd 1-2
+Alan v Tony 3-7
+Alan v Travis 2-0
+Alan v Vincent V 2-0
+Alan v Walski 1-2
+Alberto v Ana 1-1
+Alberto v Andre 1-0
+Alberto v Andrew D 3-4
+Alberto v Bradley Smith 0-1
+Alberto v Brian H 1-0
+Alberto v Chris A 1-3
+Alberto v Clayton 0-1
+Alberto v David O 1-1
+Alberto v Evan S 2-4
+Alberto v Jacob 10-1
+Alberto v Jesse 2-0
+Alberto v John K 8-1
+Alberto v Juwan 3-0
+Alberto v Kevin 1-0
+Alberto v Laurence 1-0
+Alberto v Luca 3-1
+Alberto v Matt Y 1-0
+Alberto v Mike 1-0
+Alberto v Nick C 2-1
+Alberto v Nick D 0-2
+Alberto v Patrick H 1-0
+Alberto v Simon 3-2
+Alberto v Sonny 3-3
+Alberto v Stephen 1-0
+Alberto v Tim 1-0
+Alberto v Todd 2-0
+Alberto v Tony 1-3
+Alberto v Travis 1-0
+Alberto v Walski 4-2
+Alberto v Winston 0-1
+Alberto v Woody 2-1
+Alberto v Zane 2-0
+Alice v Andre 1-0
+Alice v Andrew D 1-0
+Alice v Angga 1-0
+Alice v Chris A 1-1
+Alice v Clayton 1-0
+Alice v David O 1-2
+Alice v Evan K 1-0
+Alice v Evan S 0-1
+Alice v Judre 1-0
+Alice v Juwan 1-2
+Alice v Khang 1-0
+Alice v Luca 0-1
+Alice v Matt Y 0-1
+Alice v Michael D 0-1
+Alice v Mike 0-1
+Alice v Nick C 1-0
+Alice v Patrick R 3-0
+Alice v Reilly 1-0
+Alice v RJ 1-0
+Alice v Todd 1-1
+Ana v Angga 0-1
+Ana v Brian H 2-0
+Ana v Chris A 1-3
+Ana v Christiaan 1-1
+Ana v Clayton 1-0
+Ana v David O 1-3
+Ana v Evan S 2-2
+Ana v Jacob 2-1
+Ana v John K 1-1
+Ana v Juwan 1-2
+Ana v Kian 1-0
+Ana v Luca 0-1
+Ana v Matt Y 3-8
+Ana v Michael D 1-0
+Ana v Mike 1-0
+Ana v Nick C 4-4
+Ana v Nick D 2-8
+Ana v Noah 1-1
+Ana v Oscar 0-1
+Ana v Patrick H 1-0
+Ana v Reilly 1-0
+Ana v Simon 1-2
+Ana v Todd 3-1
+Ana v Travis 1-0
+Ana v Vanndy 0-2
+Ana v Winston 1-1
+Ana v Zane 0-1
+Andre v Bradley Schlesinger 0-1
+Andre v Brian H 1-0
+Andre v John K 1-0
+Andre v Todd 0-1
+Andre v Zane 0-1
+Andrew D v Ben 0-1
+Andrew D v Bradley Schlesinger 1-1
+Andrew D v Bradley Smith 0-1
+Andrew D v Chris A 5-10
+Andrew D v Chris K 0-1
+Andrew D v Clayton 2-4
+Andrew D v Collin 2-0
+Andrew D v Danny 0-1
+Andrew D v David O 0-1
+Andrew D v Eric 1-5
+Andrew D v Evan K 1-1
+Andrew D v Evan S 1-5
+Andrew D v Frank 2-3
+Andrew D v Grant 1-0
+Andrew D v Harrison 1-0
+Andrew D v Jacob 8-2
+Andrew D v Jesse 1-0
+Andrew D v John K 12-2
+Andrew D v Juwan 1-3
+Andrew D v Kevin 1-1
+Andrew D v Kian 0-1
+Andrew D v Luca 0-4
+Andrew D v Luis 1-0
+Andrew D v Luke 1-2
+Andrew D v Marco 1-0
+Andrew D v Matt H 1-0
+Andrew D v Matt Y 3-1
+Andrew D v Max P 1-0
+Andrew D v Mike 1-2
+Andrew D v Nick C 1-1
+Andrew D v Nick D 1-2
+Andrew D v Nick R 1-1
+Andrew D v Noah 1-1
+Andrew D v Patrick H 0-3
+Andrew D v Simon 6-5
+Andrew D v Sonny 2-4
+Andrew D v Stephen 2-4
+Andrew D v Thana 1-1
+Andrew D v Tim 0-1
+Andrew D v Todd 1-1
+Andrew D v Tony 3-4
+Andrew D v Walski 4-2
+Andrew D v Wesley 1-0
+Andrew D v Winston 2-1
+Andrew D v Zane 1-1
+Andrew N v Angga 1-0
+Andrew N v Chris A 0-1
+Andrew N v John K 2-0
+Andrew N v Matt Y 0-1
+Andrew N v Nate 1-0
+Andrew N v Travis 1-0
+Andrew N v Walski 0-2
+Angga v Brian H 0-1
+Angga v Brian M 1-0
+Angga v Chris A 1-2
+Angga v Chris K 2-0
+Angga v Evan K 1-0
+Angga v John C 1-0
+Angga v Juwan 1-3
+Angga v Kian 1-0
+Angga v Luke 0-1
+Angga v Matt Y 5-2
+Angga v Michael D 1-0
+Angga v Nick D 1-1
+Angga v Patrick H 1-1
+Angga v Patrick R 1-0
+Angga v Sam 1-0
+Angga v Simon 5-1
+Angga v Sonny 0-2
+Angga v Todd 1-1
+Angga v Travis 2-1
+Bastion v Charles 1-0
+Bastion v Danica 1-0
+Bastion v Evan K 1-0
+Bastion v Juwan 0-1
+Bastion v Karen 1-0
+Bastion v Marco 1-0
+Bastion v Max 1-0
+Bastion v Patrick H 0-1
+Bastion v Patrick R 1-0
+Bastion v Tony 1-0
+Bastion v Travis 2-0
+Ben v Jacob 0-1
+Ben v Juwan 1-0
+Ben v Nick D 1-0
+Ben v Stephen 0-1
+Bradley Schlesinger v Danny 2-1
+Bradley Schlesinger v Eric 1-1
+Bradley Schlesinger v Jacob 1-0
+Bradley Schlesinger v Kevin 1-2
+Bradley Schlesinger v Luke 0-1
+Bradley Schlesinger v Max M 1-0
+Bradley Schlesinger v Simon 2-0
+Bradley Schlesinger v Tony 1-0
+Bradley Schlesinger v Vincent V 1-0
+Bradley Smith v Charles 0-1
+Bradley Smith v Eric 0-2
+Bradley Smith v Evan S 0-2
+Bradley Smith v Jacob 3-0
+Bradley Smith v Jesse 1-0
+Bradley Smith v Juwan 1-0
+Bradley Smith v Luca 1-0
+Bradley Smith v Matt Y 2-1
+Bradley Smith v Michael D 1-0
+Bradley Smith v Nick D 1-0
+Bradley Smith v RJ 1-0
+Bradley Smith v Sonny 0-1
+Bradley Smith v Todd 1-0
+Bradley Smith v Tony 1-0
+Bradley Smith v Walski 0-1
+Bradley Smith v Winston 1-0
+Bradley Smith v Woody 1-0
+Brian H v Chris A 0-3
+Brian H v David O 1-1
+Brian H v Evan S 0-1
+Brian H v Jacob 1-0
+Brian H v Juwan 2-2
+Brian H v Kevin 1-0
+Brian H v Khang 1-0
+Brian H v Luca 1-0
+Brian H v Matt Y 2-2
+Brian H v Mike 1-0
+Brian H v Nick C 2-2
+Brian H v Nick D 1-1
+Brian H v Nick R 1-0
+Brian H v Patrick R 0-1
+Brian H v RJ 1-0
+Brian H v Simon 3-3
+Brian H v Sonny 0-1
+Brian H v Todd 1-1
+Brian H v Tony 0-1
+Brian H v Travis 0-2
+Brian H v Zane 0-3
+Brian M v Clayton 0-1
+Brian M v David O 0-2
+Brian M v Evan K 1-0
+Brian M v Evan S 0-2
+Brian M v John K 1-0
+Brian M v Juwan 1-1
+Brian M v Khang 1-0
+Brian M v Nick R 1-0
+Brian M v Simon 0-3
+Brian M v Tim 0-1
+Charles v Danica 1-0
+Charles v David O 0-1
+Charles v Drake 1-0
+Charles v Eric 1-0
+Charles v Ivan 1-1
+Charles v Jacob 1-0
+Charles v John C 1-1
+Charles v John K 1-1
+Charles v Juwan 0-1
+Charles v Karen 1-0
+Charles v Marco 1-0
+Charles v Nick D 2-0
+Charles v Patrick R 1-1
+Charles v Sonny 0-2
+Charles v Tony 1-1
+Charles v Zane 1-0
+Chris A v Chris K 0-1
+Chris A v Christiaan 2-1
+Chris A v Clayton 4-6
+Chris A v Collin 3-1
+Chris A v Danny 1-0
+Chris A v David O 4-2
+Chris A v Eric 3-6
+Chris A v Evan K 4-0
+Chris A v Evan S 2-4
+Chris A v Frank 1-1
+Chris A v Grant 1-1
+Chris A v Harrison 6-3
+Chris A v Ian 1-0
+Chris A v Ivan 0-2
+Chris A v Jacob 10-6
+Chris A v Jesse 1-0
+Chris A v Jesse Luong 1-0
+Chris A v John C 0-1
+Chris A v John K 18-5
+Chris A v Judre 2-0
+Chris A v Juwan 10-9
+Chris A v Karen 1-0
+Chris A v Ken 0-1
+Chris A v Kevin 5-3
+Chris A v Khang 1-0
+Chris A v Kian 2-0
+Chris A v Luc 1-1
+Chris A v Luca 1-4
+Chris A v Luis 1-1
+Chris A v Luke 5-1
+Chris A v Marco 6-2
+Chris A v Matt Y 14-13
+Chris A v Michael D 2-0
+Chris A v Michael P 1-2
+Chris A v Mike 1-2
+Chris A v Nate 1-0
+Chris A v Nathan 1-1
+Chris A v Nick C 5-1
+Chris A v Nick D 7-15
+Chris A v Noah 5-4
+Chris A v Oscar 2-1
+Chris A v Patrick H 5-1
+Chris A v Patrick R 1-1
+Chris A v Ryan S 1-1
+Chris A v Simon 26-5
+Chris A v Sonny 15-13
+Chris A v Stephen 14-10
+Chris A v Tim 1-2
+Chris A v Todd 7-3
+Chris A v Tony 9-7
+Chris A v Travis 6-0
+Chris A v Vincent B 1-0
+Chris A v Walski 7-9
+Chris A v Wesley 2-0
+Chris A v Will 0-1
+Chris A v Zane 14-6
+Chris C v Christiaan 0-1
+Chris C v Jacob 0-1
+Chris C v Noah 0-1
+Chris C v Travis 0-1
+Chris H v Eric 0-1
+Chris H v Nick D 0-1
+Chris H v Simon 1-0
+Chris H v Tony 1-0
+Chris K v Juwan 0-1
+Chris K v Patrick R 0-1
+Chris K v Simon 0-2
+Christiaan v Clayton 0-2
+Christiaan v Collin 1-2
+Christiaan v David O 0-1
+Christiaan v Ivan 0-1
+Christiaan v Kevin 1-0
+Christiaan v Luc 0-2
+Christiaan v Luca 0-1
+Christiaan v Luke 0-2
+Christiaan v Marco 1-0
+Christiaan v Matt H 1-0
+Christiaan v Matt Y 0-1
+Christiaan v Mike 0-1
+Christiaan v Nick D 0-1
+Christiaan v Sonny 0-1
+Christiaan v Stephen 1-1
+Christiaan v Walski 0-1
+Christiaan v Wesley 0-1
+CJ v Zane 0-1
+Clayton v Collin 1-0
+Clayton v David O 2-1
+Clayton v Eric 0-1
+Clayton v Evan C 1-0
+Clayton v Evan K 2-1
+Clayton v Evan S 1-0
+Clayton v Felix 1-0
+Clayton v Grant 2-0
+Clayton v Jacob 8-0
+Clayton v John K 7-3
+Clayton v Juwan 3-0
+Clayton v Karen 1-0
+Clayton v Khang 1-0
+Clayton v Kian 1-1
+Clayton v Luca 2-0
+Clayton v Luis 0-1
+Clayton v Marco 2-0
+Clayton v Matt Y 4-4
+Clayton v Max 1-0
+Clayton v Max M 1-0
+Clayton v Michael D 2-0
+Clayton v Nick C 1-0
+Clayton v Noah 3-0
+Clayton v Patrick H 0-1
+Clayton v Simon 6-0
+Clayton v Sonny 8-1
+Clayton v Stephen 1-0
+Clayton v Thana 0-1
+Clayton v Tim 0-1
+Clayton v Todd 2-0
+Clayton v Tony 3-3
+Clayton v Travis 0-1
+Clayton v Walski 1-1
+Clayton v Zane 3-0
+Collin v David O 2-2
+Collin v Eric 6-4
+Collin v Felix 0-1
+Collin v Jacob 2-1
+Collin v Jesse 1-0
+Collin v John K 0-2
+Collin v Juwan 3-0
+Collin v Kevin 1-2
+Collin v Kian 0-1
+Collin v Luis 0-1
+Collin v Luke 7-1
+Collin v Marco 1-0
+Collin v Matt Y 1-1
+Collin v Max M 0-1
+Collin v Mike 1-0
+Collin v Noah 4-3
+Collin v Patrick H 1-0
+Collin v Simon 2-2
+Collin v Stephen 2-3
+Collin v Thana 1-1
+Collin v Tony 3-1
+Collin v Walski 1-3
+Collin v Wesley 1-0
+Collin v Zane 1-0
+Danica v Jacob 0-1
+Danica v Judre 0-1
+Danica v Patrick R 0-2
+Danica v RJ 0-1
+Daniel v Eric 0-1
+Daniel v Luke 0-1
+Danny v Frank 0-3
+Danny v Jacob 1-0
+Danny v John K 1-0
+Danny v Jorgie 4-0
+Danny v Kevin 0-2
+Danny v Luis 1-4
+Danny v Sonny 2-1
+Danny v Stephen 0-1
+Danny v Walski 4-4
+Danny v Zane 2-0
+David v Mike 0-1
+David M v John K 0-1
+David M v Luke 0-1
+David M v Marco 1-0
+David O v Duc 1-0
+David O v Eric 3-4
+David O v Evan S 1-5
+David O v Ian 1-0
+David O v Jacob 2-1
+David O v John C 1-0
+David O v John K 7-0
+David O v Judre 2-0
+David O v Juwan 3-2
+David O v Karen 0-2
+David O v Khang 1-0
+David O v Kian 0-1
+David O v Luca 1-1
+David O v Luis 2-1
+David O v Luke 3-1
+David O v Marco 1-0
+David O v Matt H 1-0
+David O v Matt Y 2-3
+David O v Michael D 0-2
+David O v Nick C 1-1
+David O v Nick D 3-1
+David O v Nick R 1-0
+David O v Noah 4-2
+David O v Patrick H 1-0
+David O v Patrick R 0-2
+David O v RJ 1-0
+David O v Simon 6-5
+David O v Sonny 1-0
+David O v Stephen 2-0
+David O v Thana 2-0
+David O v Todd 1-1
+David O v Tony 1-2
+David O v Travis 1-1
+David O v Walski 1-0
+David O v Wesley 1-0
+David O v Zane 1-1
+Drake v Jacob 1-0
+Drake v RJ 0-1
+Duc v Evan S 1-0
+Duc v Jacob 0-1
+Duc v Tony 0-1
+Eli v Nick D 0-1
+Eli v Travis 0-1
+Eric v Evan S 1-0
+Eric v Grant 1-0
+Eric v Harrison 0-1
+Eric v Jacob 1-0
+Eric v Jared 0-1
+Eric v Jason 1-0
+Eric v Jesse 0-1
+Eric v Jesse Luong 1-1
+Eric v John K 3-0
+Eric v John W 1-0
+Eric v Judre 1-0
+Eric v Juwan 1-1
+Eric v Kevin 1-0
+Eric v Kian 1-1
+Eric v Luis 2-2
+Eric v Luke 4-2
+Eric v Marco 5-0
+Eric v Matt Y 4-2
+Eric v Michael D 0-1
+Eric v Mike 1-0
+Eric v Nick C 0-1
+Eric v Nick D 2-2
+Eric v Nico 1-0
+Eric v Noah 5-4
+Eric v Oscar 1-0
+Eric v Patrick H 1-1
+Eric v Simon 6-0
+Eric v Sonny 1-0
+Eric v Stephen 5-0
+Eric v Thana 4-0
+Eric v Tony 4-9
+Eric v Travis 2-0
+Eric v Walski 3-2
+Eric v Zane 1-0
+Evan C v Marco 1-0
+Evan C v Matt H 0-1
+Evan C v Max M 1-0
+Evan K v Ian 0-1
+Evan K v Jacob 0-1
+Evan K v John K 0-1
+Evan K v Judre 1-0
+Evan K v Juwan 1-2
+Evan K v Khang 1-0
+Evan K v Marco 0-1
+Evan K v Matt Y 0-1
+Evan K v Nick C 1-1
+Evan K v Nick D 0-2
+Evan K v Patrick H 0-2
+Evan K v Patrick R 0-1
+Evan K v Simon 0-6
+Evan K v Sonny 0-1
+Evan K v Todd 0-2
+Evan K v Travis 2-0
+Evan K v Zane 1-0
+Evan S v Frank 1-0
+Evan S v Jacob 4-1
+Evan S v Jesse 1-0
+Evan S v John 1-0
+Evan S v John K 6-1
+Evan S v Juwan 5-5
+Evan S v Karen 0-1
+Evan S v Kevin 0-1
+Evan S v Kyle 1-0
+Evan S v Luca 2-1
+Evan S v Marco 1-0
+Evan S v Matt Y 2-4
+Evan S v Michael P 1-0
+Evan S v Nick C 0-1
+Evan S v Nick D 2-3
+Evan S v Nick R 1-0
+Evan S v Patrick H 1-0
+Evan S v Patrick R 2-0
+Evan S v Ryan S 2-1
+Evan S v Simon 7-6
+Evan S v Sonny 2-2
+Evan S v Stephen 3-0
+Evan S v Thomas 1-0
+Evan S v Todd 4-4
+Evan S v Tony 2-8
+Evan S v Vanndy 1-0
+Evan S v Vincent B 1-0
+Evan S v Vincent V 0-1
+Evan S v Walski 3-0
+Evan S v Woody 1-0
+Evan S v Zane 4-2
+Felix v John C 1-0
+Felix v John K 0-1
+Felix v Luke 2-0
+Felix v Matt Y 1-0
+Felix v Max M 1-0
+Felix v Simon 1-0
+Frank v Grant 1-0
+Frank v Jacob 1-0
+Frank v John K 3-0
+Frank v Jorgie 1-0
+Frank v Juwan 0-1
+Frank v Kevin 5-5
+Frank v Luca 0-1
+Frank v Luis 0-5
+Frank v Marco 1-0
+Frank v Matt H 1-1
+Frank v Matt Y 1-0
+Frank v Nick D 0-2
+Frank v Oscar 1-0
+Frank v Patrick H 0-1
+Frank v Simon 4-1
+Frank v Sonny 6-3
+Frank v Stephen 1-0
+Frank v Todd 1-2
+Frank v Tony 0-2
+Frank v Vincent B 0-2
+Frank v Walski 3-8
+Frank v Zane 1-5
+Grant v Jacob 2-0
+Grant v John K 0-1
+Grant v Luca 1-0
+Grant v Luke 1-0
+Grant v Matt Y 0-1
+Grant v Michael D 0-1
+Grant v Mike 0-1
+Grant v Nick C 0-2
+Grant v Patrick H 1-0
+Grant v Simon 1-0
+Grant v Stephen 1-1
+Grant v Tony 0-1
+Grant v Travis 1-1
+Grant v Walski 0-3
+Grant v Will 1-1
+Hanul v Luke 0-1
+Hanul v Oscar 1-0
+Hanul v Simon 0-1
+Hanul v Travis 0-1
+Harrison v Jacob 1-1
+Harrison v John K 1-1
+Harrison v Kevin 1-0
+Harrison v Luca 0-2
+Harrison v Marco 2-1
+Harrison v Matt Y 0-4
+Harrison v Nick D 1-0
+Harrison v Noah 0-1
+Harrison v Simon 2-3
+Harrison v Sonny 1-0
+Harrison v Stephen 0-1
+Harrison v Tony 1-3
+Harrison v Travis 1-0
+Ian v Kyle 0-1
+Ian v Todd 1-0
+Ian v Walski 0-1
+Ian v Zane 0-1
+Ian C v John K 0-2
+Ian C v Juwan 0-1
+Ian C v Matt Y 0-1
+Ian C v Simon 0-1
+Ian C v Todd 0-1
+Ian C v Tony 0-1
+Ivan v John K 1-0
+Ivan v Matt Y 2-0
+Ivan v Mike 0-1
+Ivan v Noah 0-1
+Ivan v Simon 3-0
+Ivan v Stephen 1-0
+Ivan v Tony 0-1
+Jacob v Jesse 3-2
+Jacob v John 0-1
+Jacob v John C 0-1
+Jacob v John K 12-11
+Jacob v Julio 0-1
+Jacob v Juwan 4-8
+Jacob v Karen 0-1
+Jacob v Ken 0-1
+Jacob v Kevin 0-4
+Jacob v Kian 0-1
+Jacob v Luca 1-5
+Jacob v Luis 0-2
+Jacob v Luke 2-1
+Jacob v Marco 1-1
+Jacob v Matt H 1-0
+Jacob v Matt Y 2-13
+Jacob v Michael D 1-4
+Jacob v Mike 2-1
+Jacob v Nick C 1-2
+Jacob v Nick D 0-3
+Jacob v Nico 1-1
+Jacob v Noah 0-3
+Jacob v Paegle 0-1
+Jacob v Patrick H 2-1
+Jacob v Simon 7-20
+Jacob v Sonny 1-7
+Jacob v Stephen 0-5
+Jacob v Todd 2-4
+Jacob v Tony 2-13
+Jacob v Travis 6-4
+Jacob v Vincent V 0-1
+Jacob v Walski 3-3
+Jacob v Will 0-2
+Jacob v Zane 4-7
+Jared v Luke 0-1
+Jared v Noah 0-1
+Jason v John C 0-1
+Jason v Noah 0-1
+Jay v John K 0-1
+Jay v Luke 0-1
+Jay v Tony 0-2
+Jesse v John K 0-2
+Jesse v Juwan 0-1
+Jesse v Kevin 0-1
+Jesse v Matt Y 0-2
+Jesse v Nick D 0-2
+Jesse v Noah 0-1
+Jesse v Simon 1-3
+Jesse v Todd 0-1
+Jesse v Walski 0-1
+Jesse v Winston 0-1
+Jesse Luong v Juwan 0-1
+Jesse Luong v Luis 0-1
+Jesse Luong v Nick D 0-1
+Jesse Luong v Patrick H 0-1
+Jesse Luong v Stephen 1-0
+John v Nick D 0-1
+John v Sonny 0-1
+John v Zane 1-1
+John C v Kai 1-0
+John C v Kevin 1-0
+John C v Luke 0-1
+John C v Marco 1-0
+John C v Matt Y 0-2
+John C v Noah 1-1
+John C v Sam 1-0
+John C v Stephen 1-0
+John C v Travis 1-0
+John C v Walski 0-1
+John K v John W 0-1
+John K v Jorgie 0-2
+John K v Juwan 2-1
+John K v Karen 1-0
+John K v Ken 0-2
+John K v Kevin 3-4
+John K v Khang 0-1
+John K v Luca 2-4
+John K v Luis 1-7
+John K v Luke 0-1
+John K v Marco 3-2
+John K v Matt H 1-0
+John K v Matt Y 4-12
+John K v Michael P 0-1
+John K v Mike 2-1
+John K v Nick D 1-6
+John K v Nick R 1-1
+John K v Noah 0-4
+John K v Patrick H 0-4
+John K v Patrick R 1-0
+John K v Reilly 1-0
+John K v RJ 1-0
+John K v Simon 7-15
+John K v Sonny 3-12
+John K v Stephen 5-10
+John K v Todd 2-7
+John K v Tony 2-13
+John K v Travis 3-1
+John K v Walski 3-6
+John K v Woody 0-1
+John K v Zane 3-6
+John W v Matt Y 0-1
+Jorgie v Kevin 1-1
+Jorgie v Luis 1-1
+Jorgie v Ryan S 0-1
+Jorgie v Simon 1-0
+Jorgie v Sonny 3-4
+Jorgie v Tony 0-1
+Jorgie v Walski 2-3
+Jorgie v Zane 2-1
+Judre v Juwan 1-2
+Judre v Karen 0-1
+Judre v Khang 0-1
+Judre v Michael D 1-0
+Judre v Nick C 0-1
+Judre v Patrick R 1-2
+Judre v RJ 1-0
+Judre v Simon 1-2
+Julio v Michael D 0-1
+Julio v Simon 1-1
+Julio v Tim 0-1
+Julio v Zane 1-0
+Juwan v Karen 4-0
+Juwan v Kevin 1-1
+Juwan v Khang 2-0
+Juwan v Kian 1-0
+Juwan v Luca 2-4
+Juwan v Luis 0-1
+Juwan v Marco 1-0
+Juwan v Matt Y 10-6
+Juwan v Michael D 3-1
+Juwan v Michael P 0-1
+Juwan v Mike 1-1
+Juwan v Nick C 3-0
+Juwan v Nick D 9-12
+Juwan v Nick R 1-1
+Juwan v Nico 1-0
+Juwan v Noah 0-3
+Juwan v Pat 1-0
+Juwan v Patrick H 0-1
+Juwan v Patrick R 1-1
+Juwan v Reilly 0-1
+Juwan v RJ 1-0
+Juwan v Ryan 1-0
+Juwan v Simon 16-11
+Juwan v Sonny 4-2
+Juwan v Stephen 1-3
+Juwan v Thana 0-2
+Juwan v Todd 4-3
+Juwan v Tony 3-4
+Juwan v Travis 3-1
+Juwan v Walski 1-0
+Juwan v Winston 1-3
+Juwan v Zane 7-4
+Kai v Noah 0-1
+Kai v Tony 0-1
+Kai v Travis 0-1
+Karen v Matt Y 0-1
+Karen v Michael D 1-0
+Karen v Nick C 1-0
+Karen v Nick R 0-1
+Karen v Patrick H 1-0
+Karen v Patrick R 3-0
+Karen v Sam 1-0
+Karen v Simon 2-1
+Karen v Todd 1-0
+Ken v Luca 1-0
+Ken v Luke 0-1
+Ken v Nick D 1-0
+Ken v Patrick R 0-1
+Ken v Simon 0-1
+Ken v Tony 1-0
+Ken v Walski 0-2
+Kevin v Luca 0-2
+Kevin v Luis 3-5
+Kevin v Luke 2-0
+Kevin v Marco 1-0
+Kevin v Matt Y 0-3
+Kevin v Mike 1-1
+Kevin v Nick D 0-1
+Kevin v Noah 1-0
+Kevin v Simon 4-3
+Kevin v Sonny 1-5
+Kevin v Stephen 4-2
+Kevin v Thana 0-2
+Kevin v Todd 0-1
+Kevin v Tony 3-4
+Kevin v Vincent B 1-0
+Kevin v Walski 9-8
+Kevin v Will 1-0
+Kevin v Woody 1-0
+Kevin v Zane 2-2
+Khang v Matt Y 1-1
+Khang v Nick D 0-1
+Khang v Simon 0-1
+Khang v Sonny 0-1
+Khang v Todd 1-0
+Kian v Luc 2-0
+Kian v Nick D 0-1
+Kian v Noah 0-2
+Kian v Patrick H 0-2
+Kian v Simon 0-1
+Kian v Stephen 1-1
+Kian v Todd 0-1
+Kian v Travis 1-0
+Kian v Winston 0-1
+Kyle v Simon 0-1
+Laurence v Patrick H 0-1
+Laurence v Tony 1-0
+Lawrence v Luke 1-0
+Long v Matt Y 0-1
+Luc v Simon 1-1
+Luc v Sonny 1-0
+Luc v Tony 0-1
+Luca v Luis 0-1
+Luca v Marco 1-0
+Luca v Matt Y 2-6
+Luca v Michael D 1-1
+Luca v Mike 1-0
+Luca v Nick C 1-1
+Luca v Nick D 2-3
+Luca v Nick R 0-2
+Luca v Noah 0-2
+Luca v Patrick H 0-1
+Luca v Simon 3-7
+Luca v Sonny 2-2
+Luca v Stephen 2-3
+Luca v Todd 1-0
+Luca v Tony 0-6
+Luca v Vincent V 0-1
+Luca v Walski 2-1
+Luca v Winston 0-1
+Luca v Zane 1-1
+Luis v Luke 2-0
+Luis v Matt H 2-1
+Luis v Oscar 1-1
+Luis v Simon 6-1
+Luis v Sonny 5-2
+Luis v Stephen 2-1
+Luis v Thana 0-1
+Luis v Todd 0-1
+Luis v Tony 4-2
+Luis v Walski 5-5
+Luis v Will 0-2
+Luis v Zane 1-1
+Luke v Marco 3-0
+Luke v Matt 1-1
+Luke v Matt Y 1-1
+Luke v Max M 1-0
+Luke v Nick D 1-1
+Luke v Noah 1-3
+Luke v Oscar 0-1
+Luke v Patrick H 1-0
+Luke v Simon 1-2
+Luke v Stephen 3-4
+Luke v Thana 0-1
+Luke v Todd 0-1
+Luke v Tony 0-2
+Luke v Travis 1-0
+Luke v Walski 0-1
+Marco v Matt Y 0-5
+Marco v Max M 0-1
+Marco v Max P 0-1
+Marco v Nate 1-0
+Marco v Nathan 0-2
+Marco v Nick C 1-0
+Marco v Nick D 1-2
+Marco v Nick R 0-1
+Marco v Reilly 1-0
+Marco v Simon 2-6
+Marco v Sonny 0-3
+Marco v Stephen 2-8
+Marco v Thana 1-0
+Marco v Tony 1-3
+Marco v Travis 1-0
+Marco v Walski 0-5
+Marco v Winston 0-1
+Marco v Zane 0-1
+Matt v Noah 1-0
+Matt v Stephen 0-1
+Matt H v Oscar 0-1
+Matt H v Richard 1-0
+Matt H v Travis 0-1
+Matt H v Walski 1-1
+Matt Y v Max P 0-1
+Matt Y v Michael 1-0
+Matt Y v Michael D 3-1
+Matt Y v Mike 2-1
+Matt Y v Nick C 6-4
+Matt Y v Nick D 12-10
+Matt Y v Nick R 1-1
+Matt Y v Noah 2-3
+Matt Y v Patrick H 2-0
+Matt Y v Patrick R 1-0
+Matt Y v Reilly 1-0
+Matt Y v RJ 1-0
+Matt Y v Ryan 1-0
+Matt Y v Simon 15-6
+Matt Y v Sonny 9-7
+Matt Y v Stephen 7-2
+Matt Y v Todd 6-3
+Matt Y v Tony 14-8
+Matt Y v Travis 4-1
+Matt Y v Vanndy 2-0
+Matt Y v Vincent V 1-0
+Matt Y v Walski 0-3
+Matt Y v Winston 1-0
+Matt Y v Woody 0-1
+Matt Y v Zane 5-4
+Max v RJ 0-1
+Max v Simon 0-1
+Max v Vanndy 1-0
+Max H v Stephen 1-0
+Max H v Walski 0-1
+Max M v Noah 0-3
+Max M v Sam 0-1
+Max M v Simon 0-1
+Max M v Stephen 1-0
+Max M v Thana 1-0
+Max M v Tony 1-0
+Max M v Travis 0-1
+Max M v Walski 0-1
+Michael v Nick D 0-1
+Michael v Patrick H 1-0
+Michael v Sonny 0-1
+Michael D v Mike 1-0
+Michael D v Nick C 1-0
+Michael D v RJ 1-0
+Michael D v Simon 0-2
+Michael D v Todd 0-1
+Michael D v Tony 1-1
+Michael P v Sonny 1-0
+Michael P v Tony 0-1
+Michael P v Zane 0-1
+Mike v Nick C 2-2
+Mike v Nick D 0-1
+Mike v Noah 1-0
+Mike v Patrick R 2-0
+Mike v Simon 0-1
+Mike v Stephen 0-3
+Mike v Todd 0-1
+Mike v Tony 0-2
+Mike v Walski 2-0
+Nate v Richard 1-1
+Nate v Stephen 0-1
+Nate v Walski 0-2
+Nick C v Nick D 1-7
+Nick C v Nick R 0-2
+Nick C v Noah 0-2
+Nick C v Patrick H 1-0
+Nick C v Patrick R 0-1
+Nick C v Simon 1-1
+Nick C v Stephen 0-1
+Nick C v Todd 1-0
+Nick C v Travis 1-0
+Nick C v Walski 0-2
+Nick D v Nick R 1-0
+Nick D v Noah 0-3
+Nick D v Pat 2-0
+Nick D v Patrick H 3-1
+Nick D v Patrick R 2-0
+Nick D v Reilly 1-0
+Nick D v RJ 1-0
+Nick D v Simon 8-6
+Nick D v Sonny 1-3
+Nick D v Stephen 4-2
+Nick D v Thana 1-0
+Nick D v Todd 3-4
+Nick D v Tony 2-2
+Nick D v Travis 4-0
+Nick D v Walski 1-1
+Nick D v Will 0-1
+Nick D v Winston 2-0
+Nick D v Zane 8-1
+Nick R v Simon 1-1
+Nick R v Todd 0-1
+Nick R v Tony 0-1
+Nico v Tony 0-1
+Noah v Oscar 1-0
+Noah v Patrick H 1-1
+Noah v Simon 1-2
+Noah v Sonny 0-1
+Noah v Stephen 4-2
+Noah v Thana 1-1
+Noah v Todd 1-0
+Noah v Tony 2-2
+Noah v Walski 4-3
+Noah v Wesley 1-0
+Noah v Zane 1-1
+Oscar v Pat Sun 0-1
+Oscar v Stephen 1-2
+Oscar v Tony 0-1
+Oscar v Walski 0-1
+Paegle v Stephen 0-1
+Pat v Tony 0-1
+Pat Sun v Travis 0-1
+Patrick H v Patrick R 2-1
+Patrick H v Randy 1-0
+Patrick H v Simon 1-6
+Patrick H v Thana 1-0
+Patrick H v Thomas 1-0
+Patrick H v Todd 1-2
+Patrick H v Travis 2-0
+Patrick H v Vincent B 1-0
+Patrick H v Walski 3-1
+Patrick H v Winston 0-1
+Patrick R v Simon 1-2
+Patrick R v Thomas 0-1
+Patrick R v Todd 1-0
+PlaceHolderA v PlaceHolderB 1-0
+Randy v Thana 0-1
+Randy v Todd 1-0
+Reilly v Sonny 0-1
+Reilly v Travis 1-0
+Richard v Walski 0-1
+Ryan v Todd 0-1
+Simon v Sonny 12-18
+Simon v Stephen 2-4
+Simon v Tim 0-2
+Simon v Todd 7-6
+Simon v Tony 4-14
+Simon v Travis 5-3
+Simon v Vanndy 1-0
+Simon v Vincent B 0-1
+Simon v Vincent V 0-1
+Simon v Walski 6-9
+Simon v Winston 1-0
+Simon v Woody 1-0
+Simon v Zane 12-10
+Sonny v Stephen 6-1
+Sonny v Tim 0-1
+Sonny v Todd 5-4
+Sonny v Tony 9-11
+Sonny v Travis 1-0
+Sonny v Walski 4-7
+Sonny v Zane 10-13
+Stephen v Todd 2-5
+Stephen v Tony 3-6
+Stephen v Travis 2-1
+Stephen v Walski 1-4
+Stephen v Woody 0-1
+Stephen v Zane 0-1
+Thana v Todd 2-1
+Thana v Tony 0-1
+Thana v Zane 0-1
+Tim v Zane 0-1
+Todd v Tony 0-6
+Todd v Travis 5-0
+Todd v Walski 0-2
+Todd v Zane 1-8
+Tony v Travis 1-0
+Tony v Vincent V 1-0
+Tony v Walski 8-9
+Tony v Winston 0-1
+Tony v Woody 0-1
+Tony v Zane 10-4
+Travis v Vanndy 0-1
+Travis v Will 0-1
+Travis v Zane 0-1
+Vincent B v Walski 0-1
+Vincent V v Wesley 0-1
+Walski v Will 1-1
+Walski v Woody 1-0
+Walski v Zane 8-1
