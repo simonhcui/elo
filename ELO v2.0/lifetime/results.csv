@@ -2260,7 +2260,7 @@ Alan,Sonny,0
 Adam,John K,0
 Stephen,Andrew D,1
 
-Adam,Luca,1,Vintage Cube,5-9-2024
+Adam,Luca,1,John Cube,5-9-2024
 John K,Alan,0
 Andrew D,Evan S,0
 Sonny,Stephen,1
@@ -2548,14 +2548,14 @@ Sonny,John K,1
 David O,Jacob,1
 Clayton,Tony,0
 
-Simon,Juwan,0,Vintage Cube,8-22-2024
+Simon,Juwan,0,John Cube,8-22-2024
 Adam,Luca,0
 Chris A,Stephen,1
 Chris A,Simon,1
 Stephen,Adam,1
 Juwan,Luca,0
 
-Clayton,Sonny,1,Vintage Cube,8-22-2024
+Clayton,Sonny,1,John Cube,8-22-2024
 Evan S,David O,1
 John K,Jacob,0
 Duc,Tony,0
@@ -2787,7 +2787,7 @@ Brian M,Simon,0
 Stephen,John K,1
 Alan,Sonny,1
 
-Simon,John K,0,Vintage Cube,9-19-24
+Simon,John K,0,John Cube,9-19-24
 Alan,Clayton,0
 Chris A,Stephen,1
 David O,Adam,0
@@ -2927,7 +2927,7 @@ Andrew D,Kian,0
 Simon,Chris A,0
 Stephen,Nick D,0
 
-Simon,Ivan,0,Peasant Cube,10-10-2024
+Simon,Ivan,0,Alan Cube,10-10-2024
 Adam,Harrison,1
 Juwan,Alan,1
 Luca,Chris A,0
@@ -3093,7 +3093,7 @@ Adam,Luke,1
 Tony,Collin,0
 John K,Alan,0
 
-Simon,Marco,1,Vintage Cube,11-14-2024
+Simon,Marco,1,John Cube,11-14-2024
 John K,Jacob,0
 Alan,Chris A,1
 Luca,Stephen,0
@@ -3301,7 +3301,7 @@ Andrew D,Nick D,1
 Chris A,Clayton,1
 Noah,Walski,0
 
-Alan,Eric,1,Vintage Cube,12-19-2024
+Alan,Eric,1,John Cube,12-19-2024
 David O,John K,1
 Clayton,Adam,0
 Stephen,Noah,0
@@ -3311,7 +3311,7 @@ David O,Adam,0
 Stephen,Clayton,0
 Felix,John K,0
 
-Alan,Eric,1,Peasant Cube,12-19-2024
+Alan,Eric,1,Alan Cube,12-19-2024
 David O,John K,1
 Noah,Clayton,0
 Stephen,Adam,0
@@ -3467,7 +3467,7 @@ Luke,Angga,1
 Noah,John K,1
 Max M,Sam,0
 
-David O,Eric,1,Vintage Cube,1-23-2025
+David O,Eric,1,John Cube,1-23-2025
 Tony,Jay,1
 Noah,John K,1
 Luke,Daniel,1
@@ -3592,7 +3592,7 @@ Aaron,Jacob,1
 Stephen,John K,1
 Luke,Marco,1
 
-Jacob,Adan,0,Vintage Cube,2-13-2025
+Jacob,Adan,0,John Cube,2-13-2025
 John K,David O,0
 Tony,Collin,1
 Eric,Alan,0
@@ -3743,7 +3743,7 @@ Luis,Kevin,1
 Alan,Luis,1
 Walski,Oscar,1
 
-John K,David O,0,Vintage Cube,3-13-2025
+John K,David O,0,John Cube,3-13-2025
 Tony,Luke,1
 Noah,John C,0
 Collin,Eric,0
