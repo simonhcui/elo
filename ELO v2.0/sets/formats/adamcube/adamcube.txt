@@ -128,3 +128,11 @@
 0,1,4c no blue,David
 0,2,Boros,Eric
 0,1,Grixis,Jacob
+2,0,Azorius,Clayton
+2,0,Rakdos,Adam
+1,1,Dimir,Eric K
+1,1,Boros,David O
+1,1,Simic,Collin
+0,2,Izzet,Thana
+0,2,Naya,Noah
+1,1,Jund,Jacob
