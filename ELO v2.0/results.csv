@@ -378,6 +378,15 @@ Clayton,Wesley,1
 Eric K,Stephen,1
 Travis,Mike,1
 
+Wesley,Thana,1,FDN,8-28-2025
+Travis,Noah,1
+Adam,Clayton,0
+Collin,Eric K,0
+Collin,Noah,0
+Eric K,Travis,0
+Adam,Thana,1
+Clayton,Wesley,1
+
 Luke,Kevin,0,Chaos,8-28-2025
 Sonny,Walski,0
 Frank,Tony,1
@@ -405,6 +414,12 @@ Chris A,Nick D,1
 Nick D,Alberto,1
 Marco,Stephen,0
 Chris A,Jacob,1
+
+Jacob,Simon,1,Chaos,8-28-2025
+Clayton,Luke,1
+Clayton,Jacob,0
+Luke,Simon,1
+Jacob,Luke,1
 
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
