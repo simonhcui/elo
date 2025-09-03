@@ -226,3 +226,11 @@
 1,1,Mardu,Matt
 0,2,Simic,Jacob
 0,2,Izzet,Patrick H
+2,0,Jeskai,Noah
+2,0,Selesnya,Clayton
+1,1,Gruul,Travis
+1,1,Bant,Ana
+1,1,Grixis,Matt Y
+1,1,Grixis,Juwan
+0,2,Gruul,Eric C
+0,2,Orzhov,Stephen
