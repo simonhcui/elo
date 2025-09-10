@@ -1,0 +1,32 @@
+[
+  {
+    "rank": "1",
+    "archetype": "Boros",
+    "winrate": "66.67%",
+    "num_drafts": "11"
+  },
+  {
+    "rank": "2",
+    "archetype": "Bant",
+    "winrate": "63.64%",
+    "num_drafts": "5"
+  },
+  {
+    "rank": "3",
+    "archetype": "5c",
+    "winrate": "47.62%",
+    "num_drafts": "10"
+  },
+  {
+    "rank": "4",
+    "archetype": "Dimir",
+    "winrate": "44.44%",
+    "num_drafts": "5"
+  },
+  {
+    "rank": "5",
+    "archetype": "Jund",
+    "winrate": "30.00%",
+    "num_drafts": "5"
+  }
+]
