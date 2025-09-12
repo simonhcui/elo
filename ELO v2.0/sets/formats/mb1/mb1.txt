@@ -53,3 +53,11 @@
 1,1,Rakdos,Tony
 0,2,Temur,Stephen
 0,2,Azorius,Marco
+2,0,Jeskai,Kevin
+2,0,Rakdos,Adam
+1,1,Esper,Collin
+1,1,Azorius,Marco
+1,1,Orzhov,Luke
+0,1,Mono G,Chris A
+0,1,Naya,Zane
+0,2,Mono U,Aaron

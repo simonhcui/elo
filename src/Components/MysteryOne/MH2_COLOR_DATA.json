@@ -1,0 +1,27 @@
+[
+  {
+    "rank": "1",
+    "color": "Red",
+    "win_percentage": "55.22%"
+  },
+  {
+    "rank": "2",
+    "color": "Blue",
+    "win_percentage": "52.27%"
+  },
+  {
+    "rank": "3",
+    "color": "Black",
+    "win_percentage": "50.88%"
+  },
+  {
+    "rank": "4",
+    "color": "Green",
+    "win_percentage": "47.46%"
+  },
+  {
+    "rank": "5",
+    "color": "White",
+    "win_percentage": "47.06%"
+  }
+]
