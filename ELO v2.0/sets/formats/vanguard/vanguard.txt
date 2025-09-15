@@ -54,3 +54,19 @@
 1,1,Titania,Collin
 0,2,Greven il-Vec,Jack
 0,2,Mishra,Christiaan
+2,0,Tawnos,Winston
+2,0,Sisay,Luke
+1,1,Misha,Jesse
+1,1,Squee,Noah
+1,1,Hanna,Clayton
+1,1,Mirri,Grant
+0,2,Greven,Adam
+0,2,Eladamri,Juwan
+2,0,Karn,Clayton
+2,0,Squee,Grant
+1,1,Xantcha,Adam
+1,1,Mirri,Jesse
+1,1,Crovax,Winston
+1,1,Serra,Noah
+0,2,Hanna,Luke
+0,2,Starke,Juwan

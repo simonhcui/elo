@@ -482,4 +482,48 @@ Marco,Mike,0
 Tony,Simon,1
 Adam,Travis,0
 
+Chris A,Brian H,1,MB2,9-13-2025
+Nick D,Eric C,0
+Thana,Collin,0
+Eric K,Kevin P,1
+Chris A,Collin,0
+Brian H,Thana,0
+Nick D,Kevin P,1
+Eric C,Eric K,0
+
+Tony,Luis,1,Chaos,9-13-2025
+Austin,Walski,0
+Austin,Stephen,0
+Walski,Tony,0
+Luis,Travis,1
+
+Simon,Walski,0,Chaos,9-13-2025
+Austin,Luis,0
+Stephen,Tony,1
+Stephen,Luis,0
+
+Thana,Eric C,1,MB2,9-13-2025
+Chris A,Nick D,0
+Brian H,Collin,0
+Kevin P,Eric K,1
+Thana,Collin,0
+Eric C,Brian H,0
+Eric K,Chris A,0
+Kevin P,Nick D,1
+
+Simon,Nick D,1,FIN,9-13-2025
+Noah,Eric C,1
+Grant,Thana,0
+Brian H,Eric K,1
+Simon,Thana,0
+Noah,Brian H,0
+Eric C,Eric K,0
+
+Nick D,Thana,1,Chaos,9-13-2025
+Adam,Chris A,1
+Stephen,Luke,0
+Adam,Stephen,1
+Thana,Chris A,1
+Nick D,Luke,1
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
