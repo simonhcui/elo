@@ -344,3 +344,19 @@
 1,1,Selesnya,Eric K
 0,2,Sultai,Adam
 0,2,4c no black,Luke
+2,0,Mardu,Collin
+2,0,Boros,Eric K
+1,1,Golgari,Thana
+1,1,Boros,Chris A
+1,1,Azorius,Eric C
+1,1,Azorius,Nick D
+0,2,Gruul,Kevin P
+0,2,Orzhov,Brian H
+2,0,Azorius,Collin
+2,0,Azorius,Kevin P
+1,1,Golgari,Thana
+1,1,Orzhov,Brian H
+1,1,Rakdos,Chris A
+1,1,5c,Nick D
+0,2,Rakdos,Eric K
+0,2,4c no red,Eric C
