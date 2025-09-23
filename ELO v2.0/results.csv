@@ -526,4 +526,45 @@ Adam,Stephen,1
 Thana,Chris A,1
 Nick D,Luke,1
 
+Luke,Brian H,0,Collin Cube,9-13-2025
+Eric K,Clayton,0
+Collin,Adam,0
+Noah,Felix,1
+Tony,David O,1
+Luke,Felix,0
+Brian H,Adam,1
+Collin,Tony,1
+Noah,Clayton,0
+Eric K,David O,0
+
+Stephen,Brian H,0,Noah Cube,9-13-2025
+Noah,David O,0
+Clayton,Collin,1
+Eric K,Thana,1
+Adam,Felix,1
+Brian H,Collin,0
+Stephen,Thana,0
+Adam,David O,1
+Eric K,Clayton,0
+Noah,Felix,1
+
+Simon,Luis,0,Chaos,9-13-2025
+Marco,Walski,1
+Chris A,Aaron,1
+Kevin,Sonny,1
+Travis,Stephen,1
+Simon,Sonny,1
+Kevin,Aaron,0
+Travis,Marco,1
+Walski,Stephen,0
+Luis,Chris A,1
+
+Kevin,Luke,0,Chaos,9-13-2025
+Walski,Travis,0
+Marco,Luis,0
+Chris A,Tony,0
+Chris A,Walski,1
+Travis,Tony,0
+Luis,Luke,1
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
