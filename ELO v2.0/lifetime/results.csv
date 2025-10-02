@@ -2735,18 +2735,18 @@ John K,Luis,0
 
 Adam,Simon,1,WAR,9-12-24
 Sonny,Matt Y,0
-Stephen,Eric,0
+Stephen,Eric K,0
 Tony,Alan,1
 Adam,Matt Y,1
 Simon,Sonny,1
-Tony,Eric,0
+Tony,Eric K,0
 Alan,Stephen,1
 
 Alan,Matt Y,0,M19,9-12-24
 Sonny,Simon,1
 Stephen,Adam,0
-Tony,Eric,0
-Sonny,Eric,0
+Tony,Eric K,0
+Sonny,Eric K,0
 Simon,Tony,0
 Adam,Matt Y,1
 Stephen,Alan,0
@@ -2762,20 +2762,20 @@ Nate,Andrew N,0
 
 Simon,Alan,0,DMU,9-17-24
 Tony,Clayton,0
-Eric,Matt Y,1
+Eric K,Matt Y,1
 Adam,Jesse,1
 Clayton,Alan,1
 Tony,Simon,1
-Adam,Eric,0
+Adam,Eric K,0
 Jesse,Matt Y,0
 
 Alan,Tony,0,NEO,9-17-24
 Adam,Jesse,1
-Matt Y,Eric,0
+Matt Y,Eric K,0
 Noah,Clayton,0
 Noah,Jesse,1
 Clayton,Adam,1
-Tony,Eric,1
+Tony,Eric K,1
 Alan,Matt Y,1
 
 Simon,Chris A,0,Adam Cube,9-19-24
@@ -2799,21 +2799,21 @@ Alan,Stephen,1
 Matt Y,Tony,0,MB2,9-24-24
 Stephen,Todd,0
 Zane,Collin,0
-Adam,Eric,1
+Adam,Eric K,1
 Jesse,Kevin,0
 Kevin,Todd,0
 Tony,Zane,1
 Collin,Jesse,1
 Matt Y,Adam,0
-Stephen,Eric,0
+Stephen,Eric K,0
 
 Tony,Matt Y,0,MB2,9-24-24
-Collin,Eric,1
+Collin,Eric K,1
 Kevin,Harrison,0
 Zane,Adam,1
 Stephen,Todd,0
 Matt Y,Harrison,1
-Tony,Eric,0
+Tony,Eric K,0
 Collin,Adam,1
 Todd,Zane,0
 Kevin,Stephen,1
@@ -2946,22 +2946,22 @@ Adam,Noah,0
 Juwan,Luca,1
 
 Simon,Matt Y,1,WAR,10-15-2024
-Bradley Smith,Eric,0
+Bradley Smith,Eric K,0
 Tony,Luca,1
 Alan,Charles,1
 Simon,Tony,0
 Charles,Bradley Smith,1
-Alan,Eric,1
+Alan,Eric K,1
 Matt Y,Luca,1
 
 Simon,Luca,1,NEO,10-15-2024
 Bradley Smith,Tony,1
 Matt Y,Alan,1
-Eric,Nico,1
+Eric K,Nico,1
 Simon,Matt Y,1
 Luca,Alan,1
 Nico,Tony,0
-Eric,Bradley Smith,1
+Eric K,Bradley Smith,1
 
 Adam,Harrison,0,SOI,10-17-2024
 John K,Andrew D,0
@@ -2985,10 +2985,10 @@ Chris A,Harrison,1
 
 Simon,Harrison,0,MB1,10-22-2024
 Matt Y,Marco,1
-Collin,Eric,1
+Collin,Eric K,1
 Chris A,Luca,0
 Kevin,Walski,0
-Simon,Eric,0
+Simon,Eric K,0
 Kevin,Marco,1
 Harrison,Luca,0
 Matt Y,Chris A,0
@@ -3025,10 +3025,10 @@ Matt Y,John K,1
 Adam,Zane,1,MB2,10-31-2024
 Andrew D,Max P,1
 Harrison,Marco,1
-Matt Y,Eric,0
+Matt Y,Eric K,0
 Adam,Harrison,0
 Zane,Marco,1
-Andrew D,Eric,0
+Andrew D,Eric K,0
 Max P,Matt Y,1
 
 Marco,Matt Y,0,MB2,10-31-2024
@@ -3050,12 +3050,12 @@ Marco,Luke,0
 Alan,Kevin,1
 
 Tony,Walski,0,Chaos,11-7-2024
-Eric,John K,1
+Eric K,John K,1
 Stephen,Adam,0
 Stephen,John K,1
-Eric,Walski,0
+Eric K,Walski,0
 Tony,Adam,1
-Eric,Adam,1
+Eric K,Adam,1
 Stephen,Walski,0
 Tony,John K,1
 
@@ -3067,28 +3067,28 @@ Kevin,Adam,0
 Sonny,Tony,1
 John K,Adam,0
 
-Eric,Aaron,1,Chaos,11-7-2024
+Eric K,Aaron,1,Chaos,11-7-2024
 Noah,Chris A,0
 Stephen,Luke,1
 Harrison,Marco,0
-Marco,Eric,0
+Marco,Eric K,0
 Harrison,Aaron,0
 Chris A,Stephen,0
 Noah,Luke,1
 
 Simon,Adam,0,MB2,11-12-2024
-Eric,Tony,0
+Eric K,Tony,0
 John K,Alan,0
 Collin,Luke,1
 Simon,John K,0
 Collin,Tony,1
-Luke,Eric,0
+Luke,Eric K,0
 
 Noah,Luke,1,IKO,11-12-2024
 Alan,Collin,0
-Eric,Adam,1
+Eric K,Adam,1
 Tony,John K,1
-Eric,Noah,1
+Eric K,Noah,1
 Adam,Luke,1
 Tony,Collin,0
 John K,Alan,0
@@ -3164,26 +3164,26 @@ Chris A,Walski,0
 
 Chris A,John K,1,MB2,11-19-2024
 Simon,Luke,1
-Matt Y,Eric,1
+Matt Y,Eric K,1
 Alan,Collin,1
 Matt Y,Chris A,1
-Eric,John K,1
+Eric K,John K,1
 Alan,Simon,1
 Collin,Luke,1
 
 Simon,Noah,1,2X2,11-19-2024
 Chris A,John K,0
-Eric,Collin,1
+Eric K,Collin,1
 Matt Y,Luke,1
-Eric,Simon,1
+Eric K,Simon,1
 Collin,Noah,1
 Luke,Chris A,0
 
 Alan,Chris A,1,MB2,11-26-2024
 Chris H,Tony,1
-Eric,Andrew D,1
+Eric K,Andrew D,1
 Nick D,John K,0
-Eric,Chris H,1
+Eric K,Chris H,1
 Andrew D,Tony,1
 Alan,John K,0
 Chris A,Nick D,0
@@ -3192,8 +3192,8 @@ Simon,Chris H,0,MB2,11-26-2024
 Nick D,John K,1
 Tony,Alan,1
 Noah,Chris A,0
-Andrew D,Eric,0
-Eric,Chris A,1
+Andrew D,Eric K,0
+Eric K,Chris A,1
 Simon,Alan,0
 Nick D,Chris H,1
 Andrew D,John K,1
@@ -3239,20 +3239,20 @@ Simon,Marco,1,KTK,12-12-2024
 Stephen,Chris A,1
 Harrison,Matt Y,0
 Tony,Sonny,1
-Alan,Eric,1
+Alan,Eric K,1
 Harrison,Tony,0
 Sonny,Marco,1
-Chris A,Eric,1
+Chris A,Eric K,1
 Simon,Alan,0
 
 Tony,Stephen,1,MB2,12-12-2024
-Eric,Chris A,0
+Eric K,Chris A,0
 Sonny,Marco,1
 Harrison,Matt Y,0
 Sonny,Tony,1
 Marco,Stephen,0
 Matt Y,Chris A,1
-Eric,Harrison,0
+Eric K,Harrison,0
 
 Juwan,Angga,1,MH3,12-14-2024
 Alan,Matt Y,1
@@ -3274,10 +3274,10 @@ Jacob,Juwan,0
 
 Nick C,Andrew D,1,Chaos,12-14-2024
 Tony,Walski,0
-Eric,Noah,0
+Eric K,Noah,0
 Chris A,Stephen,0
 Clayton,John K,1
-Tony,Eric,1
+Tony,Eric K,1
 Walski,Nick C,1
 Noah,Clayton,0
 Chris A,Andrew D,1
@@ -3285,40 +3285,40 @@ Stephen,John K,1
 
 Walski,Stephen,1,Chaos,12-14-2024
 Nick C,Andrew D,0
-Noah,Eric,1
+Noah,Eric K,1
 Chris A,Clayton,0
 Walski,Noah,0
-Stephen,Eric,0
+Stephen,Eric K,0
 Clayton,Andrew D,1
 Chris A,Nick C,1
 
 Simon,Andrew D,1,Chaos,12-14-2024
 Clayton,Walski,1
 Noah,Chris A,0
-Eric,Nick D,1
-Simon,Eric,0
+Eric K,Nick D,1
+Simon,Eric K,0
 Andrew D,Nick D,1
 Chris A,Clayton,1
 Noah,Walski,0
 
-Alan,Eric,1,John Cube,12-19-2024
+Alan,Eric K,1,John Cube,12-19-2024
 David O,John K,1
 Clayton,Adam,0
 Stephen,Noah,0
 Alan,Noah,1
-Luke,Eric,0
+Luke,Eric K,0
 David O,Adam,0
 Stephen,Clayton,0
 Felix,John K,0
 
-Alan,Eric,1,Alan Cube,12-19-2024
+Alan,Eric K,1,Alan Cube,12-19-2024
 David O,John K,1
 Noah,Clayton,0
 Stephen,Adam,0
 Luke,Felix,0
 Adam,Alan,0
 David O,Luke,1
-Noah,Eric,0
+Noah,Eric K,0
 Clayton,Felix,1
 
 Jacob,Walski,0,Chaos,1-2-2025
@@ -3335,13 +3335,13 @@ Jacob,Chris A,0
 Simon,John K,1,Chaos,1-2-2025
 Clayton,Marco,1
 Aaron,David O,1
-Eric,Alan,0
+Eric K,Alan,0
 David M,Luke,0
 Clayton,Aaron,0
 Simon,Luke,1
 Alan,David O,1
 John K,David M,1
-Marco,Eric,0
+Marco,Eric K,0
 
 Adam,Walski,0,Chaos,1-2-2025
 Mike,Stephen,0
@@ -3355,29 +3355,29 @@ Mike,Tony,0
 Alan,Luke,1,Chaos,1-2-2025
 Marco,Clayton,0
 Noah,Jared,1
-Eric,Aaron,0
+Eric K,Aaron,0
 Clayton,Aaron,1
-Marco,Eric,0
+Marco,Eric K,0
 Noah,Alan,0
 Jared,Luke,0
 
 Simon,Tony,0,2X2,1-9-2025
 Jason,John C,0
-Eric,Matt Y,0
+Eric K,Matt Y,0
 Adam,Alan,0
 Tony,Matt Y,0
-Simon,Eric,0
+Simon,Eric K,0
 Adam,Jason,0
 Alan,John C,1
 
-Eric,Alan,0,OTJ,1-9-2025
+Eric K,Alan,0,OTJ,1-9-2025
 Noah,Jason,1
 Tony,Matt Y,0
 Kai,John C,0
 John C,Matt Y,0
 Kai,Tony,0
 Noah,Alan,0
-Jason,Eric,0
+Jason,Eric K,0
 
 Simon,Angga,0,DSK,1-11-2025
 Travis,Juwan,1
@@ -3435,11 +3435,11 @@ Chris A,Adam,1
 Ana,Jacob,0,Chaos,1-11-2025
 Nick C,Noah,0
 Nick D,Jesse,1
-Luke,Eric,1
+Luke,Eric K,1
 Nick C,Ana,1
 Noah,Jacob,1
 Nick D,Luke,1
-Jesse,Eric,1
+Jesse,Eric K,1
 
 Simon,Chris A,0,Chaos,1-11-2025
 Jesse,Jacob,0
@@ -3467,13 +3467,13 @@ Luke,Angga,1
 Noah,John K,1
 Max M,Sam,0
 
-David O,Eric,1,John Cube,1-23-2025
+David O,Eric K,1,John Cube,1-23-2025
 Tony,Jay,1
 Noah,John K,1
 Luke,Daniel,1
 Luke,David O,0
 John K,Jay,1
-Eric,Daniel,1
+Eric K,Daniel,1
 Noah,Tony,1
 
 Simon,Chris A,1,Adam Cube,1-23-2025
@@ -3485,19 +3485,19 @@ Chris A,Harrison,1
 
 Noah,Collin,1,Adam Cube,1-23-2025
 Tony,Max M,0
-David O,Eric,1
+David O,Eric K,1
 Jay,Luke,0
 David O,Noah,1
-Eric,Collin,1
+Eric K,Collin,1
 Tony,Jay,1
 
 Simon,Marco,1,INR,1-30-2025
 Adam,Jacob,1
-Kevin,Eric,0
+Kevin,Eric K,0
 Collin,David O,0
 Simon,Adam,0
 Marco,Jacob,0
-David O,Eric,0
+David O,Eric K,0
 Collin,Kevin,0
 
 Matt Y,John K,0,MB2,1-30-2025
@@ -3517,22 +3517,22 @@ Juwan,Stephen,0
 Walski,Jacob,0
 Kevin,Chris A,0
 
-Simon,Eric,0,INR,1-30-2025
+Simon,Eric K,0,INR,1-30-2025
 David O,Tony,1
 Marco,Adam,0
 Collin,Luis,0
 Noah,Max M,1
-David O,Eric,1
+David O,Eric K,1
 Tony,Luis,0
 Simon,Max M,1
 Adam,Noah,0
 Marco,Collin,0
 
 Travis,Angga,0,MH3,2-1-2025
-Eric,Grant,1
+Eric K,Grant,1
 Matt Y,Michael D,0
 AJ,John W,0
-Eric,John W,1
+Eric K,John W,1
 Grant,AJ,0
 Michael D,Angga,0
 Travis,Matt Y,1
@@ -3540,11 +3540,11 @@ Travis,Matt Y,1
 Matt Y,AJ,1,OTJ,2-1-2025
 Michael D,Grant,1
 Kian,Angga,0
-Travis,Eric,0
+Travis,Eric K,0
 Matt Y,Angga,1
 AJ,Kian,0
 Grant,Travis,1
-Michael D,Eric,1
+Michael D,Eric K,1
 
 Will,Walski,0,Chaos,2-1-2025
 John K,Matt H,1
@@ -3568,10 +3568,10 @@ AJ,Kevin,0,Chaos,2-1-2025
 Will,Nick D,1
 Adam,Chris A,0
 Luke,Noah,0
-Eric,Luis,0
+Eric K,Luis,0
 Kevin,Noah,1
 Will,Chris A,1
-Eric,Adam,1
+Eric K,Adam,1
 Luke,Luis,0
 
 Chris A,Kevin,0,Chaos,2-1-2025
@@ -3595,18 +3595,18 @@ Luke,Marco,1
 Jacob,Adan,0,John Cube,2-13-2025
 John K,David O,0
 Tony,Collin,1
-Eric,Alan,0
+Eric K,Alan,0
 Jacob,Collin,0
 Adan,Tony,0
-John K,Eric,0
+John K,Eric K,0
 David O,Alan,0
 
 Adan,David O,1,Alan Cube,2-13-2025
 Collin,Luke,0
 Alan,Tony,0
-Adam,Eric,1
+Adam,Eric K,1
 Adam,Luke,1
-Eric,Collin,1
+Eric K,Collin,1
 Tony,Adan,0
 David O,Alan,0
 
@@ -3636,7 +3636,7 @@ Noah,Matt Y,1
 Juwan,Adam,0
 Collin,Stephen,0
 
-Noah,Eric,0,MB2,2-28-2025
+Noah,Eric K,0,MB2,2-28-2025
 Oscar,Pat Sun,0
 Travis,Kai,1
 Jacob,Patrick H,1
@@ -3649,8 +3649,8 @@ Hanul,Oscar,1
 Simon,Luke,0,MB2,2-28-2025
 Noah,Patrick H,0
 Hanul,Travis,0
-Oscar,Eric,0
-Patrick H,Eric,0
+Oscar,Eric K,0
+Patrick H,Eric K,0
 Noah,Oscar,1
 Simon,Hanul,1
 Luke,Travis,1
@@ -3724,7 +3724,7 @@ Frank,Nick D,0
 
 Grant,Luke,1,Collin Cube,3-8-2025
 Alan,Noah,1
-Eric,Nick C,0
+Eric K,Nick C,0
 Ana,Oscar,0
 Grant,Nick C,0
 Alan,Oscar,1
@@ -3732,10 +3732,10 @@ Ana,Noah,1
 
 Simon,Kevin,1,Chaos,3-8-2025
 Adam,Luis,0
-Walski,Eric,1
+Walski,Eric K,1
 Simon,Luis,0
 Kevin,Walski,0
-Eric,Adam,1
+Eric K,Adam,1
 
 Adam,Oscar,0,Chaos,3-8-2025
 Walski,Alan,1
@@ -3746,65 +3746,65 @@ Walski,Oscar,1
 John K,David O,0,John Cube,3-13-2025
 Tony,Luke,1
 Noah,John C,0
-Collin,Eric,0
-Tony,Eric,1
+Collin,Eric K,0
+Tony,Eric K,1
 Luke,Collin,0
 David O,John C,1
 John K,Noah,0
 
 Tony,Oscar,1,Adam Cube,3-13-2025
 Juwan,David O,1
-Luke,Eric,0
+Luke,Eric K,0
 Noah,Collin,0
 Noah,David O,0
 Collin,Juwan,1
 Luke,Oscar,0
-Eric,Tony,0
+Eric K,Tony,0
 
-Tony,Eric,0,TSR,3-20-2025
+Tony,Eric K,0,TSR,3-20-2025
 Matt Y,Kevin,1
 Walski,Luis,0
 Jacob,Zane,1
 Jacob,Matt Y,0
 Zane,Kevin,0
-Luis,Eric,1
+Luis,Eric K,1
 
-Tony,Eric,1,IMA,3-20-2025
+Tony,Eric K,1,IMA,3-20-2025
 Adam,Zane,1
 Luis,Kevin,0
 Noah,Walski,1
 Adam,Noah,0
 Zane,Walski,0
-Luis,Eric,0
+Luis,Eric K,0
 Kevin,Tony,1
 
 Noah,Alan,1,MB2,3-27-2025
-Eric,Chris A,1
+Eric K,Chris A,1
 Tony,Stephen,1
 Nick D,Thana,1
 Matt Y,Marco,1
 Noah,Matt Y,0
-Eric,Thana,1
+Eric K,Thana,1
 Stephen,Chris A,1
 Nick D,Tony,0
 Alan,Marco,1
 
 Stephen,Chris A,1,OTJ,3-27-2025
-Noah,Eric,1
+Noah,Eric K,1
 Alan,Marco,1
 Matt Y,Tony,1
 Stephen,Matt Y,1
 Noah,Alan,1
-Eric,Marco,1
+Eric K,Marco,1
 Tony,Chris A,1
 
 Adam,Alan,1,Chaos,4-3-2025
 Kevin,Chris A,0
-Stephen,Eric,0
+Stephen,Eric K,0
 Jacob,Noah,0
 Jacob,Kevin,0
 Noah,Chris A,1
-Eric,Adam,0
+Eric K,Adam,0
 Stephen,Alan,1
 
 Aaron,David O,0,Chaos,4-3-2025
@@ -3819,9 +3819,9 @@ Marco,Aaron,0
 Noah,Chris A,0,Chaos,4-3-2025
 Tony,Alan,1
 Kevin,Stephen,1
-David O,Eric,0
+David O,Eric K,0
 David O,Alan,1
-Eric,Tony,0
+Eric K,Tony,0
 Kevin,Chris A,0
 Stephen,Noah,0
 
@@ -3832,57 +3832,57 @@ Marco,Aaron,0
 Luke,Adam,1
 Walski,Nate,1
 
-Eric,Collin,0,Adam Cube,4-10-2025
+Eric K,Collin,0,Adam Cube,4-10-2025
 Jacob,Alan,0
 Tony,Adam,0
 David O,Noah,0
 Noah,Alan,0
 Collin,Adam,1
-Eric,Tony,0
+Eric K,Tony,0
 
 Tony,David O,1,Noah Cube,4-10-2025
 Collin,Juwan,1
 Adam,Alan,0
-Eric,Noah,1
+Eric K,Noah,1
 Tony,Alan,1
 David O,Adam,0
 Juwan,Noah,0
-Collin,Eric,1
+Collin,Eric K,1
 
 Marco,Alan,0,MB1,4-17-2025
 Adam,Chris A,0
 Tony,Walski,1
-Stephen,Eric,0
+Stephen,Eric K,0
 Stephen,Adam,0
-Eric,Chris A,0
+Eric K,Chris A,0
 Tony,Alan,0
 Walski,Marco,1
 
 Noah,Adam,1,A25,4-17-2025
 Stephen,Alan,0
 Tony,Walski,0
-Marco,Eric,0
+Marco,Eric K,0
 Marco,Stephen,1
-Eric,Alan,0
+Eric K,Alan,0
 Walski,Noah,1
 Tony,Adam,0
 
 Thana,Todd,1,MB2,4-19-2025
 Nick D,Alan,0
 Randy,Patrick H,0
-Travis,Eric,0
+Travis,Eric K,0
 Travis,Nick D,0
-Eric,Alan,1
+Eric K,Alan,1
 Randy,Todd,1
 Thana,Patrick H,0
 
 Patrick H,Jesse Luong,1,MB2,4-19-2025
 Thana,Todd,0
-Eric,Nick D,1
+Eric K,Nick D,1
 Alan,Randy,1
 Thana,Randy,1
 Todd,Alan,1
-Eric,Patrick H,0
+Eric K,Patrick H,0
 Nick D,Jesse Luong,1
 
 Oscar,Stephen,1,Chaos,4-19-2025
@@ -3921,13 +3921,13 @@ Stephen,Simon,0
 Frank,Adam,1
 Oscar,Chris A,0
 
-Eric,Alan,1,Noah Cube,4-19-2025
+Eric K,Alan,1,Noah Cube,4-19-2025
 Noah,Andrew D,1
 Luke,David O,0
 Luke,Alan,0
-Eric,Andrew D,1
+Eric K,Andrew D,1
 Noah,David O,0
-Eric,David O,1
+Eric K,David O,1
 Noah,Alan,0
 Luke,Andrew D,1
 
@@ -3935,20 +3935,20 @@ Jacob,John K,1,MB2,4-24-2025
 Matt Y,Walski,0
 Andrew D,Mike,1
 Tony,Zane,1
-Eric,Thana,1
+Eric K,Thana,1
 Mike,Matt Y,0
-Walski,Eric,0
+Walski,Eric K,0
 Thana,Andrew D,0
 John K,Zane,1
 Jacob,Tony,0
 
 Zane,Tony,0,MB2,4-24-2025
-Eric,Walski,1
+Eric K,Walski,1
 Thana,Juwan,1
 Andrew D,Noah,1
 Zane,Juwan,0
 Tony,Thana,1
-Eric,Andrew D,1
+Eric K,Andrew D,1
 Walski,Noah,0
 
 Walski,Collin,1,Chaos,5-1-2025
@@ -3987,9 +3987,9 @@ Marco,John K,0,John Cube,5-8-2025
 Adam,Stephen,1
 David O,Collin,0
 Chris A,Alan,0
-Jacob,Eric,0
+Jacob,Eric K,0
 Jacob,Adam,0
-Eric,Alan,0
+Eric K,Alan,0
 Collin,John K,0
 Stephen,Chris A,1
 David O,Marco,1
@@ -3998,54 +3998,54 @@ Marco,Stephen,0,Alan Cube,5-8-2025
 Noah,Adam,0
 David O,Collin,0
 Alan,Thana,1
-Chris A,Eric,0
+Chris A,Eric K,0
 David O,Stephen,1
-Collin,Eric,1
+Collin,Eric K,1
 Chris A,Noah,0
 Thana,Marco,0
 Alan,Adam,0
 
 Jacob,Andrew D,0,UMA,5-15-2025
 Chris A,Luke,1
-Eric,Matt Y,1
+Eric K,Matt Y,1
 Stephen,Adam,0
 Matt Y,Jacob,0
 Adam,Chris A,0
-Eric,Andrew D,0
+Eric K,Andrew D,0
 Stephen,Luke,1
 Luke,Matt Y,1
 Chris A,Andrew D,0
-Adam,Eric,0
+Adam,Eric K,0
 
 Juwan,Stephen,0,MB2,5-15-2025
 Adam,Thana,1
 Noah,Alan,1
 Chris A,Andrew D,0
-Luke,Eric,0
+Luke,Eric K,0
 Stephen,Noah,0
 Thana,Alan,0
 Andrew D,Luke,0
-Adam,Eric,0
+Adam,Eric K,0
 
 Jesse Luong,Stephen,1,MB2,5-17-2025
 Luke,Noah,1
 Adam,Nick D,1
 Collin,Juwan,1
-Eric,Thana,1
+Eric K,Thana,1
 Adam,Stephen,0
 Collin,Luke,1
-Eric,Jesse Luong,1
+Eric K,Jesse Luong,1
 Thana,Juwan,1
 Noah,Nick D,1
 
 Collin,Thana,0,MB2,5-17-2025
-Eric,Jesse Luong,0
+Eric K,Jesse Luong,0
 Stephen,Noah,0
 Juwan,Nick D,1
 Collin,Stephen,0
 Thana,Noah,1
 Juwan,Jesse Luong,1
-Nick D,Eric,1
+Nick D,Eric K,1
 
 Jacob,Simon,1,Chaos,5-17-2025
 Walski,Luis,0
@@ -4073,12 +4073,12 @@ Jesse Luong,Chris A,0,Chaos,5-17-2025
 Kevin,Stephen,1
 Nick D,Christiaan,1
 Walski,Collin,0
-Eric,Luis,1
+Eric K,Luis,1
 Walski,Christiaan,1
 Stephen,Chris A,0
 Kevin,Collin,1
 Jesse Luong,Luis,0
-Eric,Nick D,0
+Eric K,Nick D,0
 
 Charles,Ivan,0,MH1,5-22-2025
 Andrew D,Collin,1
@@ -4114,11 +4114,11 @@ Simon,Travis,0
 Walski,Chris A,0
 Max M,Alan,1
 
-Eric,Bradley Schlesinger,1,DFT,5-29-2025
+Eric K,Bradley Schlesinger,1,DFT,5-29-2025
 Felix,Simon,1
 Alan,Vincent V,1
 Collin,Max M,0
-Alan,Eric,0
+Alan,Eric K,0
 Vincent V,Bradley Schlesinger,0
 Felix,Max M,1
 Simon,Collin,0
@@ -4133,12 +4133,12 @@ Luke,Stephen,0
 Christiaan,Adam,0
 
 Noah,Wesley,1,DMR,5-29-2025
-Bradley Schlesinger,Eric,1
+Bradley Schlesinger,Eric K,1
 Vincent V,Alan,0
 Thana,Max M,0
 Noah,Alan,0
 Wesley,Vincent V,1
-Eric,Thana,1
+Eric K,Thana,1
 Bradley Schlesinger,Max M,1
 
 Marco,Aaron,0,Chaos,5-29-2025
@@ -4162,9 +4162,9 @@ Zane,Kevin,0
 Bradley Schlesinger,Andre,1
 
 Marco,David M,0,Chaos,6-5-2025
-Aaron,Eric,1
+Aaron,Eric K,1
 Stephen,Mike,1
-Mike,Eric,0
+Mike,Eric K,0
 Aaron,David M,1
 
 Chris A,David O,0,Chaos,6-5-2025
@@ -4183,11 +4183,11 @@ John C,Luke,0
 Walski,Ken,1
 Tony,Zane,1
 
-Jared,Eric,1,Chaos,6-5-2025
+Jared,Eric K,1,Chaos,6-5-2025
 Mike,David,1
 Aaron,Stephen,0
 Mike,Stephen,0
-Aaron,Eric,0
+Aaron,Eric K,0
 
 Wesley,David O,0,Chaos,6-5-2025
 Marco,Chris A,0
@@ -4204,11 +4204,11 @@ Walski,Mike,0
 Stephen,Tony,0
 
 Luke,Lawrence,0,Alan Cube,6-12-2025
-Collin,Eric,1
+Collin,Eric K,1
 Adam,Max M,1
 David O,Alan,1
 David O,Collin,1
-Alan,Eric,0
+Alan,Eric K,0
 Adam,Lawrence,1
 Max M,Luke,0
 
@@ -4222,23 +4222,23 @@ Chris A,Mike,0
 Christiaan,Wesley,0
 
 Simon,Tony,1,Noah Cube,6-12-2025
-Eric,Noah,0
+Eric K,Noah,0
 Collin,Luke,1
 Adam,Alan,0
 Thana,David O,0
 Collin,Noah,0
-Eric,Luke,0
+Eric K,Luke,0
 Adam,Thana,1
 Alan,David O,1
 
 Alberto,Todd,1,FIN,6-26-2025
 Walski,Collin,1
 Zane,Frank,1
-Eric,Chris A,1
+Eric K,Chris A,1
 Alberto,Zane,1
 Frank,Todd,0
 Collin,Chris A,0
-Walski,Eric,0
+Walski,Eric K,0
 
 Luke,Jacob,0,FIN,6-26-2025
 Stephen,Tony,0
@@ -4272,12 +4272,12 @@ Andrew D,Matt H,1
 
 Kian,Collin,1,Chaos,6-26-2025
 David O,Clayton,1
-Eric,Simon,1
+Eric K,Simon,1
 Max M,Noah,0
 David O,Noah,0
 Clayton,Max M,1
 Simon,Collin,0
-Kian,Eric,1
+Kian,Eric K,1
 
 Marco,Chris A,1,FIN,7-3-2025
 Todd,Stephen,1
@@ -4847,5 +4847,24 @@ Chris A,Tony,0
 Chris A,Walski,1
 Travis,Tony,0
 Luis,Luke,1
+
+Clayton,Collin,1,WOE,9-25-2025
+Tony,Chris A,1
+Stephen,Brian H,0
+Eric K,Simon,0
+Tony,Simon,1
+Chris A,Eric K,0
+Clayton,Brian H,1
+Collin,Stephen,0
+
+Stephen,Simon,0,DFT,9-25-2025
+Tony,Clayton,0
+Thana,Brian H,1
+Eric K,Chris A,1
+Clayton,Eric K,1
+Brian H,Stephen,0
+Thana,Simon,1
+Simon,Eric K,0
+Clayton,Thana,0
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024

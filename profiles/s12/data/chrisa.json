@@ -82,11 +82,11 @@
     },
     {
       "Season": "12",
-      "Ranking": "9",
-      "Win %": "48.00%",
-      "Record": "24-26",
-      "Drafts": "27",
-      "Glicko": "1502 ± 70"
+      "Ranking": "11",
+      "Win %": "45.28%",
+      "Record": "24-29",
+      "Drafts": "29",
+      "Glicko": "1476 ± 69"
     }
   ],
 
@@ -208,9 +208,9 @@
     },
     {
       "Player": "Eric K",
-      "Record": "1-1",
-      "Win %": "50.00%",
-      "Total Matches": "2"
+      "Record": "4-7",
+      "Win %": "36.36%",
+      "Total Matches": "11"
     },
     {
       "Player": "Evan S",
@@ -310,9 +310,9 @@
     },
     {
       "Player": "Tony",
-      "Record": "10-9",
-      "Win %": "52.63%",
-      "Total Matches": "19"
+      "Record": "10-10",
+      "Win %": "50.00%",
+      "Total Matches": "20"
     },
     {
       "Player": "Travis",
