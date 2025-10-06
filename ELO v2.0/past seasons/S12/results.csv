@@ -1,0 +1,589 @@
+Marco,Chris A,1,FIN,7-3-2025
+Todd,Stephen,1
+Charles,Eric K,1
+Luke,Matt Y,1
+Eric K,Chris A,1
+Stephen,Matt Y,1
+Charles,Marco,1
+Todd,Luke,1
+
+Noah,Thana,1,MB2,7-3-2025
+Eric K,Kian,1
+Alan,Todd,1
+Matt Y,Luke,1
+Matt Y,Noah,1
+Eric K,Alan,1
+Todd,Kian,1
+Thana,Luke,1
+
+Collin,Jacob,1,Collin Cube,7-10-2025
+Clayton,David O,1
+Alan,Noah,1
+Tony,Eric K,1
+David O,Jacob,1
+Collin,Clayton,0
+Eric K,Noah,1
+Alan,Tony,0
+
+Clayton,Eric K,0,Noah Cube,7-10-2025
+Noah,Collin,1
+David O,Thana,1
+Alan,Jacob,1
+Alan,Noah,1
+Collin,Jacob,0
+Clayton,Thana,0
+Eric K,David O,1
+
+Luke,Eric K,1,INR,7-17-2025
+Mike,Adam,1
+Wesley,Alan,0
+Collin,Meng,1
+Alan,Luke,1
+Wesley,Eric K,0
+Mike,Collin,0
+Adam,Meng,1
+
+Tony,Kevin,0,Chaos,7-17-2025
+Sonny,Simon,1
+David O,Marco,1
+Chris A,Walski,1
+David O,Kevin,1
+Marco,Tony,0
+Chris A,Sonny,1
+Walski,Simon,0
+
+Luke,Noah,0,Walski Chaos,7-17-2025
+Meng,Kian,0
+Eric K,David O,1
+Thana,Alan,0
+Thana,Meng,1
+Alan,Kian,1
+Eric K,Noah,0
+David O,Luke,0
+
+Mike,Kevin,0,Chaos,7-17-2025
+Walski,Chris A,0
+Adam,Collin,1
+Tony,Marco,1
+Adam,Kevin,1
+Collin,Mike,1
+Walski,Marco,1
+Chris A,Tony,0
+
+Stephen,Chris A,0,Chaos,7-19-2025
+Austin,Matt H,0
+Luis,Simon,1
+Will,Walski,0
+Nick D,Kevin,1
+Kevin,Austin,0
+Matt H,Walski,1
+Chris A,Luis,0
+Simon,Nick D,0
+Stephen,Will,1
+
+Collin,Thana,1,MB2,7-19-2025
+Patrick H,Todd,1
+Travis,Kian,0
+Andrew N,Jesse Lee,1
+Collin,Kian,1
+Thana,Travis,1
+Patrick H,Andrew N,1
+Todd,Jesse Lee,1
+
+Luis,Matt H,1,Chaos,7-19-2025
+Frank,Austin,1
+Chris A,Walski,0
+Kevin,Will,0
+Kevin,Austin,0
+Frank,Will,1
+Luis,Walski,0
+Matt H,Chris A,1
+
+Andrew N,Jesse Lee,1,MB2,7-19-2025
+Thana,Travis,1
+Nick D,Eric K,1
+Kian,Todd,1
+Nick D,Andrew N,1
+Eric K,Jesse Lee,1
+Todd,Travis,1
+Thana,Kian,0
+
+Thana,Collin,0,Alan Cube,7-19-2025
+Simon,Adam,1
+Eric K,Luke,1
+Luis,Alan,0
+Simon,Luis,0
+Adam,Alan,0
+Luke,Thana,0
+Collin,Eric K,1
+
+Walski,Adam,1,Chaos,7-19-2025
+Kevin,Chris A,1
+Luis,Collin,1
+Luis,Adam,1
+Walski,Kevin,0
+Collin,Chris A,0
+
+Adam,Collin,1,Chaos,7-19-2025
+Simon,Luke,0
+Kevin,Chris A,1
+Luis,Walski,1
+Simon,Walski,1
+Luke,Luis,1
+Kevin,Adam,1
+Chris A,Collin,0
+
+Adan,Felix,1,DSK,7-24-2025
+Tony,Chris A,0
+Simon,Adam,1
+Collin,Matt Y,0
+Collin,Tony,0
+Matt Y,Chris A,0
+Simon,Adan,1
+Adam,Felix,1
+
+Noah,Thana,1,MB2,7-24-2025
+Juwan,Luke,1
+Patrick H,Collin,0
+Adan,Eric C,1
+Noah,Collin,0
+Thana,Patrick H,1
+Adan,Juwan,1
+Eric C,Luke,1
+
+Tony,Simon,1,Chaos,7-24-2025
+Adam,Jacob,1
+Chris A,Alberto,0
+Simon,Alberto,0
+Chris A,Jacob,1
+Adam,Tony,0
+
+Tony,Luke,1,MB2,7-31-2025
+Patrick H,Marco,1
+Stephen,Eric K,0
+Collin,Clayton,1
+Patrick H,Collin,0
+Marco,Clayton,0
+Eric K,Tony,0
+Stephen,Luke,1
+
+Clayton,Luke,1,AKH/HOU,7-31-2025
+Noah,Eric K,0
+Matt Y,Collin,1
+David O,Thana,0
+Thana,Eric K,1
+David O,Noah,1
+Clayton,Matt Y,0
+Collin,Luke,1
+
+Marco,Patrick H,0,Chaos,7-31-2025
+Tony,Stephen,1
+Simon,Aaron,0
+Simon,Marco,1
+Aaron,Tony,0
+
+Wesley,Austin,0,Chaos,8-7-2025
+David O,Collin,1
+Tony,Travis,1
+Alberto,Adam,1
+Alberto,David O,1
+Adam,Collin,1
+Tony,Austin,1
+Travis,Wesley,1
+
+Christiaan,Sonny,0,Chaos,8-7-2025
+Simon,Patrick H,0
+Stephen,Aaron,1
+Chris A,Clayton,1
+Chris A,Patrick H,0
+Clayton,Simon,1
+Stephen,Sonny,1
+Aaron,Christiaan,0
+
+Clayton,Chris A,1,Chaos,8-7-2025
+Tony,Stephen,1
+Sonny,Christiaan,1
+Clayton,Christiaan,1
+Sonny,Stephen,1
+
+Alberto,Austin,1,Chaos,8-7-2025
+Collin,Simon,0
+Thana,Adam,0
+Noah,David O,1
+Collin,David O,0
+Simon,Noah,1
+Alberto,Adam,0
+Austin,Thana,0
+
+Eric K,Stephen,0,Collin Cube,8-14-2025
+Clayton,Adam,1
+David O,Noah,0
+Collin,Jacob,1
+Eric K,David O,1
+Stephen,Noah,0
+Adam,Jacob,1
+Collin,Clayton,0
+
+Adam,David O,1,Adam Cube,8-14-2025
+Jacob,Collin,0
+Eric K,Noah,1
+Thana,Clayton,0
+Jacob,Thana,0
+Collin,Clayton,0
+Adam,Eric K,1
+David O,Noah,1
+
+Travis,Chris A,0,Chaos,8-14-2025
+Marco,Sonny,0
+Aaron,Simon,1
+Simon,Marco,1
+Sonny,Chris A,0
+Aaron,Travis,0
+
+Stephen,Charles,0,FIN,8-16-2025
+Noah,John W,0
+Travis,Eric C,1
+Matt Y,Ana,1
+Travis,Charles,0
+Eric C,Stephen,1
+Noah,Ana,1
+John W,Matt Y,1
+
+Chris A,Luis,0,Chaos,8-16-2025
+Will,Matt H,0
+Walski,Frank,0
+Austin,Kevin,1
+Walski,Chris A,1
+Frank,Luis,1
+Will,Kevin,1
+Matt H,Austin,0
+
+Adam,Collin,0,MB2,8-16-2025
+Nick C,Luke,0
+Thana,Clayton,0
+Nick D,Eric K,0
+Nick D,Nick C,1
+Eric K,Luke,1
+Adam,Thana,0
+Collin,Clayton,1
+
+Austin,Frank,1,Chaos,8-16-2025
+Kevin,Chris A,0
+Walski,Will,1
+Sonny,Luis,1
+Austin,Walski,1
+Will,Frank,0
+Sonny,Chris A,0
+Luis,Kevin,1
+
+Thana,Simon,1,MB2,8-16-2025
+Eric K,Nick D,0
+Luke,Collin,0
+Nick C,Adam,1
+Thana,Collin,1
+Simon,Luke,1
+Eric K,Adam,1
+Nick D,Nick C,1
+
+Matt Y,Stephen,1,MH2,8-16-2025
+Ana,Clayton,0
+Juwan,Noah,0
+Eric C,Travis,0
+Juwan,Stephen,1
+Noah,Matt Y,1
+Clayton,Travis,1
+Ana,Eric C,1
+
+Austin,Kevin,1,Chaos,8-16-2025
+Walski,Luis,0
+Austin,Luis,0
+Kevin,Walski,0
+
+Luis,Luke,0,Chaos,8-16-2025
+Stephen,Simon,0
+Nick D,Kevin,0
+Travis,Walski,1
+Stephen,Walski,0
+Simon,Travis,1
+Kevin,Luke,0
+Nick D,Luis,1
+
+Thana,Noah,0,Fish Cube,8-16-2025
+Collin,Eric K,1
+Adam,Clayton,0
+Adam,Thana,1
+Collin,Noah,1
+Clayton,Eric K,1
+
+Stephen,Chris A,0,Chaos,8-16-2025
+Luke,Thana,1
+Luis,Kevin,1
+Clayton,Walski,1
+Collin,Adam,0
+Collin,Chris A,0
+Clayton,Adam,1
+Thana,Stephen,1
+Walski,Kevin,1
+Luis,Luke,1
+
+Luis,Kevin,1,Chaos,8-16-2025
+Clayton,Walski,0
+Luke,Collin,0
+Collin,Clayton,1
+Walski,Luis,0
+Luke,Kevin,0
+
+Clayton,Stephen,1,IMA,8-21-2025
+Wesley,Matt H,0
+Austin,Walski,0
+Zane,Eric K,0
+Eric K,Matt H,0
+Wesley,Zane,0
+Austin,Stephen,0
+Clayton,Walski,1
+
+Travis,Marco,0,Chaos,8-21-2025
+Luke,Alberto,0
+Simon,Chris A,0
+David O,Frank,0
+Sonny,Jacob,1
+Chris A,Marco,0
+Simon,Travis,1
+Luke,David O,0
+Sonny,Frank,0
+Alberto,Jacob,0
+
+Clayton,Thana,1,WAR,8-21-2025
+Simon,Wesley,0
+Noah,Stephen,1
+Eric K,Austin,1
+Noah,Clayton,0
+Thana,Stephen,1
+Simon,Austin,1
+Wesley,Eric K,0
+
+Marco,Walski,0,Chaos,8-21-2025
+Travis,Alberto,0
+Luke,David O,0
+David O,Chris A,0
+Travis,Luke,1
+Alberto,Walski,1
+
+Wesley,Simon,0,BLB,8-28-2025
+Eric K,Travis,1
+Adam,Clayton,1
+Mike,Stephen,0
+Adam,Simon,0
+Clayton,Wesley,1
+Eric K,Stephen,1
+Travis,Mike,1
+
+Wesley,Thana,1,FDN,8-28-2025
+Travis,Noah,1
+Adam,Clayton,0
+Collin,Eric K,0
+Collin,Noah,0
+Eric K,Travis,0
+Adam,Thana,1
+Clayton,Wesley,1
+
+Luke,Kevin,0,Chaos,8-28-2025
+Sonny,Walski,0
+Frank,Tony,1
+Frank,Walski,1
+Luke,Tony,0
+Sonny,Kevin,0
+
+Marco,Jacob,0,Chaos,8-28-2025
+Aaron,Alberto,1
+Nick D,Chris A,1
+Nick D,Marco,1
+Alberto,Chris A,1
+Aaron,Jacob,1
+
+Luke,Sonny,0,Chaos,8-28-2025
+Tony,Kevin,1
+Mike,Walski,0
+Tony,Sonny,1
+Luke,Mike,1
+Walski,Kevin,1
+
+Marco,Jacob,0,Chaos,8-28-2025
+Alberto,Stephen,1
+Chris A,Nick D,1
+Nick D,Alberto,1
+Marco,Stephen,0
+Chris A,Jacob,1
+
+Jacob,Simon,1,Chaos,8-28-2025
+Clayton,Luke,1
+Clayton,Jacob,0
+Luke,Simon,1
+Jacob,Luke,1
+
+Luke,Aaron,0,Chaos,9-4-2025
+David O,Chris A,1
+Marco,Stephen,0
+Stephen,David O,0
+Marco,Luke,0
+
+Collin,Noah,0,LCI,9-4-2025
+Eric K,Adam,1
+Clayton,Felix,0
+Travis,Matt H,0
+Clayton,Collin,0
+Felix,Noah,0
+Eric K,Matt H,0
+Adam,Travis,1
+Felix,Eric K,0
+Noah,Matt H,1
+
+Clayton,Adam,0,WOE,9-4-2025
+Noah,Simon,1
+Travis,Collin,0
+Thana,Eric K,1
+Clayton,Travis,1
+Adam,Collin,1
+Simon,Eric K,0
+Noah,Thana,1
+
+Felix,Tony,1,DOM,9-11-2025
+Matt Y,Eric K,1
+Charles,Mike,1
+Matt H,Clayton,1
+Matt H,Matt Y,1
+Clayton,Eric K,1
+Felix,Charles,0
+Mike,Tony,0
+
+Chris A,Collin,0,MB1,9-11-2025
+Luke,Aaron,1
+Zane,Kevin,0
+Marco,Adam,0
+Kevin,Collin,1
+Luke,Adam,0
+Aaron,Marco,0
+
+Matt Y,Collin,1,FIN,9-11-2025
+Luke,Clayton,0
+Eric K,Thana,1
+Noah,Charles,0
+Clayton,Charles,1
+Luke,Noah,0
+Thana,Collin,1
+Eric K,Matt Y,1
+
+Mike,Chris A,0,Chaos,9-11-2025
+Tony,Adam,1
+Kevin,Marco,1
+Travis,Simon,0
+Kevin,Chris A,1
+Marco,Mike,0
+Tony,Simon,1
+Adam,Travis,0
+
+Chris A,Brian H,1,MB2,9-13-2025
+Nick D,Eric C,0
+Thana,Collin,0
+Eric K,Kevin P,1
+Chris A,Collin,0
+Brian H,Thana,0
+Nick D,Kevin P,1
+Eric C,Eric K,0
+
+Tony,Luis,1,Chaos,9-13-2025
+Austin,Walski,0
+Austin,Stephen,0
+Walski,Tony,0
+Luis,Travis,1
+
+Simon,Walski,0,Chaos,9-13-2025
+Austin,Luis,0
+Stephen,Tony,1
+Stephen,Luis,0
+
+Thana,Eric C,1,MB2,9-13-2025
+Chris A,Nick D,0
+Brian H,Collin,0
+Kevin P,Eric K,1
+Thana,Collin,0
+Eric C,Brian H,0
+Eric K,Chris A,0
+Kevin P,Nick D,1
+
+Simon,Nick D,1,FIN,9-13-2025
+Noah,Eric C,1
+Grant,Thana,0
+Brian H,Eric K,1
+Simon,Thana,0
+Noah,Brian H,0
+Eric C,Eric K,0
+
+Nick D,Thana,1,Chaos,9-13-2025
+Adam,Chris A,1
+Stephen,Luke,0
+Adam,Stephen,1
+Thana,Chris A,1
+Nick D,Luke,1
+
+Luke,Brian H,0,Collin Cube,9-18-2025
+Eric K,Clayton,0
+Collin,Adam,0
+Noah,Felix,1
+Tony,David O,1
+Luke,Felix,0
+Brian H,Adam,1
+Collin,Tony,1
+Noah,Clayton,0
+Eric K,David O,0
+
+Stephen,Brian H,0,Noah Cube,9-18-2025
+Noah,David O,0
+Clayton,Collin,1
+Eric K,Thana,1
+Adam,Felix,1
+Brian H,Collin,0
+Stephen,Thana,0
+Adam,David O,1
+Eric K,Clayton,0
+Noah,Felix,1
+
+Simon,Luis,0,Chaos,9-18-2025
+Marco,Walski,1
+Chris A,Aaron,1
+Kevin,Sonny,1
+Travis,Stephen,1
+Simon,Sonny,1
+Kevin,Aaron,0
+Travis,Marco,1
+Walski,Stephen,0
+Luis,Chris A,1
+
+Kevin,Luke,0,Chaos,9-18-2025
+Walski,Travis,0
+Marco,Luis,0
+Chris A,Tony,0
+Chris A,Walski,1
+Travis,Tony,0
+Luis,Luke,1
+
+Clayton,Collin,1,WOE,9-25-2025
+Tony,Chris A,1
+Stephen,Brian H,0
+Eric K,Simon,0
+Tony,Simon,1
+Chris A,Eric K,0
+Clayton,Brian H,1
+Collin,Stephen,0
+
+Stephen,Simon,0,DFT,9-25-2025
+Tony,Clayton,0
+Thana,Brian H,1
+Eric K,Chris A,1
+Clayton,Eric K,1
+Brian H,Stephen,0
+Thana,Simon,1
+Simon,Eric K,0
+Clayton,Thana,0
+
+PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
