@@ -79,6 +79,14 @@
       "Record": "24-10",
       "Drafts": "18",
       "Glicko": "1627 ± 85"
+    },
+    {
+      "Season": "12",
+      "Ranking": "1",
+      "Win %": "80.00%",
+      "Record": "28-7",
+      "Drafts": "19",
+      "Glicko": "1780 ± 89"
     }
   ],
 
@@ -91,11 +99,18 @@
       "Glicko": "1899 ± 148"
     },
     {
+      "Format": "John Cube",
+      "Win %": "75.00%",
+      "Record": "6-2",
+      "Drafts": "4",
+      "Glicko": "1682 ± 149"
+    },
+    {
       "Format": "Chaos",
-      "Win %": "70.48%",
-      "Record": "74-31",
-      "Drafts": "52",
-      "Glicko": "1778 ± 67"
+      "Win %": "73.23%",
+      "Record": "93-34",
+      "Drafts": "64",
+      "Glicko": "1847 ± 66"
     },
     {
       "Format": "Double Masters 2022",
@@ -127,19 +142,19 @@
     },
     {
       "Format": "Mystery Booster 2",
-      "Win %": "57.14%",
-      "Record": "12-9",
-      "Drafts": "11",
-      "Glicko": "1634 ± 98"
+      "Win %": "60.87%",
+      "Record": "14-9",
+      "Drafts": "12",
+      "Glicko": "1676 ± 94"
     }
   ],
 
   "matchups": [
     {
       "Player": "Adam",
-      "Record": "12-6",
-      "Win %": "66.67%",
-      "Total Matches": "18"
+      "Record": "32-6",
+      "Win %": "68.42%",
+      "Total Matches": "19"
     },
     {
       "Player": "Alan",
@@ -161,33 +176,33 @@
     },
     {
       "Player": "Chris A",
-      "Record": "8-10",
-      "Win %": "44.44%",
-      "Total Matches": "18"
+      "Record": "10-10",
+      "Win %": "50.00%",
+      "Total Matches": "20"
     },
     {
       "Player": "Clayton",
-      "Record": "3-3",
-      "Win %": "50.0%",
-      "Total Matches": "6"
+      "Record": "3-4",
+      "Win %": "42.86%",
+      "Total Matches": "7"
     },
     {
       "Player": "Collin",
-      "Record": "2-3",
-      "Win %": "40.0%",
-      "Total Matches": "5"
+      "Record": "2-4",
+      "Win %": "33.33%",
+      "Total Matches": "6"
     },
     {
       "Player": "David O",
-      "Record": "2-1",
-      "Win %": "66.67%",
-      "Total Matches": "3"
+      "Record": "3-1",
+      "Win %": "75.00%",
+      "Total Matches": "4"
     },
     {
       "Player": "Eric K",
-      "Record": "1-0",
-      "Win %": "100.0%",
-      "Total Matches": "1"
+      "Record": "10-4",
+      "Win %": "71.43%",
+      "Total Matches": "14"
     },
     {
       "Player": "Evan S",
@@ -215,9 +230,9 @@
     },
     {
       "Player": "Kevin",
-      "Record": "4-4",
-      "Win %": "50.0%",
-      "Total Matches": "8"
+      "Record": "5-4",
+      "Win %": "55.56%",
+      "Total Matches": "9"
     },
     {
       "Player": "Luca",
@@ -227,15 +242,15 @@
     },
     {
       "Player": "Luis",
-      "Record": "2-4",
-      "Win %": "33.33%",
-      "Total Matches": "6"
+      "Record": "3-4",
+      "Win %": "42.86%",
+      "Total Matches": "7"
     },
     {
       "Player": "Luke",
-      "Record": "3-0",
+      "Record": "4-0",
       "Win %": "100.0%",
-      "Total Matches": "3"
+      "Total Matches": "4"
     },
     {
       "Player": "Marco",
@@ -263,21 +278,21 @@
     },
     {
       "Player": "Simon",
-      "Record": "15-4",
-      "Win %": "78.95%",
-      "Total Matches": "19"
+      "Record": "17-4",
+      "Win %": "80.95%",
+      "Total Matches": "21"
     },
     {
       "Player": "Sonny",
-      "Record": "11-9",
-      "Win %": "55.0%",
-      "Total Matches": "20"
+      "Record": "12-9",
+      "Win %": "57.14%",
+      "Total Matches": "21"
     },
     {
       "Player": "Stephen",
-      "Record": "8-3",
-      "Win %": "72.73%",
-      "Total Matches": "11"
+      "Record": "8-4",
+      "Win %": "66.67%",
+      "Total Matches": "12"
     },
     {
       "Player": "Todd",
@@ -287,15 +302,15 @@
     },
     {
       "Player": "Travis",
-      "Record": "2-0",
+      "Record": "3-0",
       "Win %": "100.0%",
-      "Total Matches": "2"
+      "Total Matches": "3"
     },
     {
       "Player": "Walski",
-      "Record": "8-9",
-      "Win %": "47.06%",
-      "Total Matches": "17"
+      "Record": "9-9",
+      "Win %": "50.00%",
+      "Total Matches": "18"
     },
     {
       "Player": "Zane",

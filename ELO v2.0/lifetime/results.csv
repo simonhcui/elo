@@ -4867,4 +4867,130 @@ Thana,Simon,1
 Simon,Eric K,0
 Clayton,Thana,0
 
+Chris A,Collin,1,Chaos,10-2-2025
+Jacob,Walski,0
+Frank,Stephen,1
+Marco,Adam,0
+Chris A,Frank,1
+Collin,Stephen,0
+Walski,Adam,1
+Jacob,Marco,1
+
+Sonny,Kevin,1,Chaos,10-2-2025
+Luke,Walski,0
+Tony,Stephen,0
+Travis,Chris A,0
+Sonny,Stephen,1
+Kevin,Tony,0
+Walski,Chris A,1
+Travis,Luke,0
+
+Luke,Matt H,0,TSR,10-2-2025
+Kevin,Noah,0
+Tony,Sonny,0
+Eric K,Clayton,1
+Eric K,Noah,1
+Kevin,Clayton,0
+Tony,Luke,1
+Sonny,Matt H,0
+
+Matt Y,Matt H,1,NEO,10-2-2025
+Thana,Collin,0
+Adam,Noah,0
+Clayton,Eric K,0
+Matt Y,Noah,1
+Matt H,Adam,0
+Clayton,Thana,0
+Eric K,Collin,1
+
+Thana,Noah,0,FIN,10-3-2025
+Collin,Travis,1
+Eric K,Clayton,0
+Tony,Mike,1
+Eric K,Thana,1
+Clayton,Noah,1
+Tony,Collin,1
+Mike,Travis,0
+
+Collin,Travis,1,2X2,10-3-2025
+Eric K,Thana,1
+Tony,Noah,0
+Mike,Clayton,0
+Eric K,Clayton,0
+Thana,Mike,0
+Travis,Tony,0
+Collin,Noah,0
+Mike,Tony,1
+Thana,Travis,0
+Eric K,Collin,1
+Clayton,Noah,1
+
+Clayton,Christiaan,1,MH2,10-4-2025
+Rich,Andrew N,1
+Noah,Matt Y,1
+Ana,Eric C,1
+Rich,Ana,0
+Andrew N,Eric C,0
+Christiaan,Matt Y,1
+Clayton,Noah,1
+
+Stephen,Walski,0,Chaos,10-4-2025
+Jacob,Will,0
+Kevin,Frank,1
+Kevin,Will,0
+Stephen,Jacob,1
+Frank,Walski,0
+
+Nick C,Eric K,0,MB2,10-4-2025
+Luke,Nick D,0
+Collin,Chris A,1
+Travis,Thana,0
+Collin,Eric K,1
+Chris A,Nick C,0
+Travis,Luke,1
+Thana,Nick D,1
+
+Matt Y,Kian,1,FIN,10-4-2025
+Andrew N,Eric C,0
+Travis,Bastion,0
+Luke,Ana,0
+Matt Y,Bastion,0
+Kian,Travis,1
+Eric C,Ana,0
+Andrew N,Luke,0
+
+Collin,Eric K,0,MB2,10-4-2025
+Nick C,Clayton,0
+Thana,Nick D,0
+Noah,Jack,1
+Collin,Thana,0
+Eric,Nick D,1
+Clayton,Noah,0
+Nick C,Jack,1
+
+Stephen,Will,0,Chaos,10-4-2025
+Frank,Walski,1
+Jacob,Rich,1
+Kevin,Chris A,0
+Frank,Chris A,0
+Walski,Kevin,1
+Rich,Stephen,0
+
+Jacob,Marco,1,Chaos,10-4-2025
+Chris A,Nick D,0
+Rich,Travis,0
+Kevin,Walski,1
+Chris A,Walski,0
+Nick D,Kevin,1
+Travis,Marco,0
+
+Eric C,Collin,0,Chaos,10-4-2025
+Eric K,Noah,0
+Clayton,Nick D,0
+Chris A,Walski,1
+Chris A,Noah,1
+Walski,Eric K,0
+Nick D,Collin,0
+Clayton,Eric C,0
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
