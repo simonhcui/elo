@@ -13,6 +13,18 @@
   },
   {
     "rank": "2",
+    "name": "Clayton",
+    "win_percentage": "71.43%",
+    "wins_losses": "10-4",
+    "total_drafts": "5",
+    "glicko": "1957 ± 145",
+    "gxe": "84.32%",
+    "last_date": "10-3-25",
+    "trophies": "🏆🏆🏆",
+    "most_drafted_archetype": "5c (2)"
+  },
+  {
+    "rank": "3",
     "name": "Nick D",
     "win_percentage": "66.67%",
     "wins_losses": "28-14",
@@ -22,18 +34,6 @@
     "last_date": "11-19-22",
     "trophies": "🏆🏆",
     "most_drafted_archetype": "Abzan (3)"
-  },
-  {
-    "rank": "3",
-    "name": "Clayton",
-    "win_percentage": "63.64%",
-    "wins_losses": "7-4",
-    "total_drafts": "4",
-    "glicko": "1906 ± 161",
-    "gxe": "81.46%",
-    "last_date": "8-29-24",
-    "trophies": "🏆🏆",
-    "most_drafted_archetype": "5c (2)"
   },
   {
     "rank": "4",
@@ -108,6 +108,18 @@
   },
   {
     "rank": "10",
+    "name": "Mike",
+    "win_percentage": "58.33%",
+    "wins_losses": "7-5",
+    "total_drafts": "5",
+    "glicko": "1632 ± 117",
+    "gxe": "62.10%",
+    "last_date": "10-3-25",
+    "trophies": "🏆",
+    "most_drafted_archetype": "Bant (3)"
+  },
+  {
+    "rank": "11",
     "name": "Matt",
     "win_percentage": "56.72%",
     "wins_losses": "38-29",
@@ -117,18 +129,6 @@
     "last_date": "12-7-24",
     "trophies": "🏆🏆",
     "most_drafted_archetype": "4c no red (5)"
-  },
-  {
-    "rank": "11",
-    "name": "Mike",
-    "win_percentage": "55.56%",
-    "wins_losses": "5-4",
-    "total_drafts": "4",
-    "glicko": "1602 ± 129",
-    "gxe": "59.37%",
-    "last_date": "11-19-22",
-    "trophies": "🏆",
-    "most_drafted_archetype": "Bant (3)"
   },
   {
     "rank": "12",
@@ -224,12 +224,12 @@
   {
     "rank": "20",
     "name": "Tony",
-    "win_percentage": "37.50%",
-    "wins_losses": "6-10",
-    "total_drafts": "7",
-    "glicko": "1537 ± 98",
-    "gxe": "53.48%",
-    "last_date": "1-9-25",
+    "win_percentage": "36.84%",
+    "wins_losses": "7-12",
+    "total_drafts": "8",
+    "glicko": "1503 ± 92",
+    "gxe": "50.31%",
+    "last_date": "10-3-25",
     "trophies": "🏆",
     "most_drafted_archetype": "4c no white (3)"
   },
@@ -270,12 +270,12 @@
   {
     "rank": "24",
     "name": "Travis",
-    "win_percentage": "20.00%",
-    "wins_losses": "3-12",
-    "total_drafts": "6",
-    "glicko": "1346 ± 117",
-    "gxe": "36.00%",
-    "last_date": "12-7-24",
-    "most_drafted_archetype": "4c no white/Abzan/Grixis (2)"
+    "win_percentage": "22.22%",
+    "wins_losses": "4-14",
+    "total_drafts": "7",
+    "glicko": "1334 ± 107",
+    "gxe": "34.91%",
+    "last_date": "10-3-25",
+    "most_drafted_archetype": "Abzan (3)"
   }
 ]

@@ -1,43 +1,43 @@
 [
   {
     "rank": "1",
+    "archetype": "4c no Red",
+    "winrate": "66.04%",
+    "num_drafts": 21,
+    "num_trophies": "🏆🏆🏆🏆"
+  },
+  {
+    "rank": "2",
     "archetype": "Selesnya",
     "winrate": "65.62%",
     "num_drafts": 13,
     "num_trophies": "🏆"
   },
   {
-    "rank": "2",
+    "rank": "3",
     "archetype": "Rakdos",
     "winrate": "64.29%",
     "num_drafts": 6
   },
   {
-    "rank": "3",
-    "archetype": "4c no Red",
-    "winrate": "64.00%",
-    "num_drafts": 20,
-    "num_trophies": "🏆🏆🏆"
-  },
-  {
     "rank": "4",
     "archetype": "Grixis",
-    "winrate": "60.34%",
-    "num_drafts": 23,
+    "winrate": "59.02%",
+    "num_drafts": 24,
     "num_trophies": "🏆🏆🏆🏆"
   },
   {
     "rank": "5",
     "archetype": "Esper",
-    "winrate": "56.41%",
-    "num_drafts": 16,
+    "winrate": "57.14%",
+    "num_drafts": 17,
     "num_trophies": "🏆🏆🏆"
   },
   {
     "rank": "6",
     "archetype": "Boros",
-    "winrate": "54.00%",
-    "num_drafts": 19,
+    "winrate": "54.72%",
+    "num_drafts": 20,
     "num_trophies": "🏆🏆🏆"
   },
   {
@@ -50,15 +50,15 @@
   {
     "rank": "8",
     "archetype": "Jund",
-    "winrate": "51.67%",
-    "num_drafts": 23,
+    "winrate": "52.38%",
+    "num_drafts": 24,
     "num_trophies": "🏆🏆🏆"
   },
   {
     "rank": "9",
     "archetype": "Abzan",
-    "winrate": "50.00%",
-    "num_drafts": 20,
+    "winrate": "50.98%",
+    "num_drafts": 21,
     "num_trophies": "🏆🏆"
   },
   {
@@ -77,45 +77,45 @@
   },
   {
     "rank": "12",
-    "archetype": "Naya",
-    "winrate": "42.86%",
-    "num_drafts": 8
-  },
-  {
-    "rank": "13",
     "archetype": "Golgari",
     "winrate": "42.86%",
     "num_drafts": 5
   },
   {
-    "rank": "14",
+    "rank": "13",
     "archetype": "5c",
     "winrate": "42.31%",
     "num_drafts": 21,
     "num_trophies": "🏆"
   },
   {
-    "rank": "15",
+    "rank": "14",
     "archetype": "Sultai",
     "winrate": "40.00%",
     "num_drafts": 23
   },
   {
-    "rank": "16",
+    "rank": "15",
     "archetype": "4c no green",
     "winrate": "40.00%",
     "num_drafts": 6
   },
+    {
+    "rank": "16",
+    "archetype": "Naya",
+    "winrate": "39.13%",
+    "num_drafts": 9
+  },
   {
     "rank": "17",
     "archetype": "Temur",
-    "winrate": "36.36%",
-    "num_drafts": 5
+    "winrate": "35.71%",
+    "num_drafts": 6
   },
   {
     "rank": "18",
     "archetype": "Bant",
-    "winrate": "32.00%",
-    "num_drafts": 11
+    "winrate": "28.57%",
+    "num_drafts": 12
   }
 ]

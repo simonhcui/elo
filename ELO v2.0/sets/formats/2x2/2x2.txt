@@ -288,3 +288,12 @@
 1,1,Boros,Eric
 0,2,Boros,Simon
 0,2,4c no green,Adam
+3,0,4c no red,Clayton
+2,1,Esper,Noah
+2,1,Jund,Mike
+2,1,Boros,Eric K
+1,2,Temur,Collin
+0,2,Naya,Travis
+1,0,Abzan,Travis
+1,2,Grixis,Tony
+0,3,Bant,Thana
