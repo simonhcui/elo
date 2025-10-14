@@ -1,6 +1,22 @@
 import os
+import shutil
 
-players = ['adam.csv', 'alan.csv', 'alberto.csv', 'andrew d.csv', 'chris a.csv', 'clayton.csv', 'collin.csv', 'david o.csv', 'eric.csv', 'evan s.csv', 'jacob.csv', 'john k.csv', 'juwan.csv', 'kevin s.csv', 'luca.csv', 'luis.csv', 'luke.csv', 'marco.csv', 'matt.csv', 'nick d.csv', 'noah.csv', 'simon.csv', 'sonny.csv', 'stephen.csv', 'todd.csv', 'tony.csv', 'travis.csv', 'walski.csv', 'zane.csv']
+def remove_folders(parent, folders):
+        for folder in os.listdir(parent):
+                folder_path = os.path.join(parent, folder)
+
+                if os.path.isdir(folder_path) and folder in folders:
+                        try:
+                                shutil.rmtree(folder_path)
+                        except Exception as e:
+                                print(f"Failed to remote {folder_path}: {e}")
+
+parent = "C:\\Users\\cui\\Desktop\\elosite\\elo\\profiles\\historygraph\\s12"
+folders = ['adam', 'alan', 'alberto', 'andrew d', 'chris a', 'clayton', 'collin', 'david o', 'eric k', 'evan s', 'jacob', 'john k', 'juwan', 'kevin s', 'luca', 'luis', 'luke', 'marco', 'matt y', 'nick d', 'noah', 'simon', 'sonny', 'stephen', 'todd', 'tony', 'travis', 'walski', 'zane', 'frank']
+remove_folders(parent, folders)
+
+
+players = ['adam.csv', 'alan.csv', 'alberto.csv', 'andrew d.csv', 'chris a.csv', 'clayton.csv', 'collin.csv', 'david o.csv', 'eric k.csv', 'evan s.csv', 'jacob.csv', 'john k.csv', 'juwan.csv', 'kevin s.csv', 'luca.csv', 'luis.csv', 'luke.csv', 'marco.csv', 'matt y.csv', 'nick d.csv', 'noah.csv', 'simon.csv', 'sonny.csv', 'stephen.csv', 'todd.csv', 'tony.csv', 'travis.csv', 'walski.csv', 'zane.csv', 'frank.csv']
 #players = ['adam.csv']
 
 for player in players:
@@ -21,7 +37,8 @@ for player in players:
                 9: open(player_name + "/datax9.csv", "w"),
                 10: open(player_name + "/datax10.csv", "w"),
                 11: open(player_name + "/datax11.csv", "w"),
-                12: open(player_name + "/datax12.csv", "w"), }
+                12: open(player_name + "/datax12.csv", "w"),
+                13: open(player_name + "/datax13.csv", "w"), }
 
         y_map = {
                 1: open(player_name + "/datay1.csv", "w"),
@@ -35,7 +52,8 @@ for player in players:
                 9: open(player_name + "/datay9.csv", "w"),
                 10: open(player_name + "/datay10.csv", "w"),
                 11: open(player_name + "/datay11.csv", "w"),
-                12: open(player_name + "/datay12.csv", "w"), }
+                12: open(player_name + "/datay12.csv", "w"),
+                13: open(player_name + "/datay13.csv", "w"), }
 
         for line in f:
                 split = line.split(",")

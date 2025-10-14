@@ -1,0 +1,4826 @@
+{
+    "Adam": [
+        {
+            "Player": "Alan",
+            "Record": "6-9",
+            "Win %": "40.00%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "16-18",
+            "Win %": "47.06%",
+            "Total Matches": "34"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "4-7",
+            "Win %": "36.36%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Collin",
+            "Record": "8-5",
+            "Win %": "61.54%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "David O",
+            "Record": "9-1",
+            "Win %": "90.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "4-9",
+            "Win %": "30.77%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "6-5",
+            "Win %": "54.55%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Frank",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "8-5",
+            "Win %": "61.54%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "John K",
+            "Record": "9-5",
+            "Win %": "64.29%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "11-6",
+            "Win %": "64.71%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Luca",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Luke",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Marco",
+            "Record": "5-2",
+            "Win %": "71.43%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "10-7",
+            "Win %": "58.82%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "4-4",
+            "Win %": "50.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Noah",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Simon",
+            "Record": "14-15",
+            "Win %": "48.28%",
+            "Total Matches": "29"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "11-6",
+            "Win %": "64.71%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "13-4",
+            "Win %": "76.47%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Todd",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Tony",
+            "Record": "6-13",
+            "Win %": "31.58%",
+            "Total Matches": "19"
+        },
+        {
+            "Player": "Travis",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Walski",
+            "Record": "3-5",
+            "Win %": "37.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Zane",
+            "Record": "10-6",
+            "Win %": "62.50%",
+            "Total Matches": "16"
+        }
+    ],
+    "Alan": [
+        {
+            "Player": "Adam",
+            "Record": "9-6",
+            "Win %": "60.00%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Collin",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "David O",
+            "Record": "5-3",
+            "Win %": "62.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "9-5",
+            "Win %": "64.29%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "8-0",
+            "Win %": "100.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "John K",
+            "Record": "6-1",
+            "Win %": "85.71%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luca",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luis",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Luke",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Marco",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "4-9",
+            "Win %": "30.77%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Noah",
+            "Record": "10-3",
+            "Win %": "76.92%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Simon",
+            "Record": "5-0",
+            "Win %": "100.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "10-2",
+            "Win %": "83.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Todd",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Tony",
+            "Record": "3-7",
+            "Win %": "30.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Travis",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Walski",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        }
+    ],
+    "Alberto": [
+        {
+            "Player": "Adam",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Alan",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "David O",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "10-2",
+            "Win %": "83.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "John K",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luca",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luke",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Simon",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Todd",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Tony",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Travis",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Walski",
+            "Record": "5-2",
+            "Win %": "71.43%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Zane",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        }
+    ],
+    "Andrew D": [
+        {
+            "Player": "Adam",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Alan",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "5-10",
+            "Win %": "33.33%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Collin",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "David O",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Frank",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "8-2",
+            "Win %": "80.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "John K",
+            "Record": "12-2",
+            "Win %": "85.71%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luca",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Noah",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Simon",
+            "Record": "6-5",
+            "Win %": "54.55%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Todd",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Tony",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Walski",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        }
+    ],
+    "Chris A": [
+        {
+            "Player": "Adam",
+            "Record": "18-16",
+            "Win %": "52.94%",
+            "Total Matches": "34"
+        },
+        {
+            "Player": "Alan",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "10-5",
+            "Win %": "66.67%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "5-7",
+            "Win %": "41.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Collin",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "David O",
+            "Record": "5-3",
+            "Win %": "62.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "4-7",
+            "Win %": "36.36%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Frank",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "12-6",
+            "Win %": "66.67%",
+            "Total Matches": "18"
+        },
+        {
+            "Player": "John K",
+            "Record": "18-5",
+            "Win %": "78.26%",
+            "Total Matches": "23"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "10-9",
+            "Win %": "52.63%",
+            "Total Matches": "19"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "6-6",
+            "Win %": "50.00%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Luca",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Luke",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Marco",
+            "Record": "6-3",
+            "Win %": "66.67%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "15-13",
+            "Win %": "53.57%",
+            "Total Matches": "28"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "8-17",
+            "Win %": "32.00%",
+            "Total Matches": "25"
+        },
+        {
+            "Player": "Noah",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Simon",
+            "Record": "27-5",
+            "Win %": "84.38%",
+            "Total Matches": "32"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "18-13",
+            "Win %": "58.06%",
+            "Total Matches": "31"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "16-10",
+            "Win %": "61.54%",
+            "Total Matches": "26"
+        },
+        {
+            "Player": "Todd",
+            "Record": "7-3",
+            "Win %": "70.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Tony",
+            "Record": "10-10",
+            "Win %": "50.00%",
+            "Total Matches": "20"
+        },
+        {
+            "Player": "Travis",
+            "Record": "7-0",
+            "Win %": "100.00%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Walski",
+            "Record": "10-11",
+            "Win %": "47.62%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Zane",
+            "Record": "14-6",
+            "Win %": "70.00%",
+            "Total Matches": "20"
+        }
+    ],
+    "Clayton": [
+        {
+            "Player": "Adam",
+            "Record": "7-4",
+            "Win %": "63.64%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Alan",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "7-5",
+            "Win %": "58.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Collin",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "David O",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "John K",
+            "Record": "7-3",
+            "Win %": "70.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Luca",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Marco",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Noah",
+            "Record": "5-0",
+            "Win %": "100.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Simon",
+            "Record": "7-0",
+            "Win %": "100.00%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Todd",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Travis",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Walski",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Zane",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        }
+    ],
+    "Collin": [
+        {
+            "Player": "Adam",
+            "Record": "5-8",
+            "Win %": "38.46%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Alan",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "David O",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "8-5",
+            "Win %": "61.54%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "John K",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luke",
+            "Record": "10-1",
+            "Win %": "90.91%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Noah",
+            "Record": "6-5",
+            "Win %": "54.55%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Simon",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Travis",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Walski",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        }
+    ],
+    "David O": [
+        {
+            "Player": "Adam",
+            "Record": "1-9",
+            "Win %": "10.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Alan",
+            "Record": "3-5",
+            "Win %": "37.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "3-5",
+            "Win %": "37.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Collin",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "4-6",
+            "Win %": "40.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Frank",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "John K",
+            "Record": "7-0",
+            "Win %": "100.00%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luca",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luis",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Luke",
+            "Record": "5-2",
+            "Win %": "71.43%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Marco",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Noah",
+            "Record": "7-4",
+            "Win %": "63.64%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Simon",
+            "Record": "6-5",
+            "Win %": "54.55%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Todd",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Tony",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Travis",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Walski",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        }
+    ],
+    "Eric K": [
+        {
+            "Player": "Adam",
+            "Record": "9-4",
+            "Win %": "69.23%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Alan",
+            "Record": "5-9",
+            "Win %": "35.71%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "7-4",
+            "Win %": "63.64%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Collin",
+            "Record": "5-8",
+            "Win %": "38.46%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "David O",
+            "Record": "6-4",
+            "Win %": "60.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "John K",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luis",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luke",
+            "Record": "6-3",
+            "Win %": "66.67%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Marco",
+            "Record": "5-0",
+            "Win %": "100.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "5-3",
+            "Win %": "62.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Noah",
+            "Record": "7-5",
+            "Win %": "58.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Simon",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "7-1",
+            "Win %": "87.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-10",
+            "Win %": "28.57%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Travis",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Walski",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        }
+    ],
+    "Evan S": [
+        {
+            "Player": "Adam",
+            "Record": "5-6",
+            "Win %": "45.45%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Alan",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "David O",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Frank",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "John K",
+            "Record": "6-1",
+            "Win %": "85.71%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "5-5",
+            "Win %": "50.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luca",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Simon",
+            "Record": "7-6",
+            "Win %": "53.85%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Todd",
+            "Record": "4-4",
+            "Win %": "50.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Tony",
+            "Record": "2-8",
+            "Win %": "20.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Walski",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Zane",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        }
+    ],
+    "Frank": [
+        {
+            "Player": "Adam",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "John K",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "5-5",
+            "Win %": "50.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Luca",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Simon",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "7-3",
+            "Win %": "70.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Todd",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Tony",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Walski",
+            "Record": "5-8",
+            "Win %": "38.46%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        }
+    ],
+    "Jacob": [
+        {
+            "Player": "Adam",
+            "Record": "5-8",
+            "Win %": "38.46%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Alan",
+            "Record": "0-8",
+            "Win %": "0.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "2-10",
+            "Win %": "16.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "2-8",
+            "Win %": "20.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "6-12",
+            "Win %": "33.33%",
+            "Total Matches": "18"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Collin",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Frank",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "John K",
+            "Record": "12-11",
+            "Win %": "52.17%",
+            "Total Matches": "23"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "4-8",
+            "Win %": "33.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luca",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luke",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Marco",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "2-13",
+            "Win %": "13.33%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Noah",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Simon",
+            "Record": "8-20",
+            "Win %": "28.57%",
+            "Total Matches": "28"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "0-5",
+            "Win %": "0.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Todd",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Tony",
+            "Record": "2-13",
+            "Win %": "13.33%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Travis",
+            "Record": "6-4",
+            "Win %": "60.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Walski",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Zane",
+            "Record": "4-7",
+            "Win %": "36.36%",
+            "Total Matches": "11"
+        }
+    ],
+    "John K": [
+        {
+            "Player": "Adam",
+            "Record": "5-9",
+            "Win %": "35.71%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Alan",
+            "Record": "1-6",
+            "Win %": "14.29%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "2-12",
+            "Win %": "14.29%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "5-18",
+            "Win %": "21.74%",
+            "Total Matches": "23"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "3-7",
+            "Win %": "30.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Collin",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "David O",
+            "Record": "0-7",
+            "Win %": "0.00%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "1-6",
+            "Win %": "14.29%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Frank",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "11-12",
+            "Win %": "47.83%",
+            "Total Matches": "23"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Luca",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-7",
+            "Win %": "12.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Luke",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Marco",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "4-12",
+            "Win %": "25.00%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "1-6",
+            "Win %": "14.29%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Noah",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Simon",
+            "Record": "7-15",
+            "Win %": "31.82%",
+            "Total Matches": "22"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "3-12",
+            "Win %": "20.00%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "5-10",
+            "Win %": "33.33%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Todd",
+            "Record": "2-7",
+            "Win %": "22.22%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Tony",
+            "Record": "2-13",
+            "Win %": "13.33%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Travis",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Walski",
+            "Record": "3-6",
+            "Win %": "33.33%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Zane",
+            "Record": "3-6",
+            "Win %": "33.33%",
+            "Total Matches": "9"
+        }
+    ],
+    "Juwan": [
+        {
+            "Player": "Adam",
+            "Record": "6-11",
+            "Win %": "35.29%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Alan",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "9-10",
+            "Win %": "47.37%",
+            "Total Matches": "19"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Collin",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "David O",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "5-5",
+            "Win %": "50.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Frank",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "8-4",
+            "Win %": "66.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "John K",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luca",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "10-6",
+            "Win %": "62.50%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "9-12",
+            "Win %": "42.86%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Noah",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Simon",
+            "Record": "16-11",
+            "Win %": "59.26%",
+            "Total Matches": "27"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Todd",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Tony",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Travis",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Walski",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Zane",
+            "Record": "7-4",
+            "Win %": "63.64%",
+            "Total Matches": "11"
+        }
+    ],
+    "Kevin": [
+        {
+            "Player": "Adam",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Alan",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "6-6",
+            "Win %": "50.00%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Collin",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "David O",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Frank",
+            "Record": "5-5",
+            "Win %": "50.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "John K",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luca",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luis",
+            "Record": "3-8",
+            "Win %": "27.27%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Luke",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Marco",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Noah",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Simon",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "3-5",
+            "Win %": "37.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Todd",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Walski",
+            "Record": "10-11",
+            "Win %": "47.62%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Zane",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        }
+    ],
+    "Luca": [
+        {
+            "Player": "Adam",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Alan",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Frank",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "John K",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "2-6",
+            "Win %": "25.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Noah",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Simon",
+            "Record": "3-7",
+            "Win %": "30.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Todd",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Tony",
+            "Record": "0-6",
+            "Win %": "0.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Walski",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        }
+    ],
+    "Luis": [
+        {
+            "Player": "Adam",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Alan",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Collin",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Frank",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "John K",
+            "Record": "7-1",
+            "Win %": "87.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "8-3",
+            "Win %": "72.73%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Luca",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Simon",
+            "Record": "9-1",
+            "Win %": "90.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "5-3",
+            "Win %": "62.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Todd",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Travis",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Walski",
+            "Record": "8-6",
+            "Win %": "57.14%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        }
+    ],
+    "Luke": [
+        {
+            "Player": "Adam",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Alan",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Collin",
+            "Record": "1-10",
+            "Win %": "9.09%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "David O",
+            "Record": "2-5",
+            "Win %": "28.57%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "3-6",
+            "Win %": "33.33%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "John K",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Luis",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Marco",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Noah",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Simon",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Todd",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Tony",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Travis",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Walski",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        }
+    ],
+    "Marco": [
+        {
+            "Player": "Adam",
+            "Record": "2-5",
+            "Win %": "28.57%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Alan",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "3-6",
+            "Win %": "33.33%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Collin",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "David O",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "0-5",
+            "Win %": "0.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Frank",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "John K",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luca",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "0-5",
+            "Win %": "0.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Simon",
+            "Record": "2-8",
+            "Win %": "20.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-10",
+            "Win %": "16.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Tony",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Travis",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Walski",
+            "Record": "1-7",
+            "Win %": "12.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Zane",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        }
+    ],
+    "Matt Y": [
+        {
+            "Player": "Adam",
+            "Record": "7-10",
+            "Win %": "41.18%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Alan",
+            "Record": "9-4",
+            "Win %": "69.23%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "13-15",
+            "Win %": "46.43%",
+            "Total Matches": "28"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Collin",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "David O",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "3-5",
+            "Win %": "37.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Frank",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "13-2",
+            "Win %": "86.67%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "John K",
+            "Record": "12-4",
+            "Win %": "75.00%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "6-10",
+            "Win %": "37.50%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Luca",
+            "Record": "6-2",
+            "Win %": "75.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Luke",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Marco",
+            "Record": "5-0",
+            "Win %": "100.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "12-10",
+            "Win %": "54.55%",
+            "Total Matches": "22"
+        },
+        {
+            "Player": "Noah",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Simon",
+            "Record": "15-6",
+            "Win %": "71.43%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "9-7",
+            "Win %": "56.25%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "8-3",
+            "Win %": "72.73%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Todd",
+            "Record": "6-3",
+            "Win %": "66.67%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Tony",
+            "Record": "14-8",
+            "Win %": "63.64%",
+            "Total Matches": "22"
+        },
+        {
+            "Player": "Travis",
+            "Record": "4-1",
+            "Win %": "80.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Walski",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Zane",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        }
+    ],
+    "Nick D": [
+        {
+            "Player": "Adam",
+            "Record": "4-4",
+            "Win %": "50.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Alan",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "17-8",
+            "Win %": "68.00%",
+            "Total Matches": "25"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Frank",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "John K",
+            "Record": "6-1",
+            "Win %": "85.71%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "12-9",
+            "Win %": "57.14%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Luca",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Marco",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "10-12",
+            "Win %": "45.45%",
+            "Total Matches": "22"
+        },
+        {
+            "Player": "Noah",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Simon",
+            "Record": "9-7",
+            "Win %": "56.25%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Todd",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Tony",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Travis",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Walski",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Zane",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        }
+    ],
+    "Noah": [
+        {
+            "Player": "Adam",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Alan",
+            "Record": "3-10",
+            "Win %": "23.08%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-5",
+            "Win %": "0.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Collin",
+            "Record": "5-6",
+            "Win %": "45.45%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "David O",
+            "Record": "4-7",
+            "Win %": "36.36%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "5-7",
+            "Win %": "41.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "John K",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luca",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luke",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Simon",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "6-2",
+            "Win %": "75.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Todd",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Tony",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Travis",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Walski",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        }
+    ],
+    "Simon": [
+        {
+            "Player": "Adam",
+            "Record": "15-14",
+            "Win %": "51.72%",
+            "Total Matches": "29"
+        },
+        {
+            "Player": "Alan",
+            "Record": "0-5",
+            "Win %": "0.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "5-6",
+            "Win %": "45.45%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "5-27",
+            "Win %": "15.62%",
+            "Total Matches": "32"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-7",
+            "Win %": "0.00%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Collin",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "David O",
+            "Record": "5-6",
+            "Win %": "45.45%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "6-7",
+            "Win %": "46.15%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Frank",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "20-8",
+            "Win %": "71.43%",
+            "Total Matches": "28"
+        },
+        {
+            "Player": "John K",
+            "Record": "15-7",
+            "Win %": "68.18%",
+            "Total Matches": "22"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "11-16",
+            "Win %": "40.74%",
+            "Total Matches": "27"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Luca",
+            "Record": "7-3",
+            "Win %": "70.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-9",
+            "Win %": "10.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Luke",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Marco",
+            "Record": "8-2",
+            "Win %": "80.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "6-15",
+            "Win %": "28.57%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "7-9",
+            "Win %": "43.75%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Noah",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "13-19",
+            "Win %": "40.62%",
+            "Total Matches": "32"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "4-4",
+            "Win %": "50.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Todd",
+            "Record": "7-6",
+            "Win %": "53.85%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-17",
+            "Win %": "19.05%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Travis",
+            "Record": "8-3",
+            "Win %": "72.73%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Walski",
+            "Record": "8-10",
+            "Win %": "44.44%",
+            "Total Matches": "18"
+        },
+        {
+            "Player": "Zane",
+            "Record": "12-10",
+            "Win %": "54.55%",
+            "Total Matches": "22"
+        }
+    ],
+    "Sonny": [
+        {
+            "Player": "Adam",
+            "Record": "6-11",
+            "Win %": "35.29%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Alan",
+            "Record": "1-5",
+            "Win %": "16.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "13-18",
+            "Win %": "41.94%",
+            "Total Matches": "31"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "David O",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Frank",
+            "Record": "3-7",
+            "Win %": "30.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "John K",
+            "Record": "12-3",
+            "Win %": "80.00%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "5-3",
+            "Win %": "62.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Luca",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luis",
+            "Record": "3-5",
+            "Win %": "37.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Luke",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Marco",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "7-9",
+            "Win %": "43.75%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Noah",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Simon",
+            "Record": "19-13",
+            "Win %": "59.38%",
+            "Total Matches": "32"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "7-2",
+            "Win %": "77.78%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Todd",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Tony",
+            "Record": "9-12",
+            "Win %": "42.86%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Travis",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Walski",
+            "Record": "4-8",
+            "Win %": "33.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Zane",
+            "Record": "10-13",
+            "Win %": "43.48%",
+            "Total Matches": "23"
+        }
+    ],
+    "Stephen": [
+        {
+            "Player": "Adam",
+            "Record": "4-13",
+            "Win %": "23.53%",
+            "Total Matches": "17"
+        },
+        {
+            "Player": "Alan",
+            "Record": "2-10",
+            "Win %": "16.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "10-16",
+            "Win %": "38.46%",
+            "Total Matches": "26"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Collin",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "David O",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "1-7",
+            "Win %": "12.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Frank",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "5-0",
+            "Win %": "100.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "John K",
+            "Record": "10-5",
+            "Win %": "66.67%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Luca",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luke",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Marco",
+            "Record": "10-2",
+            "Win %": "83.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "3-8",
+            "Win %": "27.27%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Noah",
+            "Record": "2-6",
+            "Win %": "25.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Simon",
+            "Record": "4-4",
+            "Win %": "50.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "2-7",
+            "Win %": "22.22%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Todd",
+            "Record": "2-5",
+            "Win %": "28.57%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-8",
+            "Win %": "33.33%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Travis",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Walski",
+            "Record": "2-5",
+            "Win %": "28.57%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Zane",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        }
+    ],
+    "Todd": [
+        {
+            "Player": "Adam",
+            "Record": "3-2",
+            "Win %": "60.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Alan",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "3-7",
+            "Win %": "30.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "4-4",
+            "Win %": "50.00%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Frank",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "4-2",
+            "Win %": "66.67%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "John K",
+            "Record": "7-2",
+            "Win %": "77.78%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luca",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "3-6",
+            "Win %": "33.33%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Noah",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Simon",
+            "Record": "6-7",
+            "Win %": "46.15%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "5-2",
+            "Win %": "71.43%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Tony",
+            "Record": "0-6",
+            "Win %": "0.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Travis",
+            "Record": "6-0",
+            "Win %": "100.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Walski",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Zane",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        }
+    ],
+    "Tony": [
+        {
+            "Player": "Adam",
+            "Record": "13-6",
+            "Win %": "68.42%",
+            "Total Matches": "19"
+        },
+        {
+            "Player": "Alan",
+            "Record": "7-3",
+            "Win %": "70.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "10-10",
+            "Win %": "50.00%",
+            "Total Matches": "20"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Collin",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "David O",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "10-4",
+            "Win %": "71.43%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "8-2",
+            "Win %": "80.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "Frank",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "13-2",
+            "Win %": "86.67%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "John K",
+            "Record": "13-2",
+            "Win %": "86.67%",
+            "Total Matches": "15"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "5-4",
+            "Win %": "55.56%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Luca",
+            "Record": "6-0",
+            "Win %": "100.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Luis",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Luke",
+            "Record": "4-0",
+            "Win %": "100.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Marco",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "8-14",
+            "Win %": "36.36%",
+            "Total Matches": "22"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Noah",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Simon",
+            "Record": "17-4",
+            "Win %": "80.95%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "12-9",
+            "Win %": "57.14%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "8-4",
+            "Win %": "66.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Todd",
+            "Record": "6-0",
+            "Win %": "100.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Travis",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Walski",
+            "Record": "9-9",
+            "Win %": "50.00%",
+            "Total Matches": "18"
+        },
+        {
+            "Player": "Zane",
+            "Record": "10-4",
+            "Win %": "71.43%",
+            "Total Matches": "14"
+        }
+    ],
+    "Travis": [
+        {
+            "Player": "Adam",
+            "Record": "4-3",
+            "Win %": "57.14%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Alan",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "0-7",
+            "Win %": "0.00%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Collin",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "4-6",
+            "Win %": "40.00%",
+            "Total Matches": "10"
+        },
+        {
+            "Player": "John K",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "1-3",
+            "Win %": "25.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Luis",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Luke",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "1-4",
+            "Win %": "20.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "0-4",
+            "Win %": "0.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Noah",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Simon",
+            "Record": "3-8",
+            "Win %": "27.27%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "2-2",
+            "Win %": "50.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "Todd",
+            "Record": "0-6",
+            "Win %": "0.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Tony",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Walski",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Zane",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        }
+    ],
+    "Walski": [
+        {
+            "Player": "Adam",
+            "Record": "5-3",
+            "Win %": "62.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Alan",
+            "Record": "2-1",
+            "Win %": "66.67%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "2-5",
+            "Win %": "28.57%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "11-10",
+            "Win %": "52.38%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Collin",
+            "Record": "3-1",
+            "Win %": "75.00%",
+            "Total Matches": "4"
+        },
+        {
+            "Player": "David O",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Frank",
+            "Record": "8-5",
+            "Win %": "61.54%",
+            "Total Matches": "13"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "3-3",
+            "Win %": "50.00%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "John K",
+            "Record": "6-3",
+            "Win %": "66.67%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "11-10",
+            "Win %": "52.38%",
+            "Total Matches": "21"
+        },
+        {
+            "Player": "Luca",
+            "Record": "1-2",
+            "Win %": "33.33%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Luis",
+            "Record": "6-8",
+            "Win %": "42.86%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Luke",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Marco",
+            "Record": "7-1",
+            "Win %": "87.50%",
+            "Total Matches": "8"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "3-0",
+            "Win %": "100.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Noah",
+            "Record": "3-4",
+            "Win %": "42.86%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Simon",
+            "Record": "10-8",
+            "Win %": "55.56%",
+            "Total Matches": "18"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "8-4",
+            "Win %": "66.67%",
+            "Total Matches": "12"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "5-2",
+            "Win %": "71.43%",
+            "Total Matches": "7"
+        },
+        {
+            "Player": "Todd",
+            "Record": "2-0",
+            "Win %": "100.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Tony",
+            "Record": "9-9",
+            "Win %": "50.00%",
+            "Total Matches": "18"
+        },
+        {
+            "Player": "Travis",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Zane",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        }
+    ],
+    "Zane": [
+        {
+            "Player": "Adam",
+            "Record": "6-10",
+            "Win %": "37.50%",
+            "Total Matches": "16"
+        },
+        {
+            "Player": "Alberto",
+            "Record": "0-2",
+            "Win %": "0.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Andrew D",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Chris A",
+            "Record": "6-14",
+            "Win %": "30.00%",
+            "Total Matches": "20"
+        },
+        {
+            "Player": "Clayton",
+            "Record": "0-3",
+            "Win %": "0.00%",
+            "Total Matches": "3"
+        },
+        {
+            "Player": "Collin",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "David O",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Eric K",
+            "Record": "0-1",
+            "Win %": "0.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Evan S",
+            "Record": "2-4",
+            "Win %": "33.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Frank",
+            "Record": "5-1",
+            "Win %": "83.33%",
+            "Total Matches": "6"
+        },
+        {
+            "Player": "Jacob",
+            "Record": "7-4",
+            "Win %": "63.64%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "John K",
+            "Record": "6-3",
+            "Win %": "66.67%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Juwan",
+            "Record": "4-7",
+            "Win %": "36.36%",
+            "Total Matches": "11"
+        },
+        {
+            "Player": "Kevin",
+            "Record": "2-3",
+            "Win %": "40.00%",
+            "Total Matches": "5"
+        },
+        {
+            "Player": "Luca",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Luis",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Marco",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Matt Y",
+            "Record": "4-5",
+            "Win %": "44.44%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Nick D",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Noah",
+            "Record": "1-1",
+            "Win %": "50.00%",
+            "Total Matches": "2"
+        },
+        {
+            "Player": "Simon",
+            "Record": "10-12",
+            "Win %": "45.45%",
+            "Total Matches": "22"
+        },
+        {
+            "Player": "Sonny",
+            "Record": "13-10",
+            "Win %": "56.52%",
+            "Total Matches": "23"
+        },
+        {
+            "Player": "Stephen",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Todd",
+            "Record": "8-1",
+            "Win %": "88.89%",
+            "Total Matches": "9"
+        },
+        {
+            "Player": "Tony",
+            "Record": "4-10",
+            "Win %": "28.57%",
+            "Total Matches": "14"
+        },
+        {
+            "Player": "Travis",
+            "Record": "1-0",
+            "Win %": "100.00%",
+            "Total Matches": "1"
+        },
+        {
+            "Player": "Walski",
+            "Record": "1-8",
+            "Win %": "11.11%",
+            "Total Matches": "9"
+        }
+    ]
+}

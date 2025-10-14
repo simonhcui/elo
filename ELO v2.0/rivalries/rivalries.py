@@ -63,7 +63,7 @@ for matchup in matchups:
 
      profile_players = [
          "Clayton", "Luis", "Alberto", "Alan", "Tony", "Nick D", "Eric K", "Matt Y", "Chris A", "Walski", "Evan S", "Noah", "Collin", "David O", "Adam", "Juwan", "Sonny", "Andrew D", "Kevin", "Todd", "Luca", "Simon",
-         "Zane", "Stephen", "Luke", "John K", "Jacob", "Travis", "Marco"
+         "Zane", "Stephen", "Luke", "John K", "Jacob", "Travis", "Marco", "Frank"
      ]
  
      if(matchup[0] in profile_players and matchup[1] in profile_players):
