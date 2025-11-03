@@ -7,21 +7,21 @@ Collin,Stephen,0
 Walski,Adam,1
 Jacob,Marco,1
 
-Sonny,Kevin,1,Chaos,10-2-2025
+Sonny,Kevin S,1,Chaos,10-2-2025
 Luke,Walski,0
 Tony,Stephen,0
 Travis,Chris A,0
 Sonny,Stephen,1
-Kevin,Tony,0
+Kevin S,Tony,0
 Walski,Chris A,1
 Travis,Luke,0
 
 Luke,Matt H,0,TSR,10-2-2025
-Kevin,Noah,0
+Kevin S,Noah,0
 Tony,Sonny,0
 Eric K,Clayton,1
 Eric K,Noah,1
-Kevin,Clayton,0
+Kevin S,Clayton,0
 Tony,Luke,1
 Sonny,Matt H,0
 
@@ -67,8 +67,8 @@ Clayton,Noah,1
 
 Stephen,Walski,0,Chaos,10-4-2025
 Jacob,Will,0
-Kevin,Frank,1
-Kevin,Will,0
+Kevin S,Frank,1
+Kevin S,Will,0
 Stephen,Jacob,1
 Frank,Walski,0
 
@@ -95,24 +95,24 @@ Nick C,Clayton,0
 Thana,Nick D,0
 Noah,Jack,1
 Collin,Thana,0
-Eric,Nick D,1
+Eric K,Nick D,1
 Clayton,Noah,0
 Nick C,Jack,1
 
 Stephen,Will,0,Chaos,10-4-2025
 Frank,Walski,1
 Jacob,Rich,1
-Kevin,Chris A,0
+Kevin S,Chris A,0
 Frank,Chris A,0
-Walski,Kevin,1
+Walski,Kevin S,1
 Rich,Stephen,0
 
 Jacob,Marco,1,Chaos,10-4-2025
 Chris A,Nick D,0
 Rich,Travis,0
-Kevin,Walski,1
+Kevin S,Walski,1
 Chris A,Walski,0
-Nick D,Kevin,1
+Nick D,Kevin S,1
 Travis,Marco,0
 
 Eric C,Collin,0,Chaos,10-4-2025
@@ -149,14 +149,14 @@ David O,Noah,1
 Eric C,Luis,0,Chaos,10-9-2025
 Travis,Marco,1
 Stephen,Chris A,0
-Kevin,Aaron,1
-Kevin,Travis,1
+Kevin S,Aaron,1
+Kevin S,Travis,1
 Aaron,Marco,1
 Luis,Chris A,1
 Eric C,Stephen,1
 
 Eric C,Chris A,1,Chaos,10-9-2025
-Kevin,Travis,1
+Kevin S,Travis,1
 Luis,Tony,1
 Marco,Stephen,1
 Eric C,Luis,0
@@ -247,5 +247,61 @@ Andrew D,Chris A,0
 Maxime,Clayton,0
 Jim,Eric K,1
 Andrew K,Andrew D,1
+
+Luke,Collin,0,AKH/HOU,10-30-2025
+Eric K,Matt Y,1
+Clayton,Andrew D,0
+David O,Travis,1
+David O,Eric K,0
+Travis,Matt Y,0
+Clayton,Luke,1
+Andrew D,Collin,0
+
+Matt Y,Stephen,1,FIN,10-30-2025
+Andrew D,Eric K,1
+Noah,Thana,0
+Clayton,Travis,1
+Clayton,Andrew D,1
+Travis,Eric K,0
+Noah,Stephen,0
+Thana,Matt Y,0
+
+Simon,Marco,1,Chaos,10-30-2025
+Eric C,Adam,1
+Sonny,Chris A,1
+Kevin S,Walski,1
+Tony,Stephen,1
+Simon,Stephen,1
+Chris A,Adam,0
+Marco,Walski,0
+Kevin S,Eric C,1
+Sonny,Tony,0
+
+Collin,Chris A,0,Chaos,10-30-2025
+Sonny,Luke,1
+Tony,Walski,0
+Adam,Kevin S,1
+Tony,Collin,1
+Chris A,Walski,1
+Sonny,Adam,1
+Luke,Kevin S,1
+
+Travis,Adam,0,DSK,10-31-2025
+Thana,Andrew D,0
+Noah,Stephen,1
+Luke,Andre,0
+Luke,Thana,1
+Andrew D,Andre,0
+Stephen,Travis,0
+Noah,Adam,1
+
+Thana,Luke,0,FIN,10-31-2025
+Noah,Stephen,0
+Adam,Andrew D,1
+Travis,Andre,0
+Travis,Noah,1
+Andre,Stephen,1
+Thana,Andrew D,1
+Luke,Adam,0
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
