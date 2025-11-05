@@ -82,7 +82,7 @@
 1,1,Boros,Thana
 0,2,Golgari,Noah
 0,2,Izzet,Eric K
-3,0,Izzet
+3,0,Izzet,Clayton
 2,0,5c,Nick D
 2,1,Azorius,Maxime
 1,1,Rakdos,Thana
