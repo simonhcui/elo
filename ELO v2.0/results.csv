@@ -304,4 +304,91 @@ Andre,Stephen,1
 Thana,Andrew D,1
 Luke,Adam,0
 
+Aaron,Eric K,0,BLB,11-6-2025
+Mike,Collin,0
+Clayton,Luke,1
+Stephen,Adam,1
+Mike,Adam,0
+Collin,Stephen,0
+Aaron,Luke,0
+Eric K,Clayton,1
+
+Noah,Clayton,1,FIN,11-6-2025
+Collin,Hamzah,1
+Mike,Thana,0
+Stephen,Eric K,0
+Collin,Eric K,0
+Hamzah,Stephen,1
+Noah,Thana,1
+Clayton,Mike,1
+
+Noah,Travis,1,Chaos,11-6-2025
+Alberto,Chris A,0
+Tony,Walski,1
+Marco,Sonny,0
+Alberto,Marco,1
+Chris A,Sonny,1
+Walski,Travis,1
+
+Tony,Adam,0,Chaos,11-6-2025
+Walski,Travis,1
+Alberto,Sonny,0
+Luke,Matt H,1
+Adam,Sonny,1
+Walski,Luke,0
+Travis,Matt H,0
+
+Jim,Eric K,1,FIN,11-7-2025
+Thana,Clayton,0
+Adam,Simon,0
+Luke,Noah,1
+Clayton,Luke,1
+Thana,Noah,0
+Simon,Jim,0
+Adam,Eric K,0
+Adam,Thana,1
+Eric K,Noah,1
+Jim,Clayton,1
+Simon,Luke,1
+
+Frank,Collin,1,MB2,11-8-2025
+Thana,Chris A,0
+Walski,Stephen,1
+Nick D,Eric K,0
+Frank,Walski,0
+Collin,Stephen,1
+Chris A,Eric K,0
+Thana,Nick D,0
+
+Thana,Travis,1,MB2,11-8-2025
+Collin,Eric K,0
+Walski,Stephen,0
+Nick D,Chris A,1
+Collin,Chris A,1
+Eric K,Nick D,0
+Thana,Stephen,0
+Travis,Walski,0
+
+Collin,Luke,1,Chaos,11-8-2025
+Travis,Eric K,0
+Stephen,Nick D,0
+Walski,Marco,1
+Chris A,Thana,1
+Eric K,Walski,1
+Thana,Marco,0
+Nick D,Collin,0
+Stephen,Luke,1
+Chris A,Travis,1
+
+Simon,Jacob,1,Chaos,11-8-2025
+Noah,Adam,0
+Chris A,Marco,0
+Luke,Nick D,0
+Thana,Eric K,1
+Simon,Adam,0
+Chris A,Eric K,1
+Nick D,Thana,1
+Marco,Noah,1
+Jacob,Luke,0
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
