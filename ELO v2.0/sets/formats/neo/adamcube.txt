@@ -72,3 +72,19 @@
 1,1,Selesnya,Matt
 0,2,Izzet,Nick D
 0,2,Azorius,Travis
+2,0,Rakdos,Matt Y
+2,0,Rakdos,Eric K
+1,1,Abzan,Noah
+1,1,Sultai,Adam
+1,1,Azorius,Collin
+1,1,Dimir,Thana
+0,2,Azorius,Matt H
+0,2,Izzet,Clayton
+2,0,Dimir,Clayton
+1,0,Dimir,Tony
+1,0,Gruul,Chris A
+1,1,Azorius,Simon
+1,1,Boros,Stephen
+0,1,Selesnya,Noah
+0,1,Selesnya,Collin
+0,2,Orzhov,Felix

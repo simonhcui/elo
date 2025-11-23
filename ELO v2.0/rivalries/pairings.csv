@@ -1,12 +1,12 @@
 Jacob,Todd,2,4,0.3333333333333333,6
-Chris A,Sonny,18,13,0.5806451612903226,31
+Chris A,Sonny,19,14,0.5757575757575758,33
 Juwan,Simon,16,11,0.5925925925925926,27
 Simon,Sonny,13,19,0.40625,32
 Chris A,Juwan,10,9,0.5263157894736842,19
 Nick D,Todd,3,4,0.42857142857142855,7
-Jacob,Simon,8,20,0.2857142857142857,28
+Jacob,Simon,9,21,0.3,30
 Juwan,Todd,4,3,0.5714285714285714,7
-Chris A,Nick D,8,17,0.32,25
+Chris A,Nick D,8,19,0.2962962962962963,27
 Andrew D,Sonny,2,4,0.3333333333333333,6
 Matt Y,Sonny,9,7,0.5625,16
 Nick D,Zane,8,1,0.8888888888888888,9
@@ -15,9 +15,9 @@ Juwan,Zane,7,4,0.6363636363636364,11
 Simon,Zane,12,10,0.5454545454545454,22
 Matt Y,Nick D,12,10,0.5454545454545454,22
 Juwan,Nick D,9,12,0.42857142857142855,21
-Juwan,Matt Y,10,6,0.625,16
+Juwan,Matt Y,11,6,0.6470588235294118,17
 Nick D,Simon,9,7,0.5625,16
-Chris A,Matt Y,15,13,0.5357142857142857,28
+Chris A,Matt Y,15,14,0.5172413793103449,29
 Juwan,Sonny,4,2,0.6666666666666666,6
 Sonny,Zane,10,13,0.43478260869565216,23
 Simon,Todd,7,6,0.5384615384615384,13
@@ -25,20 +25,20 @@ Chris A,Zane,14,6,0.7,20
 Matt Y,Todd,6,3,0.6666666666666666,9
 Chris A,Simon,27,5,0.84375,32
 Todd,Zane,1,8,0.1111111111111111,9
-Adam,Sonny,11,6,0.6470588235294118,17
-Adam,Chris A,16,18,0.47058823529411764,34
+Adam,Sonny,12,7,0.631578947368421,19
+Adam,Chris A,17,18,0.4857142857142857,35
 Simon,Travis,8,3,0.7272727272727273,11
-Adam,Matt Y,10,7,0.5882352941176471,17
-Adam,Travis,3,4,0.42857142857142855,7
+Adam,Matt Y,11,7,0.6111111111111112,18
+Adam,Travis,4,4,0.5,8
 Adam,Juwan,11,6,0.6470588235294118,17
 Adam,Zane,10,6,0.625,16
-Adam,Simon,14,15,0.4827586206896552,29
+Adam,Simon,15,16,0.4838709677419355,31
 Evan S,Matt Y,2,4,0.3333333333333333,6
 Evan S,Juwan,5,5,0.5,10
 Nick D,Sonny,1,3,0.25,4
 Matt Y,Zane,5,4,0.5555555555555556,9
 Simon,Walski,8,10,0.4444444444444444,18
-Chris A,Walski,10,11,0.47619047619047616,21
+Chris A,Walski,12,14,0.46153846153846156,26
 David O,Simon,6,5,0.5454545454545454,11
 David O,Evan S,1,5,0.16666666666666666,6
 Chris A,Evan S,2,4,0.3333333333333333,6
@@ -51,11 +51,9 @@ Evan S,Nick D,2,3,0.4,5
 Sonny,Walski,4,8,0.3333333333333333,12
 Matt Y,Walski,0,3,0.0,3
 Chris A,Todd,7,3,0.7,10
-Chris A,David O,5,3,0.625,8
-Adam,Tony,6,13,0.3157894736842105,19
+Chris A,David O,5,4,0.5555555555555556,9
+Adam,Tony,7,13,0.35,20
 Juwan,Tony,3,4,0.42857142857142855,7
-Juwan,Kevin,1,1,0.5,2
-Kevin,Zane,3,2,0.6,5
 Tony,Zane,10,4,0.7142857142857143,14
 Matt Y,Tony,14,8,0.6363636363636364,22
 David O,Todd,1,1,0.5,2
@@ -64,27 +62,27 @@ David O,Nick D,3,1,0.75,4
 Travis,Zane,0,1,0.0,1
 Jacob,Travis,6,4,0.6,10
 Chris A,Tony,10,10,0.5,20
-Adam,David O,9,1,0.9,10
+Adam,David O,9,2,0.8181818181818182,11
 Simon,Tony,4,17,0.19047619047619047,21
 Evan S,Tony,2,8,0.2,10
 Evan S,Zane,4,2,0.6666666666666666,6
 Jacob,Juwan,4,8,0.3333333333333333,12
 Adam,Todd,2,3,0.4,5
 John K,Todd,2,7,0.2222222222222222,9
-Sonny,Tony,9,12,0.42857142857142855,21
+Sonny,Tony,10,13,0.43478260869565216,23
 Evan S,John K,6,1,0.8571428571428571,7
 David O,Juwan,3,2,0.6,5
-Clayton,Travis,2,1,0.6666666666666666,3
+Clayton,Travis,3,1,0.75,4
 David O,Matt Y,2,3,0.4,5
 Clayton,Juwan,3,0,1.0,3
 Todd,Tony,0,6,0.0,6
-Frank,Walski,5,8,0.38461538461538464,13
+Frank,Walski,6,10,0.375,16
 Frank,Simon,4,1,0.8,5
 Evan S,Frank,1,0,1.0,1
 Todd,Walski,0,2,0.0,2
 Evan S,Walski,3,0,1.0,3
 Frank,Todd,1,2,0.3333333333333333,3
-Chris A,Frank,1,1,0.5,2
+Chris A,Frank,4,1,0.8,5
 Luca,Todd,1,0,1.0,1
 Evan S,Luca,2,1,0.6666666666666666,3
 Luca,Matt Y,2,6,0.25,8
@@ -92,8 +90,8 @@ Juwan,Luca,2,4,0.3333333333333333,6
 Jacob,Matt Y,2,13,0.13333333333333333,15
 Evan S,Jacob,4,1,0.8,5
 Chris A,Jacob,12,6,0.6666666666666666,18
-Chris A,Travis,7,0,1.0,7
-David O,Travis,1,1,0.5,2
+Chris A,Travis,9,0,1.0,9
+David O,Travis,2,1,0.6666666666666666,3
 Todd,Travis,6,0,1.0,6
 John K,Travis,3,1,0.75,4
 Jacob,Zane,4,7,0.36363636363636365,11
@@ -110,31 +108,30 @@ Andrew D,Todd,1,1,0.5,2
 John K,Tony,2,13,0.13333333333333333,15
 Andrew D,Evan S,1,5,0.16666666666666666,6
 Andrew D,Simon,6,5,0.5454545454545454,11
-Andrew D,Chris A,5,10,0.3333333333333333,15
+Andrew D,Chris A,5,11,0.3125,16
 Walski,Zane,8,1,0.8888888888888888,9
 Chris A,John K,18,5,0.782608695652174,23
-Tony,Walski,9,9,0.5,18
-Adam,Walski,3,5,0.375,8
-Evan S,Kevin,0,1,0.0,1
+Tony,Walski,10,10,0.5,20
+Adam,Walski,3,6,0.3333333333333333,9
 Sonny,Travis,1,0,1.0,1
 Jacob,John K,12,11,0.5217391304347826,23
 David O,John K,7,0,1.0,7
 John K,Zane,3,6,0.3333333333333333,9
-Jacob,Tony,2,13,0.13333333333333333,15
-David O,Tony,1,3,0.25,4
+Jacob,Tony,2,14,0.125,16
+David O,Tony,2,4,0.3333333333333333,6
 David O,Zane,1,1,0.5,2
 Clayton,John K,7,3,0.7,10
-Adam,Clayton,4,7,0.36363636363636365,11
-Clayton,Simon,7,0,1.0,7
+Adam,Clayton,6,8,0.42857142857142855,14
+Clayton,Simon,8,0,1.0,8
 Clayton,Todd,2,0,1.0,2
-Chris A,Clayton,5,7,0.4166666666666667,12
+Chris A,Clayton,5,8,0.38461538461538464,13
 Clayton,Matt Y,4,5,0.4444444444444444,9
 John K,Nick D,1,6,0.14285714285714285,7
 Clayton,Tony,4,3,0.5714285714285714,7
 Clayton,Sonny,8,1,0.8888888888888888,9
 Clayton,Jacob,8,1,0.8888888888888888,9
-Matt Y,Travis,4,1,0.8,5
-Jacob,Walski,3,3,0.5,6
+Matt Y,Travis,7,1,0.875,8
+Jacob,Walski,3,4,0.42857142857142855,7
 John K,Walski,3,6,0.3333333333333333,9
 Clayton,Zane,3,0,1.0,3
 John K,Sonny,3,12,0.2,15
@@ -155,48 +152,41 @@ Marco,Nick D,1,3,0.25,4
 David O,Jacob,2,1,0.6666666666666666,3
 Alberto,John K,8,1,0.8888888888888888,9
 Alberto,Jacob,10,2,0.8333333333333334,12
-Alberto,Sonny,3,3,0.5,6
-Chris A,Marco,6,3,0.6666666666666666,9
+Alberto,Sonny,4,4,0.5,8
+Chris A,Marco,9,4,0.6923076923076923,13
 Luca,Simon,3,7,0.3,10
-Alberto,Chris A,3,3,0.5,6
+Alberto,Chris A,3,4,0.42857142857142855,7
 David O,Sonny,1,0,1.0,1
 Alberto,Luca,3,1,0.75,4
-Tony,Travis,3,0,1.0,3
+Tony,Travis,4,0,1.0,4
 Luca,Zane,1,1,0.5,2
 Chris A,Luca,1,4,0.2,5
 Luca,Nick D,2,3,0.4,5
 Luis,Sonny,5,3,0.625,8
-Luis,Tony,4,3,0.5714285714285714,7
+Luis,Tony,5,3,0.625,8
 Jacob,Luis,0,2,0.0,2
 Luis,Simon,9,1,0.9,10
 Alberto,David O,2,1,0.6666666666666666,3
 Evan S,Marco,1,0,1.0,1
 Frank,Marco,1,0,1.0,1
 Andrew D,Walski,4,2,0.6666666666666666,6
-Kevin,Luca,0,2,0.0,2
-John K,Kevin,3,4,0.42857142857142855,7
 John K,Juwan,2,1,0.6666666666666666,3
-Marco,Walski,1,7,0.125,8
-Kevin,Walski,10,11,0.47619047619047616,21
+Marco,Walski,2,9,0.18181818181818182,11
 Juwan,Marco,1,0,1.0,1
-Frank,Jacob,1,0,1.0,1
-Chris A,Kevin,6,6,0.5,12
+Frank,Jacob,2,0,1.0,2
 Frank,Juwan,0,1,0.0,1
 Frank,John K,3,0,1.0,3
 Andrew D,Frank,2,3,0.4,5
-Kevin,Simon,4,3,0.5714285714285714,7
-Andrew D,Kevin,1,1,0.5,2
 Alberto,Tony,1,3,0.25,4
 Andrew D,David O,0,1,0.0,1
 Adam,Alberto,3,1,0.75,4
-Alberto,Simon,4,2,0.6666666666666666,6
+Alberto,Simon,5,2,0.7142857142857143,7
 Nick D,Tony,2,2,0.5,4
 Luis,Zane,1,1,0.5,2
-Andrew D,Clayton,2,4,0.3333333333333333,6
+Andrew D,Clayton,3,5,0.375,8
 John K,Luis,1,7,0.125,8
 Andrew D,Luis,1,0,1.0,1
 Luis,Todd,0,1,0.0,1
-Kevin,Matt Y,0,3,0.0,3
 Andrew D,Tony,3,4,0.42857142857142855,7
 Andrew D,Matt Y,3,1,0.75,4
 Alberto,Walski,5,2,0.7142857142857143,7
@@ -204,194 +194,183 @@ Alberto,Andrew D,3,4,0.42857142857142855,7
 Luca,Tony,0,6,0.0,6
 Alberto,Nick D,0,3,0.0,3
 Jacob,Nick D,0,3,0.0,3
-Frank,Kevin,5,5,0.5,10
 Andrew D,Zane,1,1,0.5,2
-Kevin,Tony,4,5,0.4444444444444444,9
-Kevin,Sonny,3,5,0.375,8
 Alberto,Zane,2,0,1.0,2
-Adam,Marco,5,2,0.7142857142857143,7
+Adam,Marco,6,2,0.75,8
 Andrew D,Marco,1,0,1.0,1
 Alberto,Travis,2,0,1.0,2
 John K,Marco,3,2,0.6,5
-Adam,Andrew D,1,2,0.3333333333333333,3
+Adam,Andrew D,2,2,0.5,4
 Andrew D,Stephen,2,4,0.3333333333333333,6
 Juwan,Stephen,2,3,0.4,5
-Sonny,Stephen,7,2,0.7777777777777778,9
+Sonny,Stephen,9,2,0.8181818181818182,11
 Alan,Evan S,3,2,0.6,5
-Stephen,Tony,4,8,0.3333333333333333,12
+Stephen,Tony,5,11,0.3125,16
 Alan,Sonny,5,1,0.8333333333333334,6
 Alan,Alberto,1,4,0.2,5
-Alberto,Kevin,1,0,1.0,1
 Evan S,Stephen,3,0,1.0,3
-Simon,Stephen,4,4,0.5,8
-Marco,Travis,2,1,0.6666666666666666,3
-Marco,Stephen,2,10,0.16666666666666666,12
+Simon,Stephen,6,5,0.5454545454545454,11
+Marco,Travis,3,2,0.6,5
+Marco,Stephen,3,10,0.23076923076923078,13
 Alan,Clayton,1,4,0.2,5
 Alan,Nick D,4,3,0.5714285714285714,7
 Alberto,Clayton,0,1,0.0,1
 Adam,Alan,6,9,0.4,15
 John K,Stephen,5,10,0.3333333333333333,15
 Alan,Jacob,8,0,1.0,8
-Matt Y,Stephen,8,3,0.7272727272727273,11
+Matt Y,Stephen,9,3,0.75,12
 Luca,Stephen,2,3,0.4,5
-Stephen,Travis,2,2,0.5,4
+Stephen,Travis,3,3,0.5,6
 Alberto,Matt Y,1,0,1.0,1
 Alan,Tony,3,7,0.3,10
 Adam,Luca,2,2,0.5,4
 Alan,Luca,3,1,0.75,4
-Adam,Stephen,13,4,0.7647058823529411,17
+Adam,Stephen,14,6,0.7,20
 Stephen,Todd,2,5,0.2857142857142857,7
-Marco,Simon,2,8,0.2,10
-Chris A,Stephen,16,10,0.6153846153846154,26
-Juwan,Travis,3,1,0.75,4
+Marco,Simon,3,9,0.25,12
+Chris A,Stephen,18,10,0.6428571428571429,28
+Juwan,Travis,3,2,0.6,5
 Andrew D,Nick D,1,2,0.3333333333333333,3
 Luis,Walski,8,6,0.5714285714285714,14
 Frank,Luis,1,5,0.16666666666666666,6
 Alan,Matt Y,4,9,0.3076923076923077,13
 Alan,John K,6,1,0.8571428571428571,7
-Nick D,Stephen,4,2,0.6666666666666666,6
-Kevin,Nick D,1,2,0.3333333333333333,3
+Nick D,Stephen,5,2,0.7142857142857143,7
 Alberto,Stephen,2,0,1.0,2
 Andrew D,Jacob,8,2,0.8,10
-Jacob,Stephen,0,5,0.0,5
+Jacob,Stephen,0,6,0.0,6
 Alan,Todd,1,2,0.3333333333333333,3
 Alan,Andrew D,1,1,0.5,2
 Alan,Stephen,10,2,0.8333333333333334,12
-Jacob,Kevin,0,4,0.0,4
 Alan,Chris A,5,4,0.5555555555555556,9
 Marco,Matt Y,0,5,0.0,5
 Alberto,Todd,2,0,1.0,2
 Marco,Tony,1,5,0.16666666666666666,6
 Nick D,Travis,4,0,1.0,4
 Alan,Travis,2,0,1.0,2
-Clayton,David O,2,1,0.6666666666666666,3
+Clayton,David O,2,2,0.5,4
 Clayton,Evan S,1,0,1.0,1
 Clayton,Luca,2,0,1.0,2
 Noah,Simon,2,3,0.4,5
-Noah,Sonny,0,1,0.0,1
+Noah,Sonny,1,1,0.5,2
 Alan,Walski,1,2,0.3333333333333333,3
 Jacob,Noah,0,3,0.0,3
 Nick D,Noah,0,3,0.0,3
-Matt Y,Noah,3,4,0.42857142857142855,7
+Matt Y,Noah,5,5,0.5,10
 Alan,Noah,10,3,0.7692307692307693,13
-Kevin,Luis,3,8,0.2727272727272727,11
 Clayton,Luis,0,1,0.0,1
 Clayton,Walski,3,2,0.6,5
-Eric K,Stephen,7,1,0.875,8
-Eric K,Tony,4,10,0.2857142857142857,14
+Eric K,Stephen,8,1,0.8888888888888888,9
+Eric K,Tony,5,10,0.3333333333333333,15
 Eric K,Sonny,1,0,1.0,1
 Alan,Simon,5,0,1.0,5
-Eric K,Matt Y,5,3,0.625,8
-Adam,Eric K,4,9,0.3076923076923077,13
-Clayton,Noah,5,0,1.0,5
+Eric K,Matt Y,7,5,0.5833333333333334,12
+Adam,Eric K,4,10,0.2857142857142857,14
+Clayton,Noah,10,3,0.7692307692307693,13
 Collin,Zane,1,0,1.0,1
-Kevin,Todd,0,1,0.0,1
-Collin,Eric K,8,5,0.6153846153846154,13
-Adam,Collin,8,5,0.6153846153846154,13
-Kevin,Stephen,4,2,0.6666666666666666,6
+Collin,Eric K,9,11,0.45,20
+Adam,Collin,9,7,0.5625,16
 Stephen,Zane,0,1,0.0,1
 Noah,Todd,1,0,1.0,1
 Juwan,Noah,0,4,0.0,4
-Chris A,Collin,5,4,0.5555555555555556,9
+Chris A,Collin,7,7,0.5,14
 Alan,Juwan,1,2,0.3333333333333333,3
 Luca,Noah,0,2,0.0,2
-Adam,Noah,1,5,0.16666666666666666,6
+Adam,Noah,2,7,0.2222222222222222,9
 Alan,Eric K,9,5,0.6428571428571429,14
-Eric K,Simon,8,1,0.8888888888888888,9
-Kevin,Marco,2,0,1.0,2
+Eric K,Simon,8,2,0.8,10
 Collin,Walski,1,3,0.25,4
 Collin,Matt Y,1,4,0.2,5
-Chris A,Noah,5,4,0.5555555555555556,9
-Collin,Kevin,1,3,0.25,4
+Chris A,Noah,7,6,0.5384615384615384,13
 Luca,Luis,0,1,0.0,1
 Noah,Zane,1,1,0.5,2
 Marco,Zane,0,1,0.0,1
-Andrew D,Eric K,1,5,0.16666666666666666,6
-Kevin,Luke,4,2,0.6666666666666666,6
+Andrew D,Eric K,2,5,0.2857142857142857,7
 Alan,Marco,4,0,1.0,4
-Luke,Marco,4,0,1.0,4
-Alan,Kevin,1,0,1.0,1
+Luke,Marco,5,0,1.0,5
 Eric K,John K,3,0,1.0,3
-Eric K,Walski,3,2,0.6,5
-Stephen,Walski,2,5,0.2857142857142857,7
-Adam,Kevin,5,1,0.8333333333333334,6
-Luke,Stephen,4,5,0.4444444444444444,9
+Eric K,Walski,5,2,0.7142857142857143,7
+Stephen,Walski,4,7,0.36363636363636365,11
+Luke,Stephen,4,7,0.36363636363636365,11
 Eric K,Marco,5,0,1.0,5
-Luke,Noah,1,5,0.16666666666666666,6
-Collin,Luke,10,1,0.9090909090909091,11
-Collin,Tony,4,2,0.6666666666666666,6
-Eric K,Luke,6,3,0.6666666666666666,9
+Luke,Noah,2,5,0.2857142857142857,7
+Collin,Luke,12,1,0.9230769230769231,13
+Collin,Tony,5,5,0.5,10
+Eric K,Luke,7,4,0.6363636363636364,11
 Alan,Collin,3,2,0.6,5
-Eric K,Noah,7,5,0.5833333333333334,12
-Adam,Luke,3,1,0.75,4
+Eric K,Noah,9,8,0.5294117647058824,17
+Adam,Luke,5,1,0.8333333333333334,6
 Luca,Marco,1,0,1.0,1
-Noah,Stephen,6,2,0.75,8
+Noah,Stephen,7,4,0.6363636363636364,11
 John K,Noah,0,4,0.0,4
-Noah,Tony,2,2,0.5,4
+Noah,Tony,3,2,0.6,5
 Noah,Walski,4,3,0.5714285714285714,7
-Luke,Simon,3,3,0.5,6
+Luke,Simon,3,5,0.375,8
 Luke,Matt Y,2,2,0.5,4
-Collin,Noah,6,5,0.5454545454545454,11
-Chris A,Luke,5,1,0.8333333333333334,6
-Chris A,Eric K,4,7,0.36363636363636365,11
-Marco,Sonny,0,4,0.0,4
-Eric K,Nick D,3,4,0.42857142857142855,7
-Clayton,Stephen,2,0,1.0,2
-David O,Luke,5,2,0.7142857142857143,7
+Collin,Noah,8,7,0.5333333333333333,15
+Chris A,Luke,6,1,0.8571428571428571,7
+Chris A,Eric K,6,8,0.42857142857142855,14
+Marco,Sonny,1,5,0.16666666666666666,6
+Eric K,Nick D,4,5,0.4444444444444444,9
+Clayton,Stephen,4,0,1.0,4
+David O,Luke,5,3,0.625,8
 Clayton,Marco,3,0,1.0,3
 Alan,David O,5,3,0.625,8
 Alan,Luke,3,1,0.75,4
-Chris A,Luis,1,4,0.2,5
+Chris A,Luis,1,5,0.16666666666666666,6
 Luis,Stephen,3,1,0.75,4
-Luke,Nick D,1,2,0.3333333333333333,3
-Jacob,Luke,3,1,0.75,4
-David O,Eric K,4,6,0.4,10
-Collin,Stephen,2,4,0.3333333333333333,6
-Collin,Simon,2,3,0.4,5
-David O,Noah,7,4,0.6363636363636364,11
-Eric K,Kevin,1,0,1.0,1
+Luke,Nick D,1,4,0.2,5
+Jacob,Luke,3,2,0.6,5
+David O,Eric K,4,8,0.3333333333333333,12
+Collin,Stephen,3,7,0.3,10
+Collin,Simon,3,4,0.42857142857142855,7
+David O,Noah,8,4,0.6666666666666666,12
 Collin,David O,2,4,0.3333333333333333,6
-Jacob,Marco,3,1,0.75,4
+Jacob,Marco,5,2,0.7142857142857143,7
 Juwan,Luis,0,1,0.0,1
 Juwan,Walski,1,0,1.0,1
 Collin,Luis,0,2,0.0,2
 Collin,Marco,1,0,1.0,1
-Eric K,Travis,3,1,0.75,4
+Eric K,Travis,5,3,0.625,8
 Eric K,Luis,2,2,0.5,4
-Kevin,Noah,1,0,1.0,1
 Luis,Luke,4,2,0.6666666666666666,6
 Adam,Luis,0,3,0.0,3
 Collin,Jacob,4,1,0.8,5
-Andrew D,Collin,2,0,1.0,2
-Luke,Travis,1,1,0.5,2
+Andrew D,Collin,2,1,0.6666666666666666,3
+Luke,Travis,2,2,0.5,4
 John K,Luke,0,1,0.0,1
 David O,Luis,2,1,0.6666666666666666,3
 David O,Stephen,3,0,1.0,3
 Adam,Frank,1,1,0.5,2
 Alan,Luis,3,0,1.0,3
-Luke,Tony,0,4,0.0,4
+Luke,Tony,0,5,0.0,5
 Collin,Juwan,3,0,1.0,3
 David O,Walski,1,0,1.0,1
-Frank,Stephen,1,0,1.0,1
+Frank,Stephen,2,0,1.0,2
 Andrew D,Noah,1,1,0.5,2
 Andrew D,Luke,1,2,0.3333333333333333,3
 Collin,John K,0,2,0.0,2
 Eric K,Jacob,1,0,1.0,1
 David O,Marco,2,0,1.0,2
-Luke,Walski,0,1,0.0,1
+Luke,Walski,2,3,0.4,5
 Luke,Todd,0,1,0.0,1
-Clayton,Collin,5,4,0.5555555555555556,9
-Clayton,Eric K,5,1,0.8333333333333334,6
-David O,Kevin,1,0,1.0,1
+Clayton,Collin,6,6,0.5,12
+Clayton,Eric K,9,4,0.6923076923076923,13
 Juwan,Luke,1,0,1.0,1
-Clayton,Luke,3,0,1.0,3
-Travis,Walski,2,0,1.0,2
+Clayton,Luke,7,0,1.0,7
+Travis,Walski,3,3,0.5,6
 Luis,Nick D,0,1,0.0,1
 Eric K,Zane,1,0,1.0,1
-Alberto,Luke,1,0,1.0,1
+Alberto,Luke,2,0,1.0,2
 David O,Frank,0,1,0.0,1
-Noah,Travis,0,1,0.0,1
-Luke,Sonny,0,1,0.0,1
-Collin,Travis,1,0,1.0,1
+Noah,Travis,1,2,0.3333333333333333,3
+Luke,Sonny,0,2,0.0,2
+Collin,Travis,3,0,1.0,3
 Luis,Travis,1,0,1.0,1
 Luis,Marco,1,0,1.0,1
+Clayton,Nick D,0,1,0.0,1
+Collin,Nick D,2,0,1.0,2
+Kevin,Travis,2,0,1.0,2
+Alberto,Marco,1,0,1.0,1
+Collin,Frank,0,1,0.0,1
+Marco,Noah,1,0,1.0,1
