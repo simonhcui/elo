@@ -1,4 +1,5 @@
-r = open("results.csv", "r")
+#r = open("results.csv", "r")
+r = open("results_onlyretail.csv", "r")
 w = open("pairings.csv", "w")
 
 matchups = {}
