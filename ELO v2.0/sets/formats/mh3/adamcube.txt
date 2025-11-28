@@ -166,3 +166,11 @@
 1,1,Boros,Max M
 0,2,Naya,Juwan
 0,2,Izzet,Collin
+2,0,Gruul,Frank
+2,0,Dimir,Clayton
+1,1,Temur,Simon
+1,1,Dimir,Noah
+1,1,Jeskai,Thana
+1,1,Boros,Collin
+0,2,Jeskai,Andrew D
+0,2,Boros,Eric K
