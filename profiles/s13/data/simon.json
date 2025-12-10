@@ -150,10 +150,10 @@
     },
     {
       "Format": "Modern Horizons 3",
-      "Win %": "64.29%",
-      "Record": "9-5",
-      "Drafts": "7",
-      "Glicko": "1541 ± 132"
+      "Win %": "62.50%",
+      "Record": "10-6",
+      "Drafts": "8",
+      "Glicko": "1514 ± 122"
     },
     {
       "Format": "Mystery Booster 1",
@@ -168,6 +168,13 @@
       "Record": "10-11",
       "Drafts": "11",
       "Glicko": "1510 ± 97"
+    },
+    {
+      "Format": "Time Spiral Remastered",
+      "Win %": "40.00%",
+      "Record": "2-3",
+      "Drafts": "3",
+      "Glicko": "1475 ± 183"
     }
   ],
 

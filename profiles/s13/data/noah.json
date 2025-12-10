@@ -65,11 +65,18 @@
       "Glicko": "1662 ± 72"
     },
     {
+      "Format": "Modern Horizons 3",
+      "Win %": "75.00%",
+      "Record": "6-2",
+      "Drafts": "4",
+      "Glicko": "1767 ± 148"
+    },
+    {
       "Format": "Mystery Booster 2",
-      "Win %": "69.44%",
-      "Record": "25-11",
-      "Drafts": "18",
-      "Glicko": "1697 ± 81"
+      "Win %": "67.50%",
+      "Record": "27-13",
+      "Drafts": "20",
+      "Glicko": "1676 ± 78"
     }
   ],
 

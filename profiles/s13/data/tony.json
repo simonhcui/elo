@@ -114,10 +114,10 @@
     },
     {
       "Format": "Double Masters 2022",
-      "Win %": "37.50%",
-      "Record": "6-10",
-      "Drafts": "7",
-      "Glicko": "1537 ± 98"
+      "Win %": "36.84%",
+      "Record": "7-12",
+      "Drafts": "8",
+      "Glicko": "1503 ± 92"
     },
     {
       "Format": "Modern Horizons 2",
@@ -142,10 +142,17 @@
     },
     {
       "Format": "Mystery Booster 2",
-      "Win %": "60.87%",
-      "Record": "14-9",
-      "Drafts": "12",
-      "Glicko": "1676 ± 94"
+      "Win %": "56.00%",
+      "Record": "14-11",
+      "Drafts": "13",
+      "Glicko": "1631 ± 89"
+    },
+    {
+      "Format": "Time Spiral Remastered",
+      "Win %": "54.55%",
+      "Record": "6-5",
+      "Drafts": "6",
+      "Glicko": "1552 ± 126"
     }
   ],
 

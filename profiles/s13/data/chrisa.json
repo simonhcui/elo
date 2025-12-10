@@ -156,10 +156,17 @@
     },
     {
       "Format": "Mystery Booster 2",
-      "Win %": "45.71%",
-      "Record": "16-19",
-      "Drafts": "18",
-      "Glicko": "1517 ± 79"
+      "Win %": "41.86%",
+      "Record": "18-25",
+      "Drafts": "22",
+      "Glicko": "1488 ± 74"
+    },
+    {
+      "Format": "Time Spiral Remastered",
+      "Win %": "65.22%",
+      "Record": "15-8",
+      "Drafts": "9",
+      "Glicko": "1657 ± 143"
     }
   ],
 

@@ -92,10 +92,10 @@
     },
     {
       "Format": "Double Masters 2022",
-      "Win %": "20.00%",
-      "Record": "3-12",
-      "Drafts": "6",
-      "Glicko": "1346 ± 117"
+      "Win %": "22.22%",
+      "Record": "4-14",
+      "Drafts": "7",
+      "Glicko": "1334 ± 107"
     },
     {
       "Format": "Dominaria Remastered",
@@ -113,10 +113,10 @@
     },
     {
       "Format": "Mystery Booster 2",
-      "Win %": "23.81%",
-      "Record": "5-16",
-      "Drafts": "10",
-      "Glicko": "1236 ± 100"
+      "Win %": "24.00%",
+      "Record": "6-19",
+      "Drafts": "12",
+      "Glicko": "1246 ± 94"
     }
   ],
 

@@ -130,6 +130,13 @@
       "Record": "9-10",
       "Drafts": "10",
       "Glicko": "1534 ± 93"
+    },
+    {
+      "Format": "Time Spiral Remastered",
+      "Win %": "0.00%",
+      "Record": "0-10",
+      "Drafts": "5",
+      "Glicko": "1066 ± 154"
     }
   ],
 
