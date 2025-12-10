@@ -199,22 +199,106 @@ print("Most commonly drafted archetypes for Simon")
 most = [(key, value) for key, value in player_dict["Simon"].items() if value == max(player_dict["Simon"].values())]
 print(most)
 
-print("Most commonly drafted archetypes for Matt")
-most = [(key, value) for key, value in player_dict["Matt"].items() if value == max(player_dict["Matt"].values())]
+print("Most commonly drafted archetypes for Matt Y")
+most = [(key, value) for key, value in player_dict["Matt Y"].items() if value == max(player_dict["Matt Y"].values())]
 print(most)
 
 print("Most commonly drafted archetypes for Zane")
 most = [(key, value) for key, value in player_dict["Zane"].items() if value == max(player_dict["Zane"].values())]
 print(most)
 
-# print("\nMost commonly drafted archetypes for Travis")
-# most = [(key, value) for key, value in player_dict["Travis"].items() if value == max(player_dict["Travis"].values())]
-# print(most)
+print("\nMost commonly drafted archetypes for Collin")
+most = [(key, value) for key, value in player_dict["Collin"].items() if value == max(player_dict["Collin"].values())]
+print(most)
 
-#print("\nMost commonly drafted archetypes for Jacob")
-#most = [(key, value) for key, value in player_dict["Jacob"].items() if value == max(player_dict["Jacob"].values())]
-#print(most)
+print("\nMost commonly drafted archetypes for Eric K")
+most = [(key, value) for key, value in player_dict["Eric K"].items() if value == max(player_dict["Eric K"].values())]
+print(most)
 
-#print("\nMost commonly drafted archetypes for Evan S")
-#most = [(key, value) for key, value in player_dict["Evan S"].items() if value == max(player_dict["Evan S"].values())]
-#print(most)
+print("\nMost commonly drafted archetypes for Alan")
+most = [(key, value) for key, value in player_dict["Alan"].items() if value == max(player_dict["Alan"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Noah")
+most = [(key, value) for key, value in player_dict["Noah"].items() if value == max(player_dict["Noah"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Andrew D")
+most = [(key, value) for key, value in player_dict["Andrew D"].items() if value == max(player_dict["Andrew D"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Tony")
+most = [(key, value) for key, value in player_dict["Tony"].items() if value == max(player_dict["Tony"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Patrick H")
+most = [(key, value) for key, value in player_dict["Patrick H"].items() if value == max(player_dict["Patrick H"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Adam")
+most = [(key, value) for key, value in player_dict["Adam"].items() if value == max(player_dict["Adam"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Todd")
+most = [(key, value) for key, value in player_dict["Todd"].items() if value == max(player_dict["Todd"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Clayton")
+most = [(key, value) for key, value in player_dict["Clayton"].items() if value == max(player_dict["Clayton"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Thana")
+most = [(key, value) for key, value in player_dict["Thana"].items() if value == max(player_dict["Thana"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for John K")
+most = [(key, value) for key, value in player_dict["John K"].items() if value == max(player_dict["John K"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Stephen")
+most = [(key, value) for key, value in player_dict["Stephen"].items() if value == max(player_dict["Stephen"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Walski")
+most = [(key, value) for key, value in player_dict["Walski"].items() if value == max(player_dict["Walski"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Harrison")
+most = [(key, value) for key, value in player_dict["Harrison"].items() if value == max(player_dict["Harrison"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Jacob")
+most = [(key, value) for key, value in player_dict["Jacob"].items() if value == max(player_dict["Jacob"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Kian")
+most = [(key, value) for key, value in player_dict["Kian"].items() if value == max(player_dict["Kian"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Nick C")
+most = [(key, value) for key, value in player_dict["Nick C"].items() if value == max(player_dict["Nick C"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Luke")
+most = [(key, value) for key, value in player_dict["Luke"].items() if value == max(player_dict["Luke"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Luca")
+most = [(key, value) for key, value in player_dict["Luca"].items() if value == max(player_dict["Luca"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Kevin S")
+most = [(key, value) for key, value in player_dict["Kevin S"].items() if value == max(player_dict["Kevin S"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Travis")
+most = [(key, value) for key, value in player_dict["Travis"].items() if value == max(player_dict["Travis"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Marco")
+most = [(key, value) for key, value in player_dict["Marco"].items() if value == max(player_dict["Marco"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Jesse Lee")
+most = [(key, value) for key, value in player_dict["Jesse Lee"].items() if value == max(player_dict["Jesse Lee"].values())]
+print(most)

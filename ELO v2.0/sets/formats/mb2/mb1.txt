@@ -5,13 +5,13 @@
 1,1,5c,Adam
 1,1,Simic,Eric K
 0,2,4c no white,Stephen
-0,2,Gruul,Matt
+0,2,Gruul,Matt Y
 0,2,4c no black,Zane
 0,2,Boros,Jesse
-2,0,Dimir,Matt
+2,0,Dimir,Matt Y
 2,0,Grixis,Collin
 2,0,Jund,Zane
-1,1,Naya,Kevin
+1,1,Naya,Kevin S
 1,1,Naya,Todd
 1,1,Abzan,Harrison
 1,1,Orzhov,Eric K
@@ -23,7 +23,7 @@
 1,0,Gruul,Zane
 1,1,Dimir,Adam
 1,1,Izzet,Alan
-0,1,Mardu,Matt
+0,1,Mardu,Matt Y
 0,1,Golgari,Stephen
 0,2,Abzan,Harrison
 3,0,Orzhov,Simon
@@ -57,18 +57,18 @@
 1,1,Orzhov,Chris A
 1,1,Golgari,Walski
 1,1,Abzan,Collin
-1,1,Rakdos,Matt
+1,1,Rakdos,Matt Y
 0,2,Gruul,Harrison
-0,2,Boros,Kevin
+0,2,Boros,Kevin S
 2,0,Gruul,Zane
-2,0,Simic,Matt
+2,0,Simic,Matt Y
 1,1,Bant,Simon
 1,1,Sultai,Luis
 1,1,Orzhov,John K
 1,1,Selesnya,Chris A
 0,2,Jeskai,Todd
 0,2,Golgari,Luca
-2,0,Selesnya,Matt
+2,0,Selesnya,Matt Y
 1,0,Esper,Luis
 1,1,Gruul,Chris A
 1,1,Dimir,John K
@@ -82,11 +82,11 @@
 1,1,Dimir,Andrew D
 1,1,Gruul,Adam
 1,1,Esper,Max P
-0,2,Naya,Matt
+0,2,Naya,Matt Y
 0,2,Azorius,Marco
 2,0,Rakdos,Adam
 2,0,Dimir,Noah
-1,1,Selesnya,Matt
+1,1,Selesnya,Matt Y
 1,1,Dimir,Zane
 1,1,Golgari,Andrew D
 1,1,Selesnya,Max P
@@ -95,12 +95,12 @@
 2,0,Gruul,Collin
 1,0,Orzhov,Adam
 1,0,Grixis,Alan
-1,1,Boros,Eric
+1,1,Boros,Eric K
 1,1,Golgari,Tony
 1,1,Naya,John K
 0,2,Azorius,Luke
 0,2,Golgari,Simon
-2,0,Orzhov,Matt
+2,0,Orzhov,Matt Y
 2,0,Gruul,Alan
 1,1,Orzhov,Collin
 1,1,Mardu,Simon
@@ -108,7 +108,7 @@
 1,1,Simic,Chris A
 0,2,Azorius,Luke
 0,2,Gruul,John K
-2,0,Azorius,Eric
+2,0,Azorius,Eric K
 2,0,5c,John K
 1,1,Rakdos,Alan
 1,1,Jund,Chris H
@@ -117,7 +117,7 @@
 0,2,Orzhov,Tony
 0,2,Simic,Chris A
 2,0,Azorius,Nick D
-2,0,Azorius,Eric
+2,0,Azorius,Eric K
 1,1,Gruul,Chris A
 1,1,Azorius,Chris H
 1,1,Golgari,Noah
@@ -127,7 +127,7 @@
 0,2,Jund,John K
 0,2,Golgari,Simon
 2,0,Azorius,Andrew N
-2,0,Sultai,Matt
+2,0,Sultai,Matt Y
 1,1,Jeskai,Angga
 1,1,Izzet,Chris A
 1,1,Boros,Andrew D
@@ -135,30 +135,30 @@
 0,2,Orzhov,Travis
 0,2,Golgari,Jacob
 2,0,Gruul,Sonny
-2,0,Naya,Matt
+2,0,Naya,Matt Y
 1,1,Orzhov,Tony
 1,1,Golgari,Stephen
 1,1,Mardu,Harrison
 1,1,Dimir,Chris A
 0,2,Gruul,Marco
-0,2,Izzet,Eric
+0,2,Izzet,Eric K
 2,0,Izzet,Chris A
 2,0,Dimir,Luis
 1,1,Boros,Tony
 1,1,Mardu,John K
 1,1,4c no black,Juwan
 1,1,Bant,Stephen
-0,2,Jund,Matt
+0,2,Jund,Matt Y
 0,2,Temur,Walski
 2,0,Izzet,Jacob
 1,0,Rakdos,John K
-1,0,Naya,Matt
+1,0,Naya,Matt Y
 1,1,Dimir,Chris A
 1,1,Abzan,Walski
 1,1,Golgari,Stephen
 0,2,Gruul,Juwan
-0,2,Dimir,Kevin
-2,0,Abzan,Matt
+0,2,Dimir,Kevin S
+2,0,Abzan,Matt Y
 2,0,Abzan,Stephen
 1,1,Izzet,Chris A
 1,1,Sultai,Aaron
@@ -167,14 +167,14 @@
 0,2,Mono G,Marco
 0,2,4c no green,Jacob
 2,0,Rakdos,Andrew
-2,0,4c no blue,Matt
+2,0,4c no blue,Matt Y
 1,1,Boros,Chris A
 1,1,Mono U,Collin
 1,1,Azorius,Stephen
 0,1,Mardu,Tony
 0,2,Dimir,Luke
 0,1,Gruul,Jacob
-1,0,Boros,Eric
+1,0,Boros,Eric K
 1,0,Jund,Jacob
 2,0,Selesnya,Travis
 2,0,Golgari,Luke
@@ -185,7 +185,7 @@
 0,2,Jeskai,Oscar
 0,2,Azorius,Kai
 2,0,Esper,Luke
-2,0,Selesnya,Eric
+2,0,Selesnya,Eric K
 1,1,Jund,Noah
 1,1,Azorius,Simon
 1,1,Sultai,Travis
@@ -198,19 +198,19 @@
 1,1,Esper,Patrick H
 1,1,Temur,Travis
 1,1,Boros,Nick C
-0,2,Gruul,Matt Y
+0,2,Gruul,Matt Y Y
 0,2,Gruul,Chris C
 2,0,Izzet,Simon
 2,0,Mardu,Alan
-1,1,Rakdos,Matt
+1,1,Rakdos,Matt Y
 1,1,Bant,Patrick H
 1,1,Orzhov,Collin
 1,1,Selesnya,Noah
 0,2,Golgari,Travis
 0,2,Simic,Nick C
-2,0,Rakdos,Matt
+2,0,Rakdos,Matt Y
 2,0,Selesnya,Tony
-2,0,Abzan,Eric
+2,0,Abzan,Eric K
 1,1,Izzet,Noah
 1,1,Izzet,Alan
 1,1,Simic,Stephen
@@ -219,7 +219,7 @@
 0,2,Orzhov,Marco
 0,2,Azorius,Chris A
 2,0,Abzan,Patrick H
-2,0,Boros,Eric
+2,0,Boros,Eric K
 1,1,Orzhov,Nick D
 1,1,Izzet,Alan
 1,1,Golgari,Thana
@@ -229,23 +229,23 @@
 2,0,Azorius,Patrick H
 2,0,Naya,Todd
 1,1,Grixis,Alan
-1,1,Selesnya,Eric
+1,1,Selesnya,Eric K
 1,1,Rakdos,Nick D
 1,1,Boros,Thana
 0,2,Selesnya,Jesse
 0,2,Temur,Randy
-2,0,Naya,Eric
+2,0,Naya,Eric K
 2,0,Simic,Tony
 2,0,Orzhov,Andrew D
 1,1,Izzet,Jacob
 1,1,Bant,Walski
-1,1,Orzhov,Matt
+1,1,Orzhov,Matt Y
 1,1,Simic,John K
 0,2,Golgari,Mike
 0,2,Azorius,Thana
 0,2,5c,Zane
 2,0,Gruul,Tony
-2,0,Boros,Eric
+2,0,Boros,Eric K
 1,1,Selesnya,Thana
 1,1,Izzet,Juwan
 1,1,Jund,Noah
@@ -253,7 +253,7 @@
 0,2,Dimir,Walski
 0,2,Golgari,Zane
 2,0,Jeskai,Noah
-2,0,Rakdos,Eric
+2,0,Rakdos,Eric K
 1,1,Naya,Alan
 1,1,Golgari,Adam
 1,1,Simic,Luke
@@ -263,7 +263,7 @@
 0,1,Boros,Chris A
 0,2,Azorius,Thana
 2,0,Naya,Collin
-2,0,Rakdos,Eric
+2,0,Rakdos,Eric K
 1,1,Simic,Stephen
 1,1,Rakdos,Thana
 1,1,Golgari,Noah
@@ -278,7 +278,7 @@
 1,1,Azorius,Noah
 1,1,4c no white,Stephen
 1,1,Mardu,Nick D
-0,2,Mono W,Eric
+0,2,Mono W,Eric K
 0,2,Temur,Collin
 2,0,5c,Noah
 2,0,Izzet,Collin
@@ -289,7 +289,7 @@
 0,2,Simic,Wesley
 0,2,Selesnya,Ivan
 2,0,Dimir,Eric K
-2,0,Abzan,Matt Y
+2,0,Abzan,Matt Y Y
 1,1,Abzan,Thana
 1,1,Mono W,Noah
 1,1,Rakdos,Alan
@@ -317,7 +317,7 @@
 1,1,Bant,Juwan
 1,1,Izzet,Noah
 1,1,Dimir,Thana
-1,1,Orzhov,Eric C
+1,1,Orzhov,Eric K C
 0,2,Simic,Patrick H
 0,2,Bant,Luke
 2,0,Esper,Tony
@@ -348,15 +348,57 @@
 2,0,Boros,Eric K
 1,1,Golgari,Thana
 1,1,Boros,Chris A
-1,1,Azorius,Eric C
+1,1,Azorius,Eric K C
 1,1,Azorius,Nick D
-0,2,Gruul,Kevin P
+0,2,Gruul,Kevin S P
 0,2,Orzhov,Brian H
 2,0,Azorius,Collin
-2,0,Azorius,Kevin P
+2,0,Azorius,Kevin S P
 1,1,Golgari,Thana
 1,1,Orzhov,Brian H
 1,1,Rakdos,Chris A
 1,1,5c,Nick D
 0,2,Rakdos,Eric K
-0,2,4c no red,Eric C
+0,2,4c no red,Eric K C
+2,0,Esper,Collin
+2,0,Orzhov,Thana
+1,1,Azorius,Nick C
+1,1,Esper,Nick D
+1,1,Golgari,Eric K
+1,1,Gruul,Travis
+0,2,Gruul,Luke
+0,2,Bant,Chris A
+2,0,Dimir,Noah
+2,0,Gruul,Eric K
+1,1,Esper,Clayton
+1,1,Jund,Nick C
+1,1,Jund,Nick D
+1,1,Boros,Thana
+0,2,Orzhov,Collin
+0,2,Selesnya,Jack
+2,0,4c no blue,Eric K
+2,0,4c no white,Walski
+1,1,Abzan,Frank
+1,1,Sultai,Nick D
+1,1,Bant,Chris A
+1,1,Naya,Collin
+0,2,Rakdos,Stephen
+0,2,Bant,Thana
+2,0,Sultai,Stephen
+2,0,Mardu,Nick D
+1,1,Boros,Collin
+1,1,Azorius,Eric K
+1,1,Dimir,Thana
+1,1,Gruul,Walski
+0,2,Azorius,Chris A
+0,2,Sultai,Travis
+2,0,5c,Collin
+2,0,Boros,Eric K
+2,0,Dimir,Adam
+1,1,Naya,Luke
+1,1,Selesnya,Thana
+1,1,Esper,Clayton
+1,1,Sultai,Chris A
+0,2,Jund,Tony
+0,2,Rakdos,Hamzah
+0,2,Golgari,Noah
