@@ -130,6 +130,8 @@ def color_dictionary(cd, archetype, wins, rounds):
         add_green(cd, wins, rounds)
     if(archetype == "Mono Black"):
         add_black(cd, wins, rounds)
+    if(archetype == "Mono Blue"):
+        add_blue(cd, wins, rounds)
 
 f1 = open("adamcube.txt", "r")
 

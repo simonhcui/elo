@@ -88,3 +88,11 @@
 0,1,Selesnya,Noah
 0,1,Selesnya,Collin
 0,2,Orzhov,Felix
+2,0,Orzhov,Noah
+2,0,Mono Blue,Eric K
+1,1,Selesnya,Tony
+1,1,Abzan,Clayton
+1,1,Golgari,Chris A
+1,1,Rakdos,Stephen
+0,2,Sultai,Collin
+0,2,Boros,Thana

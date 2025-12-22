@@ -124,4 +124,71 @@ Andre,Stephen,1
 Thana,Andrew D,1
 Luke,Adam,0
 
+Noah,Clayton,1,FIN,11-6-2025
+Collin,Hamzah,1
+Mike,Thana,0
+Stephen,Eric K,0
+Collin,Eric K,0
+Hamzah,Stephen,1
+Noah,Thana,1
+Clayton,Mike,1
+
+Jim,Eric K,1,FIN,11-7-2025
+Thana,Clayton,0
+Adam,Simon,0
+Luke,Noah,1
+Clayton,Luke,1
+Thana,Noah,0
+Simon,Jim,0
+Adam,Eric K,0
+Adam,Thana,1
+Eric K,Noah,1
+Jim,Clayton,1
+Simon,Luke,1
+
+Simon,Stephen,1,FIN,11-20-2025
+Thana,Noah,1
+Tony,Collin,0
+Chris A,Clayton,0
+Thana,Clayton,0
+Noah,Chris A,1
+Simon,Collin,1
+Stephen,Tony,0
+
+Eric K,Clayton,1,FIN,11-26-2025
+Collin,Thana,0
+Hamzah,Luke,0
+Noah,Andrew D,0
+Eric K,Luke,1
+Clayton,Hamzah,1
+Thana,Andrew D,1
+Collin,Noah,0
+
+Luke,Chris A,0,FIN,12-11-2025
+Matt Y,Jacob,1
+Tony,Eric K,0
+Stephen,Clayton,0
+Clayton,Matt Y,1
+Eric K,Chris A,1
+Tony,Luke,1
+Stephen,Jacob,0
+
+Matt Y,Juwan,1,FIN,12-13-2025
+Evan S,Eric K,0
+Ana,Andre,0
+Clayton,Noah,0
+Matt Y,Andre,1
+Juwan,Ana,0
+Evan S,Clayton,1
+Eric K,Noah,1
+
+Luke,Thana,1,FIN,12-13-2025
+Evan S,Eric K,0
+Juwan,Andrew D,0
+Clayton,Noah,1
+Evan S,Noah,0
+Eric K,Clayton,1
+Juwan,Thana,0
+Andrew D,Luke,0
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024

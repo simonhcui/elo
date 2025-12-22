@@ -136,3 +136,23 @@
 0,2,Izzet,Thana
 0,2,Naya,Noah
 1,1,Jund,Jacob
+2,0,4c no blue,Collin
+2,0,Grixis,David O
+1,1,Boros,Eric K
+1,1,Golgari,Matt H
+1,1,Simic,Adam
+1,1,Orzhov,Noah
+1,1,Rakdos,Clayton
+1,1,Azorius,Felix
+0,2,Temur,Luke
+0,2,4c no red,Tony
+2,0,Rakdos,Felix
+2,0,Selesnya,Eric K
+2,0,Abzan,Adam
+1,1,Boros,Luke
+1,1,Temur,Clayton
+1,1,Grixis,David O
+1,1,Azorius,Noah
+0,2,Jund,Jacob
+0,2,Abzan,Collin
+0,2,Rakdos,Alan_placeholder
