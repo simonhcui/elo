@@ -1,0 +1,16 @@
+[
+    {
+        "Format": "adam_cube_output.json",
+        "Win %": "28.57%",
+        "Record": "2-5",
+        "Drafts": "4",
+        "Glicko": "1336 \u00c2\u00b1 159"
+    },
+    {
+        "Format": "john_cube_output.json",
+        "Win %": "20.00%",
+        "Record": "1-4",
+        "Drafts": "3",
+        "Glicko": "1251 \u00c2\u00b1 176"
+    }
+]

@@ -101,10 +101,10 @@
   "formatData": [
     {
       "Format": "Adam Cube",
-      "Win %": "23.08%",
-      "Record": "3-10",
-      "Drafts": "6",
-      "Glicko": "1333 ± 131"
+      "Win %": "20.00%",
+      "Record": "3-12",
+      "Drafts": "7",
+      "Glicko": "1282 ± 122"
     },
     {
       "Format": "John Cube",

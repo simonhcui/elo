@@ -44,6 +44,13 @@
 
   "formatData": [
     {
+      "Format": "Adam Cube",
+      "Win %": "28.57%",
+      "Record": "2-5",
+      "Drafts": "4",
+      "Glicko": "1336 ± 159"
+    },
+    {
       "Format": "John Cube",
       "Win %": "20.00%",
       "Record": "1-4",
