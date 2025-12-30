@@ -1,0 +1,23 @@
+[
+    {
+        "Format": "2X2",
+        "Win %": "56.72%",
+        "Record": "38-29",
+        "Drafts": "27",
+        "Glicko": "1631 ± 71"
+    },
+    {
+        "Format": "DMR",
+        "Win %": "54.55%",
+        "Record": "12-10",
+        "Drafts": "9",
+        "Glicko": "1642 ± 89"
+    },
+    {
+        "Format": "MB1",
+        "Win %": "60.00%",
+        "Record": "3-2",
+        "Drafts": "3",
+        "Glicko": "1607 ± 175"
+    }
+]

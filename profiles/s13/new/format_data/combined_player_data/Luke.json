@@ -1,0 +1,37 @@
+[
+    {
+        "Format": "Adam Cube",
+        "Win %": "28.57%",
+        "Record": "2-5",
+        "Drafts": "4",
+        "Glicko": "1336 ± 159"
+    },
+    {
+        "Format": "Chaos",
+        "Win %": "46.34%",
+        "Record": "38-44",
+        "Drafts": "40",
+        "Glicko": "1590 ± 63"
+    },
+    {
+        "Format": "FIN",
+        "Win %": "43.48%",
+        "Record": "10-13",
+        "Drafts": "11",
+        "Glicko": "1424 ± 93"
+    },
+    {
+        "Format": "John Cube",
+        "Win %": "20.00%",
+        "Record": "1-4",
+        "Drafts": "3",
+        "Glicko": "1251 ± 176"
+    },
+    {
+        "Format": "MB2",
+        "Win %": "30.00%",
+        "Record": "9-21",
+        "Drafts": "15",
+        "Glicko": "1390 ± 82"
+    }
+]
