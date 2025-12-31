@@ -82,8 +82,8 @@ def generate_matchup_json():
                 player_results.sort(key=lambda x: x["Player"])
 
                 # Write to JSON file
-                player_file_path = os.path.join(output_folder, f"{player}.json")
-                with open(player_file_path, "w", encoding="utf-8") as player_file:
+                player_file_path = os.path.join(output_folder, f"{player}")
+                with open(player_file_path.lower() + "_matchups.json", "w", encoding="utf-8") as player_file:
                     json.dump(player_results, player_file, indent=4, ensure_ascii=False)
                     print(f"Created file for player: {player}")
 

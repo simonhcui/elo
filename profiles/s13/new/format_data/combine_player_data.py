@@ -44,8 +44,8 @@ def combine_player_data():
 
     # Write the combined data for each player to a separate JSON file in the output folder
     for player_name, entries in player_data.items():
-        player_file_path = os.path.join(output_folder, f"{player_name}.json")
-        with open(player_file_path, "w", encoding="utf-8") as player_file:
+        player_file_path = os.path.join(output_folder, f"{player_name}")
+        with open(player_file_path.lower() + "_format.json", "w", encoding="utf-8") as player_file:
             json.dump(entries, player_file, indent=4, ensure_ascii=False)
             print(f"Created file for player: {player_name}")
 

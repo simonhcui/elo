@@ -48,39 +48,39 @@ Alan,Jacob,1
 Stephen,Adam,1
 Chris A,Marco,1
 
-Alan,Eric,1,John Cube,12-19-2024
+Alan,Eric K,1,John Cube,12-19-2024
 David O,John K,1
 Clayton,Adam,0
 Stephen,Noah,0
 Alan,Noah,1
-Luke,Eric,0
+Luke,Eric K,0
 David O,Adam,0
 Stephen,Clayton,0
 Felix,John K,0
 
-David O,Eric,1,John Cube,1-23-2025
+David O,Eric K,1,John Cube,1-23-2025
 Tony,Jay,1
 Noah,John K,1
 Luke,Daniel,1
 Luke,David O,0
 John K,Jay,1
-Eric,Daniel,1
+Eric K,Daniel,1
 Noah,Tony,1
 
 Jacob,Adan,0,John Cube,2-13-2025
 John K,David O,0
 Tony,Collin,1
-Eric,Alan,0
+Eric K,Alan,0
 Jacob,Collin,0
 Adan,Tony,0
-John K,Eric,0
+John K,Eric K,0
 David O,Alan,0
 
 John K,David O,0,John Cube,3-13-2025
 Tony,Luke,1
 Noah,John C,0
-Collin,Eric,0
-Tony,Eric,1
+Collin,Eric K,0
+Tony,Eric K,1
 Luke,Collin,0
 David O,John C,1
 John K,Noah,0
@@ -89,9 +89,9 @@ Marco,John K,0,John Cube,5-8-2025
 Adam,Stephen,1
 David O,Collin,0
 Chris A,Alan,0
-Jacob,Eric,0
+Jacob,Eric K,0
 Jacob,Adam,0
-Eric,Alan,0
+Eric K,Alan,0
 Collin,John K,0
 Stephen,Chris A,1
 David O,Marco,1
