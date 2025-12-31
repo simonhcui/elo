@@ -5,7 +5,7 @@ f = open("results.csv", "r")
 
 
 
-players = ['adam.csv', 'alan.csv', 'alberto.csv', 'andrew d.csv', 'chris a.csv', 'clayton.csv', 'collin.csv', 'david o.csv', 'eric k.csv', 'evan s.csv', 'jacob.csv', 'john k.csv', 'juwan.csv', 'kevin s.csv', 'luca.csv', 'luis.csv', 'luke.csv', 'marco.csv', 'matt y.csv', 'nick d.csv', 'noah.csv', 'simon.csv', 'sonny.csv', 'stephen.csv', 'todd.csv', 'tony.csv', 'travis.csv', 'walski.csv', 'zane.csv', 'frank.csv']
+players = ['adam.csv', 'alan.csv', 'alberto.csv', 'andrew d.csv', 'chris a.csv', 'clayton.csv', 'collin.csv', 'david o.csv', 'eric k.csv', 'evan s.csv', 'jacob.csv', 'john k.csv', 'juwan.csv', 'kevin s.csv', 'luca.csv', 'luis.csv', 'luke.csv', 'marco.csv', 'matt y.csv', 'nick d.csv', 'noah.csv', 'simon.csv', 'sonny.csv', 'stephen.csv', 'todd.csv', 'tony.csv', 'travis.csv', 'walski.csv', 'zane.csv', 'frank.csv', 'thana.csv']
 default_date = datetime.datetime(2022, 1, 1)
 s2_date = datetime.datetime(2023, 1, 1)
 s3_date = datetime.datetime(2023, 4, 1)
@@ -19,7 +19,8 @@ s10_date = datetime.datetime(2025, 1, 1)
 s11_date = datetime.datetime(2025, 3, 14)
 s12_date = datetime.datetime(2025, 6, 27)
 s13_date = datetime.datetime(2025, 9, 30)
-s14_date = datetime.datetime(2026, 1, 1)
+s14_date = datetime.datetime(2025, 12, 19)
+s15_date = datetime.datetime(2026, 4, 1)
 
 for player in players:
 
