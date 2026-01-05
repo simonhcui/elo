@@ -94,3 +94,11 @@
 0,2,Maraxus,Chris C
 0,2,Mishra,Juwan
 0,2,Tawnos,Adam
+3,0,Crovax,Eric K
+2,1,Squee,David O
+2,1,Xantcha,Noah
+2,1,Maraxus,Collin
+1,2,Hanna,Luke
+1,2,Tawnos,Adam
+0,2,Dakkon Blackblade,Clayton
+0,2,Arcbound Overseer,Simon
