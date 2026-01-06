@@ -16,13 +16,10 @@ def level(xp):
         'Archmage': 2300
     }
     
-    last_threshold = 0
-
     for level, threshold in reversed(level_thresholds.items()):
         if xp >= threshold:
-            return level, xp - threshold, str(xp - threshold) + "/" +  str(last_threshold - threshold)
-        last_threshold = threshold
-    return 'Beginner', xp, str(xp - threshold) + "/" +  str(last_threshold - threshold)
+            return level, xp - threshold
+    return 'Beginner', xp
 
 def experience(player):
 
@@ -32,19 +29,19 @@ def experience(player):
         'matt y': 400,
         'evan s': 225,
         'tony': 500,
-        'clayton': 475,
+        'clayton': 425,
         'chris a': 400,
         'alberto': 225,
         'alan': 350,
         'noah': 150,
-        'eric k': 325,
+        'eric k': 125,
         'john k': 100,
-        'jacob': 300,
+        'jacob': 275,
         'sonny': 100,
-        'walski': 400,
+        'walski': 275,
         'stephen': 25,
         'kevin s': 175,
-        'marco': 50,
+        'marco': 0,
         'adam': 75,
         'luis': 100
     }
@@ -82,9 +79,9 @@ def experience(player):
         bonus = champ_xp[player]
 
     xp = events_played + wins * 3 + bonus
-    rank, progress, remaining = level(xp)
+    rank, progress = level(xp)
 
-    w.write(player + "," + str(xp) + "," + rank + "," + str(progress) + ',' + remaining + "\n")
+    w.write(player + "," + str(xp) + "," + rank + "," + str(progress) + "\n")
 
 
 def main():
