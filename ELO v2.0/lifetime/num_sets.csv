@@ -1,5 +1,5 @@
 2X2,42
-Chaos,211
+Chaos,218
 CNS,1
 DOM,4
 ELD,8
@@ -23,7 +23,7 @@ MB1,13
 BRO,2
 MOM,4
 LTR,4
-DMU,3
+DMU,4
 ZNR,1
 KHM,1
 ISD,2
@@ -40,7 +40,7 @@ John Cube,10
 Chaos Team,3
 MH3,20
 M19,1
-MB2,50
+MB2,53
 Alan Cube,6
 SOI,1
 DSK,4
@@ -50,8 +50,7 @@ IMA,2
 Noah Cube,6
 A25,1
 DFT,2
-FIN,22
-Walski Chaos,1
+FIN,23
 Fish Cube,1
 BLB,2
 FDN,1
@@ -59,5 +58,5 @@ LCI,1
 WOE,2
 Felix Cube,2
 TDM,1
-TLA,1
+TLA,2
 TEST,1
