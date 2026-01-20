@@ -105,8 +105,16 @@
 2,0,Crovax,Collin
 2,0,Tawnos,John C
 1,1,Tiger,Bastion
-1,1,Sakashima,Noah
+1,1,Sakashima the Impostor,Noah
 1,1,Dauntless Escort,Adam
 1,1,Mirri,Grant
 0,2,Hanna,Luke
 0,2,Greven il-Vec,Jesse Luong
+2,0,Teysa Orzhov Scion,Noah
+2,0,Maraxus,Adam
+1,1,Hanna,Collin
+1,1,Karn,John C
+1,1,Dakkon Blackblade,Jesse Luong
+0,1,Sakashima the Impostor,Bastion
+0,1,Ertai,Grant
+0,2,Eladamri,Luke
