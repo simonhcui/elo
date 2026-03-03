@@ -302,3 +302,23 @@ print(most)
 print("\nMost commonly drafted archetypes for Jesse Lee")
 most = [(key, value) for key, value in player_dict["Jesse Lee"].items() if value == max(player_dict["Jesse Lee"].values())]
 print(most)
+
+print("\nMost commonly drafted archetypes for Luis")
+most = [(key, value) for key, value in player_dict["Luis"].items() if value == max(player_dict["Luis"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Winston")
+most = [(key, value) for key, value in player_dict["Winston"].items() if value == max(player_dict["Winston"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Andrew N")
+most = [(key, value) for key, value in player_dict["Andrew N"].items() if value == max(player_dict["Andrew N"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Brian H")
+most = [(key, value) for key, value in player_dict["Brian H"].items() if value == max(player_dict["Brian H"].values())]
+print(most)
+
+print("\nMost commonly drafted archetypes for Ivan")
+most = [(key, value) for key, value in player_dict["Ivan"].items() if value == max(player_dict["Ivan"].values())]
+print(most)
