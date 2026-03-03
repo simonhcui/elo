@@ -2273,7 +2273,7 @@ Adam,Evan S,1
 Luca,Andrew D,1
 John K,Stephen,0
 
-Simon,Chris A,0,Chaos Team,5-16-2024
+Simon,Chris A,0,Chaos,5-16-2024,Team
 Sonny,Todd,1
 Walski,Kevin S,0
 Walski,Chris A,1
@@ -2282,7 +2282,7 @@ Todd,Simon,0
 Sonny,Chris A,1
 Todd,Walski,0
 
-Simon,Jacob,1,Chaos Team,5-16-2024
+Simon,Jacob,1,Chaos,5-16-2024,Team
 Chris A,Walski,0
 Todd,Sonny,0
 Chris A,Jacob,0
@@ -2314,7 +2314,7 @@ Jacob,Nick D,0
 Stephen,Alberto,0
 Kevin S,John K,1
 
-Simon,Frank,1,Chaos Team,5-18-2024
+Simon,Frank,1,Chaos,5-18-2024,Team
 Jacob,Andrew D,1
 Walski,Alberto,0
 Simon,Alberto,0
@@ -4589,7 +4589,7 @@ Simon,Travis,1
 Kevin S,Luke,0
 Nick D,Luis,1
 
-Thana,Noah,0,Fish Cube,8-16-2025
+Thana,Noah,0,Noah Cube,8-16-2025
 Collin,Eric K,1
 Adam,Clayton,0
 Adam,Thana,1
@@ -5864,7 +5864,7 @@ Thana,Chris A,0,Chaos,2-12-2026
 Stephen,Walski,1
 Walski,Thana,0
 
-Collin,Grant,1,Fish Cube,2-19-2026
+Collin,Grant,1,Noah Cube,2-19-2026
 Jacob,Noah,1
 Clayton,Eric K,1
 Collin,Sadforce,1
