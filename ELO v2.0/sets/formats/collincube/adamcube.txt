@@ -1,0 +1,66 @@
+2,0,Naya,Alan
+2,0,Gruul,Nick C
+1,1,Sultai,Grant
+1,1,Sultai,Ana
+1,1,Orzhov,Oscar
+0,1,Izzet,Luke
+0,1,Selesnya,Eric K
+0,2,Dimir,Noah
+2,0,Rakdos,Clayton
+2,0,Abzan,Tony
+1,1,Azorius,Collin
+1,1,Jund,David O
+1,1,Mardu,Alan
+1,1,Esper,Eric K
+0,2,Izzet,Noah
+0,2,Jeskai,Jacob
+2,0,Esper,Noah
+2,0,Jeskai,Clayton
+1,1,Mardu,Collin
+1,1,Rakdos,Adam
+1,1,Izzet,Stephen
+1,1,Azorius,Eric K
+0,2,Golgari,David K
+0,2,Jund,Jacob
+2,0,Grixis,Clayton
+2,0,Dimir,Brian H
+1,1,Simic,David O
+1,1,Sultai,Tony
+1,1,Izzet,Felix
+1,1,Temur,Noah
+1,1,Jeskai,Collin
+1,1,Abzan,Adam
+0,2,4c no blue,Luke
+0,2,Rakdos,Eric K
+2,0,Rakdos,Clayton
+2,0,Golgari,Eric K
+1,1,Izzet,Noah
+1,1,Sultai,Luke
+1,1,Azorius,Felix
+1,1,Naya,Tony
+0,2,Golgari,David O
+0,2,Orzhov,Collin
+2,0,Boros,Adam
+2,0,Mardu,Eric K
+1,1,4c no white,Noah
+1,1,4c no black,Alan
+1,1,Esper,Luke
+1,1,Sultai,David O
+0,2,Bant,Collin
+0,2,Jeskai,Clayton
+2,0,Selesnya,Hamzah
+2,0,Grixis,Noah
+1,1,Sultai,Collin
+1,1,Izzet,Tony
+1,1,Orzhov,Adam
+1,1,Mardu,Clayton
+0,2,Boros,Eric K
+0,2,Gruul,Felix
+2,0,Grixis,Adam
+2,0,Golgari,Clayton
+1,1,Mardu,Juwan
+1,1,Boros,Simon
+1,1,Simic,Eric K
+1,1,Azorius,Felix
+0,2,Golgari,Collin
+0,2,Sultai,Noah
