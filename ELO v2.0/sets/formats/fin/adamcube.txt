@@ -164,3 +164,65 @@
 1,1,Azorius,Noah
 0,2,Grixis,Evan S
 0,2,Izzet,Juwan
+2,0,Grixis,Alan
+2,0,Azorius,Thana
+2,0,Izzet,Noah
+1,1,Gruul,Kevin S
+1,1,Boros,Jacob
+1,1,Izzet,Eric K
+1,1,4c no black,Adan
+0,2,Sultai,Adam
+0,2,Rakdos,Clayton
+0,2,Golgari,Wesley
+2,0,Simic,Eric K
+1,0,4c no white,Matt Y
+1,0,Orzhov,Adam
+1,1,Selesnya,Noah
+1,1,Rakdos,Thana
+1,1,4c no green,Clayton
+0,2,Azorius,Brian H
+0,2,Golgari,Wesley
+2,0,Gruul,Chris A
+2,0,Boros,Clayton
+1,1,4c no red,Eric K
+1,1,Grixis,Noah
+1,1,Dimir,Tony
+1,1,Bant,Matt Y
+0,2,Mono Black,Luke
+0,2,Azorius,Jacob
+2,0,Dimir,Clayton
+2,0,Grixis,Noah
+1,1,Selesnya,Nathan
+1,1,Sultai,Eric K
+1,1,Temur,Simon
+1,1,Naya,Matt Y
+0,2,Naya,Travis
+0,2,Dimir,Jacob
+3,0,Izzet,Clayton
+3,0,Orzhov,Vincent V
+2,1,Temur,Noah
+1,1,Bant,Jim
+1,1,Rakdos,Gavin
+1,2,Jeskai,Eric K
+1,2,Sultai,Matt Y
+1,2,Boros,Andrew K
+1,2,Golgari,Nathan
+0,3,Jund,Zoe
+2,0,Boros,Nathan
+2,0,Orzhov,Eric K
+1,1,5c,Noah
+1,1,Golgari,Matt Y
+1,1,Azorius,Clayton
+1,1,Azorius,Jesse Luong
+0,2,Izzet,Andrew N
+0,2,Jund,Juwan
+2,0,Orzhov,Nick D
+2,0,Sultai,Matt Y
+2,0,Grixis,Eric K
+1,1,Izzet,Thana
+1,1,Simic,Andrew K
+1,1,Azorius,Noah
+0,1,Grixis,Simon
+0,1,Rakdos,David K
+0,2,5c,Clayton
+0,2,Boros,Nathan

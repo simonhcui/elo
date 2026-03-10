@@ -89,3 +89,27 @@
 1,1,Orzhov,Stephen
 0,2,Bant,Collin
 0,2,Boros,John C
+2,0,4c no red,Clayton
+2,0,Jeskai,Daniel Lopez
+1,1,Sultai,Matt Y
+1,1,Temur,Nick D
+1,1,Gruul,Travis
+1,1,Dimir,Stephen
+0,2,Golgari,Mike
+0,2,Orzhov,Eric K
+2,0,Golgari,Jesse Luong
+2,0,Rakdos,Juwan
+1,1,Esper,Andrew N
+1,1,Bant,Matt Y
+1,1,Dimir,Clayton
+1,1,Bant,Noah
+0,2,Golgari,Christiaan
+0,2,Izzet,Nathan
+2,0,Rakdos,Thana
+2,0,4c no black,Collin
+1,1,Azorius,Nick D
+1,1,Orzhov,Adam
+1,1,Abzan,Matt H
+1,1,Izzet,Chris A
+0,2,Bant,Stephen
+0,2,Golgari,Christiaan

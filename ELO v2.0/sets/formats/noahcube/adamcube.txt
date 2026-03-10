@@ -1,0 +1,71 @@
+2,0,4c no green,Tony
+2,0,Azorius,Collin
+1,1,Sultai,Alan
+1,1,Temur,Adam
+1,1,Azorius,Eric K
+1,1,4c no red,Noah
+0,2,Golgari,Juwan
+0,2,Sultai,David O
+3,0,Rakdos,Eric K
+1,2,4c no black,Noah
+1,2,4c no white,Luke
+2,1,Esper,Alan
+0,3,Grixis,Andrew D
+2,1,Simic,David O
+2,0,Sultai,Noah
+2,0,Esper,Alan
+1,0,Temur,Simon
+1,1,Mardu,Luke
+1,1,Temur,Collin
+1,1,Selesnya,David O
+1,1,5c,Adam
+0,1,Bant,Tony
+0,2,Sultai,Thana
+0,2,Azorius,Eric K
+2,0,Boros,Eric K
+2,0,Temur,Alan
+1,1,Jund,Noah
+1,1,Golgari,Jacob
+1,1,Esper,David O
+1,1,Dimir,Thana
+0,2,Grixis,Clayton
+0,2,Jeskai,Collin
+2,0,Jund,Clayton
+2,0,4c no black,Collin
+1,1,Grixis,Adam
+1,1,Jeskai,Noah
+0,2,4c no green,Eric K
+0,2,Sultai,Thana
+2,0,Sultai,Clayton
+2,0,Esper,Adam
+1,1,Dimir,Brian H
+1,1,Jeskai,Collin
+1,1,Azorius,Thana
+1,1,5c,Noah
+1,1,Grixis,David O
+1,1,5c,Eric K
+0,2,Temur,Felix
+0,2,Jeskai,Stephen
+2,0,Rakdos,David O
+2,0,4c no white,Noah
+1,1,Bant,Eric K
+1,1,Mono White,Felix
+1,1,Temur,Thana
+1,1,Dimir,Clayton
+0,2,Grixis,Collin
+0,2,Grixis,Hamzah
+2,0,4c no black,Clayton
+2,0,Dimir,David O
+1,1,5c,Simon
+1,1,4c no white,Noah
+1,1,Boros,Tony
+1,1,Azorius,Eric K
+0,2,4c no green,Adam
+0,2,Abzan,Collin
+2,0,Grixis,Collin
+2,0,Bant,Clayton
+1,1,4c no white,Eric K
+1,1,Rakdos,Jacob
+1,1,Esper,Grant
+0,2,5c,Noah
+0,1,Izzet,Alex M 
