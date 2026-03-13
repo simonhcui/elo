@@ -68,4 +68,14 @@
 1,1,Rakdos,Jacob
 1,1,Esper,Grant
 0,2,5c,Noah
-0,1,Izzet,Alex M 
+0,1,Izzet,Alex M
+2,0,Dimir,Adam
+2,0,Izzet,Jacob/Thana
+1,1,Azorius,Tony
+1,1,5c,Noah
+1,1,Rakdos,Clayton
+1,1,Naya,Grant
+1,1,Azorius,Nathan
+1,1,Esper,Collin
+0,2,5c,Jim
+0,2,Grixis,Eric K
