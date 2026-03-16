@@ -113,3 +113,13 @@
 1,1,Izzet,Chris A
 0,2,Bant,Stephen
 0,2,Golgari,Christiaan
+2,0,Simic,Zane
+2,0,Bant,Nick D
+1,1,Mardu,Frank
+1,1,Golgari,Eric K
+1,1,Naya,Collin
+1,1,Selesnya,Kevin S
+1,1,Izzet,Luis
+1,1,Rakdos,David K
+0,2,Naya,Matt Y
+0,2,Dimir,Walski

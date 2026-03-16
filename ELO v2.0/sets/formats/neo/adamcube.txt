@@ -112,3 +112,19 @@
 1,1,Rakdos,Collin
 0,2,Dimir,Adam
 0,2,Rakdos,Clayton
+2,0,Abzan,Collin
+2,0,Dimir,Eric K
+1,1,Selesnya,Tony
+1,1,Rakdos,Noah
+1,1,Orzhov,Luke
+1,1,Dimir,Chris A
+0,2,Jeskai,Daniel Lopez
+0,2,Naya,Clayton
+2,0,Esper,Thana
+2,0,Dimir,Nathan
+1,1,Boros,Kevin S
+1,1,Abzan,Noah
+1,1,Bant,Eric K
+1,1,Rakdos,Collin
+0,2,Dimir,Adam
+0,2,Rakdos,Clayton

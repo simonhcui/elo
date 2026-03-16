@@ -234,3 +234,13 @@
 1,1,Grixis,Juwan
 0,2,Gruul,Eric C
 0,2,Orzhov,Stephen
+2,0,Esper,Collin
+2,0,Bant,Luis
+2,0,Jeskai,Frank
+1,1,Boros,Eric K
+1,1,Temur,Walski
+1,1,Mardu,Nick D
+1,1,Naya,Kevin S
+0,2,Rakdos,David K
+0,2,Grixis,Matt Y
+0,2,4c no blue,Zane

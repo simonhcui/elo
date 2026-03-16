@@ -104,7 +104,7 @@
 0,2,Arcbound Overseer,Simon
 2,0,Crovax,Collin
 2,0,Tawnos,John C
-1,1,Tiger,Bastion
+1,1,Stalking Tiger,Bastion
 1,1,Sakashima the Impostor,Noah
 1,1,Dauntless Escort,Adam
 1,1,Mirri,Grant
@@ -118,3 +118,19 @@
 0,1,Sakashima the Impostor,Bastion
 0,1,Ertai,Grant
 0,2,Eladamri,Luke
+2,0,Dauntless Escort,Adam
+2,0,Serra,Thana
+1,1,Maraxus,Chris A
+1,1,Hanna,Nathan
+1,1,Rofellos,Noah
+1,1,Stalking Tiger,Juwan
+0,2,Hell's Caretaker,Clayton
+0,2,Volrath,Bastion
+2,0,Dauntless Escort,Nathan
+2,0,Hanna,Noah
+1,1,Maraxus,Adam
+1,1,Volrath,Chris A
+0,1,Arcbound Overseer,Thana
+0,1,Sisay,Juwan
+0,1,Crovax,Clayton
+0,1,Hell's Caretaker,Bastion

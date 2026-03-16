@@ -226,3 +226,11 @@
 0,1,Rakdos,David K
 0,2,5c,Clayton
 0,2,Boros,Nathan
+2,0,5c,Noah
+2,0,Orzhov,Grace L
+1,1,Izzet,Matt Y
+1,1,Izzet,Clayton
+1,1,Jeskai,Eric K
+1,1,Selesnya,Thana
+0,2,Boros,David K
+0,2,Sultai,Nathan

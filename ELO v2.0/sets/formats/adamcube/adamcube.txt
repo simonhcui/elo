@@ -156,3 +156,21 @@
 0,2,Jund,Jacob
 0,2,Abzan,Collin
 0,2,Rakdos,Alan_placeholder
+2,0,Gruul,Adam
+2,0,Grixis,Eric K
+1,1,Temur,Felix
+1,1,Azorius,Clayton
+1,1,Rakdos,Nathan
+1,1,Grixis,Collin
+1,1,Abzan,Grant
+1,1,Jeskai,Tony
+0,2,Mardu,Thana
+0,2,Azorius,Noah
+3,0,Bant,Noah
+2,1,Orzhov,David O
+2,1,Mono Blue,Eric K
+2,1,Grixis,Clayton
+1,2,Jeskai,Bastion
+1,2,Izzet,Juwan
+1,2,Rakdos,Nathan
+0,3,4c no blue,Collin
