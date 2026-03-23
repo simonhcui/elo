@@ -234,3 +234,11 @@
 1,1,Selesnya,Thana
 0,2,Boros,David K
 0,2,Sultai,Nathan
+2,0,Dimir,Noah
+2,0,Golgari,Matt Y
+1,1,Azorius,Jim
+1,1,Temur,Clayton
+1,1,Izzet,Nathan
+1,1,4c no red,Eric K
+0,2,Abzan,David K
+0,2,Grixis,Thana

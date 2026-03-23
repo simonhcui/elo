@@ -1,0 +1,37 @@
+[
+    {
+        "Format": "Chaos",
+        "Win %": "22.34%",
+        "Record": "21-73",
+        "Drafts": "50",
+        "Glicko": "1434 ± 71"
+    },
+    {
+        "Format": "DMR",
+        "Win %": "25.00%",
+        "Record": "2-6",
+        "Drafts": "3",
+        "Glicko": "1269 ± 139"
+    },
+    {
+        "Format": "FIN",
+        "Win %": "33.33%",
+        "Record": "2-4",
+        "Drafts": "3",
+        "Glicko": "1385 ± 174"
+    },
+    {
+        "Format": "MB1",
+        "Win %": "33.33%",
+        "Record": "4-8",
+        "Drafts": "6",
+        "Glicko": "1326 ± 126"
+    },
+    {
+        "Format": "MB2",
+        "Win %": "7.14%",
+        "Record": "1-13",
+        "Drafts": "7",
+        "Glicko": "1150 ± 129"
+    }
+]

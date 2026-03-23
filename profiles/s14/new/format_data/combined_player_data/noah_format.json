@@ -1,0 +1,58 @@
+[
+    {
+        "Format": "2X2",
+        "Win %": "42.86%",
+        "Record": "3-4",
+        "Drafts": "3",
+        "Glicko": "1545 ± 144"
+    },
+    {
+        "Format": "Adam Cube",
+        "Win %": "35.71%",
+        "Record": "5-9",
+        "Drafts": "7",
+        "Glicko": "1480 ± 110"
+    },
+    {
+        "Format": "Chaos",
+        "Win %": "55.56%",
+        "Record": "25-20",
+        "Drafts": "23",
+        "Glicko": "1649 ± 69"
+    },
+    {
+        "Format": "FIN",
+        "Win %": "40.74%",
+        "Record": "11-16",
+        "Drafts": "13",
+        "Glicko": "1441 ± 85"
+    },
+    {
+        "Format": "John Cube",
+        "Win %": "66.67%",
+        "Record": "4-2",
+        "Drafts": "3",
+        "Glicko": "1661 ± 169"
+    },
+    {
+        "Format": "MB2",
+        "Win %": "67.50%",
+        "Record": "27-13",
+        "Drafts": "20",
+        "Glicko": "1676 ± 78"
+    },
+    {
+        "Format": "MH3",
+        "Win %": "75.00%",
+        "Record": "6-2",
+        "Drafts": "4",
+        "Glicko": "1767 ± 148"
+    },
+    {
+        "Format": "NEO",
+        "Win %": "66.67%",
+        "Record": "6-3",
+        "Drafts": "5",
+        "Glicko": "1698 ± 131"
+    }
+]

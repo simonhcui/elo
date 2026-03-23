@@ -1,0 +1,23 @@
+[
+    {
+        "Format": "Adam Cube",
+        "Win %": "50.00%",
+        "Record": "4-4",
+        "Drafts": "3",
+        "Glicko": "1485 ± 149"
+    },
+    {
+        "Format": "MH1",
+        "Win %": "57.14%",
+        "Record": "4-3",
+        "Drafts": "3",
+        "Glicko": "1505 ± 161"
+    },
+    {
+        "Format": "MH2",
+        "Win %": "54.55%",
+        "Record": "6-5",
+        "Drafts": "5",
+        "Glicko": "1531 ± 119"
+    }
+]
