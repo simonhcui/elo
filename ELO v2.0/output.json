@@ -34,17 +34,6 @@
   },
   {
     "rank": "4",
-    "name": "Clayton",
-    "win_percentage": "65.26%",
-    "wins_losses": "62-33",
-    "total_drafts": "44",
-    "glicko": "1643 ± 64",
-    "gxe": "63.30%",
-    "last_set": "Chaos",
-    "last_date": "3-14-2026"
-  },
-  {
-    "rank": "5",
     "name": "David O",
     "win_percentage": "65.00%",
     "wins_losses": "13-7",
@@ -55,7 +44,7 @@
     "last_date": "3-14-2026"
   },
   {
-    "rank": "6",
+    "rank": "5",
     "name": "John C",
     "win_percentage": "64.29%",
     "wins_losses": "9-5",
@@ -66,7 +55,7 @@
     "last_date": "3-12-2026"
   },
   {
-    "rank": "7",
+    "rank": "6",
     "name": "Andrew K",
     "win_percentage": "62.50%",
     "wins_losses": "5-3",
@@ -77,7 +66,29 @@
     "last_date": "3-6-2026"
   },
   {
+    "rank": "7",
+    "name": "Clayton",
+    "win_percentage": "61.32%",
+    "wins_losses": "65-41",
+    "total_drafts": "49",
+    "glicko": "1559 ± 63",
+    "gxe": "55.63%",
+    "last_set": "MOM",
+    "last_date": "3-20-2026"
+  },
+  {
     "rank": "8",
+    "name": "Noah",
+    "win_percentage": "61.18%",
+    "wins_losses": "52-33",
+    "total_drafts": "41",
+    "glicko": "1686 ± 63",
+    "gxe": "67.02%",
+    "last_set": "DFT",
+    "last_date": "3-20-2026"
+  },
+  {
+    "rank": "9",
     "name": "Alberto",
     "win_percentage": "60.00%",
     "wins_losses": "6-4",
@@ -86,17 +97,6 @@
     "gxe": "55.73%",
     "last_set": "Chaos",
     "last_date": "3-12-2026"
-  },
-  {
-    "rank": "9",
-    "name": "Noah",
-    "win_percentage": "58.97%",
-    "wins_losses": "46-32",
-    "total_drafts": "37",
-    "glicko": "1656 ± 63",
-    "gxe": "64.48%",
-    "last_set": "Adam Cube",
-    "last_date": "3-14-2026"
   },
   {
     "rank": "10",
@@ -111,17 +111,28 @@
   },
   {
     "rank": "11",
-    "name": "Eric K",
-    "win_percentage": "56.63%",
-    "wins_losses": "47-36",
-    "total_drafts": "39",
-    "glicko": "1604 ± 63",
-    "gxe": "59.76%",
-    "last_set": "Adam Cube",
-    "last_date": "3-14-2026"
+    "name": "Matt Y",
+    "win_percentage": "56.67%",
+    "wins_losses": "17-13",
+    "total_drafts": "15",
+    "glicko": "1566 ± 78",
+    "gxe": "56.25%",
+    "last_set": "FIN",
+    "last_date": "3-20-2026"
   },
   {
     "rank": "12",
+    "name": "Eric K",
+    "win_percentage": "55.32%",
+    "wins_losses": "52-42",
+    "total_drafts": "44",
+    "glicko": "1571 ± 63",
+    "gxe": "56.73%",
+    "last_set": "MOM",
+    "last_date": "3-20-2026"
+  },
+  {
+    "rank": "13",
     "name": "Tony",
     "win_percentage": "54.55%",
     "wins_losses": "18-15",
@@ -132,7 +143,7 @@
     "last_date": "3-12-2026"
   },
   {
-    "rank": "13",
+    "rank": "14",
     "name": "Kevin S",
     "win_percentage": "53.66%",
     "wins_losses": "22-19",
@@ -143,18 +154,18 @@
     "last_date": "3-14-2026"
   },
   {
-    "rank": "14",
-    "name": "Matt Y",
-    "win_percentage": "53.57%",
-    "wins_losses": "15-13",
-    "total_drafts": "14",
-    "glicko": "1535 ± 80",
-    "gxe": "53.36%",
-    "last_set": "MH2",
-    "last_date": "3-14-2026"
+    "rank": "15",
+    "name": "Nathan",
+    "win_percentage": "52.63%",
+    "wins_losses": "30-27",
+    "total_drafts": "26",
+    "glicko": "1526 ± 65",
+    "gxe": "52.50%",
+    "last_set": "MOM",
+    "last_date": "3-20-2026"
   },
   {
-    "rank": "15",
+    "rank": "16",
     "name": "Stephen",
     "win_percentage": "51.61%",
     "wins_losses": "16-15",
@@ -165,24 +176,13 @@
     "last_date": "3-12-2026"
   },
   {
-    "rank": "16",
+    "rank": "17",
     "name": "Chris A",
     "win_percentage": "50.00%",
     "wins_losses": "25-25",
     "total_drafts": "26",
     "glicko": "1511 ± 67",
     "gxe": "51.05%",
-    "last_set": "Chaos",
-    "last_date": "3-14-2026"
-  },
-  {
-    "rank": "17",
-    "name": "Nathan",
-    "win_percentage": "50.00%",
-    "wins_losses": "23-23",
-    "total_drafts": "21",
-    "glicko": "1516 ± 67",
-    "gxe": "51.56%",
     "last_set": "Chaos",
     "last_date": "3-14-2026"
   },
@@ -221,25 +221,25 @@
   },
   {
     "rank": "21",
-    "name": "Thana",
-    "win_percentage": "47.22%",
-    "wins_losses": "34-38",
-    "total_drafts": "34",
-    "glicko": "1461 ± 65",
-    "gxe": "46.24%",
-    "last_set": "Chaos",
-    "last_date": "3-14-2026"
+    "name": "Simon",
+    "win_percentage": "48.72%",
+    "wins_losses": "19-20",
+    "total_drafts": "19",
+    "glicko": "1529 ± 72",
+    "gxe": "52.74%",
+    "last_set": "MOM",
+    "last_date": "3-20-2026"
   },
   {
     "rank": "22",
-    "name": "Simon",
-    "win_percentage": "46.88%",
-    "wins_losses": "15-17",
-    "total_drafts": "16",
-    "glicko": "1515 ± 76",
-    "gxe": "51.43%",
-    "last_set": "Chaos",
-    "last_date": "3-14-2026"
+    "name": "Thana",
+    "win_percentage": "48.15%",
+    "wins_losses": "39-42",
+    "total_drafts": "38",
+    "glicko": "1481 ± 64",
+    "gxe": "48.22%",
+    "last_set": "MOM",
+    "last_date": "3-20-2026"
   },
   {
     "rank": "23",
@@ -298,6 +298,17 @@
   },
   {
     "rank": "28",
+    "name": "Grant",
+    "win_percentage": "41.18%",
+    "wins_losses": "7-10",
+    "total_drafts": "9",
+    "glicko": "1453 ± 95",
+    "gxe": "45.59%",
+    "last_set": "NEO",
+    "last_date": "3-19-2026"
+  },
+  {
+    "rank": "29",
     "name": "Collin",
     "win_percentage": "40.68%",
     "wins_losses": "24-35",
@@ -308,7 +319,7 @@
     "last_date": "3-14-2026"
   },
   {
-    "rank": "29",
+    "rank": "30",
     "name": "John K",
     "win_percentage": "40.00%",
     "wins_losses": "2-3",
@@ -319,18 +330,18 @@
     "last_date": "1-10-2026"
   },
   {
-    "rank": "30",
-    "name": "Grant",
+    "rank": "31",
+    "name": "Felix",
     "win_percentage": "38.46%",
     "wins_losses": "5-8",
     "total_drafts": "7",
-    "glicko": "1455 ± 106",
-    "gxe": "45.75%",
-    "last_set": "Adam Cube",
-    "last_date": "3-12-2026"
+    "glicko": "1438 ± 110",
+    "gxe": "44.20%",
+    "last_set": "NEO",
+    "last_date": "3-19-2026"
   },
   {
-    "rank": "31",
+    "rank": "32",
     "name": "Andrew D",
     "win_percentage": "37.50%",
     "wins_losses": "3-5",
@@ -341,7 +352,7 @@
     "last_date": "2-12-2026"
   },
   {
-    "rank": "32",
+    "rank": "33",
     "name": "Zane",
     "win_percentage": "37.50%",
     "wins_losses": "3-5",
@@ -352,18 +363,29 @@
     "last_date": "3-14-2026"
   },
   {
-    "rank": "33",
-    "name": "Felix",
-    "win_percentage": "36.36%",
-    "wins_losses": "4-7",
-    "total_drafts": "6",
-    "glicko": "1448 ± 119",
-    "gxe": "45.13%",
-    "last_set": "Adam Cube",
-    "last_date": "3-12-2026"
+    "rank": "34",
+    "name": "Jacob",
+    "win_percentage": "33.33%",
+    "wins_losses": "9-18",
+    "total_drafts": "14",
+    "glicko": "1393 ± 95",
+    "gxe": "40.01%",
+    "last_set": "WAR",
+    "last_date": "3-19-2026"
   },
   {
-    "rank": "34",
+    "rank": "35",
+    "name": "Jim",
+    "win_percentage": "33.33%",
+    "wins_losses": "3-6",
+    "total_drafts": "5",
+    "glicko": "1427 ± 128",
+    "gxe": "43.27%",
+    "last_set": "DFT",
+    "last_date": "3-20-2026"
+  },
+  {
+    "rank": "36",
     "name": "Daniel Lopez",
     "win_percentage": "33.33%",
     "wins_losses": "2-4",
@@ -374,7 +396,7 @@
     "last_date": "3-12-2026"
   },
   {
-    "rank": "35",
+    "rank": "37",
     "name": "Andrew N",
     "win_percentage": "33.33%",
     "wins_losses": "2-4",
@@ -385,18 +407,7 @@
     "last_date": "2-28-2026"
   },
   {
-    "rank": "36",
-    "name": "Jacob",
-    "win_percentage": "28.00%",
-    "wins_losses": "7-18",
-    "total_drafts": "13",
-    "glicko": "1317 ± 100",
-    "gxe": "33.40%",
-    "last_set": "Noah Cube",
-    "last_date": "3-12-2026"
-  },
-  {
-    "rank": "37",
+    "rank": "38",
     "name": "Patrick P",
     "win_percentage": "27.78%",
     "wins_losses": "5-13",
@@ -407,7 +418,7 @@
     "last_date": "2-28-2026"
   },
   {
-    "rank": "38",
+    "rank": "39",
     "name": "Marco",
     "win_percentage": "27.27%",
     "wins_losses": "6-16",
@@ -418,7 +429,7 @@
     "last_date": "3-14-2026"
   },
   {
-    "rank": "39",
+    "rank": "40",
     "name": "Mike",
     "win_percentage": "25.00%",
     "wins_losses": "3-9",
@@ -429,7 +440,7 @@
     "last_date": "2-5-2026"
   },
   {
-    "rank": "40",
+    "rank": "41",
     "name": "Matt H",
     "win_percentage": "25.00%",
     "wins_losses": "2-6",
@@ -440,7 +451,7 @@
     "last_date": "2-28-2026"
   },
   {
-    "rank": "41",
+    "rank": "42",
     "name": "Christiaan",
     "win_percentage": "25.00%",
     "wins_losses": "2-6",
@@ -451,7 +462,7 @@
     "last_date": "2-28-2026"
   },
   {
-    "rank": "42",
+    "rank": "43",
     "name": "Wesley",
     "win_percentage": "21.05%",
     "wins_losses": "4-15",
@@ -462,7 +473,7 @@
     "last_date": "1-15-2026"
   },
   {
-    "rank": "43",
+    "rank": "44",
     "name": "Alex M",
     "win_percentage": "20.00%",
     "wins_losses": "1-4",
@@ -473,7 +484,7 @@
     "last_date": "2-19-2026"
   },
   {
-    "rank": "44",
+    "rank": "45",
     "name": "Travis",
     "win_percentage": "16.67%",
     "wins_losses": "2-10",
@@ -484,25 +495,14 @@
     "last_date": "2-12-2026"
   },
   {
-    "rank": "45",
-    "name": "Jim",
-    "win_percentage": "16.67%",
-    "wins_losses": "1-5",
-    "total_drafts": "3",
-    "glicko": "1304 ± 153",
-    "gxe": "32.77%",
-    "last_set": "Noah Cube",
-    "last_date": "3-12-2026"
-  },
-  {
     "rank": "46",
     "name": "David K",
-    "win_percentage": "14.29%",
-    "wins_losses": "2-12",
-    "total_drafts": "7",
-    "glicko": "1291 ± 111",
-    "gxe": "31.36%",
-    "last_set": "Chaos",
-    "last_date": "3-14-2026"
+    "win_percentage": "12.00%",
+    "wins_losses": "3-22",
+    "total_drafts": "12",
+    "glicko": "1228 ± 91",
+    "gxe": "26.36%",
+    "last_set": "MOM",
+    "last_date": "3-20-2026"
   }
 ]
