@@ -11,22 +11,22 @@
   },
   {
     "rank": "2",
-    "name": "Eric K",
-    "win_percentage": "70.27%",
-    "wins_losses": "52-22",
-    "total_drafts": "36",
-    "glicko": "1706 ± 67",
-    "gxe": "68.66%",
-    "last_date": "2-28-2026"
-  },
-  {
-    "rank": "3",
     "name": "Collin",
     "win_percentage": "69.81%",
     "wins_losses": "37-16",
     "total_drafts": "26",
-    "glicko": "1713 ± 70",
-    "gxe": "69.21%",
+    "glicko": "1712 ± 70",
+    "gxe": "69.14%",
+    "last_date": "2-28-2026"
+  },
+  {
+    "rank": "3",
+    "name": "Eric K",
+    "win_percentage": "68.92%",
+    "wins_losses": "51-23",
+    "total_drafts": "36",
+    "glicko": "1684 ± 66",
+    "gxe": "66.86%",
     "last_date": "2-28-2026"
   },
   {
@@ -35,8 +35,8 @@
     "win_percentage": "68.63%",
     "wins_losses": "35-16",
     "total_drafts": "24",
-    "glicko": "1713 ± 70",
-    "gxe": "69.24%",
+    "glicko": "1712 ± 70",
+    "gxe": "69.17%",
     "last_date": "2-28-2026"
   },
   {
@@ -81,6 +81,16 @@
   },
   {
     "rank": "9",
+    "name": "Nick D",
+    "win_percentage": "60.87%",
+    "wins_losses": "28-18",
+    "total_drafts": "23",
+    "glicko": "1666 ± 71",
+    "gxe": "65.27%",
+    "last_date": "2-28-2026"
+  },
+  {
+    "rank": "10",
     "name": "Andrew D",
     "win_percentage": "60.00%",
     "wins_losses": "12-8",
@@ -88,16 +98,6 @@
     "glicko": "1620 ± 93",
     "gxe": "61.15%",
     "last_date": "5-22-2025"
-  },
-  {
-    "rank": "10",
-    "name": "Nick D",
-    "win_percentage": "58.70%",
-    "wins_losses": "27-19",
-    "total_drafts": "23",
-    "glicko": "1638 ± 71",
-    "gxe": "62.86%",
-    "last_date": "2-28-2026"
   },
   {
     "rank": "11",
@@ -116,7 +116,7 @@
     "wins_losses": "14-11",
     "total_drafts": "11",
     "glicko": "1646 ± 82",
-    "gxe": "63.54%",
+    "gxe": "63.53%",
     "last_date": "2-28-2026"
   },
   {
@@ -175,8 +175,8 @@
     "win_percentage": "46.43%",
     "wins_losses": "13-15",
     "total_drafts": "14",
-    "glicko": "1560 ± 83",
-    "gxe": "55.62%",
+    "glicko": "1559 ± 83",
+    "gxe": "55.53%",
     "last_date": "2-28-2026"
   },
   {
@@ -255,8 +255,8 @@
     "win_percentage": "38.78%",
     "wins_losses": "19-30",
     "total_drafts": "25",
-    "glicko": "1454 ± 72",
-    "gxe": "45.64%",
+    "glicko": "1453 ± 72",
+    "gxe": "45.58%",
     "last_date": "2-28-2026"
   },
   {
