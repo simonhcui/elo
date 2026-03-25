@@ -1,23 +1,37 @@
 [
     {
         "Format": "Chaos",
-        "Win %": "39.29%",
-        "Record": "11-17",
-        "Drafts": "14",
-        "Glicko": "1546 ± 77"
+        "Win %": "38.00%",
+        "Record": "19-31",
+        "Drafts": "25",
+        "Glicko": "1523 ± 67"
     },
     {
         "Format": "FIN",
-        "Win %": "48.15%",
-        "Record": "13-14",
-        "Drafts": "13",
-        "Glicko": "1455 ± 85"
+        "Win %": "48.65%",
+        "Record": "18-19",
+        "Drafts": "18",
+        "Glicko": "1485 ± 78"
     },
     {
         "Format": "MB2",
-        "Win %": "47.73%",
-        "Record": "21-23",
-        "Drafts": "22",
-        "Glicko": "1545 ± 72"
+        "Win %": "46.67%",
+        "Record": "28-32",
+        "Drafts": "29",
+        "Glicko": "1528 ± 67"
+    },
+    {
+        "Format": "NEO",
+        "Win %": "50.00%",
+        "Record": "4-4",
+        "Drafts": "4",
+        "Glicko": "1697 ± 139"
+    },
+    {
+        "Format": "Noah Cube",
+        "Win %": "30.00%",
+        "Record": "3-7",
+        "Drafts": "5",
+        "Glicko": "1210 ± 134"
     }
 ]

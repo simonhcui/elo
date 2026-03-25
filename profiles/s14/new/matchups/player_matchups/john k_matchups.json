@@ -55,9 +55,9 @@
     },
     {
         "Player": "David O",
-        "Record": "0-6",
+        "Record": "0-7",
         "Win %": "0.00%",
-        "Total Matches": 6
+        "Total Matches": 7
     },
     {
         "Player": "Eric K",
@@ -78,10 +78,22 @@
         "Total Matches": 7
     },
     {
+        "Player": "Felix",
+        "Record": "1-0",
+        "Win %": "100.00%",
+        "Total Matches": 1
+    },
+    {
         "Player": "Frank",
         "Record": "0-3",
         "Win %": "0.00%",
         "Total Matches": 3
+    },
+    {
+        "Player": "Grant",
+        "Record": "1-0",
+        "Win %": "100.00%",
+        "Total Matches": 1
     },
     {
         "Player": "Harrison",
@@ -115,9 +127,9 @@
     },
     {
         "Player": "Luis",
-        "Record": "0-6",
+        "Record": "0-7",
         "Win %": "0.00%",
-        "Total Matches": 6
+        "Total Matches": 7
     },
     {
         "Player": "Luke",
@@ -130,6 +142,12 @@
         "Record": "2-2",
         "Win %": "50.00%",
         "Total Matches": 4
+    },
+    {
+        "Player": "Matt H",
+        "Record": "2-0",
+        "Win %": "100.00%",
+        "Total Matches": 2
     },
     {
         "Player": "Matt Y",
@@ -187,9 +205,9 @@
     },
     {
         "Player": "Tony",
-        "Record": "2-12",
-        "Win %": "14.29%",
-        "Total Matches": 14
+        "Record": "3-12",
+        "Win %": "20.00%",
+        "Total Matches": 15
     },
     {
         "Player": "Travis",

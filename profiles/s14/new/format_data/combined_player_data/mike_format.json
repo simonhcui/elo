@@ -8,10 +8,17 @@
     },
     {
         "Format": "Chaos",
-        "Win %": "40.00%",
-        "Record": "10-15",
-        "Drafts": "13",
-        "Glicko": "1523 ± 89"
+        "Win %": "37.93%",
+        "Record": "11-18",
+        "Drafts": "15",
+        "Glicko": "1513 ± 83"
+    },
+    {
+        "Format": "MH1",
+        "Win %": "28.57%",
+        "Record": "2-5",
+        "Drafts": "3",
+        "Glicko": "1281 ± 218"
     },
     {
         "Format": "MH2",

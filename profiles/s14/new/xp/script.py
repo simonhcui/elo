@@ -27,12 +27,12 @@ def level(xp):
 def experience(player):
 
     champ_xp = {
-        'nick d': 425,
+        'nick d': 475,
         'juwan': 175,
         'matt y': 400,
         'evan s': 225,
         'tony': 500,
-        'clayton': 475,
+        'clayton': 600,
         'chris a': 400,
         'alberto': 225,
         'alan': 350,
@@ -44,9 +44,9 @@ def experience(player):
         'walski': 400,
         'stephen': 25,
         'kevin s': 175,
-        'marco': 50,
+        'marco': 175,
         'adam': 75,
-        'luis': 100
+        'luis': 250
     }
 
     played = False
@@ -88,7 +88,7 @@ def experience(player):
 
 
 def main():
-    players = ['adam', 'alan', 'alberto', 'andrew d', 'chris a', 'clayton', 'collin', 'david o', 'eric k', 'evan s', 'jacob', 'john k', 'juwan', 'kevin s', 'luca', 'luis', 'luke', 'marco', 'matt y', 'nick d', 'noah', 'simon', 'sonny', 'stephen', 'todd', 'tony', 'travis', 'walski', 'zane', 'frank', 'thana']
+    players = ['adam', 'alan', 'alberto', 'andrew d', 'chris a', 'clayton', 'collin', 'david o', 'eric k', 'evan s', 'jacob', 'john k', 'juwan', 'kevin s', 'luca', 'luis', 'luke', 'marco', 'matt y', 'nick d', 'noah', 'simon', 'sonny', 'stephen', 'todd', 'tony', 'travis', 'walski', 'zane', 'frank', 'thana', 'aaron', 'mike']
     for player in players:
         experience(player)
 

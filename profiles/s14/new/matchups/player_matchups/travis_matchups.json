@@ -61,14 +61,20 @@
     },
     {
         "Player": "Eric K",
-        "Record": "3-5",
-        "Win %": "37.50%",
-        "Total Matches": 8
+        "Record": "4-6",
+        "Win %": "40.00%",
+        "Total Matches": 10
     },
     {
         "Player": "Evan K",
         "Record": "0-2",
         "Win %": "0.00%",
+        "Total Matches": 2
+    },
+    {
+        "Player": "Grant",
+        "Record": "1-1",
+        "Win %": "50.00%",
         "Total Matches": 2
     },
     {
@@ -96,6 +102,12 @@
         "Total Matches": 5
     },
     {
+        "Player": "Kevin S",
+        "Record": "0-1",
+        "Win %": "0.00%",
+        "Total Matches": 1
+    },
+    {
         "Player": "Luis",
         "Record": "0-1",
         "Win %": "0.00%",
@@ -109,15 +121,21 @@
     },
     {
         "Player": "Marco",
-        "Record": "2-2",
-        "Win %": "50.00%",
-        "Total Matches": 4
+        "Record": "3-2",
+        "Win %": "60.00%",
+        "Total Matches": 5
+    },
+    {
+        "Player": "Matt H",
+        "Record": "1-2",
+        "Win %": "33.33%",
+        "Total Matches": 3
     },
     {
         "Player": "Matt Y",
-        "Record": "1-6",
-        "Win %": "14.29%",
-        "Total Matches": 7
+        "Record": "1-7",
+        "Win %": "12.50%",
+        "Total Matches": 8
     },
     {
         "Player": "Mike",
@@ -139,9 +157,9 @@
     },
     {
         "Player": "Noah",
-        "Record": "2-0",
-        "Win %": "100.00%",
-        "Total Matches": 2
+        "Record": "2-1",
+        "Win %": "66.67%",
+        "Total Matches": 3
     },
     {
         "Player": "Patrick H",
@@ -151,9 +169,9 @@
     },
     {
         "Player": "Simon",
-        "Record": "2-7",
-        "Win %": "22.22%",
-        "Total Matches": 9
+        "Record": "2-8",
+        "Win %": "20.00%",
+        "Total Matches": 10
     },
     {
         "Player": "Sonny",
@@ -169,9 +187,9 @@
     },
     {
         "Player": "Thana",
-        "Record": "2-3",
-        "Win %": "40.00%",
-        "Total Matches": 5
+        "Record": "2-4",
+        "Win %": "33.33%",
+        "Total Matches": 6
     },
     {
         "Player": "Todd",

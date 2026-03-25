@@ -14,6 +14,13 @@
         "Glicko": "1644 ± 78"
     },
     {
+        "Format": "Collin Cube",
+        "Win %": "66.67%",
+        "Record": "4-2",
+        "Drafts": "3",
+        "Glicko": "1628 ± 178"
+    },
+    {
         "Format": "John Cube",
         "Win %": "92.31%",
         "Record": "12-1",
@@ -22,10 +29,10 @@
     },
     {
         "Format": "MB2",
-        "Win %": "68.00%",
-        "Record": "17-8",
-        "Drafts": "13",
-        "Glicko": "1677 ± 90"
+        "Win %": "66.67%",
+        "Record": "18-9",
+        "Drafts": "14",
+        "Glicko": "1664 ± 87"
     },
     {
         "Format": "MH2",
@@ -47,5 +54,12 @@
         "Record": "3-5",
         "Drafts": "4",
         "Glicko": "1499 ± 144"
+    },
+    {
+        "Format": "Noah Cube",
+        "Win %": "77.78%",
+        "Record": "7-2",
+        "Drafts": "4",
+        "Glicko": "1706 ± 141"
     }
 ]

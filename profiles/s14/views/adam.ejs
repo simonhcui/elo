@@ -18,7 +18,7 @@
       Season X Winrate 3rd Place
     </h2>
     <h2>
-      Lifetime Winrate: 55.63% 242-193 out of 200 drafts
+      Lifetime Winrate: 54.72% 261-216 out of 221 drafts
     </h2>
 
     <br />
@@ -31,7 +31,7 @@
     />
     <div class="progress-container">
         <div class="progress-text">
-            31/310
+            109/310
         </div>
         <div id="my-progress-bar" class="progress-bar"></div>
     </div>
@@ -44,7 +44,7 @@
         }
       
         
-        updateProgress(31/310);
+        updateProgress(109/310);
     </script>
   </div>
 
@@ -132,103 +132,5 @@
       </table>
     </div>
   </div>
-
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <div class="chart-container">
-  <h2>Winrate History (Post 20 Draft Calibration)</h2>
-  <canvas id="line-chart"></canvas>
-  </div>
-
-  <script>
-    const seasons = <%- JSON.stringify(seasons) %>;
-
-    function renderLineChart(seasons) {
-      const ctx = document.getElementById('line-chart').getContext('2d');
-
-      const allDates = seasons.reduce((allLabels, season) => {
-        return allLabels.concat(season.date);
-      }, []);
-
-      const uniqueDates = [...new Set(allDates)].sort((a, b) => new Date(a) - new Date(b));
-
-      const datasets = seasons.map((season, index) => {
-        const colors = [
-          'rgba(75, 192, 192, 1)',
-          'rgba(255, 99, 132, 1)',
-          'rgba(54, 162, 235, 1)',
-          'rgba(153, 102, 255, 1)',
-          'rgba(255, 206, 86, 1)',
-          'rgba(255, 159, 64, 1)',
-          'rgba(99, 255, 132, 1)',
-          'rgba(233, 30, 99, 1)',
-          'rgba(139, 195, 74, 1)',
-          'rgba(244, 67, 54, 1)',
-          'rgba(255, 87, 34, 1)'
-        ];
-
-        const backgroundColors = [
-          'rgba(75, 192, 192, 0.2)',
-          'rgba(255, 99, 132, 0.2)',
-          'rgba(54, 162, 235, 0.2)',
-          'rgba(153, 102, 255, 0.2)',
-          'rgba(255, 206, 86, 0.2)',
-          'rgba(255, 159, 64, 0.2)',
-          'rgba(99, 255, 132, 0.2)',
-          'rgba(233, 30, 99, 0.2)',
-          'rgba(139, 195, 74, 0.2)',
-          'rgba(244, 67, 54, 0.2)',
-          'rgba(255, 87, 34, 1)'
-        ]
-
-        const data = uniqueDates.map(date => {
-          const idx = season.date.indexOf(date);
-          return idx !== -1 ? season.win_percentage[idx] : null;
-        });
-
-        return {
-          label: season.seasonName,
-          data: data,
-          borderColor: colors[index % colors.length],
-          backgroundColor: backgroundColors[index % backgroundColors.length],
-          borderWidth: 2,
-          fill: true
-        };
-      });
-
-      const labels = seasons.reduce((allLabels, season) => allLabels.concat(season.date), []);
-
-      const allValues = seasons.flatMap(s => s.win_percentage);
-
-      const minValue = Math.min(...allValues);
-      const maxValue = Math.max(...allValues);
-
-      const yAxisMin = Math.max(0, Math.floor((minValue - 0.05) * 10) / 10); 
-      const yAxisMax = Math.min(1, Math.ceil((maxValue + 0.01) * 20) / 20);
-
-      new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: uniqueDates,
-          datasets: datasets
-        },
-        options: {
-          responsive: true,
-          scales: {
-            y: {
-              min: yAxisMin,
-              max: yAxisMax,
-              ticks: {
-              callback: function(value) {
-                  return (value * 100).toFixed(0) + '%';
-                }
-              }
-            }
-          }
-        }
-      });
-    }
-
-    renderLineChart(seasons);
-  </script>
 </main>
 <%- include('../partials/footer') %>

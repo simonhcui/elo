@@ -18,7 +18,7 @@
         "Win %": "71.43%",
         "Record": "25-10",
         "Drafts": "16",
-        "Glicko": "1788 ± 84"
+        "Glicko": "1789 ± 84"
     },
     {
         "Format": "DMR",
@@ -36,10 +36,10 @@
     },
     {
         "Format": "MH2",
-        "Win %": "38.89%",
-        "Record": "7-11",
-        "Drafts": "8",
-        "Glicko": "1469 ± 114"
+        "Win %": "35.00%",
+        "Record": "7-13",
+        "Drafts": "9",
+        "Glicko": "1431 ± 107"
     },
     {
         "Format": "TSR",
