@@ -1,0 +1,16 @@
+[
+    {
+        "Format": "Chaos",
+        "Win %": "53.54%",
+        "Record": "53-46",
+        "Drafts": "48",
+        "Glicko": "1674 ± 62"
+    },
+    {
+        "Format": "DMR",
+        "Win %": "25.00%",
+        "Record": "2-6",
+        "Drafts": "3",
+        "Glicko": "1328 ± 144"
+    }
+]

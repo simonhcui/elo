@@ -1,0 +1,60 @@
+{
+  "formatData": [
+    {
+      "Format": "2X2",
+      "Win %": "22.22%",
+      "Record": "4-14",
+      "Drafts": "7",
+      "Glicko": "1334 ± 107"
+    },
+    {
+      "Format": "Chaos",
+      "Win %": "37.78%",
+      "Record": "17-28",
+      "Drafts": "23",
+      "Glicko": "1440 ± 69"
+    },
+    {
+      "Format": "DMR",
+      "Win %": "42.86%",
+      "Record": "6-8",
+      "Drafts": "6",
+      "Glicko": "1438 ± 113"
+    },
+    {
+      "Format": "FIN",
+      "Win %": "28.57%",
+      "Record": "4-10",
+      "Drafts": "7",
+      "Glicko": "1334 ± 120"
+    },
+    {
+      "Format": "MB1",
+      "Win %": "11.11%",
+      "Record": "1-8",
+      "Drafts": "4",
+      "Glicko": "1111 ± 153"
+    },
+    {
+      "Format": "MB2",
+      "Win %": "24.00%",
+      "Record": "6-19",
+      "Drafts": "12",
+      "Glicko": "1246 ± 94"
+    },
+    {
+      "Format": "MH2",
+      "Win %": "42.86%",
+      "Record": "3-4",
+      "Drafts": "4",
+      "Glicko": "1503 ± 149"
+    },
+    {
+      "Format": "MH3",
+      "Win %": "25.00%",
+      "Record": "2-6",
+      "Drafts": "4",
+      "Glicko": "1333 ± 160"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "formatData": [
+    {
+      "Format": "2X2",
+      "Win %": "58.33%",
+      "Record": "7-5",
+      "Drafts": "5",
+      "Glicko": "1632 ± 117"
+    },
+    {
+      "Format": "Chaos",
+      "Win %": "37.93%",
+      "Record": "11-18",
+      "Drafts": "15",
+      "Glicko": "1513 ± 83"
+    },
+    {
+      "Format": "MH1",
+      "Win %": "28.57%",
+      "Record": "2-5",
+      "Drafts": "3",
+      "Glicko": "1281 ± 218"
+    },
+    {
+      "Format": "MH2",
+      "Win %": "28.57%",
+      "Record": "2-5",
+      "Drafts": "3",
+      "Glicko": "1285 ± 231"
+    }
+  ]
+}

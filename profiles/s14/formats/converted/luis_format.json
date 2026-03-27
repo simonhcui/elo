@@ -1,0 +1,25 @@
+{
+  "formatData": [
+    {
+      "Format": "Chaos",
+      "Win %": "71.15%",
+      "Record": "111-45",
+      "Drafts": "76",
+      "Glicko": "1841 ± 65"
+    },
+    {
+      "Format": "MB2",
+      "Win %": "80.00%",
+      "Record": "4-1",
+      "Drafts": "3",
+      "Glicko": "1815 ± 174"
+    },
+    {
+      "Format": "TSR",
+      "Win %": "50.00%",
+      "Record": "3-3",
+      "Drafts": "3",
+      "Glicko": "1435 ± 164"
+    }
+  ]
+}

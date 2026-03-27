@@ -1,0 +1,102 @@
+{
+  "formatData": [
+    {
+      "Format": "2X2",
+      "Win %": "71.43%",
+      "Record": "10-4",
+      "Drafts": "5",
+      "Glicko": "1957 ± 145"
+    },
+    {
+      "Format": "Adam Cube",
+      "Win %": "61.11%",
+      "Record": "11-7",
+      "Drafts": "8",
+      "Glicko": "1669 ± 104"
+    },
+    {
+      "Format": "Chaos",
+      "Win %": "65.62%",
+      "Record": "42-22",
+      "Drafts": "30",
+      "Glicko": "1722 ± 67"
+    },
+    {
+      "Format": "Collin Cube",
+      "Win %": "78.57%",
+      "Record": "11-3",
+      "Drafts": "7",
+      "Glicko": "1706 ± 132"
+    },
+    {
+      "Format": "FIN",
+      "Win %": "68.89%",
+      "Record": "31-14",
+      "Drafts": "21",
+      "Glicko": "1660 ± 78"
+    },
+    {
+      "Format": "John Cube",
+      "Win %": "85.71%",
+      "Record": "6-1",
+      "Drafts": "3",
+      "Glicko": "1851 ± 164"
+    },
+    {
+      "Format": "MB1",
+      "Win %": "71.43%",
+      "Record": "5-2",
+      "Drafts": "3",
+      "Glicko": "1726 ± 154"
+    },
+    {
+      "Format": "MB2",
+      "Win %": "56.00%",
+      "Record": "14-11",
+      "Drafts": "11",
+      "Glicko": "1646 ± 82"
+    },
+    {
+      "Format": "MH1",
+      "Win %": "63.64%",
+      "Record": "7-4",
+      "Drafts": "5",
+      "Glicko": "1694 ± 183"
+    },
+    {
+      "Format": "MH2",
+      "Win %": "70.00%",
+      "Record": "14-6",
+      "Drafts": "9",
+      "Glicko": "1829 ± 122"
+    },
+    {
+      "Format": "MH3",
+      "Win %": "57.14%",
+      "Record": "4-3",
+      "Drafts": "4",
+      "Glicko": "1566 ± 145"
+    },
+    {
+      "Format": "NEO",
+      "Win %": "50.00%",
+      "Record": "11-11",
+      "Drafts": "11",
+      "Glicko": "1591 ± 95"
+    },
+    {
+      "Format": "Noah Cube",
+      "Win %": "71.43%",
+      "Record": "10-4",
+      "Drafts": "7",
+      "Glicko": "1660 ± 107"
+    },
+    {
+      "Format": "TSR",
+      "Win %": "87.50%",
+      "Record": "7-1",
+      "Drafts": "4",
+      "Glicko": "1835 ± 163"
+    }
+  ]
+}

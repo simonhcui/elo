@@ -1,0 +1,100 @@
+[
+    {
+        "Format": "2X2",
+        "Win %": "61.76%",
+        "Record": "21-13",
+        "Drafts": "13",
+        "Glicko": "1688 ± 76"
+    },
+    {
+        "Format": "Adam Cube",
+        "Win %": "73.68%",
+        "Record": "14-5",
+        "Drafts": "9",
+        "Glicko": "1811 ± 98"
+    },
+    {
+        "Format": "Chaos",
+        "Win %": "54.29%",
+        "Record": "76-64",
+        "Drafts": "67",
+        "Glicko": "1724 ± 62"
+    },
+    {
+        "Format": "Collin Cube",
+        "Win %": "70.00%",
+        "Record": "7-3",
+        "Drafts": "5",
+        "Glicko": "1673 ± 135"
+    },
+    {
+        "Format": "DMR",
+        "Win %": "14.29%",
+        "Record": "1-6",
+        "Drafts": "3",
+        "Glicko": "1211 ± 161"
+    },
+    {
+        "Format": "FIN",
+        "Win %": "50.00%",
+        "Record": "4-4",
+        "Drafts": "4",
+        "Glicko": "1498 ± 131"
+    },
+    {
+        "Format": "John Cube",
+        "Win %": "61.54%",
+        "Record": "8-5",
+        "Drafts": "6",
+        "Glicko": "1581 ± 121"
+    },
+    {
+        "Format": "MB1",
+        "Win %": "60.00%",
+        "Record": "6-4",
+        "Drafts": "5",
+        "Glicko": "1503 ± 135"
+    },
+    {
+        "Format": "MB2",
+        "Win %": "46.43%",
+        "Record": "13-15",
+        "Drafts": "14",
+        "Glicko": "1559 ± 83"
+    },
+    {
+        "Format": "MH1",
+        "Win %": "54.17%",
+        "Record": "13-11",
+        "Drafts": "9",
+        "Glicko": "1630 ± 103"
+    },
+    {
+        "Format": "MH2",
+        "Win %": "56.52%",
+        "Record": "26-20",
+        "Drafts": "17",
+        "Glicko": "1605 ± 74"
+    },
+    {
+        "Format": "MH3",
+        "Win %": "40.00%",
+        "Record": "2-3",
+        "Drafts": "3",
+        "Glicko": "1526 ± 162"
+    },
+    {
+        "Format": "NEO",
+        "Win %": "46.15%",
+        "Record": "6-7",
+        "Drafts": "6",
+        "Glicko": "1507 ± 120"
+    },
+    {
+        "Format": "Noah Cube",
+        "Win %": "58.33%",
+        "Record": "7-5",
+        "Drafts": "6",
+        "Glicko": "1507 ± 119"
+    }
+]
