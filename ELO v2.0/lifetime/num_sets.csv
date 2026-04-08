@@ -1,5 +1,5 @@
 2X2,42
-Chaos,239
+Chaos,245
 CNS,1
 DOM,5
 ELD,8
@@ -18,10 +18,10 @@ DMR,19
 Adam Cube,22
 AKH/HOU,4
 IKO,6
-TSR,10
+TSR,11
 MB1,13
 BRO,2
-MOM,5
+MOM,6
 LTR,4
 DMU,4
 ZNR,1
@@ -35,7 +35,7 @@ M20,6
 WAR,5
 TBD,2
 MID,1
-OTJ,6
+OTJ,7
 John Cube,10
 MH3,20
 M19,1
@@ -46,17 +46,19 @@ DSK,5
 INR,3
 Collin Cube,8
 IMA,2
-Noah Cube,10
+Noah Cube,11
 A25,1
 DFT,4
-FIN,30
+FIN,31
 BLB,2
 FDN,1
 LCI,1
-WOE,2
+WOE,4
 Felix Cube,3
 TDM,1
 TLA,2
 ONE,1
 KLD/AER,1
+SOI/EMN,1
+BBD,2
 TEST,1
