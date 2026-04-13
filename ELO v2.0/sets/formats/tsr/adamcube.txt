@@ -79,3 +79,11 @@
 1,1,Azorius,Sonny
 0,2,Jeskai,Kevin S
 0,2,Selesnya,Luke
+2,0,Azorius,Grace
+2,0,Boros,Noah
+1,1,Boros,Zane
+1,1,Dimir,Nathan
+1,1,Golgari,Eric K
+1,1,Selesnya,Clayton
+0,2,Orzhov,Brian H
+0,2,4c no green,Travis
