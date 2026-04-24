@@ -149,3 +149,11 @@
 1,1,5c,Max M
 0,2,Orzhov,Vincent
 0,2,Grixis,Thana
+2,0,Azorius,Collin
+2,0,Orzhov,Collin
+1,1,Azorius,Simon
+1,1,Rakdos,Tony
+1,1,Naya,Matt Y
+1,1,Naya,Grace
+0,2,Golgari,Travis
+0,2,Grixis,Jacob

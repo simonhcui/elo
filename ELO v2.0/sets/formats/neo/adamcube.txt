@@ -136,3 +136,11 @@
 1,1,Golgari,Felix
 0,2,Selesnya,Eric K
 0,2,Jeskai,David K
+2,0,Dimir,Grace
+2,0,5c,Clayton
+1,1,Rakdos,Thana
+1,1,Esper,Collin
+1,1,Selesnya,Travis
+1,1,Boros,David K
+0,2,Simic,Stephen
+0,2,Esper,Luke
