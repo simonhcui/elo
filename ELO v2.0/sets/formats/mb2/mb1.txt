@@ -462,3 +462,27 @@
 1,2,Temur,Adam
 3,0,Naya,Noah
 1,2,Selesnya,Collin
+2,0,Gruul,Eric K
+2,0,Jund,Collin
+1,1,Orzhov,Noah
+1,1,Boros,David O
+1,1,Orzhov,Nathan
+1,1,Simic,Chris A
+0,2,Dimir,Thana
+0,2,Jeskai,Patrick H
+2,0,Naya,Nathan
+2,0,Azorius,Noah
+1,1,Abzan,Collin
+1,1,Jund,Patrick H
+1,1,Esper,David O
+1,1,Gruul,Eric K
+0,2,Golgari,Thana
+0,2,Dimir,Chris A
+2,0,Naya,Noah
+2,0,Rakdos,Clayton
+1,1,Orzhov,Luke
+1,1,Golgari,Chris A
+1,1,Izzet,Nathan
+1,1,Abzan,Collin
+0,2,Izzet,Daniel
+0,2,5c,Travis
