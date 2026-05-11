@@ -123,3 +123,29 @@
 1,1,Rakdos,David K
 0,2,Naya,Matt Y
 0,2,Dimir,Walski
+2,0,Golgari,Stephen
+2,0,Esper,Ana
+1,1,Jeskai,Nick D
+1,1,Boros,Nick C
+1,1,Gruul,Jesse Luong
+1,1,Rakdos,David K
+0,2,Temur,Juwan
+0,2,Sultai,Grace
+2,0,5c,Nick D
+2,0,Boros,Grace
+1,1,Rakdos,Ana
+1,1,Grixis,Juwan
+1,1,Azorius,Stephen
+1,1,Dimir,Jesse Luong
+0,2,Grixis,David K
+0,2,Orzhov,Nick C
+2,0,Rakdos,Simon
+2,0,Simic,Clayton
+2,0,Dimir,Nathan
+1,1,Golgari,Nick D
+1,1,Azorius,Grace
+1,1,Jund,Thana
+1,1,Rakdos,Eric K
+0,2,Boros,Noah
+0,2,Boros,Matt Y
+0,2,Selesnya,David K
