@@ -486,3 +486,20 @@
 1,1,Abzan,Collin
 0,2,Izzet,Daniel
 0,2,5c,Travis
+2,0,Dimir,Noah
+1,1,Boros,Thana
+1,1,Simic,Clayton
+1,1,Orzhov,Nick D
+1,1,Rakdos,David K
+0,2,Simic,Simon
+2,0,Selesnya,Clayton
+2,0,Boros,Winston
+1,1,Gruul,Eric K
+1,1,Grixis,Patrick H
+0,2,Orzhov,Chris A
+0,2,Orzhov,Christiaan
+2,0,Izzet,Clayton
+1,1,Boros,Eric K
+1,1,Dimir,Winston
+0,1,Dimir,Chris A
+0,1,Selesnya,Christiaan
