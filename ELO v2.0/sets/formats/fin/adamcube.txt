@@ -242,3 +242,21 @@
 1,1,4c no red,Eric K
 0,2,Abzan,David K
 0,2,Grixis,Thana
+2,0,Dimir,Clayton
+2,0,Rakdos,Maxime
+1,0,Izzet,Jim
+1,1,Azorius,Eric K
+1,1,Temur,Thana
+1,1,Azorius,Noah
+1,1,Orzhov,Andrew K
+0,1,Selesnya,David K
+0,2,Boros,Brian H
+0,2,Grixis,Nathan
+2,0,Golgari,Simon
+2,0,Sultai,Jim
+1,1,Abzan,Noah
+1,1,Rakdos,Thana
+1,1,Dimir,Andrew K
+1,1,Boros,Maxime
+0,2,Sultai,Eric K
+0,2,Izzet,Nathan
