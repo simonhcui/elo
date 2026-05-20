@@ -64,3 +64,11 @@
 1,1,Azorius,Felix
 0,2,Golgari,Collin
 0,2,Sultai,Noah
+2,0,Boros,Nathan
+2,0,Sultai,David O
+1,1,Boros,Eric K
+1,1,Jeskai,Clayton
+1,1,Jund,Noah
+1,1,Sultai,Collin
+0,2,Esper,Jacob
+0,2,Esper,Grant

@@ -174,3 +174,13 @@
 1,2,Izzet,Juwan
 1,2,Rakdos,Nathan
 0,3,4c no blue,Collin
+2,0,Jeskai,Noah
+2,0,Izzet,Jim
+2,0,Selesnya,Clayton
+1,1,4c no blue,Luke
+1,1,Golgari,Grant
+1,1,Sultai,Adam
+0,1,Grixis,Tony
+0,1,Grixis,Felix
+0,2,Dimir,Collin
+0,2,Orzhov,Eric K

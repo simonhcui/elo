@@ -79,3 +79,23 @@
 1,1,Esper,Collin
 0,2,5c,Jim
 0,2,Grixis,Eric K
+0,3,Sultai,Noah
+2,1,Azorius,Simon
+0,3,Rakdos,Nathan
+2,1,Boros,Eric K
+3,0,Grixis,Clayton
+2,1,Azorius,Brian H
+2,0,4c no red,David O
+2,0,Grixis,Eric K
+1,1,Esper,Thana
+1,1,Gruul,Collin
+0,2,Dimir,David K
+0,2,Izzet,Nathan
+2,0,5c,Collin
+2,0,Temur,Clayton
+1,1,Dimir,Noah
+1,1,Azorius,Grant
+1,1,Boros,Eric K
+1,1,4c no white,Jim
+0,2,Azorius,Ivan
+0,2,Dimir,Adam
