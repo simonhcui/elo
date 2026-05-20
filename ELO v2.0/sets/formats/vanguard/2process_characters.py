@@ -20,7 +20,7 @@ INACTIVE_CHARACTERS = [
     "Sidar Kondo",
     "Sliver Queen Brood Mother",
     "Teysa Orzhov Scion",
-    "Sakashima the Impostor",
+    # "Sakashima the Impostor",
     "Greven il-Vec",
     "Starke"
     # "Mishra",

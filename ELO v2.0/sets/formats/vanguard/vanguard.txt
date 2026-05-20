@@ -139,7 +139,7 @@
 1,1,Dauntless Escort,Thana
 1,1,Selenia,Collin
 1,1,Maraxus,Luke
-1,1,Sakashima,David K
+1,1,Sakashima the Impostor,David K
 0,2,Serra,Jim
 0,2,Ertai,Stephen
 2,0,Mishra,Clayton

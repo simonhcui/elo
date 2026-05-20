@@ -58,27 +58,20 @@
     },
     {
       "rank": "9",
-      "name": "Sakashima the Impostor",
-      "win_percentage": "33.33%",
-      "wins_losses": "1-2",
-      "total_drafts": "2"
-    },
-    {
-      "rank": "10",
       "name": "Starke",
       "win_percentage": "16.67%",
       "wins_losses": "1-5",
       "total_drafts": "3"
     },
     {
-      "rank": "11",
+      "rank": "10",
       "name": "Gerrard",
       "win_percentage": "0.00%",
       "wins_losses": "0-4",
       "total_drafts": "2"
     },
     {
-      "rank": "12",
+      "rank": "11",
       "name": "Greven il-Vec",
       "win_percentage": "0.00%",
       "wins_losses": "0-6",
