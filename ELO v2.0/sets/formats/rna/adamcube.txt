@@ -1,0 +1,70 @@
+2,0,Simic,Clayton
+2,0,Esper,Matt Y
+2,1,Orzhov,Simon
+2,1,Mardu,Juwan
+1,2,Simic,Angga
+1,2,Gruul,Evan S
+0,2,Azorius,Karen
+0,2,Abzan,Chris K
+2,0,Bant,Matt Y
+2,0,Orzhov,Juwan
+2,1,Gruul,Eric
+1,1,Esper,Simon
+1,1,Esper,Karen
+1,2,Temur,Evan S
+0,2,Rakdos,Julio
+0,2,4c no blue,Patrick R
+3,0,Orzhov,Juwan
+2,1,Bant,Bastion
+2,1,Orzhov,David K
+2,1,Mardu,Karen
+1,2,Simic,Patrick R
+1,2,Rakdos,Charles
+1,2,Bant,Julio
+0,3,4c no black,Danica
+3,0,Orzhov,Karen
+2,1,Simic,Michael D
+2,1,Azorius,Juwan
+2,1,Bant,Alice
+1,2,Jund,Todd
+1,2,Simic,Mike
+1,2,Orzhov,Patrick R
+0,3,Gruul,Judre
+1,0,Azorius,Simon
+1,0,Gruul,Juwan
+1,0,Orzhov,Matt Y
+1,0,Rakdos,John K
+0,1,4c no green,Clayton
+0,1,Rakdos,Michael D
+0,1,Orzhov,Chris A
+0,1,Bant,Tony
+2,0,Simic,Chris A
+2,0,Rakdos,Jacob
+1,0,Mardu,Matt Y
+0,1,Esper,Juwan
+0,2,Azorius,Grant
+0,2,Temur,Simon
+1,0,Esper,Matt Y
+1,0,Simic,Chris A
+1,0,Orzhov,Jacob
+1,0,Rakdos,Todd
+0,1,4c no green,Simon
+0,1,Rakdos,Marco
+0,1,Temur,Travis
+0,1,Gruul,John K
+2,0,Esper,Grant
+2,0,Simic,Alan
+1,1,Mardu,Evan S
+1,1,Temur,Luca
+1,1,Gruul,Jacob
+0,1,Azorius,Stephen
+0,1,Esper,Adam
+0,2,Esper,Ben
+2,0,Azorius,Clayton
+2,0,Gruul,Karen
+1,1,Mardu,Matt Y
+1,1,4c no black,Noah
+1,1,Simic,Tony
+1,1,Azorius,Nathan
+0,2,Rakdos,Eric K
+0,2,Esper,Felix
