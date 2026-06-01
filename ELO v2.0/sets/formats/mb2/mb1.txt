@@ -503,3 +503,19 @@
 1,1,Dimir,Winston
 0,1,Dimir,Chris A
 0,1,Selesnya,Christiaan
+2,0,Sultai,Clayton
+2,0,Selesnya,Noah
+1,1,Esper,Nathan
+1,1,Esper,Luke
+1,1,Golgari,John C
+1,1,Golgari,Tony
+0,2,Mono R,Zoe
+0,2,4c no blue,Eric K
+2,0,Selesnya,Nathan
+2,0,Boros,Eric K
+1,1,Jund,Reece
+1,1,Izzet,Thana
+1,1,Rakdos,Nick D
+1,1,Simic,Luke
+0,2,Dimir,Noah
+0,2,Sultai,David K

@@ -144,3 +144,11 @@
 1,1,Boros,David K
 0,2,Simic,Stephen
 0,2,Esper,Luke
+2,0,Rakdos,Noah
+2,0,Sultai,Clayton
+1,1,Dimir,Eric K
+1,1,Selesnya,Nathan
+1,1,Orzhov,Tony
+1,1,Dimir,Thana
+0,2,Naya,Zoe
+0,2,Orzhov,Kevin S
