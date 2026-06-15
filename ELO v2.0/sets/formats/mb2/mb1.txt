@@ -519,3 +519,29 @@
 1,1,Simic,Luke
 0,2,Dimir,Noah
 0,2,Sultai,David K
+2,0,Bant,Nick D
+2,0,Esper,Collin
+1,1,Selesnya,Chris A
+1,1,Simic,Noah
+1,1,Naya,Nathan
+1,1,Mono B,Eric K
+0,2,Mardu,Buncha
+0,2,Jeskai,Luke
+2,0,Gruul,Collin
+2,0,Rakdos,Nathan
+1,1,Selesnya,Nick D
+1,1,Selesnya,Luke
+0,2,Azorius,Eric K
+0,2,Simic,Buncha
+2,0,Orzhov,Nathan
+1,1,Golgari,Noah
+1,1,Temur,Thana
+1,1,Boros,Simon
+1,1,Izzet,Eric K
+0,2,Dimir,Clayton
+2,0,Jund,Clayton
+2,0,Selesnya,Nathan
+1,1,Dimir,Thana
+1,1,Azorius,Noah
+0,2,Mardu,Simon
+0,2,Boros,Eric K

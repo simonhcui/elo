@@ -149,3 +149,31 @@
 0,2,Boros,Noah
 0,2,Boros,Matt Y
 0,2,Selesnya,David K
+2,0,Sultai,Nick D
+2,0,5c,Clayton
+1,1,Boros,Nathan
+1,1,Simic,Matt Y
+0,2,Selesnya,David K
+0,2,Orzhov,Thana
+2,0,Rakdos,Nathan
+2,0,Sultai,Clayton
+1,1,Golgari,Simon
+1,1,Bant,Matt Y
+0,2,Boros,Thana
+0,2,Sultai,David K
+2,0,Gruul,Thana
+1,1,Selesnya,Winston
+1,0,Sultai,Matt Y
+1,1,Bant,Clayton
+1,1,Orzhov,Stephen
+1,1,Dimir,Juwan
+0,2,Boros,Todd
+0,2,Rakdos,David K
+2,0,Izzet,Juwan
+2,0,5c,Clayton
+1,1,Dimir,Winston
+1,1,Simic,David K
+1,1,Orzhov,Thana
+0,1,Selesnya,Matt Y
+0,1,Esper,Stephen
+0,2,Bant,Todd

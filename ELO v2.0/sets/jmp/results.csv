@@ -21,4 +21,17 @@ Simon,Nathan,0
 Thana,Clayton,1
 David K,Nathan,0
 
+Adam,Collin,1,TLA,6-11-2026
+Thana,Simon,1
+Clayton,Nathan,1
+Simon,Thana,0
+
+Thana,Simon,0,TLA,6-12-2026
+Clayton,Eric K,0
+Thana,Simon,0
+Clayton,Eric K,1
+
+Nathan,Luke,0,TLA,6-13-2026
+Ethan,Thana,0
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024

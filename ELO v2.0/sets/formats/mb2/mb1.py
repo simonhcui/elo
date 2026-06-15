@@ -127,6 +127,8 @@ def color_dictionary(cd, archetype, wins, rounds):
         add_blue(cd, wins, rounds)
     if(archetype == 'Mono W'):
         add_white(cd, wins, rounds)
+    if(archetype == 'Mono R'):
+        add_red(cd, wins, rounds)
 
 
 f1 = open("mb1.txt", "r")
