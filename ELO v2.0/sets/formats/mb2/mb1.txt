@@ -545,3 +545,19 @@
 1,1,Azorius,Noah
 0,2,Mardu,Simon
 0,2,Boros,Eric K
+2,0,Orzhov,Nathan
+2,0,Rakdos,Noah
+1,1,Gruul,Clayton
+1,1,Jeskai,Tony
+1,1,Orzhov,Luke
+1,1,Gruul,Nick D
+0,2,Esper,Thana
+0,2,Dimir,Simon
+2,0,Abzan,Nathan
+2,0,Azorius,Noah
+1,1,Izzet,Clayton
+1,1,Golgari,Nick D
+1,1,Azorius,Ethan
+1,1,Jund,Luke
+0,2,Selesnya,Thana
+0,2,Grixis,Tony

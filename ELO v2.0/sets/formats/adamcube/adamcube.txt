@@ -184,3 +184,13 @@
 0,1,Grixis,Felix
 0,2,Dimir,Collin
 0,2,Orzhov,Eric K
+2,0,Rakdos,Nathan
+2,0,Grixis,Eric K
+1,1,Abzan,Clayton
+1,1,5c,Collin
+1,1,Izzet,Daniel
+1,1,Simic,Noah
+1,1,Abzan,Grant
+1,1,Rakdos,Adam
+0,2,Simic,Jacob
+0,2,Mardu,Felix

@@ -1,0 +1,18 @@
+1   Selesnya        66.67%   Out of 5 drafts
+2   Abzan           64.71%   Out of 8 drafts
+3   Rakdos          60.78%   Out of 21 drafts
+4   Golgari         58.33%   Out of 6 drafts
+5   Grixis          57.89%   Out of 10 drafts
+6   Boros           56.25%   Out of 14 drafts
+7   Izzet           54.55%   Out of 13 drafts
+8   4c no blue      53.85%   Out of 6 drafts
+9   Jeskai          50.0%   Out of 7 drafts
+10  Orzhov          46.43%   Out of 12 drafts
+11  Esper           44.44%   Out of 8 drafts
+12  Simic           44.44%   Out of 5 drafts
+13  Sultai          43.75%   Out of 13 drafts
+14  Azorius         41.67%   Out of 15 drafts
+15  5c              40.91%   Out of 9 drafts
+16  Temur           40.0%   Out of 9 drafts
+17  Dimir           38.46%   Out of 6 drafts
+18  Mardu           30.43%   Out of 10 drafts

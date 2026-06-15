@@ -23,7 +23,7 @@ Alice,David O,0
 Simon,Juwan,0
 Nick C,Brian H,1
 
-Juwan,Angga,1,Adam Cube,4-13-23
+Juwan,Angga,1,Adam Cube,4-13-2023
 Adam,Brian H,1
 Brian M,Khang,1
 Khang,Brian H,0
@@ -32,7 +32,7 @@ Angga,Adam,0
 Angga,Brian M,1
 Juwan,Adam,0
 
-Simon,John K,1,Adam Cube,5-20-23
+Simon,John K,1,Adam Cube,5-20-2023
 Andrew,Juwan,0
 Nick R,Brian M,0
 Evan S,Luca,1
@@ -45,7 +45,7 @@ Juwan,Evan S,0
 Luca,Andrew,1
 Nick R,John K,0
 
-Simon,Evan S,1,Adam Cube,5-20-23
+Simon,Evan S,1,Adam Cube,5-20-2023
 Evan K,Andrew,0
 Luca,Nick R,0
 Tim,Brian M,1
@@ -57,7 +57,7 @@ Andrew,Nick R,0
 Tim,Simon,1
 Evan S,Brian M,1
 
-Simon,David O,0,Adam Cube,6-24-23
+Simon,David O,0,Adam Cube,6-24-2023
 Jacob,Juwan,0
 Brian M,John K,1
 Alice,Khang,1
@@ -69,7 +69,7 @@ John K,Jacob,1
 Alice,David O,1
 Juwan,Brian M,0
 
-Simon,Adam,0,Adam Cube,6-24-23
+Simon,Adam,0,Adam Cube,6-24-2023
 Khang,John K,1
 David O,Brian M,1
 Simon,John K,1
@@ -117,7 +117,7 @@ Chris A,Juwan,1
 Simon,Adam,1
 Luca,Stephen,0
 
-Simon,Chris A,0,Adam Cube,9-19-24
+Simon,Chris A,0,Adam Cube,9-19-2024
 Stephen,Alan,0
 John K,Sonny,0
 Clayton,Brian M,1
@@ -233,5 +233,16 @@ Grant,Clayton,0
 Noah,Luke,1
 Jim,Collin,1
 Adam,Eric K,1
+
+Adam,Jacob,1,Adam Cube,6-11-2026
+Noah,Grant,1
+Nathan,Clayton,1
+Collin,Felix,1
+Eric K,Daniel,1
+Adam,Nathan,0
+Collin,Clayton,0
+Noah,Eric K,0
+Felix,Grant,0
+Jacob,Daniel,0
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
