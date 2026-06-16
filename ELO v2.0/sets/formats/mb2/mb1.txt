@@ -539,7 +539,7 @@
 1,1,Boros,Simon
 1,1,Izzet,Eric K
 0,2,Dimir,Clayton
-2,0,Jund,Clayton
+2,0,4c no white,Clayton
 2,0,Selesnya,Nathan
 1,1,Dimir,Thana
 1,1,Azorius,Noah
