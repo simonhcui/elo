@@ -2055,23 +2055,23 @@ Winston,Alberto,1
 Tony,Andrew D,0
 
 Ben,Juwan,1,M20,3-28-2024
-Patrick H,Laurence,1
+Patrick H,Lawrence,1
 Nick D,Alberto,1
 Evan S,Jacob,0
 Clayton,Alan,1
 Evan S,Alan,0
 Patrick H,Jacob,1
-Laurence,Alberto,0
+Lawrence,Alberto,0
 Clayton,Juwan,1
 Ben,Nick D,1
 
 Alberto,Patrick H,1,TSR,3-28-2024
-Laurence,Tony,1
+Lawrence,Tony,1
 Clayton,Jacob,1
 Evan S,Juwan,0
 Alan,Nick D,1
 Clayton,Alberto,1
-Alan,Laurence,0
+Alan,Lawrence,0
 Patrick H,Juwan,1
 Nick D,Tony,0
 
@@ -4184,7 +4184,7 @@ Walski,Ken,1
 Tony,Zane,1
 
 Jared,Eric K,1,Chaos,6-5-2025
-Mike,David,1
+Mike,David E,1
 Aaron,Stephen,0
 Mike,Stephen,0
 Aaron,Eric K,0
@@ -5018,14 +5018,14 @@ David O,Noah,1
 Eric C,Luis,0,Chaos,10-9-2025
 Travis,Marco,1
 Stephen,Chris A,0
-Kevin,Aaron,1
-Kevin,Travis,1
+Kevin S,Aaron,1
+Kevin S,Travis,1
 Aaron,Marco,1
 Luis,Chris A,1
 Eric C,Stephen,1
 
 Eric C,Chris A,1,Chaos,10-9-2025
-Kevin,Travis,1
+Kevin S,Travis,1
 Luis,Tony,1
 Marco,Stephen,1
 Eric C,Luis,0
@@ -5382,7 +5382,7 @@ Tony,Noah,0
 Thana,Clayton,0
 
 Zane,Tony,0,Chaos,12-13-2025
-Will,Kevin,1
+Will,Kevin S,1
 Walski,Luis,1
 Stephen,Andrew D,1
 Walski,Tony,1
@@ -5462,7 +5462,7 @@ Evan S,Luis,0
 Thana,Walski,0
 Collin,Clayton,1
 Simon,Evan S,0
-Kevin,Luis,0
+Kevin S,Luis,0
 
 Kevin S,Sonny,1,Chaos,12-18-2025
 Luis,Mike,0
@@ -5867,7 +5867,7 @@ Walski,Thana,0
 Collin,Grant,1,Noah Cube,2-19-2026
 Jacob,Noah,1
 Clayton,Eric K,1
-Collin,Sadforce,1
+Collin,David K,1
 Eric K,Noah,1
 Clayton,Jacob,1
 Grant,Alex M,1

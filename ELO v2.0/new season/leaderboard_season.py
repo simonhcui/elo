@@ -7,8 +7,8 @@ from collections import defaultdict
 WIN_POINTS = 20
 LOSS_POINTS = -15
 
-INPUT_FILE = "results.csv"
-OUTPUT_FILE = "leaderboard.csv"
+INPUT_FILE = "results_season.csv"
+OUTPUT_FILE = "leaderboard_season.csv"
 
 
 def main():
