@@ -92,6 +92,61 @@ def get_rank_name(points):
     else:
         return "mythic"
 
+# =========================
+# XP Logic
+# =========================
+
+# Manual XP rewards
+BONUS_XP = {
+    'Nick D': 575,
+    'Juwan': 175,
+    'Matt Y': 400,
+    'Evan S': 225,
+    'Tony': 500,
+    'Clayton': 900,
+    'Chris A': 425,
+    'Alberto': 225,
+    'Alan': 350,
+    'Noah': 350,
+    'Eric K': 375,
+    'John K': 100,
+    'Jacob': 300,
+    'Sonny': 100,
+    'Walski': 400,
+    'Stephen': 25,
+    'Kevin S': 300,
+    'Marco': 250,
+    'Adam': 75,
+    'Luis': 275,
+    'Collin': 75,
+    'Nathan': 100,
+    'Jim': 25
+}
+
+def get_level_name(total_xp):
+    if total_xp < 160:
+        return "Prodigy"
+    elif total_xp < 220:
+        return "Apprentice"
+    elif total_xp < 300:
+        return "TaskMage"
+    elif total_xp < 400:
+        return "Adept"
+    elif total_xp < 540:
+        return "Spellshaper"
+    elif total_xp < 720:
+        return "Guildmage"
+    elif total_xp < 960:
+        return "Invoker"
+    elif total_xp < 1280:
+        return "Sorcerer"
+    elif total_xp < 1720:
+        return "Battlemage"
+    elif total_xp < 2300:
+        return "Archmage"
+    else:
+        return "Archmage"
+
 
 # =========================
 # Main
@@ -225,8 +280,22 @@ def main():
         if len(drafts[player]) < 40:
             continue
 
+        # --------------------------------
+        # XP
+        # --------------------------------
+
         w = wins[player]
         l = losses[player]
+
+        draft_count = len(drafts[player])
+
+        stats_xp = (w * 3) + draft_count
+        bonus_xp = BONUS_XP.get(player, 0)
+
+        total_xp = stats_xp + bonus_xp
+
+        level_name = get_level_name(total_xp)
+        
 
         games = w + l
 
@@ -240,6 +309,7 @@ def main():
             "wins": w,
             "losses": l,
             "rank": f"/images/rank/{rank_name}.jpg",
+            "level": f"/images/planeswalker/{level_name}.jpg",
             "total_drafts": len(drafts[player]),
             "elo": ratings[player],
             "last_set": last_set.get(player, ""),
@@ -261,6 +331,7 @@ def main():
 
         output.append({
             "standing": str(standing),
+            "level": player["level"],
             "rank": player["rank"],
             "name": player["name"],
             "win_percentage": f"{player['win_percentage_value']:.2f}%",

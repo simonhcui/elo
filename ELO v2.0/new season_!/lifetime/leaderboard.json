@@ -1,6 +1,7 @@
 [
     {
         "standing": "1",
+        "level": "/images/planeswalker/Invoker.jpg",
         "rank": "/images/rank/plat_4.jpg",
         "name": "Luis",
         "win_percentage": "70.56%",
@@ -12,6 +13,7 @@
     },
     {
         "standing": "2",
+        "level": "/images/planeswalker/Archmage.jpg",
         "rank": "/images/rank/mythic.jpg",
         "name": "Clayton",
         "win_percentage": "69.18%",
@@ -23,6 +25,7 @@
     },
     {
         "standing": "3",
+        "level": "/images/planeswalker/Invoker.jpg",
         "rank": "/images/rank/gold_1.jpg",
         "name": "Alan",
         "win_percentage": "66.51%",
@@ -34,6 +37,7 @@
     },
     {
         "standing": "4",
+        "level": "/images/planeswalker/Battlemage.jpg",
         "rank": "/images/rank/diamond_2.jpg",
         "name": "Nick D",
         "win_percentage": "65.60%",
@@ -45,6 +49,7 @@
     },
     {
         "standing": "5",
+        "level": "/images/planeswalker/Guildmage.jpg",
         "rank": "/images/rank/silver_1.jpg",
         "name": "Alberto",
         "win_percentage": "64.49%",
@@ -56,6 +61,7 @@
     },
     {
         "standing": "6",
+        "level": "/images/planeswalker/Battlemage.jpg",
         "rank": "/images/rank/mythic.jpg",
         "name": "Tony",
         "win_percentage": "62.42%",
@@ -67,6 +73,7 @@
     },
     {
         "standing": "7",
+        "level": "/images/planeswalker/Battlemage.jpg",
         "rank": "/images/rank/diamond_2.jpg",
         "name": "Matt Y",
         "win_percentage": "60.63%",
@@ -78,6 +85,7 @@
     },
     {
         "standing": "8",
+        "level": "/images/planeswalker/Battlemage.jpg",
         "rank": "/images/rank/diamond_4.jpg",
         "name": "Noah",
         "win_percentage": "58.88%",
@@ -89,6 +97,7 @@
     },
     {
         "standing": "9",
+        "level": "/images/planeswalker/Guildmage.jpg",
         "rank": "/images/rank/silver_2.jpg",
         "name": "Evan S",
         "win_percentage": "58.68%",
@@ -100,6 +109,7 @@
     },
     {
         "standing": "10",
+        "level": "/images/planeswalker/Battlemage.jpg",
         "rank": "/images/rank/diamond_3.jpg",
         "name": "Eric K",
         "win_percentage": "58.59%",
@@ -111,6 +121,7 @@
     },
     {
         "standing": "11",
+        "level": "/images/planeswalker/Battlemage.jpg",
         "rank": "/images/rank/plat_2.jpg",
         "name": "Walski",
         "win_percentage": "58.48%",
@@ -122,6 +133,7 @@
     },
     {
         "standing": "12",
+        "level": "/images/planeswalker/Archmage.jpg",
         "rank": "/images/rank/mythic.jpg",
         "name": "Chris A",
         "win_percentage": "58.06%",
@@ -133,6 +145,7 @@
     },
     {
         "standing": "13",
+        "level": "/images/planeswalker/Spellshaper.jpg",
         "rank": "/images/rank/gold_4.jpg",
         "name": "David O",
         "win_percentage": "57.64%",
@@ -144,6 +157,7 @@
     },
     {
         "standing": "14",
+        "level": "/images/planeswalker/Spellshaper.jpg",
         "rank": "/images/rank/silver_3.jpg",
         "name": "Nathan",
         "win_percentage": "56.82%",
@@ -155,6 +169,7 @@
     },
     {
         "standing": "15",
+        "level": "/images/planeswalker/TaskMage.jpg",
         "rank": "/images/rank/bronze_1.jpg",
         "name": "Aaron",
         "win_percentage": "56.44%",
@@ -166,6 +181,7 @@
     },
     {
         "standing": "16",
+        "level": "/images/planeswalker/Sorcerer.jpg",
         "rank": "/images/rank/plat_3.jpg",
         "name": "Adam",
         "win_percentage": "54.20%",
@@ -177,6 +193,7 @@
     },
     {
         "standing": "17",
+        "level": "/images/planeswalker/Invoker.jpg",
         "rank": "/images/rank/gold_4.jpg",
         "name": "Collin",
         "win_percentage": "52.79%",
@@ -188,6 +205,7 @@
     },
     {
         "standing": "18",
+        "level": "/images/planeswalker/Invoker.jpg",
         "rank": "/images/rank/silver_2.jpg",
         "name": "Juwan",
         "win_percentage": "51.86%",
@@ -199,6 +217,7 @@
     },
     {
         "standing": "19",
+        "level": "/images/planeswalker/Apprentice.jpg",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Patrick H",
         "win_percentage": "51.65%",
@@ -210,6 +229,7 @@
     },
     {
         "standing": "20",
+        "level": "/images/planeswalker/TaskMage.jpg",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Frank",
         "win_percentage": "50.79%",
@@ -221,6 +241,7 @@
     },
     {
         "standing": "21",
+        "level": "/images/planeswalker/Invoker.jpg",
         "rank": "/images/rank/silver_3.jpg",
         "name": "Sonny",
         "win_percentage": "50.46%",
@@ -232,6 +253,7 @@
     },
     {
         "standing": "22",
+        "level": "/images/planeswalker/Sorcerer.jpg",
         "rank": "/images/rank/silver_3.jpg",
         "name": "Simon",
         "win_percentage": "46.59%",
@@ -243,6 +265,7 @@
     },
     {
         "standing": "23",
+        "level": "/images/planeswalker/Apprentice.jpg",
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Luca",
         "win_percentage": "46.55%",
@@ -254,6 +277,7 @@
     },
     {
         "standing": "24",
+        "level": "/images/planeswalker/Adept.jpg",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Todd",
         "win_percentage": "46.51%",
@@ -265,6 +289,7 @@
     },
     {
         "standing": "25",
+        "level": "/images/planeswalker/Invoker.jpg",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Kevin S",
         "win_percentage": "46.40%",
@@ -276,6 +301,7 @@
     },
     {
         "standing": "26",
+        "level": "/images/planeswalker/Apprentice.jpg",
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Ana",
         "win_percentage": "46.32%",
@@ -287,6 +313,7 @@
     },
     {
         "standing": "27",
+        "level": "/images/planeswalker/Spellshaper.jpg",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Zane",
         "win_percentage": "46.09%",
@@ -298,6 +325,7 @@
     },
     {
         "standing": "28",
+        "level": "/images/planeswalker/Adept.jpg",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Andrew D",
         "win_percentage": "46.04%",
@@ -309,6 +337,7 @@
     },
     {
         "standing": "29",
+        "level": "/images/planeswalker/Guildmage.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Thana",
         "win_percentage": "42.69%",
@@ -320,6 +349,7 @@
     },
     {
         "standing": "30",
+        "level": "/images/planeswalker/Guildmage.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Stephen",
         "win_percentage": "41.27%",
@@ -331,6 +361,7 @@
     },
     {
         "standing": "31",
+        "level": "/images/planeswalker/Spellshaper.jpg",
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Luke",
         "win_percentage": "39.71%",
@@ -342,6 +373,7 @@
     },
     {
         "standing": "32",
+        "level": "/images/planeswalker/Prodigy.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Mike",
         "win_percentage": "37.36%",
@@ -353,6 +385,7 @@
     },
     {
         "standing": "33",
+        "level": "/images/planeswalker/Prodigy.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Nick C",
         "win_percentage": "35.05%",
@@ -364,6 +397,7 @@
     },
     {
         "standing": "34",
+        "level": "/images/planeswalker/Guildmage.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "John K",
         "win_percentage": "30.40%",
@@ -375,6 +409,7 @@
     },
     {
         "standing": "35",
+        "level": "/images/planeswalker/Invoker.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Jacob",
         "win_percentage": "29.00%",
@@ -386,6 +421,7 @@
     },
     {
         "standing": "36",
+        "level": "/images/planeswalker/TaskMage.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Travis",
         "win_percentage": "28.79%",
@@ -397,6 +433,7 @@
     },
     {
         "standing": "37",
+        "level": "/images/planeswalker/Spellshaper.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Marco",
         "win_percentage": "21.84%",
@@ -408,6 +445,7 @@
     },
     {
         "standing": "38",
+        "level": "/images/planeswalker/Prodigy.jpg",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "David K",
         "win_percentage": "17.92%",
