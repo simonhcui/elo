@@ -1,0 +1,25 @@
+{
+  "formatData": [
+    {
+      "Format": "Chaos",
+      "Win %": "20.00%",
+      "Record": "5-20",
+      "Drafts": "13",
+      "Glicko": "1347 ± 99"
+    },
+    {
+      "Format": "FIN",
+      "Win %": "0.00%",
+      "Record": "0-5",
+      "Drafts": "4",
+      "Glicko": "1213 ± 182"
+    },
+    {
+      "Format": "MH1",
+      "Win %": "20.00%",
+      "Record": "3-12",
+      "Drafts": "8",
+      "Glicko": "1299 ± 116"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[
+    {
+        "Format": "2X2",
+        "Win %": "44.44%",
+        "Record": "8-10",
+        "Drafts": "8",
+        "Glicko": "1532 ± 106"
+    },
+    {
+        "Format": "Adam Cube",
+        "Win %": "17.65%",
+        "Record": "3-14",
+        "Drafts": "8",
+        "Glicko": "1253 ± 118"
+    },
+    {
+        "Format": "Chaos",
+        "Win %": "29.36%",
+        "Record": "32-77",
+        "Drafts": "57",
+        "Glicko": "1446 ± 66"
+    },
+    {
+        "Format": "Collin Cube",
+        "Win %": "0.00%",
+        "Record": "0-6",
+        "Drafts": "3",
+        "Glicko": "1153 ± 184"
+    },
+    {
+        "Format": "DMR",
+        "Win %": "17.39%",
+        "Record": "4-19",
+        "Drafts": "9",
+        "Glicko": "1283 ± 111"
+    },
+    {
+        "Format": "FIN",
+        "Win %": "30.00%",
+        "Record": "3-7",
+        "Drafts": "5",
+        "Glicko": "1393 ± 122"
+    },
+    {
+        "Format": "John Cube",
+        "Win %": "25.00%",
+        "Record": "2-6",
+        "Drafts": "4",
+        "Glicko": "1285 ± 153"
+    },
+    {
+        "Format": "MB1",
+        "Win %": "30.77%",
+        "Record": "4-9",
+        "Drafts": "6",
+        "Glicko": "1347 ± 136"
+    },
+    {
+        "Format": "MB2",
+        "Win %": "33.33%",
+        "Record": "4-8",
+        "Drafts": "7",
+        "Glicko": "1411 ± 116"
+    },
+    {
+        "Format": "MH2",
+        "Win %": "10.00%",
+        "Record": "1-9",
+        "Drafts": "6",
+        "Glicko": "1192 ± 146"
+    },
+    {
+        "Format": "MH3",
+        "Win %": "14.81%",
+        "Record": "4-23",
+        "Drafts": "13",
+        "Glicko": "1272 ± 118"
+    },
+    {
+        "Format": "NEO",
+        "Win %": "14.29%",
+        "Record": "1-6",
+        "Drafts": "3",
+        "Glicko": "1188 ± 154"
+    },
+    {
+        "Format": "Noah Cube",
+        "Win %": "60.00%",
+        "Record": "3-2",
+        "Drafts": "3",
+        "Glicko": "1616 ± 162"
+    },
+    {
+        "Format": "RNA",
+        "Win %": "66.67%",
+        "Record": "4-2",
+        "Drafts": "4",
+        "Glicko": "1682 ± 175"
+    },
+    {
+        "Format": "TSR",
+        "Win %": "33.33%",
+        "Record": "2-4",
+        "Drafts": "3",
+        "Glicko": "1480 ± 172"
+    }
+]

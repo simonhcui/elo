@@ -1,0 +1,18 @@
+{
+  "formatData": [
+    {
+      "Format": "2X2",
+      "Win %": "40.91%",
+      "Record": "9-13",
+      "Drafts": "8",
+      "Glicko": "1443 ± 108"
+    },
+    {
+      "Format": "RNA",
+      "Win %": "22.22%",
+      "Record": "2-7",
+      "Drafts": "3",
+      "Glicko": "1223 ± 149"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatData": [
+    {
+      "Format": "Adam Cube",
+      "Win %": "44.44%",
+      "Record": "4-5",
+      "Drafts": "5",
+      "Glicko": "1539 ± 140"
+    },
+    {
+      "Format": "Collin Cube",
+      "Win %": "37.50%",
+      "Record": "3-5",
+      "Drafts": "4",
+      "Glicko": "1413 ± 144"
+    }
+  ]
+}

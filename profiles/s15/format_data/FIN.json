@@ -1,0 +1,282 @@
+[
+  {
+    "rank": "1",
+    "name": "Charles",
+    "win_percentage": "83.33%",
+    "wins_losses": "5-1",
+    "total_drafts": "3",
+    "glicko": "1826 ± 194",
+    "gxe": "76.14%",
+    "last_date": "9-11-2025"
+  },
+  {
+    "rank": "2",
+    "name": "Nick D",
+    "win_percentage": "80.00%",
+    "wins_losses": "4-1",
+    "total_drafts": "3",
+    "glicko": "1756 ± 168",
+    "gxe": "71.65%",
+    "last_date": "3-6-2026"
+  },
+  {
+    "rank": "3",
+    "name": "Maxime",
+    "win_percentage": "71.43%",
+    "wins_losses": "5-2",
+    "total_drafts": "3",
+    "glicko": "1725 ± 149",
+    "gxe": "69.56%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "4",
+    "name": "Clayton",
+    "win_percentage": "70.21%",
+    "wins_losses": "33-14",
+    "total_drafts": "22",
+    "glicko": "1691 ± 76",
+    "gxe": "67.43%",
+    "last_date": "4-3-2026"
+  },
+  {
+    "rank": "5",
+    "name": "Jim",
+    "win_percentage": "69.23%",
+    "wins_losses": "9-4",
+    "total_drafts": "6",
+    "glicko": "1804 ± 119",
+    "gxe": "75.66%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "6",
+    "name": "Tony",
+    "win_percentage": "66.67%",
+    "wins_losses": "8-4",
+    "total_drafts": "6",
+    "glicko": "1581 ± 125",
+    "gxe": "57.48%",
+    "last_date": "1-29-2026"
+  },
+  {
+    "rank": "7",
+    "name": "Simon",
+    "win_percentage": "66.67%",
+    "wins_losses": "8-4",
+    "total_drafts": "6",
+    "glicko": "1633 ± 114",
+    "gxe": "62.21%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "8",
+    "name": "Todd",
+    "win_percentage": "66.67%",
+    "wins_losses": "4-2",
+    "total_drafts": "3",
+    "glicko": "1573 ± 166",
+    "gxe": "56.58%",
+    "last_date": "7-3-2025"
+  },
+  {
+    "rank": "9",
+    "name": "Eric K",
+    "win_percentage": "64.15%",
+    "wins_losses": "34-19",
+    "total_drafts": "25",
+    "glicko": "1651 ± 72",
+    "gxe": "64.03%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "10",
+    "name": "Matt Y",
+    "win_percentage": "61.76%",
+    "wins_losses": "21-13",
+    "total_drafts": "17",
+    "glicko": "1641 ± 81",
+    "gxe": "63.04%",
+    "last_date": "3-20-2026"
+  },
+  {
+    "rank": "11",
+    "name": "Noah",
+    "win_percentage": "54.00%",
+    "wins_losses": "27-23",
+    "total_drafts": "24",
+    "glicko": "1613 ± 71",
+    "gxe": "60.62%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "12",
+    "name": "Adam",
+    "win_percentage": "50.00%",
+    "wins_losses": "4-4",
+    "total_drafts": "4",
+    "glicko": "1498 ± 131",
+    "gxe": "49.81%",
+    "last_date": "1-10-2026"
+  },
+  {
+    "rank": "13",
+    "name": "Ana",
+    "win_percentage": "50.00%",
+    "wins_losses": "3-3",
+    "total_drafts": "3",
+    "glicko": "1424 ± 161",
+    "gxe": "43.13%",
+    "last_date": "12-13-2025"
+  },
+  {
+    "rank": "14",
+    "name": "Thana",
+    "win_percentage": "48.78%",
+    "wins_losses": "20-21",
+    "total_drafts": "20",
+    "glicko": "1508 ± 75",
+    "gxe": "50.80%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "15",
+    "name": "Chris A",
+    "win_percentage": "42.86%",
+    "wins_losses": "6-8",
+    "total_drafts": "7",
+    "glicko": "1480 ± 112",
+    "gxe": "48.16%",
+    "last_date": "1-29-2026"
+  },
+  {
+    "rank": "16",
+    "name": "Andrew K",
+    "win_percentage": "41.67%",
+    "wins_losses": "5-7",
+    "total_drafts": "5",
+    "glicko": "1508 ± 115",
+    "gxe": "50.72%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "17",
+    "name": "Luke",
+    "win_percentage": "40.00%",
+    "wins_losses": "10-15",
+    "total_drafts": "12",
+    "glicko": "1388 ± 89",
+    "gxe": "39.58%",
+    "last_date": "1-29-2026"
+  },
+  {
+    "rank": "18",
+    "name": "Andrew D",
+    "win_percentage": "38.46%",
+    "wins_losses": "5-8",
+    "total_drafts": "6",
+    "glicko": "1375 ± 115",
+    "gxe": "38.51%",
+    "last_date": "12-13-2025"
+  },
+  {
+    "rank": "19",
+    "name": "Marco",
+    "win_percentage": "33.33%",
+    "wins_losses": "2-4",
+    "total_drafts": "3",
+    "glicko": "1385 ± 174",
+    "gxe": "39.73%",
+    "last_date": "7-3-2025"
+  },
+  {
+    "rank": "20",
+    "name": "Eric C",
+    "win_percentage": "33.33%",
+    "wins_losses": "2-4",
+    "total_drafts": "3",
+    "glicko": "1356 ± 163",
+    "gxe": "37.23%",
+    "last_date": "10-4-2025"
+  },
+  {
+    "rank": "21",
+    "name": "Brian H",
+    "win_percentage": "33.33%",
+    "wins_losses": "2-4",
+    "total_drafts": "3",
+    "glicko": "1477 ± 151",
+    "gxe": "47.88%",
+    "last_date": "4-3-2026"
+  },
+  {
+    "rank": "22",
+    "name": "Jacob",
+    "win_percentage": "30.00%",
+    "wins_losses": "3-7",
+    "total_drafts": "5",
+    "glicko": "1393 ± 122",
+    "gxe": "40.13%",
+    "last_date": "2-12-2026"
+  },
+  {
+    "rank": "23",
+    "name": "Nathan",
+    "win_percentage": "29.41%",
+    "wins_losses": "5-12",
+    "total_drafts": "8",
+    "glicko": "1378 ± 104",
+    "gxe": "38.77%",
+    "last_date": "4-10-2026"
+  },
+  {
+    "rank": "24",
+    "name": "Travis",
+    "win_percentage": "28.57%",
+    "wins_losses": "4-10",
+    "total_drafts": "7",
+    "glicko": "1334 ± 120",
+    "gxe": "35.02%",
+    "last_date": "2-12-2026"
+  },
+  {
+    "rank": "25",
+    "name": "Stephen",
+    "win_percentage": "25.00%",
+    "wins_losses": "5-15",
+    "total_drafts": "10",
+    "glicko": "1296 ± 104",
+    "gxe": "31.68%",
+    "last_date": "12-11-2025"
+  },
+  {
+    "rank": "26",
+    "name": "Collin",
+    "win_percentage": "25.00%",
+    "wins_losses": "3-9",
+    "total_drafts": "6",
+    "glicko": "1306 ± 128",
+    "gxe": "32.71%",
+    "last_date": "11-26-2025"
+  },
+  {
+    "rank": "27",
+    "name": "David K",
+    "win_percentage": "0.00%",
+    "wins_losses": "0-5",
+    "total_drafts": "4",
+    "glicko": "1213 ± 182",
+    "gxe": "26.28%",
+    "last_date": "4-3-2026"
+  },
+  {
+    "rank": "28",
+    "name": "Juwan",
+    "win_percentage": "0.00%",
+    "wins_losses": "0-6",
+    "total_drafts": "3",
+    "glicko": "1129 ± 164",
+    "gxe": "20.59%",
+    "last_date": "2-28-2026"
+  }
+]
