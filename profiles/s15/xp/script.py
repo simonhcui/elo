@@ -27,26 +27,29 @@ def level(xp):
 def experience(player):
 
     champ_xp = {
-        'nick d': 475,
+        'nick d': 575,
         'juwan': 175,
         'matt y': 400,
         'evan s': 225,
         'tony': 500,
-        'clayton': 600,
-        'chris a': 400,
+        'clayton': 900,
+        'chris a': 425,
         'alberto': 225,
         'alan': 350,
-        'noah': 150,
-        'eric k': 325,
+        'noah': 350,
+        'eric k': 375,
         'john k': 100,
         'jacob': 300,
         'sonny': 100,
         'walski': 400,
         'stephen': 25,
-        'kevin s': 175,
-        'marco': 175,
+        'kevin s': 300,
+        'marco': 250,
         'adam': 75,
-        'luis': 250
+        'luis': 275,
+        'collin': 75,
+        'nathan': 100,
+        'jim': 25
     }
 
     played = False
