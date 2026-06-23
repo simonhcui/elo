@@ -125,22 +125,24 @@ BONUS_XP = {
 
 def get_level_name(total_xp):
     if total_xp < 160:
-        return "Prodigy"
+        return "Novice"
     elif total_xp < 220:
-        return "Apprentice"
+        return "Prodigy"
     elif total_xp < 300:
-        return "TaskMage"
+        return "Apprentice"
     elif total_xp < 400:
-        return "Adept"
+        return "TaskMage"
     elif total_xp < 540:
-        return "Spellshaper"
+        return "Adept"
     elif total_xp < 720:
-        return "Guildmage"
+        return "Spellshaper"
     elif total_xp < 960:
-        return "Invoker"
+        return "Guildmage"
     elif total_xp < 1280:
-        return "Sorcerer"
+        return "Invoker"
     elif total_xp < 1720:
+        return "Sorcerer"
+    elif total_xp < 2300:
         return "Battlemage"
     elif total_xp < 2300:
         return "Archmage"
