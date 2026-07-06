@@ -1,295 +1,40 @@
-Nathan,PlaceHolderA,0,BBD,3-28-2026
-Thana,PlaceHolderA,0
-Noah,PlaceHolderA,1
-Eric K,PlaceHolderA,1
-Simon,PlaceHolderA,1
-Meng,PlaceHolderA,1
-Alex M,PlaceHolderA,0
-David O,PlaceHolderA,0
-Simon,PlaceHolderA,1
-Meng,PlaceHolderA,1
-Eric K,PlaceHolderA,0
-Noah,PlaceHolderA,0
-Nathan,PlaceHolderA,0
-Thana,PlaceHolderA,0
-David O,PlaceHolderA,1
-Alex M,PlaceHolderA,1
-Simon,PlaceHolderA,1
-Meng,PlaceHolderA,1
-Nathan,PlaceHolderA,0
-Thana,PlaceHolderA,0
-David O,PlaceHolderA,1
-Alex M,PlaceHolderA,1
-Eric K,PlaceHolderA,0
-Noah,PlaceHolderA,0
-
-Simon,PlaceHolderA,1,BBD,3-28-2026
-Meng,PlaceHolderA,1
-Noah,PlaceHolderA,0
-Eric K,PlaceHolderA,0
-Thana,PlaceHolderA,0
-David O,PlaceHolderA,0
-Clayton,PlaceHolderA,1
-Alex M,PlaceHolderA,1
-Clayton,PlaceHolderA,0
-Alex M,PlaceHolderA,0
-Simon,PlaceHolderA,1
-Meng,PlaceHolderA,1
-Thana,PlaceHolderA,1
-David O,PlaceHolderA,1
-Noah,PlaceHolderA,0
-Eric K,PlaceHolderA,0
-Simon,PlaceHolderA,1
-Meng,PlaceHolderA,1
-David O,PlaceHolderA,0
-Thana,PlaceHolderA,0
-Clayton,PlaceHolderA,0
-Alex M,PlaceHolderA,0
-Eric K,PlaceHolderA,1
-Noah,PlaceHolderA,1
-
-Noah,Eric K,0,Noah Cube,4-4-2026
-Simon,Brian H,1
-Nathan,Clayton,0
-Noah,Clayton,0
-Simon,Eric K,1
-Nathan,Brian H,0
-Simon,Clayton,0
-Noah,Brian H,0
-Nathan,Eric K,0
-
-Collin,Thana,1,MOM,4-4-2026
-Nathan,Jim,1
-Clayton,David K,1
-Collin,Clayton,1
-Thana,Nathan,0
-Jim,David K,1
-
-Eric K,David O,1,MB2,4-11-2026
-Thana,Collin,0
-Patrick H,Chris A,0
-Nathan,Noah,0
-Thana,Nathan,0
-Collin,Noah,1
-Chris A,Eric K,0
-Patrick H,David O,0
-
-Nick D,David K,1,MH1,4-11-2026
-Juwan,Jesse Luong,0
-Stephen,Grace,1
-Nick C,Ana,0
-Nick C,Juwan,1
-Ana,Jesse Luong,1
-Stephen,Nick D,1
-Grace,David O,0
-
-Luis,Patrick P,1,Chaos,4-11-2026
-Kevin S,Rob,0
-Walski,Frank,0
-Matt H,Will,1
+Will,Kevin S,1,Chaos,7-4-2026
+Walski,Marco,0
+Chris A,Rich,1
+Patrick P,Luis,0
+Marco,Luis,0
 Walski,Patrick P,1
-Frank,Luis,0
-Kevin S,Will,1
-Rob,Matt H,1
-
-Patrick P,Walski,1,Chaos,4-11-2026
-Will,Matt H,0
-Kevin S,Rob,0
-Luis,Frank,0
-Patrick P,Rob,0
-Walski,Kevin S,0
-Will,Luis,0
-Matt H,Frank,1
-
-Jesse Luong,Nick D,0,MH1,4-11-2026
-Grace,Nick C,1
-David K,Ana,0
-Juwan,Stephen,1
-David K,Jesse Luong,0
-Ana,Nick D,0
-Grace,Juwan,1
-Nick C,Stephen,0
-
-Eric K,Collin,0,MB2,4-11-2026
-Patrick H,Thana,1
-Nathan,Chris A,1
-David O,Noah,0
-Patrick H,Noah,0
-Thana,David O,0
-Eric K,Chris A,1
-Collin,Nathan,0
-
-Luis,Kevin S,1,Chaos,4-11-2026
-Patrick P,Rob,0
-Simon,Walski,0
-Simon,Kevin S,1
-Luis,Rob,0
-Walski,Patrick P,1
-
-Thana,David K,1,Noah Cube,4-11-2026
-Collin,David O,0
-Eric K,Nathan,1
-Thana,Eric K,0
-Collin,Nathan,1
-David K,David O,0
-
-Thana,Nathan,1,Chaos,4-11-2026
-Simon,Rob,0
-Collin,Walski,1
-Thana,Collin,0
-Simon,Nathan,1
-Rob,Walski,1
-
-Chris A,Eric K,0,MB2,5-16-2026
-Clayton,Patrick H,1
-Christiaan,Winston,0
-Winston,Eric K,1
-Clayton,Christiaan,1
-Chris A,Patrick H,0
-
-Matt H,Luis,0,Chaos,5-16-2026
-Zane,Tony,1
-Rob,Walski,0
-Will,Kevin S,0
-Will,Tony,0
-Zane,Kevin S,1
-Matt H,Rob,1
-Luis,Walski,1
-
-Matt H,Will,0,Chaos,5-16-2026
-Kevin S,Walski,0
-Zane,Luis,1
-Tony,Barlow,1
-Will,Zane,1
-Luis,Matt H,1
-Kevin S,Rob,0
-Walski,Tony,0
-
-Thana,John C,0,ECL VG,5-16-2026
-Luke,Collin,0
-Jim,David O,0
-Noah,Stephen,1
-Noah,Collin,1
-Stephen,Luke,0
-Thana,Jim,1
-John C,David O,1
-
-Christiaan,Clayton,0,MB2,5-16-2026
-Winston,Eric K,0
-Winston,Chris A,1
-Eric K,Clayton,0
-
-Collin,Thana,0,Collin Cube VG,5-16-2026
-Clayton,Luke,1
-Eric K,Noah,0
-Collin,Clayton,0
-Luke,Eric K,1
-Noah,Thana,1
-
-Clayton,Chris A,1,Chaos,5-16-2026
-Eric K,Noah,0
-Collin,Luke,0
-Eric K,Collin,1
-Clayton,Noah,1
-Luke,Chris A,0
-
-Will,Luis,1,Chaos,6-6-2026
 Rich,Kevin S,0
+Will,Chris A,1
+
+Simon,Jack,1,MB2,7-4-2026
+Thana,Todd,0
+Collin,Juwan,1
+Eric K,David K,1
+Thana,Jack,1
+Collin,Simon,0
+Luke,Juwan,1
+Eric K,Todd,0
+David K,Nathan,0
+
+Patrick P,Marco,1,Chaos,7-4-2026
+Will,Kevin S,1
+Walski,Rich,1
+Chris A,Luis,0
+Marco,Rich,1
 Patrick P,Walski,0
-Walski,Will,0
-Kevin S,Luis,0
-Rich,Patrick P,0
-
-Winston,Juwan,1,MH1,6-6-2026
-Thana,Clayton,1
-Matt Y,David K,1
-Todd,Stephen,0
-Thana,Stephen,1
-Clayton,Todd,1
-David K,Juwan,0
-
-Nick D,Eric K,1,MB2,6-6-2026
-Collin,Buncha,1
-Nathan,Luke,1
-Chris A,Noah,1
-Chris A,Collin,0
-Noah,Buncha,1
-Nathan,Nick D,0
-Luke,Eric K,0
-
-Rich,Patrick P,0,Chaos,6-6-2026
-Kevin S,Walski,0
 Will,Luis,0
-Luis,Kevin S,1
-Rich,Will,0
-Walski,Patrick P,1
+Kevin S,Chris A,1
 
-Eric K,Nathan,0,MB2,6-6-2026
+Simon,Thana,0,MB2,7-4-2026
+Todd,Kian,0
 Collin,Luke,1
-Nick D,Buncha,1
-Collin,Nick D,1
-Nathan,Buncha,1
-Eric K,Luke,0
-
-Todd,Thana,0,MH1,6-6-2026
-Stephen,Winston,0
-Clayton,David K,1
-Matt Y,Juwan,0
-Todd,David K,0
-Thana,Clayton,0
-Winston,Juwan,0
-
-Kevin S,Nick D,0,Chaos,6-6-2026
-Luis,Marco,1
-Patrick P,Walski,0
-Patrick P,Kevin S,1
-Nick D,Marco,1
-Luis,Walski,0
-
-Simon,Collin,1,Felix Cube,6-6-2026
-David K,Thana,0
-Clayton,Felix,1
-Eric K,Nathan,1
-Clayton,Simon,1
-Felix,Collin,1
-Thana,Eric K,0
+Juwan,Eric K,0
 Nathan,David K,1
-
-Clayton,Nathan,1,Chaos,6-6-2026
-Patrick P,Nick D,0
-Simon,Thana,0
-Collin,Walski,1
-Nick D,Collin,1
-Walski,Patrick P,1
-Simon,Nathan,0
-Thana,Clayton,0
-
-Nathan,Simon,1,Chaos,6-6-2026
-Clayton,Patrick P,1
-Walski,Thana,1
-Nathan,Thana,0
-Clayton,Simon,0
-Walski,Patrick P,1
-Nathan,Patrick P,1
-Clayton,Thana,0
-Walski,Simon,0
-
-Nick D,Clayton,0,MB2,6-13-2026
-Luke,Thana,1
-Simon,Nathan,0
-Noah,Tony,1
-Nick D,Simon,1
-Clayton,Nathan,0
-Luke,Noah,0
-Thana,Tony,0
-
-Thana,Nathan,0,MB2,6-13-2026
-Ethan,Noah,0
-Clayton,Nick D,1
-Luke,Tony,1
-Ethan,Tony,1
-Noah,Luke,1
-Thana,Nick D,0
-Nathan,Clayton,1
+Simon,Collin,1
+Juwan,David K,0
+Eric K,Kian,1
+Nathan,Thana,1
+Luke,Todd,0
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
