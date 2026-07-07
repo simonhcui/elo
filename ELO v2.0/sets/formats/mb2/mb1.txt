@@ -561,3 +561,45 @@
 1,1,Jund,Luke
 0,2,Selesnya,Thana
 0,2,Grixis,Tony
+2,0,Grixis,Clayton
+2,0,4c no black,Noah
+1,1,Izzet,Nathan
+1,1,Selesnya,Thana
+0,2,Azorius,Nick D
+0,2,Abzan,David K
+2,0,Gruul,Nathan
+2,0,Dimir,David O
+1,1,Azorius,Zane
+1,1,Dimir,Stephen
+1,1,Azorius,Collin
+1,1,Dimir,Noah
+0,2,Abzan,Jacob
+0,2,Rakdos,Clayton
+2,0,Selesnya,Nathan
+2,0,Rakdos,Thana
+1,1,4c no green,Simon
+1,1,Boros,Noah
+1,1,Golgari,Eric K
+1,1,Boros,Andy
+0,2,Gruul,David K
+0,2,Naya,Nick D
+2,0,Temur,Todd
+2,0,Selesnya,Simon
+1,0,Rakdos,Nathan
+1,0,Azorius,Luke
+1,1,Golgari,Eric K
+1,1,Boros,Collin
+1,1,Bant,Thana
+0,2,Esper,Jack
+0,2,Golgari,David K
+0,2,Izzet,Juwan
+2,0,Boros,Nathan
+2,0,Orzhov,Eric K
+1,1,4c no red,Simon
+1,1,Simic,Collin
+1,1,Jeskai,Todd
+1,1,Dimir,Thana
+1,1,Sultai,Kian
+1,1,Rakdos,David K
+0,2,Izzet,Luke
+0,2,Abzan,Juwan

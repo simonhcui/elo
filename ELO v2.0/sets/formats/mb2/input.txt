@@ -1,23 +1,24 @@
-1   Naya            65.91%   Out of 22 drafts
-2   Abzan           65.71%   Out of 17 drafts
+1   Naya            63.04%   Out of 23 drafts
+2   Grixis          60.0%   Out of 8 drafts
 3   4c no blue      60.0%   Out of 5 drafts
-4   Selesnya        56.16%   Out of 36 drafts
-5   Orzhov          55.43%   Out of 46 drafts
-6   Jund            54.76%   Out of 21 drafts
-7   Rakdos          54.67%   Out of 37 drafts
-8   Grixis          53.85%   Out of 7 drafts
-9   Esper           53.33%   Out of 22 drafts
-10  Boros           52.56%   Out of 39 drafts
+4   Selesnya        58.23%   Out of 39 drafts
+5   Orzhov          56.38%   Out of 47 drafts
+6   Abzan           56.1%   Out of 20 drafts
+7   Rakdos          54.88%   Out of 41 drafts
+8   Boros           53.49%   Out of 43 drafts
+9   Jund            52.5%   Out of 20 drafts
+10  Esper           51.06%   Out of 23 drafts
 11  5c              50.0%   Out of 10 drafts
-12  Azorius         50.0%   Out of 40 drafts
-13  Izzet           50.0%   Out of 29 drafts
-14  Gruul           48.68%   Out of 39 drafts
-15  Dimir           48.24%   Out of 42 drafts
-16  Sultai          46.67%   Out of 15 drafts
-17  Simic           46.43%   Out of 28 drafts
-18  Mardu           46.15%   Out of 14 drafts
-19  Temur           42.86%   Out of 10 drafts
-20  Golgari         39.51%   Out of 40 drafts
-21  Bant            39.29%   Out of 14 drafts
-22  Jeskai          36.36%   Out of 11 drafts
-23  4c no black     10.0%   Out of 5 drafts
+12  4c no white     50.0%   Out of 5 drafts
+13  Dimir           49.46%   Out of 46 drafts
+14  Azorius         49.43%   Out of 44 drafts
+15  Gruul           48.75%   Out of 41 drafts
+16  Temur           47.83%   Out of 11 drafts
+17  Izzet           46.88%   Out of 32 drafts
+18  Sultai          46.88%   Out of 16 drafts
+19  Simic           46.55%   Out of 29 drafts
+20  Mardu           46.15%   Out of 14 drafts
+21  Bant            40.0%   Out of 15 drafts
+22  Golgari         39.08%   Out of 43 drafts
+23  Jeskai          37.5%   Out of 12 drafts
+24  4c no black     25.0%   Out of 6 drafts
