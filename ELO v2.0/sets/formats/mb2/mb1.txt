@@ -587,7 +587,7 @@
 2,0,Selesnya,Simon
 1,0,Rakdos,Nathan
 1,0,Azorius,Luke
-1,1,Golgari,Eric K
+1,1,Jund,Eric K
 1,1,Boros,Collin
 1,1,Bant,Thana
 0,2,Esper,Jack
