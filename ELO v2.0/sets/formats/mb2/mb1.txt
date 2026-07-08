@@ -571,7 +571,7 @@
 2,0,Dimir,David O
 1,1,Azorius,Zane
 1,1,Dimir,Stephen
-1,1,Azorius,Collin
+1,1,Esper,Collin
 1,1,Dimir,Noah
 0,2,Abzan,Jacob
 0,2,Rakdos,Clayton
