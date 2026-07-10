@@ -46,7 +46,7 @@ def transform_to_json_format(data):
     for row in data:
         try:
             num_drafts = int(row.get('Num Drafts', '0'))
-            if num_drafts > 2:
+            if num_drafts > 1:
                 filtered_data.append(row)
         except (ValueError, TypeError):
             continue
