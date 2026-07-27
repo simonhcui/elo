@@ -12,12 +12,12 @@
   {
     "rank": "2",
     "name": "Noah",
-    "win_percentage": "75.00%",
-    "wins_losses": "6-2",
-    "total_drafts": "4",
-    "glicko": "1767 ± 148",
-    "gxe": "72.75%",
-    "last_date": "11-26-2025"
+    "win_percentage": "70.00%",
+    "wins_losses": "7-3",
+    "total_drafts": "5",
+    "glicko": "1740 ± 139",
+    "gxe": "70.80%",
+    "last_date": "6-25-2026"
   },
   {
     "rank": "3",
@@ -61,16 +61,6 @@
   },
   {
     "rank": "7",
-    "name": "Clayton",
-    "win_percentage": "57.14%",
-    "wins_losses": "4-3",
-    "total_drafts": "4",
-    "glicko": "1566 ± 145",
-    "gxe": "56.08%",
-    "last_date": "11-26-2025"
-  },
-  {
-    "rank": "8",
     "name": "Tony",
     "win_percentage": "56.25%",
     "wins_losses": "9-7",
@@ -78,6 +68,16 @@
     "glicko": "1517 ± 113",
     "gxe": "51.62%",
     "last_date": "8-15-2024"
+  },
+  {
+    "rank": "8",
+    "name": "Clayton",
+    "win_percentage": "55.56%",
+    "wins_losses": "5-4",
+    "total_drafts": "5",
+    "glicko": "1548 ± 135",
+    "gxe": "54.44%",
+    "last_date": "6-25-2026"
   },
   {
     "rank": "9",

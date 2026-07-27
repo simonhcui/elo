@@ -244,3 +244,13 @@
 0,2,Rakdos,David K
 0,2,Grixis,Matt Y
 0,2,4c no blue,Zane
+2,0,4c no blue,Noah
+2,0,Grixis,Nick D
+2,0,Esper,Clayton
+1,1,Boros,Nathan
+1,1,Gruul,Simon
+1,1,Mardu,David K
+1,1,4c no red,Matt Y
+0,2,Rakdos,Andy
+0,2,Simic,Ethan
+0,2,Simic,Thana

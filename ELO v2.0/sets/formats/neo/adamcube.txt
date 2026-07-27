@@ -152,3 +152,17 @@
 1,1,Dimir,Thana
 0,2,Naya,Zoe
 0,2,Orzhov,Kevin S
+2,0,Bant,Nathan
+1,1,Orzhov,Thana
+1,1,Gruul,Eric K
+1,1,Dimir,Simon
+1,1,Orzhov,Andy
+0,2,Azorius,David K
+2,0,Simic,Clayton
+2,0,Grixis,Noah
+1,1,Rakdos,Kent
+1,1,Golgari,Felix
+1,1,Naya,Nathan
+1,1,Orzhov,Thana
+0,2,Rakdos,Zoe
+0,2,Izzet,David K

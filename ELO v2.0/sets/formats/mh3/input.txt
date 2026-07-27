@@ -1,0 +1,17 @@
+1   Dimir           70.59%   Out of 9 drafts
+2   Esper           64.71%   Out of 8 drafts
+3   Temur           64.71%   Out of 25 drafts
+4   Gruul           57.89%   Out of 8 drafts
+5   Abzan           54.55%   Out of 6 drafts
+6   4c no white     50.0%   Out of 7 drafts
+7   Jund            48.0%   Out of 14 drafts
+8   Boros           46.43%   Out of 14 drafts
+9   4c no black     46.15%   Out of 7 drafts
+10  5c              45.45%   Out of 5 drafts
+11  Izzet           44.44%   Out of 5 drafts
+12  Simic           44.44%   Out of 9 drafts
+13  Orzhov          42.86%   Out of 6 drafts
+14  Selesnya        41.18%   Out of 9 drafts
+15  Sultai          40.0%   Out of 5 drafts
+16  Rakdos          38.46%   Out of 12 drafts
+17  Jeskai          25.93%   Out of 13 drafts

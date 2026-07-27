@@ -12,25 +12,25 @@
     },
     {
         "standing": "2",
-        "rank": "/images/rank/silver_2.jpg",
-        "name": "Collin",
-        "win_percentage": "75.00%",
-        "wins_losses": "12-4",
+        "rank": "/images/rank/silver_1.jpg",
+        "name": "David O",
+        "win_percentage": "81.25%",
+        "wins_losses": "13-3",
         "total_drafts": "8",
-        "elo": "2105",
-        "last_set": "Chaos",
-        "last_date": "7-16-2026"
+        "elo": "2100",
+        "last_set": "Noah Cube",
+        "last_date": "7-23-2026"
     },
     {
         "standing": "3",
-        "rank": "/images/rank/silver_4.jpg",
-        "name": "David O",
+        "rank": "/images/rank/silver_1.jpg",
+        "name": "Collin",
         "win_percentage": "75.00%",
-        "wins_losses": "9-3",
-        "total_drafts": "6",
-        "elo": "1856",
-        "last_set": "DMU",
-        "last_date": "7-9-2026"
+        "wins_losses": "15-5",
+        "total_drafts": "10",
+        "elo": "1857",
+        "last_set": "Noah Cube",
+        "last_date": "7-23-2026"
     },
     {
         "standing": "4",
@@ -47,12 +47,12 @@
         "standing": "5",
         "rank": "/images/rank/silver_3.jpg",
         "name": "Noah",
-        "win_percentage": "65.00%",
-        "wins_losses": "13-7",
-        "total_drafts": "10",
-        "elo": "1873",
-        "last_set": "NEO",
-        "last_date": "7-16-2026"
+        "win_percentage": "63.64%",
+        "wins_losses": "14-8",
+        "total_drafts": "11",
+        "elo": "1727",
+        "last_set": "Noah Cube",
+        "last_date": "7-23-2026"
     },
     {
         "standing": "6",
@@ -67,17 +67,6 @@
     },
     {
         "standing": "7",
-        "rank": "/images/rank/silver_4.jpg",
-        "name": "Clayton",
-        "win_percentage": "62.50%",
-        "wins_losses": "10-6",
-        "total_drafts": "8",
-        "elo": "1854",
-        "last_set": "NEO",
-        "last_date": "7-16-2026"
-    },
-    {
-        "standing": "8",
         "rank": "/images/rank/silver_2.jpg",
         "name": "Nathan",
         "win_percentage": "61.54%",
@@ -88,26 +77,37 @@
         "last_date": "7-16-2026"
     },
     {
+        "standing": "8",
+        "rank": "/images/rank/silver_4.jpg",
+        "name": "Clayton",
+        "win_percentage": "60.00%",
+        "wins_losses": "12-8",
+        "total_drafts": "10",
+        "elo": "1680",
+        "last_set": "Noah Cube",
+        "last_date": "7-23-2026"
+    },
+    {
         "standing": "9",
         "rank": "/images/rank/bronze_2.jpg",
-        "name": "Eric K",
-        "win_percentage": "58.33%",
-        "wins_losses": "7-5",
-        "total_drafts": "6",
-        "elo": "1554",
-        "last_set": "DMU",
-        "last_date": "7-9-2026"
+        "name": "Thana",
+        "win_percentage": "55.00%",
+        "wins_losses": "11-9",
+        "total_drafts": "10",
+        "elo": "2090",
+        "last_set": "Noah Cube",
+        "last_date": "7-23-2026"
     },
     {
         "standing": "10",
         "rank": "/images/rank/bronze_3.jpg",
-        "name": "Thana",
+        "name": "Eric K",
         "win_percentage": "50.00%",
-        "wins_losses": "9-9",
-        "total_drafts": "9",
-        "elo": "1533",
-        "last_set": "NEO",
-        "last_date": "7-16-2026"
+        "wins_losses": "8-8",
+        "total_drafts": "8",
+        "elo": "1403",
+        "last_set": "Noah Cube",
+        "last_date": "7-23-2026"
     },
     {
         "standing": "11",
@@ -134,6 +134,17 @@
     {
         "standing": "13",
         "rank": "/images/rank/bronze_4.jpg",
+        "name": "Wesley",
+        "win_percentage": "50.00%",
+        "wins_losses": "3-3",
+        "total_drafts": "3",
+        "elo": "1312",
+        "last_set": "Collin Cube",
+        "last_date": "7-23-2026"
+    },
+    {
+        "standing": "14",
+        "rank": "/images/rank/bronze_4.jpg",
         "name": "Simon",
         "win_percentage": "40.00%",
         "wins_losses": "4-6",
@@ -143,7 +154,7 @@
         "last_date": "7-9-2026"
     },
     {
-        "standing": "14",
+        "standing": "15",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Nick D",
         "win_percentage": "37.50%",
@@ -154,7 +165,7 @@
         "last_date": "7-3-2026"
     },
     {
-        "standing": "15",
+        "standing": "16",
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Stephen",
         "win_percentage": "33.33%",
@@ -165,7 +176,7 @@
         "last_date": "7-16-2026"
     },
     {
-        "standing": "16",
+        "standing": "17",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Zoe",
         "win_percentage": "33.33%",
@@ -176,7 +187,7 @@
         "last_date": "7-16-2026"
     },
     {
-        "standing": "17",
+        "standing": "18",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Andy",
         "win_percentage": "33.33%",
@@ -187,7 +198,7 @@
         "last_date": "7-3-2026"
     },
     {
-        "standing": "18",
+        "standing": "19",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Marco",
         "win_percentage": "25.00%",
@@ -198,18 +209,18 @@
         "last_date": "7-16-2026"
     },
     {
-        "standing": "19",
+        "standing": "20",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "David K",
-        "win_percentage": "11.11%",
-        "wins_losses": "2-16",
-        "total_drafts": "9",
-        "elo": "925",
-        "last_set": "NEO",
-        "last_date": "7-16-2026"
+        "win_percentage": "9.09%",
+        "wins_losses": "2-20",
+        "total_drafts": "11",
+        "elo": "871",
+        "last_set": "Noah Cube",
+        "last_date": "7-23-2026"
     },
     {
-        "standing": "20",
+        "standing": "21",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Ethan",
         "win_percentage": "0.00%",
@@ -220,7 +231,7 @@
         "last_date": "7-16-2026"
     },
     {
-        "standing": "21",
+        "standing": "22",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Matt L",
         "win_percentage": "0.00%",
