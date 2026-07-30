@@ -1,9 +1,9 @@
 Luke,Matt L,1,Chaos,6-25-2026
-Tony,Daniel,1
+Tony,Daniel L,1
 Collin,David K,1
 Collin,Matt L,1
 Luke,Tony,0
-David K,Daniel,0
+David K,Daniel L,0
 
 Marco,Luke,0,Chaos,6-25-2026
 Thana,Stephen,1
@@ -69,10 +69,10 @@ Clayton,Sonny,0
 Nathan,Tony,0
 
 Matt L,Mike,0,Chaos,7-2-2026
-Daniel,Sonny,0
+Daniel L,Sonny,0
 Tony,Luke,1
 Luke,Mike,0
-Matt L,Daniel,0
+Matt L,Daniel L,0
 
 Matt Y,Thana,1,MH1,7-3-2026
 Noah,David K,1
