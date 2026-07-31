@@ -1,14 +1,14 @@
 [
     {
         "standing": "1",
-        "rank": "/images/rank/silver_4.jpg",
+        "rank": "/images/rank/silver_3.jpg",
         "name": "Chris A",
-        "win_percentage": "87.50%",
-        "wins_losses": "7-1",
-        "total_drafts": "4",
-        "elo": "1746",
+        "win_percentage": "83.33%",
+        "wins_losses": "10-2",
+        "total_drafts": "6",
+        "elo": "1707",
         "last_set": "Chaos",
-        "last_date": "7-16-2026"
+        "last_date": "7-30-2026"
     },
     {
         "standing": "2",
@@ -23,17 +23,6 @@
     },
     {
         "standing": "3",
-        "rank": "/images/rank/silver_1.jpg",
-        "name": "Collin",
-        "win_percentage": "75.00%",
-        "wins_losses": "15-5",
-        "total_drafts": "10",
-        "elo": "1857",
-        "last_set": "Noah Cube",
-        "last_date": "7-23-2026"
-    },
-    {
-        "standing": "4",
         "rank": "/images/rank/bronze_1.jpg",
         "name": "Matt Y",
         "win_percentage": "75.00%",
@@ -44,70 +33,81 @@
         "last_date": "7-16-2026"
     },
     {
+        "standing": "4",
+        "rank": "/images/rank/silver_1.jpg",
+        "name": "Collin",
+        "win_percentage": "70.83%",
+        "wins_losses": "17-7",
+        "total_drafts": "12",
+        "elo": "1395",
+        "last_set": "Chaos",
+        "last_date": "7-30-2026"
+    },
+    {
         "standing": "5",
-        "rank": "/images/rank/silver_3.jpg",
-        "name": "Noah",
-        "win_percentage": "63.64%",
-        "wins_losses": "14-8",
-        "total_drafts": "11",
-        "elo": "1727",
-        "last_set": "Noah Cube",
-        "last_date": "7-23-2026"
+        "rank": "/images/rank/silver_4.jpg",
+        "name": "Tony",
+        "win_percentage": "69.23%",
+        "wins_losses": "9-4",
+        "total_drafts": "7",
+        "elo": "2030",
+        "last_set": "Chaos",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "6",
-        "rank": "/images/rank/bronze_2.jpg",
-        "name": "Tony",
-        "win_percentage": "63.64%",
-        "wins_losses": "7-4",
-        "total_drafts": "6",
-        "elo": "1750",
-        "last_set": "M20",
-        "last_date": "7-16-2026"
+        "rank": "/images/rank/silver_2.jpg",
+        "name": "Noah",
+        "win_percentage": "66.67%",
+        "wins_losses": "16-8",
+        "total_drafts": "12",
+        "elo": "1942",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "7",
-        "rank": "/images/rank/silver_2.jpg",
+        "rank": "/images/rank/silver_1.jpg",
         "name": "Nathan",
-        "win_percentage": "61.54%",
-        "wins_losses": "16-10",
-        "total_drafts": "13",
-        "elo": "1667",
-        "last_set": "NEO",
-        "last_date": "7-16-2026"
+        "win_percentage": "60.00%",
+        "wins_losses": "18-12",
+        "total_drafts": "15",
+        "elo": "1804",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "8",
-        "rank": "/images/rank/silver_4.jpg",
-        "name": "Clayton",
-        "win_percentage": "60.00%",
-        "wins_losses": "12-8",
-        "total_drafts": "10",
-        "elo": "1680",
-        "last_set": "Noah Cube",
-        "last_date": "7-23-2026"
+        "rank": "/images/rank/bronze_1.jpg",
+        "name": "Thana",
+        "win_percentage": "54.55%",
+        "wins_losses": "12-10",
+        "total_drafts": "11",
+        "elo": "1800",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "9",
-        "rank": "/images/rank/bronze_2.jpg",
-        "name": "Thana",
-        "win_percentage": "55.00%",
-        "wins_losses": "11-9",
-        "total_drafts": "10",
-        "elo": "2090",
-        "last_set": "Noah Cube",
-        "last_date": "7-23-2026"
+        "rank": "/images/rank/bronze_1.jpg",
+        "name": "Clayton",
+        "win_percentage": "54.17%",
+        "wins_losses": "13-11",
+        "total_drafts": "12",
+        "elo": "1288",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "10",
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Eric K",
         "win_percentage": "50.00%",
-        "wins_losses": "8-8",
-        "total_drafts": "8",
-        "elo": "1403",
-        "last_set": "Noah Cube",
-        "last_date": "7-23-2026"
+        "wins_losses": "10-10",
+        "total_drafts": "10",
+        "elo": "1612",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "11",
@@ -125,11 +125,11 @@
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Daniel L",
         "win_percentage": "50.00%",
-        "wins_losses": "4-4",
-        "total_drafts": "4",
-        "elo": "1573",
-        "last_set": "Chaos",
-        "last_date": "7-16-2026"
+        "wins_losses": "5-5",
+        "total_drafts": "5",
+        "elo": "1366",
+        "last_set": "STX",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "13",
@@ -155,17 +155,39 @@
     },
     {
         "standing": "15",
-        "rank": "/images/rank/bronze_4.jpg",
-        "name": "Simon",
-        "win_percentage": "40.00%",
-        "wins_losses": "4-6",
-        "total_drafts": "5",
-        "elo": "1439",
-        "last_set": "DOM",
-        "last_date": "7-9-2026"
+        "rank": "/images/rank/bronze_3.jpg",
+        "name": "Grant",
+        "win_percentage": "50.00%",
+        "wins_losses": "3-3",
+        "total_drafts": "3",
+        "elo": "1615",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
     },
     {
         "standing": "16",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Simon",
+        "win_percentage": "41.67%",
+        "wins_losses": "5-7",
+        "total_drafts": "6",
+        "elo": "1486",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
+    },
+    {
+        "standing": "17",
+        "rank": "/images/rank/bronze_3.jpg",
+        "name": "Marco",
+        "win_percentage": "40.00%",
+        "wins_losses": "4-6",
+        "total_drafts": "5",
+        "elo": "1817",
+        "last_set": "Chaos",
+        "last_date": "7-30-2026"
+    },
+    {
+        "standing": "18",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Nick D",
         "win_percentage": "37.50%",
@@ -176,7 +198,7 @@
         "last_date": "7-3-2026"
     },
     {
-        "standing": "17",
+        "standing": "19",
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Stephen",
         "win_percentage": "33.33%",
@@ -187,18 +209,7 @@
         "last_date": "7-16-2026"
     },
     {
-        "standing": "18",
-        "rank": "/images/rank/bronze_4.jpg",
-        "name": "Andy",
-        "win_percentage": "33.33%",
-        "wins_losses": "2-4",
-        "total_drafts": "3",
-        "elo": "1377",
-        "last_set": "NEO",
-        "last_date": "7-3-2026"
-    },
-    {
-        "standing": "19",
+        "standing": "20",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Zoe",
         "win_percentage": "33.33%",
@@ -209,18 +220,29 @@
         "last_date": "7-16-2026"
     },
     {
-        "standing": "20",
+        "standing": "21",
         "rank": "/images/rank/bronze_4.jpg",
-        "name": "Marco",
-        "win_percentage": "25.00%",
-        "wins_losses": "2-6",
-        "total_drafts": "4",
-        "elo": "1258",
-        "last_set": "Chaos",
-        "last_date": "7-16-2026"
+        "name": "Kent",
+        "win_percentage": "33.33%",
+        "wins_losses": "2-4",
+        "total_drafts": "3",
+        "elo": "1329",
+        "last_set": "ECL",
+        "last_date": "7-30-2026"
     },
     {
-        "standing": "21",
+        "standing": "22",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Andy",
+        "win_percentage": "33.33%",
+        "wins_losses": "2-4",
+        "total_drafts": "3",
+        "elo": "1377",
+        "last_set": "NEO",
+        "last_date": "7-3-2026"
+    },
+    {
+        "standing": "23",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "David K",
         "win_percentage": "9.09%",
@@ -231,18 +253,7 @@
         "last_date": "7-23-2026"
     },
     {
-        "standing": "22",
-        "rank": "/images/rank/bronze_4.jpg",
-        "name": "Matt L",
-        "win_percentage": "0.00%",
-        "wins_losses": "0-8",
-        "total_drafts": "4",
-        "elo": "921",
-        "last_set": "Chaos",
-        "last_date": "7-16-2026"
-    },
-    {
-        "standing": "23",
+        "standing": "24",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Ethan",
         "win_percentage": "0.00%",
@@ -251,5 +262,16 @@
         "elo": "886",
         "last_set": "M20",
         "last_date": "7-16-2026"
+    },
+    {
+        "standing": "25",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Matt L",
+        "win_percentage": "0.00%",
+        "wins_losses": "0-10",
+        "total_drafts": "5",
+        "elo": "894",
+        "last_set": "STX",
+        "last_date": "7-30-2026"
     }
 ]
