@@ -7321,4 +7321,101 @@ Noah,Nathan,1
 Thana,Clayton,0
 Kent,Zoe,1
 
+David O,Grant,1,Collin Cube,7-23-2026
+Wesley,David K,1
+Eric K,Collin,0
+Clayton,Felix,1
+David O,Clayton,1
+Wesley,Collin,0
+Eric K,David K,1
+Felix,Grant,0
+
+Thana,Noah,1,Noah Cube,7-23-2026
+Grant,David K,1
+Collin,Eric K,1
+David O,Clayton,1
+Noah,Eric K,1
+Clayton,David K,1
+Thana,Collin,1
+David O,Grant,1
+
+Nathan,Chris A,0,STX,7-30-2026
+Matt L,Collin,0
+Aaron,Clayton,1
+Daniel L,Eric K,0
+Aaron,Chris A,0
+Clayton,Nathan,1
+Matt L,Daniel L,0
+Collin,Eric K,1
+
+Noah,Eric K,1,ECL,7-30-2026
+Simon,Kent,1
+Clayton,Grant,0
+Thana,Nathan,0
+Simon,Nathan,0
+Kent,Thana,0
+Noah,Grant,1
+Eric K,Clayton,1
+
+Hamzah,Marco,0,Chaos,7-30-2026
+Tony,Collin,1
+Patrick H,Chris A,0
+Patrick H,Tony,0
+Hamzah,Collin,1
+Marco,Chris A,1
+
+Simon,Clayton,0,MH1,7-31-2026
+Nathan,Daniel C,0
+Matt Y,David K,0
+Thana,Jackson,1
+Simon,Matt Y,1
+Clayton,David K,1
+Nathan,Jackson,0
+Daniel C,Thana,0
+
+Thana,Simon,0,MB2,7-31-2026
+Andy,Nathan,0
+Jackson,Noah,1
+David K,Clayton,0
+Thana,Noah,1
+Simon,Jackson,1
+Andy,David K,1
+Nathan,Clayton,0
+
+Zoe,Clayton,0,MB2,8-1-2026
+Kian,Daniel L,1
+Zane,Christiaan,1
+Andrew N,Kent,0
+Andrew N,Daniel L,0
+Kent,Kian,0
+Zoe,Christiaan,1
+Clayton,Zane,1
+
+Jesse Luong,Jackson,0,Nuzlocke,8-1-2026
+Collin,David O,0
+Thana,Noah,1
+Nathan,Eric K,0
+Nathan,Collin,1
+Eric K,David O,1
+Thana,Jackson,0
+Noah,Jesse,0
+
+Christiaan,Hamzah,1,MB2,8-1-2026
+Andrew N,Kent,1
+Clayton,Zoe,1
+Zane,Chris A,1
+Zane,Andrew N,0
+Chris A,Kent,1
+Clayton,Christiaan,1
+Zoe,Hamzah,0
+
+Stephen,David O,0,Nuzlocke,8-1-2026
+Jackson,Collin,1
+Thana,Noah,0
+Eric K,Nathan,0
+Stephen,Thana,0
+David O,Noah,1
+Jackson,Nathan,1
+Collin,Eric K,0
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
