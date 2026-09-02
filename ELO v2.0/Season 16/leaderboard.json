@@ -90,13 +90,13 @@
     {
         "standing": "9",
         "rank": "/images/rank/bronze_2.jpg",
-        "name": "Grant",
+        "name": "John C",
         "win_percentage": "60.00%",
         "wins_losses": "6-4",
         "total_drafts": "5",
-        "elo": "1731",
-        "last_set": "Collin Cube",
-        "last_date": "8-20-2026"
+        "elo": "1810",
+        "last_set": "Felix Cube",
+        "last_date": "8-27-2026"
     },
     {
         "standing": "10",
@@ -112,13 +112,13 @@
     {
         "standing": "11",
         "rank": "/images/rank/bronze_2.jpg",
-        "name": "John C",
+        "name": "Grant",
         "win_percentage": "60.00%",
         "wins_losses": "6-4",
         "total_drafts": "5",
-        "elo": "1810",
-        "last_set": "Felix Cube",
-        "last_date": "8-27-2026"
+        "elo": "1731",
+        "last_set": "Collin Cube",
+        "last_date": "8-20-2026"
     },
     {
         "standing": "12",
@@ -255,17 +255,6 @@
     {
         "standing": "24",
         "rank": "/images/rank/bronze_4.jpg",
-        "name": "Jim",
-        "win_percentage": "37.50%",
-        "wins_losses": "3-5",
-        "total_drafts": "4",
-        "elo": "901",
-        "last_set": "Felix Cube",
-        "last_date": "8-27-2026"
-    },
-    {
-        "standing": "25",
-        "rank": "/images/rank/bronze_4.jpg",
         "name": "Andy",
         "win_percentage": "37.50%",
         "wins_losses": "3-5",
@@ -273,6 +262,17 @@
         "elo": "1323",
         "last_set": "MB2",
         "last_date": "7-31-2026"
+    },
+    {
+        "standing": "25",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Jim",
+        "win_percentage": "37.50%",
+        "wins_losses": "3-5",
+        "total_drafts": "4",
+        "elo": "901",
+        "last_set": "Felix Cube",
+        "last_date": "8-27-2026"
     },
     {
         "standing": "26",
@@ -288,17 +288,6 @@
     {
         "standing": "27",
         "rank": "/images/rank/bronze_4.jpg",
-        "name": "Patrick H",
-        "win_percentage": "33.33%",
-        "wins_losses": "2-4",
-        "total_drafts": "3",
-        "elo": "1346",
-        "last_set": "Chaos",
-        "last_date": "8-6-2026"
-    },
-    {
-        "standing": "28",
-        "rank": "/images/rank/bronze_4.jpg",
         "name": "Bryce",
         "win_percentage": "33.33%",
         "wins_losses": "2-4",
@@ -308,7 +297,7 @@
         "last_date": "8-20-2026"
     },
     {
-        "standing": "29",
+        "standing": "28",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Zoe",
         "win_percentage": "33.33%",
@@ -317,6 +306,17 @@
         "elo": "1249",
         "last_set": "NEO",
         "last_date": "7-16-2026"
+    },
+    {
+        "standing": "29",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Patrick H",
+        "win_percentage": "33.33%",
+        "wins_losses": "2-4",
+        "total_drafts": "3",
+        "elo": "1346",
+        "last_set": "Chaos",
+        "last_date": "8-6-2026"
     },
     {
         "standing": "30",
