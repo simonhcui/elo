@@ -7466,5 +7466,89 @@ Daniel,Bryce,0
 Thana,Nathan,1
 David K,Andrew K,0
 
+Wesley,Eric K,0,TLA,8-13-2026
+Kent,Daniel C,0
+David K,Jackson,0
+Nathan,Kian,0
+Eric K,Jackson,0
+David K,Wesley,1
+Kent,Nathan,1
+
+Collin,John C,1,Chaos,8-13-2026
+Kevin S,Luke,1
+Tony,Chris A,1
+Collin,Kevin S,1
+Luke,Chris A,0
+Tony,John C,0
+
+Eric K,Kent,1,BLB,8-13-2026
+Noah,Jackson,0
+David K,John C,0
+Jim,Nathan,0
+Jackson,Nathan,0
+Jim,Noah,0
+Eric K,John C,1
+Kent,David K,1
+
+Luke,Thana,1,Chaos,8-13-2026
+Chris A,Sonny,1
+Collin,Tony,0
+Wesley,Kevin S,0
+Collin,Wesley,1
+Kevin S,Tony,0
+Chris A,Luke,1
+Sonny,Thana,1
+
+Marco,Chris A,1,Chaos,8-20-2026
+Matt L,Tony,1
+Wesley,Daniel L,1
+Bryce,Stephen,1
+Marco,Matt,1
+Tony,Chris A,1
+Wesley,Bryce,1
+Stephen,Daniel L,1
+
+Jacob,Tony,1,Chaos,8-20-2026
+Chris A,Bryce,1
+Marco,Travis,1
+Stephen,Wesley,1
+Travis,Wesley,1
+Chris A,Jacob,1
+Stephen,Marco,1
+Tony,Bryce,1
+
+John C,Eric K,1,Grant Cube,8-20-2026
+Felix,Collin,1
+Nathan,Luke,1
+Grant,David K,1
+Felix,John C,1
+Eric K,Collin,1
+Nathan,Grant,1
+Luke,David K,1
+
+Nathan,Collin,1,Collin Cube,8-20-2026
+Grant,Luke,1
+Thana,David K,1
+John C,Eric K,1
+Nathan,John C,1
+Collin,Eric K,1
+Grant,Thana,1
+David K,Luke,1
+
+Daniel L,Travis,1,Chaos,8-27-2026
+Chris A,Aaron,1
+Matt L,Marco,1
+Daniel L,Chris A,1
+Travis,Matt L,1
+Marco,Aaron,1
+
+Luke,Jim,1,Felix Cube,8-27-2026
+David K,Felix,1
+Nathan,Eric K,1
+John C,Jackson,1
+David K,Nathan,1
+Felix,Eric K,1
+John C,Luke,1
+Jackson,Jim,1
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
