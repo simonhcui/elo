@@ -5755,10 +5755,10 @@ Clayton,Felix,1
 
 Noah,Collin,0,NEO,1-22-2026
 Luke,Tony,0
-Daniel L,Chris A,0
+Daniel Lopez,Chris A,0
 Clayton,Eric K,0
 Chris A,Collin,0
-Daniel L,Noah,0
+Daniel Lopez,Noah,0
 Luke,Clayton,1
 Tony,Eric K,0
 
@@ -5790,10 +5790,10 @@ Clayton,Eric K,1
 Hamzah,Noah,1
 
 Mike,Nick D,0,MH1,2-5-2026
-Daniel L,Eric K,1
+Daniel Lopez,Eric K,1
 Stephen,Clayton,0
 Matt Y,Travis,1
-Daniel L,Matt Y,1
+Daniel Lopez,Matt Y,1
 Eric K,Travis,0
 Stephen,Mike,1
 Clayton,Nick D,1 
@@ -6089,11 +6089,11 @@ Adam S,Felix,1
 Noah,Clayton,0
 
 Kevin S,John C,1,Chaos,3-12-2026
-Walski,Daniel L,1
+Walski,Daniel Lopez,1
 Marco,Stephen,0
 Alberto,Chris A,1
 Kevin S,Walski,1
-John C,Daniel L,1
+John C,Daniel Lopez,1
 Chris A,Marco,0
 Alberto,Stephen,1
 
@@ -6298,11 +6298,11 @@ Grace,Noah,0
 Stephen,Walski,1,Chaos,4-2-2026
 Collin,Aaron,1
 David K,Kevin S,0
-Marco,Daniel L,1
+Marco,Daniel Lopez,1
 Aaron,Walski,0
 Stephen,Collin,0
 Marco,Kevin S,0
-Daniel L,David K,0
+Daniel Lopez,David K,0
 
 Grace,Tony,1,SOI/EMN,4-2-2026
 Eric K,Clayton,1
@@ -6409,12 +6409,12 @@ Thana,Nathan,0
 Jim,David K,1
 
 Walski,Aaron,1,Chaos,4-9-2026
-Stephen,Daniel L,0
+Stephen,Daniel Lopez,0
 Kevin S,Marco,1
 Chris A,David K,1
 Chris A,Kevin S,0
 David K,Marco,0
-Walski,Daniel L,1
+Walski,Daniel Lopez,1
 Aaron,Stephen,1
 
 Jacob,Clayton,0,Collin Cube,4-9-2026
@@ -6634,12 +6634,12 @@ Eric K,Thana,0
 Simon,Luke,0
 Grace,Nathan,0
 
-Nathan,Daniel L,1,MB2,5-7-2026
+Nathan,Daniel,1,MB2,5-7-2026
 Travis,Clayton,0
 Chris A,Noah,0
 Luke,Collin,0
 Noah,Nathan,1
-Daniel L,Chris A,0
+Daniel,Chris A,0
 Travis,Luke,0
 Collin,Clayton,0
 
@@ -7028,12 +7028,12 @@ Adam S,Jacob,1,Adam Cube,6-11-2026
 Noah,Grant,1
 Nathan,Clayton,1
 Collin,Felix,1
-Eric K,Daniel L,1
+Eric K,Daniel,1
 Adam S,Nathan,0
 Collin,Clayton,0
 Noah,Eric K,0
 Felix,Grant,0
-Jacob,Daniel L,0
+Jacob,Daniel,0
 
 Eric K,Grant,0,Felix Cube,6-11-2026
 Collin,Felix,1
@@ -7084,11 +7084,11 @@ Clayton,Collin,1
 Tony,Stephen,1
 Noah,Eric K,0
 
-Jacob,Daniel L,0,MSH,6-18-2026
+Jacob,Daniel,0,MSH,6-18-2026
 Wesley,Luke,0
 Simon,Ethan,1
 Mike,Matt L,1
-Simon,Daniel L,1
+Simon,Daniel,1
 Jacob,Ethan,0
 Wesley,Matt L,1
 Luke,Mike,0
@@ -7123,11 +7123,11 @@ David K,Andy,0
 Nathan,Noah,1
 
 Luke,Matt L,1,Chaos,6-25-2026
-Tony,Daniel L,1
+Tony,Daniel,1
 Collin,David K,1
 Collin,Matt L,1
 Luke,Tony,0
-David K,Daniel L,0
+David K,Daniel,0
 
 Marco,Luke,0,Chaos,6-25-2026
 Thana,Stephen,1
@@ -7193,10 +7193,10 @@ Clayton,Sonny,0
 Nathan,Tony,0
 
 Matt L,Mike,0,Chaos,7-2-2026
-Daniel L,Sonny,0
+Daniel,Sonny,0
 Tony,Luke,1
 Luke,Mike,0
-Matt L,Daniel L,0
+Matt L,Daniel,0
 
 Matt Y,Thana,1,MH1,7-3-2026
 Noah,David K,1
@@ -7462,7 +7462,7 @@ David K,Nathan,1
 Matt Y,Thana,1
 Simon,David K,0
 Nathan,Andrew K,1
-Daniel L,Bryce,0
+Daniel,Bryce,0
 Thana,Nathan,1
 David K,Andrew K,0
 

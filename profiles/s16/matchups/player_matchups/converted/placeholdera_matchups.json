@@ -1,0 +1,46 @@
+{
+  "matchups": [
+    {
+      "Player": "Clayton",
+      "Record": "2-1",
+      "Win %": "66.67%",
+      "Total Matches": 3
+    },
+    {
+      "Player": "David O",
+      "Record": "3-3",
+      "Win %": "50.00%",
+      "Total Matches": 6
+    },
+    {
+      "Player": "Eric K",
+      "Record": "4-2",
+      "Win %": "66.67%",
+      "Total Matches": 6
+    },
+    {
+      "Player": "Nathan",
+      "Record": "2-0",
+      "Win %": "100.00%",
+      "Total Matches": 2
+    },
+    {
+      "Player": "Noah",
+      "Record": "4-2",
+      "Win %": "66.67%",
+      "Total Matches": 6
+    },
+    {
+      "Player": "Simon",
+      "Record": "0-5",
+      "Win %": "0.00%",
+      "Total Matches": 5
+    },
+    {
+      "Player": "Thana",
+      "Record": "5-1",
+      "Win %": "83.33%",
+      "Total Matches": 6
+    }
+  ]
+}
