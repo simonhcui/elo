@@ -99,3 +99,21 @@
 1,1,4c no white,Jim
 0,2,Azorius,Ivan
 0,2,Dimir,Adam
+2,0,Esper,Thana
+2,0,Temur,David O
+1,1,Izzet,Collin
+1,1,5c,Noah
+1,1,Izzet,Clayton
+1,1,Simic,Grant
+0,2,Grixis,David K
+0,2,Boros,Eric K
+2,0,Azorius,Nathan
+2,0,4c no red,Thana
+2,0,Jund,Eric K
+1,1,Boros,Noah
+1,1,Izzet,Adam S
+1,1,Grixis,Luke
+1,1,4c no white,Collin
+0,2,Grixis,David K
+0,2,Naya,Adam E
+0,2,Azorius,Hamzah

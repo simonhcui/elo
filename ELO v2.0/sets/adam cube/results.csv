@@ -24,13 +24,13 @@ Simon,Juwan,0
 Nick C,Brian H,1
 
 Juwan,Angga,1,Adam Cube,4-13-2023
-Adam,Brian H,1
+Adam S,Brian H,1
 Brian M,Khang,1
 Khang,Brian H,0
 Juwan,Brian M,1
-Angga,Adam,0
+Angga,Adam S,0
 Angga,Brian M,1
-Juwan,Adam,0
+Juwan,Adam S,0
 
 Simon,John K,1,Adam Cube,5-20-2023
 Andrew,Juwan,0
@@ -69,21 +69,21 @@ John K,Jacob,1
 Alice,David O,1
 Juwan,Brian M,0
 
-Simon,Adam,0,Adam Cube,6-24-2023
+Simon,Adam S,0,Adam Cube,6-24-2023
 Khang,John K,1
 David O,Brian M,1
 Simon,John K,1
-Adam,Brian M,0
+Adam S,Brian M,0
 David O,Khang,1
 David O,John K,1
 Brian M,Simon,0
 
 Simon,David O,0,Adam Cube,8-26-2023
 Clayton,Tim,0
-Adam,Alice,0
+Adam S,Alice,0
 Simon,Tim,0
 Clayton,Alice,0
-Adam,David O,1
+Adam S,David O,1
 
 Simon,Jacob,0,Adam Cube,3-7-2024
 Alberto,John K,1
@@ -111,10 +111,10 @@ David O,Jacob,1
 Clayton,Tony,0
 
 Simon,Luca,1,Adam Cube,8-22-2024
-Juwan,Adam,0
+Juwan,Adam S,0
 Chris A,Stephen,0
 Chris A,Juwan,1
-Simon,Adam,1
+Simon,Adam S,1
 Luca,Stephen,0
 
 Simon,Chris A,0,Adam Cube,9-19-2024
@@ -163,52 +163,52 @@ Eric K,Tony,0
 
 Eric K,Collin,0,Adam Cube,4-10-2025
 Jacob,Alan,0
-Tony,Adam,0
+Tony,Adam S,0
 David O,Noah,0
 Noah,Alan,0
-Collin,Adam,1
+Collin,Adam S,1
 Eric K,Tony,0
 
-Adam,David O,1,Adam Cube,8-14-2025
+Adam S,David O,1,Adam Cube,8-14-2025
 Jacob,Collin,0
 Eric K,Noah,1
 Thana,Clayton,0
 Jacob,Thana,0
 Collin,Clayton,0
-Adam,Eric K,1
+Adam S,Eric K,1
 David O,Noah,1
 
 Luke,Matt H,0,Adam Cube,10-9-2025
 Eric K,Noah,0
-Adam,Collin,0
+Adam S,Collin,0
 Tony,David O,0
 Clayton,Felix,1
 Clayton,David O,0
 Felix,Tony,1
 Collin,Noah,1
 Eric K,Matt H,1
-Adam,Luke,1
+Adam S,Luke,1
 
 Jacob,Luke,0,Adam Cube,12-18-2025
-Collin,Adam,0
+Collin,Adam S,0
 Alan_Placeholder,Noah,0
 David O,Felix,0
 Eric K,Clayton,1
 Jacob,Clayton,0
 Felix,Noah,1
-Alan_Placeholder,Adam,0
+Alan_Placeholder,Adam S,0
 Eric K,Luke,1
 David O,Collin,1
 
 Thana,Felix,0,Adam Cube,3-12-2026
-Clayton,Adam,0
+Clayton,Adam S,0
 Eric K,Grant,1
 Tony,Nathan,1
 Collin,Noah,1
 Nathan,Thana,1
 Eric K,Collin,1
 Tony,Grant,0
-Adam,Felix,1
+Adam S,Felix,1
 Noah,Clayton,0
 
 Juwan,Bastion,0,Adam Cube,3-14-2026
@@ -225,21 +225,21 @@ Eric K,Juwan,1
 Nathan,Collin,1
 
 Felix,Luke,0,Adam Cube,5-14-2026
-Noah,Adam,1
+Noah,Adam S,1
 Collin,Clayton,0
 Eric K,Grant,0
 Jim,Tony,1
 Grant,Clayton,0
 Noah,Luke,1
 Jim,Collin,1
-Adam,Eric K,1
+Adam S,Eric K,1
 
-Adam,Jacob,1,Adam Cube,6-11-2026
+Adam S,Jacob,1,Adam Cube,6-11-2026
 Noah,Grant,1
 Nathan,Clayton,1
 Collin,Felix,1
 Eric K,Daniel,1
-Adam,Nathan,0
+Adam S,Nathan,0
 Collin,Clayton,0
 Noah,Eric K,0
 Felix,Grant,0

@@ -16,21 +16,21 @@ Eric K,Noah,1
 Alan,Tony,0
 
 Eric K,Stephen,0,Collin Cube,8-14-2025
-Clayton,Adam,1
+Clayton,Adam S,1
 David O,Noah,0
 Collin,Jacob,1
 Eric K,David O,1
 Stephen,Noah,0
-Adam,Jacob,1
+Adam S,Jacob,1
 Collin,Clayton,0
 
 Luke,Brian H,0,Collin Cube,9-18-2025
 Eric K,Clayton,0
-Collin,Adam,0
+Collin,Adam S,0
 Noah,Felix,1
 Tony,David O,1
 Luke,Felix,0
-Brian H,Adam,1
+Brian H,Adam S,1
 Collin,Tony,1
 Noah,Clayton,0
 Eric K,David O,0
@@ -44,30 +44,30 @@ Eric K,Luke,1
 Collin,Noah,0
 Felix,Clayton,0
 
-Luke,Adam,0,Collin Cube,1-1-2026
+Luke,Adam S,0,Collin Cube,1-1-2026
 Alan,Eric K,0
 David O,Collin,1
 Noah,Clayton,1
 Noah,Eric K,0
 Clayton,Alan,0
-David O,Adam,0
+David O,Adam S,0
 Collin,Luke,0
 
 Felix,Hamzah,0,Collin Cube,1-15-2026
 Collin,Tony,1
-Adam,Clayton,1
+Adam S,Clayton,1
 Noah,Eric K,1
 Noah,Collin,1
 Eric K,Tony,0
-Adam,Hamzah,0
+Adam S,Hamzah,0
 Clayton,Felix,1
 
-Eric K,Adam,0,Collin Cube,2-28-2026
+Eric K,Adam S,0,Collin Cube,2-28-2026
 Juwan,Clayton,0
 Collin,Felix,0
 Noah,Simon,0
 Collin,Eric K,0
-Felix,Adam,0
+Felix,Adam S,0
 Simon,Clayton,0
 Noah,Juwan,0
 
@@ -79,5 +79,23 @@ Clayton,Nathan,0
 David K,Eric K,1
 Grant,Collin,0
 Jacob,Noah,0
+
+David O,Grant,1,Collin Cube,7-23-2026
+Wesley,David K,1
+Eric K,Collin,0
+Clayton,Felix,1
+David O,Clayton,1
+Wesley,Collin,0
+Eric K,David K,1
+Felix,Grant,0
+
+Nathan,Collin,1,Collin Cube,8-20-2026
+Grant,Luke,1
+Thana,David K,1
+John C,Eric K,1
+Nathan,John C,1
+Collin,Eric K,1
+Grant,Thana,1
+David K,Luke,1
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024

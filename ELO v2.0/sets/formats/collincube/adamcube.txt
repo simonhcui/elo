@@ -72,3 +72,19 @@
 1,1,Sultai,Collin
 0,2,Esper,Jacob
 0,2,Esper,Grant
+2,0,Rakdos,David O
+2,0,Temur,Collin
+1,1,Mardu,Wesley
+1,1,Mardu,Clayton
+1,1,Sultai,Eric K
+1,1,Orzhov,Grant
+0,2,Jund,David K
+0,2,Simic,Felix
+2,0,Gruul,Nathan
+2,0,Azorius,Grant
+1,1,Izzet,David K
+1,1,Naya,Collin
+1,1,Abzan,John K
+1,1,Simic,Thana
+0,2,Rakdos,Luke
+0,2,Temur,Eric K
