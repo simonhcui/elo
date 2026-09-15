@@ -36,12 +36,12 @@
         "standing": "4",
         "rank": "/images/rank/silver_3.jpg",
         "name": "Matt Y",
-        "win_percentage": "71.43%",
-        "wins_losses": "10-4",
-        "total_drafts": "7",
-        "elo": "1963",
-        "last_set": "HOB",
-        "last_date": "8-7-2026"
+        "win_percentage": "68.75%",
+        "wins_losses": "11-5",
+        "total_drafts": "8",
+        "elo": "1872",
+        "last_set": "DOM",
+        "last_date": "9-11-2026"
     },
     {
         "standing": "5",
@@ -89,6 +89,28 @@
     },
     {
         "standing": "9",
+        "rank": "/images/rank/gold_2.jpg",
+        "name": "Noah",
+        "win_percentage": "63.04%",
+        "wins_losses": "29-17",
+        "total_drafts": "23",
+        "elo": "2026",
+        "last_set": "MB2",
+        "last_date": "9-11-2026"
+    },
+    {
+        "standing": "10",
+        "rank": "/images/rank/diamond_4.jpg",
+        "name": "Nathan",
+        "win_percentage": "62.69%",
+        "wins_losses": "42-25",
+        "total_drafts": "33",
+        "elo": "2218",
+        "last_set": "MB2",
+        "last_date": "9-11-2026"
+    },
+    {
+        "standing": "11",
         "rank": "/images/rank/silver_2.jpg",
         "name": "Clayton",
         "win_percentage": "60.71%",
@@ -97,28 +119,6 @@
         "elo": "1718",
         "last_set": "MB2",
         "last_date": "7-31-2026"
-    },
-    {
-        "standing": "10",
-        "rank": "/images/rank/gold_4.jpg",
-        "name": "Thana",
-        "win_percentage": "60.47%",
-        "wins_losses": "26-17",
-        "total_drafts": "21",
-        "elo": "1918",
-        "last_set": "Noah Cube",
-        "last_date": "9-10-2026"
-    },
-    {
-        "standing": "11",
-        "rank": "/images/rank/plat_3.jpg",
-        "name": "Nathan",
-        "win_percentage": "60.32%",
-        "wins_losses": "38-25",
-        "total_drafts": "31",
-        "elo": "2062",
-        "last_set": "Noah Cube",
-        "last_date": "9-10-2026"
     },
     {
         "standing": "12",
@@ -166,14 +166,14 @@
     },
     {
         "standing": "16",
-        "rank": "/images/rank/gold_4.jpg",
-        "name": "Noah",
-        "win_percentage": "59.52%",
-        "wins_losses": "25-17",
-        "total_drafts": "21",
-        "elo": "1586",
-        "last_set": "Noah Cube",
-        "last_date": "9-10-2026"
+        "rank": "/images/rank/gold_3.jpg",
+        "name": "Thana",
+        "win_percentage": "59.57%",
+        "wins_losses": "28-19",
+        "total_drafts": "23",
+        "elo": "1662",
+        "last_set": "MB2",
+        "last_date": "9-11-2026"
     },
     {
         "standing": "17",
@@ -188,17 +188,6 @@
     },
     {
         "standing": "18",
-        "rank": "/images/rank/bronze_2.jpg",
-        "name": "Simon",
-        "win_percentage": "50.00%",
-        "wins_losses": "10-10",
-        "total_drafts": "10",
-        "elo": "1574",
-        "last_set": "Chaos",
-        "last_date": "9-10-2026"
-    },
-    {
-        "standing": "19",
         "rank": "/images/rank/bronze_3.jpg",
         "name": "Daniel L",
         "win_percentage": "50.00%",
@@ -209,26 +198,37 @@
         "last_date": "9-10-2026"
     },
     {
-        "standing": "20",
+        "standing": "19",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Nick D",
         "win_percentage": "50.00%",
-        "wins_losses": "6-6",
-        "total_drafts": "6",
-        "elo": "1623",
+        "wins_losses": "8-8",
+        "total_drafts": "8",
+        "elo": "1649",
         "last_set": "MB2",
-        "last_date": "9-4-2026"
+        "last_date": "9-11-2026"
     },
     {
-        "standing": "21",
+        "standing": "20",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Daniel C",
         "win_percentage": "50.00%",
-        "wins_losses": "3-3",
-        "total_drafts": "4",
-        "elo": "1523",
-        "last_set": "TLA",
-        "last_date": "8-13-2026"
+        "wins_losses": "4-4",
+        "total_drafts": "5",
+        "elo": "1404",
+        "last_set": "DOM",
+        "last_date": "9-11-2026"
+    },
+    {
+        "standing": "21",
+        "rank": "/images/rank/bronze_3.jpg",
+        "name": "Simon",
+        "win_percentage": "45.45%",
+        "wins_losses": "10-12",
+        "total_drafts": "11",
+        "elo": "1253",
+        "last_set": "MB2",
+        "last_date": "9-11-2026"
     },
     {
         "standing": "22",
@@ -300,12 +300,12 @@
         "standing": "28",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "An",
-        "win_percentage": "36.36%",
-        "wins_losses": "4-7",
-        "total_drafts": "5",
-        "elo": "1338",
-        "last_set": "Adam Cube",
-        "last_date": "9-10-2026"
+        "win_percentage": "33.33%",
+        "wins_losses": "5-10",
+        "total_drafts": "7",
+        "elo": "1523",
+        "last_set": "MB2",
+        "last_date": "9-11-2026"
     },
     {
         "standing": "29",
@@ -321,17 +321,6 @@
     {
         "standing": "30",
         "rank": "/images/rank/bronze_4.jpg",
-        "name": "Patrick H",
-        "win_percentage": "33.33%",
-        "wins_losses": "2-4",
-        "total_drafts": "3",
-        "elo": "1346",
-        "last_set": "Chaos",
-        "last_date": "8-6-2026"
-    },
-    {
-        "standing": "31",
-        "rank": "/images/rank/bronze_4.jpg",
         "name": "Zoe",
         "win_percentage": "33.33%",
         "wins_losses": "2-4",
@@ -339,6 +328,17 @@
         "elo": "1249",
         "last_set": "NEO",
         "last_date": "7-16-2026"
+    },
+    {
+        "standing": "31",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Patrick H",
+        "win_percentage": "33.33%",
+        "wins_losses": "2-4",
+        "total_drafts": "3",
+        "elo": "1346",
+        "last_set": "Chaos",
+        "last_date": "8-6-2026"
     },
     {
         "standing": "32",
@@ -365,28 +365,6 @@
     {
         "standing": "34",
         "rank": "/images/rank/bronze_4.jpg",
-        "name": "Aaron",
-        "win_percentage": "25.00%",
-        "wins_losses": "2-6",
-        "total_drafts": "4",
-        "elo": "1446",
-        "last_set": "Chaos",
-        "last_date": "9-10-2026"
-    },
-    {
-        "standing": "35",
-        "rank": "/images/rank/bronze_4.jpg",
-        "name": "Hamzah",
-        "win_percentage": "25.00%",
-        "wins_losses": "2-6",
-        "total_drafts": "4",
-        "elo": "1326",
-        "last_set": "Noah Cube",
-        "last_date": "9-10-2026"
-    },
-    {
-        "standing": "36",
-        "rank": "/images/rank/bronze_4.jpg",
         "name": "Adam E",
         "win_percentage": "25.00%",
         "wins_losses": "2-6",
@@ -396,7 +374,18 @@
         "last_date": "9-10-2026"
     },
     {
-        "standing": "37",
+        "standing": "35",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Aaron",
+        "win_percentage": "25.00%",
+        "wins_losses": "2-6",
+        "total_drafts": "4",
+        "elo": "1446",
+        "last_set": "Chaos",
+        "last_date": "9-10-2026"
+    },
+    {
+        "standing": "36",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Jacob",
         "win_percentage": "25.00%",
@@ -407,15 +396,26 @@
         "last_date": "8-20-2026"
     },
     {
+        "standing": "37",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Hamzah",
+        "win_percentage": "25.00%",
+        "wins_losses": "2-6",
+        "total_drafts": "4",
+        "elo": "1326",
+        "last_set": "Noah Cube",
+        "last_date": "9-10-2026"
+    },
+    {
         "standing": "38",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "David K",
-        "win_percentage": "23.64%",
-        "wins_losses": "13-42",
-        "total_drafts": "27",
-        "elo": "831",
-        "last_set": "Noah Cube",
-        "last_date": "9-10-2026"
+        "win_percentage": "22.03%",
+        "wins_losses": "13-46",
+        "total_drafts": "29",
+        "elo": "810",
+        "last_set": "MB2",
+        "last_date": "9-11-2026"
     },
     {
         "standing": "39",

@@ -603,3 +603,71 @@
 1,1,Rakdos,David K
 0,2,Izzet,Luke
 0,2,Abzan,Juwan
+2,0,Golgari,Clayton
+2,0,Selesnya,Simon
+1,1,Boros,Andy
+1,1,Orzhov,Nathan
+1,1,Izzet,Jackson
+1,1,Temur,Thana
+0,2,Azorius,Noah
+0,2,Temur,David K
+2,0,4c no white,Clayton
+2,0,Mono R,Kian
+1,1,Simic,Zane
+1,1,Esper,Zoe
+1,1,Golgari,Kent
+1,1,Orzhov,Daniel L
+0,2,Golgari,Christiaan
+0,2,Azorius,Andrew N
+2,0,Orzhov,Clayton
+2,0,Sultai,Andrew N
+1,1,Dimir,Christiaan
+1,1,Boros,Hamzah
+1,1,Simic,Zane
+1,1,Izzet,Chris A
+0,2,Boros,Kent
+0,2,Naya,Zoe
+2,0,Dimir,Thana
+2,0,Orzhov,Nathan
+1,1,Jund,Nick D
+1,1,Izzet,Adam E
+1,1,Orzhov,Andy
+1,1,Izzet,Noah
+1,1,4c no green,Jackson
+1,2,Rakdos,Luke
+1,2,Gruul,An
+0,2,Sultai,David K
+2,0,Nathan,Mono B
+2,0,Boros,Patrick H
+1,1,Selesnya,Jim
+1,1,Sultai,Collin
+1,1,Selesnya,Bradley Schlesinger
+1,1,Grixis,David O
+0,2,Sultai,Zane
+0,2,Boros,Juwan
+2,0,Selesnya,Jim
+2,0,Boros,Nick D
+1,1,Simic,Zane
+1,1,Temur,Bradley Schlesinger
+1,1,Dimir,Collin
+1,1,Sultai,David O
+0,2,Mardu,Juwan
+0,2,Orzhov,Nathan
+2,0,Rakdos,Thana
+2,0,Rakdos,Adam S
+1,1,Gruul,Chris A
+1,1,Golgari,Nick D
+1,1,4c no green,Simon
+1,1,Mono W,Rob
+1,1,Orzhov,Bradley Schlesinger
+1,1,Dimir,Luke
+0,2,Temur,Walski
+0,2,Mono U,David K
+2,0,Selesnya,Nathan
+2,0,Sultai,Noah
+1,1,Dimir,Curtis
+1,1,Boros,Nick D
+1,1,Naya,Thana
+1,1,Temur,An
+0,2,Boros,Simon
+0,2,Esper,David K
