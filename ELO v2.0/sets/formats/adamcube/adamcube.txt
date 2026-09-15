@@ -194,3 +194,13 @@
 1,1,Rakdos,Adam
 0,2,Simic,Jacob
 0,2,Mardu,Felix
+2,0,Esper,Noah
+2,0,Rakdos,Nathan
+2,0,Jund,Collin
+1,1,Mardu,Adam E
+1,1,Temur,An
+1,1,Abzan,Felix
+1,1,Izzet,Eric K
+0,2,Sultai,Luke
+0,2,Rakdos,Adam S
+0,2,Dimir,David K
