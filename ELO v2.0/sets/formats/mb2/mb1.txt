@@ -671,3 +671,11 @@
 1,1,Temur,An
 0,2,Boros,Simon
 0,2,Esper,David K
+2,0,Boros,Nathan
+2,0,Bant,Nick D
+1,1,Grixis,Noah
+1,1,Mono G,Jackson
+1,1,Rakdos,David K
+1,1,Golgari,Curtis
+0,2,5c,Sonny
+0,2,Orzhov,Thana

@@ -1,16 +1,6 @@
 [
   {
     "rank": "1",
-    "name": "Matt Y",
-    "win_percentage": "88.89%",
-    "wins_losses": "8-1",
-    "total_drafts": "6",
-    "glicko": "1853 ± 169",
-    "gxe": "78.25%",
-    "last_date": "5-21-2026"
-  },
-  {
-    "rank": "2",
     "name": "Clayton",
     "win_percentage": "83.33%",
     "wins_losses": "5-1",
@@ -20,24 +10,34 @@
     "last_date": "5-21-2026"
   },
   {
-    "rank": "3",
+    "rank": "2",
     "name": "Chris A",
     "win_percentage": "80.00%",
     "wins_losses": "4-1",
     "total_drafts": "4",
     "glicko": "1819 ± 191",
     "gxe": "75.76%",
-    "last_date": "10-28-23"
+    "last_date": "10-28-2023"
   },
   {
-    "rank": "4",
+    "rank": "3",
     "name": "Juwan",
     "win_percentage": "78.57%",
     "wins_losses": "11-3",
     "total_drafts": "7",
     "glicko": "1706 ± 131",
     "gxe": "68.25%",
-    "last_date": "9-30-23"
+    "last_date": "9-30-2023"
+  },
+  {
+    "rank": "4",
+    "name": "Matt Y",
+    "win_percentage": "72.73%",
+    "wins_losses": "8-3",
+    "total_drafts": "7",
+    "glicko": "1675 ± 159",
+    "gxe": "65.42%",
+    "last_date": "9-17-2026"
   },
   {
     "rank": "5",
@@ -61,42 +61,52 @@
   },
   {
     "rank": "7",
+    "name": "Tony",
+    "win_percentage": "60.00%",
+    "wins_losses": "3-2",
+    "total_drafts": "3",
+    "glicko": "1633 ± 182",
+    "gxe": "61.71%",
+    "last_date": "9-17-2026"
+  },
+  {
+    "rank": "8",
     "name": "Simon",
     "win_percentage": "50.00%",
     "wins_losses": "5-5",
     "total_drafts": "6",
     "glicko": "1582 ± 139",
     "gxe": "57.48%",
-    "last_date": "10-28-23"
+    "last_date": "10-28-2023"
   },
   {
-    "rank": "8",
+    "rank": "9",
     "name": "John K",
     "win_percentage": "33.33%",
     "wins_losses": "1-2",
     "total_drafts": "3",
     "glicko": "1484 ± 212",
     "gxe": "48.61%",
-    "last_date": "10-28-23"
+    "last_date": "10-28-2023"
   },
   {
-    "rank": "9",
+    "rank": "10",
     "name": "Judre",
     "win_percentage": "22.22%",
     "wins_losses": "2-7",
     "total_drafts": "3",
     "glicko": "1208 ± 142",
     "gxe": "25.39%",
-    "last_date": "5-13-23"
+    "last_date": "5-13-2023"
   },
   {
-    "rank": "10",
+    "rank": "11",
     "name": "Patrick R",
     "win_percentage": "22.22%",
     "wins_losses": "2-7",
     "total_drafts": "3",
     "glicko": "1223 ± 149",
     "gxe": "26.53%",
-    "last_date": "5-13-23"
+    "last_date": "5-13-2023"
   }
 ]

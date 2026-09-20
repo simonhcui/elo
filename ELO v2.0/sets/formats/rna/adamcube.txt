@@ -68,3 +68,11 @@
 1,1,Azorius,Nathan
 0,2,Rakdos,Eric K
 0,2,Esper,Felix
+2,0,Gruul,Kent
+2,0,Azorius,Tony
+1,1,Simic,An
+1,1,Temur,Collin
+1,1,Rakdos,Noah
+1,1,Mardu,David K
+0,2,Esper,Matt Y
+0,2,Orzhov,Nathan

@@ -177,3 +177,37 @@
 0,1,Selesnya,Matt Y
 0,1,Esper,Stephen
 0,2,Bant,Todd
+2,0,Orzhov,Matt Y
+1,1,Selesnya,David K
+1,1,Dimir,Nick D
+1,1,Simic,Thana
+1,1,5c,Noah
+0,2,Rakdos,Nathan
+2,0,Azorius,Thana
+2,0,Temur,Clayton
+1,1,Dimir,David K
+1,1,Rakdos,Simon
+1,1,Gruul,Daniel C
+1,1,Azorius,Jackson
+0,2,Sultai,Matt Y
+0,2,Rakdos,Nathan
+2,0,Izzet,Nick D
+2,0,Azorius,Jackson
+2,0,Golgari,Thana
+1,1,Temur,Noah
+1,1,Gruul,Nathan
+1,1,Dimir,Luke
+1,1,Esper,David K
+0,2,Rakdos,Adam E
+0,2,5c,Kent
+0,2,Azorius,An
+2,0,Boros,Nathan
+2,0,Orzhov,Thana
+1,1,Sultai,Curtis
+1,1,4c no red,Noah
+1,1,4c no black,Jackson
+1,1,Izzet,Kent
+1,1,Golgari,Matt Y
+1,1,Azorius,Nick D
+0,2,Jund,David K
+0,2,5c,Sonny
