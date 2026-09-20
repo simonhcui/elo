@@ -47,47 +47,51 @@ def update_ratings(rating_a, rating_b, result_a):
 # =========================
 
 def get_rank_name(points):
-    if points < 30:
+
+    season_15_base = 30
+    current_season_multiplier = 0.7920792079207921
+
+    if points < season_15_base*1*current_season_multiplier:
         return "bronze_4"
-    elif points < 60:
+    elif points < season_15_base*2*current_season_multiplier:
         return "bronze_3"
-    elif points < 90:
+    elif points < season_15_base*3*current_season_multiplier:
         return "bronze_2"
-    elif points < 120:
+    elif points < season_15_base*4*current_season_multiplier:
         return "bronze_1"
-    elif points < 150:
+    elif points < season_15_base*5*current_season_multiplier:
         return "silver_4"
-    elif points < 180:
+    elif points < season_15_base*6*current_season_multiplier:
         return "silver_3"
-    elif points < 210:
+    elif points < season_15_base*7*current_season_multiplier:
         return "silver_2"
-    elif points < 240:
+    elif points < season_15_base*8*current_season_multiplier:
         return "silver_1"
-    elif points < 270:
+    elif points < season_15_base*9*current_season_multiplier:
         return "gold_4"
-    elif points < 300:
+    elif points < season_15_base*10*current_season_multiplier:
         return "gold_3"
-    elif points < 330:
+    elif points < season_15_base*11*current_season_multiplier:
         return "gold_2"
-    elif points < 360:
+    elif points < season_15_base*12*current_season_multiplier:
         return "gold_1"
-    elif points < 390:
+    elif points < season_15_base*13*current_season_multiplier:
         return "plat_4"
-    elif points < 420:
+    elif points < season_15_base*14*current_season_multiplier:
         return "plat_3"
-    elif points < 450:
+    elif points < season_15_base*15*current_season_multiplier:
         return "plat_2"
-    elif points < 480:
+    elif points < season_15_base*16*current_season_multiplier:
         return "plat_1"
-    elif points < 510:
+    elif points < season_15_base*17*current_season_multiplier:
         return "diamond_4"
-    elif points < 540:
+    elif points < season_15_base*18*current_season_multiplier:
         return "diamond_3"
-    elif points < 570:
+    elif points < season_15_base*19*current_season_multiplier:
         return "diamond_2"
-    elif points < 600:
+    elif points < season_15_base*20*current_season_multiplier:
         return "diamond_1"
-    elif points < 630:
+    elif points < season_15_base*21*current_season_multiplier:
         return "mythic"
     else:
         return "mythic"
