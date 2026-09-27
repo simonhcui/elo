@@ -1,7 +1,7 @@
 {
   "matchups": [
     {
-      "Player": "Adam",
+      "Player": "Adam S",
       "Record": "3-2",
       "Win %": "60.00%",
       "Total Matches": 5
@@ -61,6 +61,12 @@
       "Total Matches": 2
     },
     {
+      "Player": "Eric K",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
+    },
+    {
       "Player": "Evan K",
       "Record": "2-0",
       "Win %": "100.00%",
@@ -103,6 +109,12 @@
       "Total Matches": 1
     },
     {
+      "Player": "Kian",
+      "Record": "1-2",
+      "Win %": "33.33%",
+      "Total Matches": 3
+    },
+    {
       "Player": "Luca",
       "Record": "0-1",
       "Win %": "0.00%",
@@ -116,9 +128,9 @@
     },
     {
       "Player": "Luke",
-      "Record": "1-0",
+      "Record": "2-0",
       "Win %": "100.00%",
-      "Total Matches": 1
+      "Total Matches": 2
     },
     {
       "Player": "Matt Y",
@@ -176,9 +188,9 @@
     },
     {
       "Player": "Thana",
-      "Record": "1-1",
-      "Win %": "50.00%",
-      "Total Matches": 2
+      "Record": "2-1",
+      "Win %": "66.67%",
+      "Total Matches": 3
     },
     {
       "Player": "Tony",

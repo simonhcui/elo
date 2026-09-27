@@ -279,7 +279,9 @@ def main():
 
     for player in players:
 
-        if len(drafts[player]) < 40:
+        if len(drafts[player]) < 3:
+            continue
+        if player == "PlaceHolderA":
             continue
 
         # --------------------------------

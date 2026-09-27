@@ -1,7 +1,7 @@
 {
   "matchups": [
     {
-      "Player": "Adam",
+      "Player": "Adam S",
       "Record": "1-1",
       "Win %": "50.00%",
       "Total Matches": 2
@@ -31,10 +31,16 @@
       "Total Matches": 1
     },
     {
+      "Player": "Charles",
+      "Record": "0-2",
+      "Win %": "0.00%",
+      "Total Matches": 2
+    },
+    {
       "Player": "Chris A",
-      "Record": "2-4",
-      "Win %": "33.33%",
-      "Total Matches": 6
+      "Record": "2-5",
+      "Win %": "28.57%",
+      "Total Matches": 7
     },
     {
       "Player": "Christiaan",
@@ -50,15 +56,27 @@
     },
     {
       "Player": "Collin",
-      "Record": "0-6",
+      "Record": "0-7",
       "Win %": "0.00%",
-      "Total Matches": 6
+      "Total Matches": 7
+    },
+    {
+      "Player": "David K",
+      "Record": "0-1",
+      "Win %": "0.00%",
+      "Total Matches": 1
     },
     {
       "Player": "Eric K",
       "Record": "0-2",
       "Win %": "0.00%",
       "Total Matches": 2
+    },
+    {
+      "Player": "Grant",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
     },
     {
       "Player": "Jacob",
@@ -104,9 +122,9 @@
     },
     {
       "Player": "Luke",
-      "Record": "1-2",
-      "Win %": "33.33%",
-      "Total Matches": 3
+      "Record": "3-3",
+      "Win %": "50.00%",
+      "Total Matches": 6
     },
     {
       "Player": "Marco",
@@ -134,9 +152,9 @@
     },
     {
       "Player": "Noah",
-      "Record": "1-0",
-      "Win %": "100.00%",
-      "Total Matches": 1
+      "Record": "1-1",
+      "Win %": "50.00%",
+      "Total Matches": 2
     },
     {
       "Player": "Simon",
@@ -176,9 +194,9 @@
     },
     {
       "Player": "Travis",
-      "Record": "0-2",
+      "Record": "0-3",
       "Win %": "0.00%",
-      "Total Matches": 2
+      "Total Matches": 3
     },
     {
       "Player": "Walski",

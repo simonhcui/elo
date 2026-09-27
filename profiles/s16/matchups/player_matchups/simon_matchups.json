@@ -108,6 +108,12 @@
         "Total Matches": 1
     },
     {
+        "Player": "Hamzah",
+        "Record": "0-1",
+        "Win %": "0.00%",
+        "Total Matches": 1
+    },
+    {
         "Player": "Harrison",
         "Record": "1-1",
         "Win %": "50.00%",
@@ -208,12 +214,6 @@
         "Record": "5-2",
         "Win %": "71.43%",
         "Total Matches": 7
-    },
-    {
-        "Player": "PlaceHolderA",
-        "Record": "5-0",
-        "Win %": "100.00%",
-        "Total Matches": 5
     },
     {
         "Player": "Sonny",

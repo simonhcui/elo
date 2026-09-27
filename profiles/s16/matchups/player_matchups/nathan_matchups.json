@@ -66,6 +66,12 @@
         "Total Matches": 3
     },
     {
+        "Player": "Hamzah",
+        "Record": "1-0",
+        "Win %": "100.00%",
+        "Total Matches": 1
+    },
+    {
         "Player": "John C",
         "Record": "1-0",
         "Win %": "100.00%",
@@ -109,9 +115,9 @@
     },
     {
         "Player": "Matt Y",
-        "Record": "4-4",
-        "Win %": "50.00%",
-        "Total Matches": 8
+        "Record": "5-4",
+        "Win %": "55.56%",
+        "Total Matches": 9
     },
     {
         "Player": "Mike",
@@ -127,15 +133,9 @@
     },
     {
         "Player": "Noah",
-        "Record": "16-20",
-        "Win %": "44.44%",
-        "Total Matches": 36
-    },
-    {
-        "Player": "PlaceHolderA",
-        "Record": "0-2",
-        "Win %": "0.00%",
-        "Total Matches": 2
+        "Record": "17-21",
+        "Win %": "44.74%",
+        "Total Matches": 38
     },
     {
         "Player": "Simon",

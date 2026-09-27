@@ -31,6 +31,10 @@ def generate_matchup_json():
                     # Process event results after the event header is complete
                     for event_line in event_lines:
                         player1, player2, result = event_line
+
+                        if player2 == "PlaceHolderA":
+                            continue
+
                         if player1 != player2:
                             # Update participation count
                             player_events[player1] += 1

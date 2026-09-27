@@ -1,0 +1,18 @@
+{
+  "formatData": [
+    {
+      "Format": "2X2",
+      "Win %": "12.50%",
+      "Record": "1-7",
+      "Drafts": "3",
+      "Glicko": "1166 ± 175"
+    },
+    {
+      "Format": "DMR",
+      "Win %": "80.00%",
+      "Record": "8-2",
+      "Drafts": "4",
+      "Glicko": "1797 ± 128"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
       "Total Matches": 1
     },
     {
-      "Player": "Adam",
+      "Player": "Adam S",
       "Record": "9-5",
       "Win %": "64.29%",
       "Total Matches": 14
@@ -28,6 +28,12 @@
       "Player": "Andrew D",
       "Record": "1-1",
       "Win %": "50.00%",
+      "Total Matches": 2
+    },
+    {
+      "Player": "Charles",
+      "Record": "2-0",
+      "Win %": "100.00%",
       "Total Matches": 2
     },
     {
@@ -113,6 +119,12 @@
       "Record": "2-0",
       "Win %": "100.00%",
       "Total Matches": 2
+    },
+    {
+      "Player": "Kian",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
     },
     {
       "Player": "Luca",
@@ -209,6 +221,12 @@
       "Record": "0-2",
       "Win %": "0.00%",
       "Total Matches": 2
+    },
+    {
+      "Player": "Wesley",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
     }
   ]
 }

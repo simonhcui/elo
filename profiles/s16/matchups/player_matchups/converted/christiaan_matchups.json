@@ -7,7 +7,7 @@
       "Total Matches": 1
     },
     {
-      "Player": "Adam",
+      "Player": "Adam S",
       "Record": "0-1",
       "Win %": "0.00%",
       "Total Matches": 1
@@ -32,9 +32,9 @@
     },
     {
       "Player": "Clayton",
-      "Record": "0-3",
+      "Record": "0-4",
       "Win %": "0.00%",
-      "Total Matches": 3
+      "Total Matches": 4
     },
     {
       "Player": "Collin",
@@ -46,6 +46,12 @@
       "Player": "David O",
       "Record": "0-1",
       "Win %": "0.00%",
+      "Total Matches": 1
+    },
+    {
+      "Player": "Hamzah",
+      "Record": "1-0",
+      "Win %": "100.00%",
       "Total Matches": 1
     },
     {
@@ -115,10 +121,16 @@
       "Total Matches": 1
     },
     {
-      "Player": "Zane",
-      "Record": "1-0",
-      "Win %": "100.00%",
+      "Player": "Wesley",
+      "Record": "0-1",
+      "Win %": "0.00%",
       "Total Matches": 1
+    },
+    {
+      "Player": "Zane",
+      "Record": "1-1",
+      "Win %": "50.00%",
+      "Total Matches": 2
     }
   ]
 }

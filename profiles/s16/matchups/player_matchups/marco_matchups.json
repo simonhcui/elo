@@ -37,9 +37,9 @@
     },
     {
         "Player": "Chris A",
-        "Record": "5-7",
-        "Win %": "41.67%",
-        "Total Matches": 12
+        "Record": "5-8",
+        "Win %": "38.46%",
+        "Total Matches": 13
     },
     {
         "Player": "Christiaan",
@@ -91,6 +91,12 @@
     },
     {
         "Player": "Frank",
+        "Record": "0-2",
+        "Win %": "0.00%",
+        "Total Matches": 2
+    },
+    {
+        "Player": "Hamzah",
         "Record": "0-2",
         "Win %": "0.00%",
         "Total Matches": 2
@@ -205,9 +211,9 @@
     },
     {
         "Player": "Sonny",
-        "Record": "1-5",
-        "Win %": "16.67%",
-        "Total Matches": 6
+        "Record": "2-5",
+        "Win %": "28.57%",
+        "Total Matches": 7
     },
     {
         "Player": "Stephen",
@@ -247,8 +253,8 @@
     },
     {
         "Player": "Zane",
-        "Record": "0-1",
+        "Record": "0-2",
         "Win %": "0.00%",
-        "Total Matches": 1
+        "Total Matches": 2
     }
 ]

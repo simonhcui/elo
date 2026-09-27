@@ -1,7 +1,7 @@
 {
   "matchups": [
     {
-      "Player": "Adam",
+      "Player": "Adam S",
       "Record": "1-2",
       "Win %": "33.33%",
       "Total Matches": 3
@@ -13,6 +13,12 @@
       "Total Matches": 2
     },
     {
+      "Player": "Charles",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
+    },
+    {
       "Player": "Chris A",
       "Record": "1-1",
       "Win %": "50.00%",
@@ -20,9 +26,9 @@
     },
     {
       "Player": "Clayton",
-      "Record": "3-5",
-      "Win %": "37.50%",
-      "Total Matches": 8
+      "Record": "4-5",
+      "Win %": "44.44%",
+      "Total Matches": 9
     },
     {
       "Player": "Collin",
@@ -32,15 +38,15 @@
     },
     {
       "Player": "David K",
-      "Record": "1-2",
-      "Win %": "33.33%",
-      "Total Matches": 3
+      "Record": "3-2",
+      "Win %": "60.00%",
+      "Total Matches": 5
     },
     {
       "Player": "David O",
-      "Record": "0-1",
+      "Record": "0-2",
       "Win %": "0.00%",
-      "Total Matches": 1
+      "Total Matches": 2
     },
     {
       "Player": "Eric K",
@@ -50,9 +56,9 @@
     },
     {
       "Player": "Felix",
-      "Record": "1-1",
-      "Win %": "50.00%",
-      "Total Matches": 2
+      "Record": "2-1",
+      "Win %": "66.67%",
+      "Total Matches": 3
     },
     {
       "Player": "Frank",
@@ -79,16 +85,28 @@
       "Total Matches": 1
     },
     {
+      "Player": "Luke",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
+    },
+    {
       "Player": "Matt Y",
       "Record": "0-1",
       "Win %": "0.00%",
       "Total Matches": 1
     },
     {
-      "Player": "Nathan",
-      "Record": "0-2",
+      "Player": "Mike",
+      "Record": "0-1",
       "Win %": "0.00%",
-      "Total Matches": 2
+      "Total Matches": 1
+    },
+    {
+      "Player": "Nathan",
+      "Record": "0-3",
+      "Win %": "0.00%",
+      "Total Matches": 3
     },
     {
       "Player": "Nick C",
@@ -98,9 +116,9 @@
     },
     {
       "Player": "Noah",
-      "Record": "0-2",
+      "Record": "0-3",
       "Win %": "0.00%",
-      "Total Matches": 2
+      "Total Matches": 3
     },
     {
       "Player": "Patrick H",
@@ -122,9 +140,9 @@
     },
     {
       "Player": "Thana",
-      "Record": "0-1",
-      "Win %": "0.00%",
-      "Total Matches": 1
+      "Record": "1-1",
+      "Win %": "50.00%",
+      "Total Matches": 2
     },
     {
       "Player": "Tony",

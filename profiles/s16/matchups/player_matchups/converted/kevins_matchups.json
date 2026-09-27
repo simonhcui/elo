@@ -7,7 +7,7 @@
       "Total Matches": 2
     },
     {
-      "Player": "Adam",
+      "Player": "Adam S",
       "Record": "2-6",
       "Win %": "25.00%",
       "Total Matches": 8
@@ -38,9 +38,9 @@
     },
     {
       "Player": "Chris A",
-      "Record": "9-10",
-      "Win %": "47.37%",
-      "Total Matches": 19
+      "Record": "11-10",
+      "Win %": "52.38%",
+      "Total Matches": 21
     },
     {
       "Player": "Christiaan",
@@ -56,9 +56,9 @@
     },
     {
       "Player": "Collin",
-      "Record": "3-1",
-      "Win %": "75.00%",
-      "Total Matches": 4
+      "Record": "3-2",
+      "Win %": "60.00%",
+      "Total Matches": 5
     },
     {
       "Player": "David K",
@@ -89,6 +89,12 @@
       "Record": "6-6",
       "Win %": "50.00%",
       "Total Matches": 12
+    },
+    {
+      "Player": "Hamzah",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
     },
     {
       "Player": "Harrison",
@@ -134,9 +140,9 @@
     },
     {
       "Player": "Luke",
-      "Record": "4-3",
-      "Win %": "57.14%",
-      "Total Matches": 7
+      "Record": "5-3",
+      "Win %": "62.50%",
+      "Total Matches": 8
     },
     {
       "Player": "Marco",
@@ -176,9 +182,9 @@
     },
     {
       "Player": "Simon",
-      "Record": "6-5",
-      "Win %": "54.55%",
-      "Total Matches": 11
+      "Record": "7-5",
+      "Win %": "58.33%",
+      "Total Matches": 12
     },
     {
       "Player": "Sonny",
@@ -206,9 +212,9 @@
     },
     {
       "Player": "Tony",
-      "Record": "2-6",
-      "Win %": "25.00%",
-      "Total Matches": 8
+      "Record": "2-7",
+      "Win %": "22.22%",
+      "Total Matches": 9
     },
     {
       "Player": "Travis",
@@ -223,10 +229,16 @@
       "Total Matches": 30
     },
     {
+      "Player": "Wesley",
+      "Record": "2-1",
+      "Win %": "66.67%",
+      "Total Matches": 3
+    },
+    {
       "Player": "Will",
-      "Record": "4-4",
-      "Win %": "50.00%",
-      "Total Matches": 8
+      "Record": "4-5",
+      "Win %": "44.44%",
+      "Total Matches": 9
     },
     {
       "Player": "Zane",

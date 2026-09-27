@@ -78,6 +78,12 @@
         "Total Matches": 2
     },
     {
+        "Player": "Hamzah",
+        "Record": "5-0",
+        "Win %": "100.00%",
+        "Total Matches": 5
+    },
+    {
         "Player": "Jacob",
         "Record": "3-0",
         "Win %": "100.00%",
@@ -168,12 +174,6 @@
         "Total Matches": 3
     },
     {
-        "Player": "PlaceHolderA",
-        "Record": "1-5",
-        "Win %": "16.67%",
-        "Total Matches": 6
-    },
-    {
         "Player": "Simon",
         "Record": "5-2",
         "Win %": "71.43%",
@@ -181,9 +181,9 @@
     },
     {
         "Player": "Sonny",
-        "Record": "0-1",
-        "Win %": "0.00%",
-        "Total Matches": 1
+        "Record": "1-1",
+        "Win %": "50.00%",
+        "Total Matches": 2
     },
     {
         "Player": "Stephen",
@@ -223,8 +223,8 @@
     },
     {
         "Player": "Zane",
-        "Record": "0-2",
-        "Win %": "0.00%",
-        "Total Matches": 2
+        "Record": "1-2",
+        "Win %": "33.33%",
+        "Total Matches": 3
     }
 ]

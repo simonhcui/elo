@@ -1,7 +1,7 @@
 {
   "matchups": [
     {
-      "Player": "Adam",
+      "Player": "Adam S",
       "Record": "1-0",
       "Win %": "100.00%",
       "Total Matches": 1
@@ -77,6 +77,12 @@
       "Record": "2-2",
       "Win %": "50.00%",
       "Total Matches": 4
+    },
+    {
+      "Player": "Kian",
+      "Record": "1-0",
+      "Win %": "100.00%",
+      "Total Matches": 1
     },
     {
       "Player": "Luke",

@@ -55,9 +55,9 @@
     },
     {
         "Player": "Collin",
-        "Record": "12-8",
-        "Win %": "60.00%",
-        "Total Matches": 20
+        "Record": "13-8",
+        "Win %": "61.90%",
+        "Total Matches": 21
     },
     {
         "Player": "David O",
@@ -67,9 +67,9 @@
     },
     {
         "Player": "Eric K",
-        "Record": "11-8",
-        "Win %": "57.89%",
-        "Total Matches": 19
+        "Record": "12-9",
+        "Win %": "57.14%",
+        "Total Matches": 21
     },
     {
         "Player": "Evan S",
@@ -94,6 +94,12 @@
         "Record": "1-1",
         "Win %": "50.00%",
         "Total Matches": 2
+    },
+    {
+        "Player": "Hamzah",
+        "Record": "1-0",
+        "Win %": "100.00%",
+        "Total Matches": 1
     },
     {
         "Player": "Harrison",
@@ -145,9 +151,9 @@
     },
     {
         "Player": "Luke",
-        "Record": "11-2",
-        "Win %": "84.62%",
-        "Total Matches": 13
+        "Record": "11-3",
+        "Win %": "78.57%",
+        "Total Matches": 14
     },
     {
         "Player": "Marco",

@@ -1,0 +1,16 @@
+[
+    {
+        "Format": "MB2",
+        "Win %": "33.33%",
+        "Record": "2-4",
+        "Drafts": "3",
+        "Glicko": "1478 ± 159"
+    },
+    {
+        "Format": "MH1",
+        "Win %": "66.67%",
+        "Record": "4-2",
+        "Drafts": "3",
+        "Glicko": "1607 ± 156"
+    }
+]

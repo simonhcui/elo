@@ -1,0 +1,23 @@
+[
+    {
+        "Format": "Adam Cube",
+        "Win %": "64.00%",
+        "Record": "16-9",
+        "Drafts": "12",
+        "Glicko": "1701 ± 89"
+    },
+    {
+        "Format": "Collin Cube",
+        "Win %": "70.00%",
+        "Record": "7-3",
+        "Drafts": "5",
+        "Glicko": "1673 ± 135"
+    },
+    {
+        "Format": "Noah Cube",
+        "Win %": "50.00%",
+        "Record": "8-8",
+        "Drafts": "8",
+        "Glicko": "1429 ± 104"
+    }
+]

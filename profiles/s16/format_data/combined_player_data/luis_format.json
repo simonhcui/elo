@@ -1,0 +1,23 @@
+[
+    {
+        "Format": "Chaos",
+        "Win %": "72.22%",
+        "Record": "130-50",
+        "Drafts": "88",
+        "Glicko": "1851 ± 67"
+    },
+    {
+        "Format": "MB2",
+        "Win %": "80.00%",
+        "Record": "4-1",
+        "Drafts": "3",
+        "Glicko": "1815 ± 174"
+    },
+    {
+        "Format": "TSR",
+        "Win %": "50.00%",
+        "Record": "3-3",
+        "Drafts": "3",
+        "Glicko": "1435 ± 164"
+    }
+]

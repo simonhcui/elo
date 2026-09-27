@@ -72,6 +72,12 @@
         "Total Matches": 2
     },
     {
+        "Player": "Grant",
+        "Record": "1-0",
+        "Win %": "100.00%",
+        "Total Matches": 1
+    },
+    {
         "Player": "Jacob",
         "Record": "0-2",
         "Win %": "0.00%",
@@ -115,9 +121,9 @@
     },
     {
         "Player": "Luke",
-        "Record": "2-3",
-        "Win %": "40.00%",
-        "Total Matches": 5
+        "Record": "3-3",
+        "Win %": "50.00%",
+        "Total Matches": 6
     },
     {
         "Player": "Marco",
@@ -187,9 +193,9 @@
     },
     {
         "Player": "Travis",
-        "Record": "0-2",
+        "Record": "0-3",
         "Win %": "0.00%",
-        "Total Matches": 2
+        "Total Matches": 3
     },
     {
         "Player": "Walski",

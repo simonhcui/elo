@@ -1,0 +1,67 @@
+{
+  "formatData": [
+    {
+      "Format": "2X2",
+      "Win %": "66.67%",
+      "Record": "28-14",
+      "Drafts": "16",
+      "Glicko": "1725 ± 94"
+    },
+    {
+      "Format": "Chaos",
+      "Win %": "75.00%",
+      "Record": "48-16",
+      "Drafts": "32",
+      "Glicko": "1854 ± 67"
+    },
+    {
+      "Format": "DMR",
+      "Win %": "61.29%",
+      "Record": "19-12",
+      "Drafts": "12",
+      "Glicko": "1602 ± 86"
+    },
+    {
+      "Format": "FIN",
+      "Win %": "80.00%",
+      "Record": "4-1",
+      "Drafts": "3",
+      "Glicko": "1756 ± 168"
+    },
+    {
+      "Format": "MB2",
+      "Win %": "58.33%",
+      "Record": "42-30",
+      "Drafts": "36",
+      "Glicko": "1674 ± 65"
+    },
+    {
+      "Format": "MH1",
+      "Win %": "70.97%",
+      "Record": "44-18",
+      "Drafts": "27",
+      "Glicko": "1651 ± 76"
+    },
+    {
+      "Format": "MH2",
+      "Win %": "76.47%",
+      "Record": "52-16",
+      "Drafts": "29",
+      "Glicko": "1738 ± 74"
+    },
+    {
+      "Format": "MH3",
+      "Win %": "77.27%",
+      "Record": "17-5",
+      "Drafts": "11",
+      "Glicko": "1787 ± 95"
+    },
+    {
+      "Format": "TSR",
+      "Win %": "36.36%",
+      "Record": "4-7",
+      "Drafts": "5",
+      "Glicko": "1417 ± 128"
+    }
+  ]
+}

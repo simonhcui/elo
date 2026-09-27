@@ -37,9 +37,9 @@
     },
     {
         "Player": "Charles",
-        "Record": "1-1",
-        "Win %": "50.00%",
-        "Total Matches": 2
+        "Record": "2-1",
+        "Win %": "66.67%",
+        "Total Matches": 3
     },
     {
         "Player": "Chris A",
@@ -73,9 +73,9 @@
     },
     {
         "Player": "Eric K",
-        "Record": "26-24",
-        "Win %": "52.00%",
-        "Total Matches": 50
+        "Record": "27-24",
+        "Win %": "52.94%",
+        "Total Matches": 51
     },
     {
         "Player": "Evan S",
@@ -93,6 +93,12 @@
         "Player": "Grant",
         "Record": "3-0",
         "Win %": "100.00%",
+        "Total Matches": 3
+    },
+    {
+        "Player": "Hamzah",
+        "Record": "2-1",
+        "Win %": "66.67%",
         "Total Matches": 3
     },
     {
@@ -175,9 +181,9 @@
     },
     {
         "Player": "Nathan",
-        "Record": "20-16",
-        "Win %": "55.56%",
-        "Total Matches": 36
+        "Record": "21-17",
+        "Win %": "55.26%",
+        "Total Matches": 38
     },
     {
         "Player": "Nick C",
@@ -196,12 +202,6 @@
         "Record": "2-1",
         "Win %": "66.67%",
         "Total Matches": 3
-    },
-    {
-        "Player": "PlaceHolderA",
-        "Record": "2-4",
-        "Win %": "33.33%",
-        "Total Matches": 6
     },
     {
         "Player": "Simon",

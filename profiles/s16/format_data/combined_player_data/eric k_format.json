@@ -1,0 +1,79 @@
+[
+    {
+        "Format": "Adam Cube",
+        "Win %": "56.52%",
+        "Record": "13-10",
+        "Drafts": "11",
+        "Glicko": "1635 ± 91"
+    },
+    {
+        "Format": "Chaos",
+        "Win %": "53.06%",
+        "Record": "26-23",
+        "Drafts": "24",
+        "Glicko": "1651 ± 67"
+    },
+    {
+        "Format": "Collin Cube",
+        "Win %": "42.86%",
+        "Record": "9-12",
+        "Drafts": "11",
+        "Glicko": "1403 ± 96"
+    },
+    {
+        "Format": "FIN",
+        "Win %": "64.15%",
+        "Record": "34-19",
+        "Drafts": "25",
+        "Glicko": "1651 ± 72"
+    },
+    {
+        "Format": "John Cube",
+        "Win %": "50.00%",
+        "Record": "5-5",
+        "Drafts": "5",
+        "Glicko": "1519 ± 137"
+    },
+    {
+        "Format": "MB2",
+        "Win %": "64.00%",
+        "Record": "64-36",
+        "Drafts": "49",
+        "Glicko": "1619 ± 65"
+    },
+    {
+        "Format": "MH1",
+        "Win %": "33.33%",
+        "Record": "2-4",
+        "Drafts": "3",
+        "Glicko": "1439 ± 173"
+    },
+    {
+        "Format": "MH2",
+        "Win %": "50.00%",
+        "Record": "3-3",
+        "Drafts": "3",
+        "Glicko": "1548 ± 166"
+    },
+    {
+        "Format": "NEO",
+        "Win %": "66.67%",
+        "Record": "12-6",
+        "Drafts": "9",
+        "Glicko": "1750 ± 107"
+    },
+    {
+        "Format": "Noah Cube",
+        "Win %": "53.12%",
+        "Record": "17-15",
+        "Drafts": "15",
+        "Glicko": "1469 ± 80"
+    },
+    {
+        "Format": "TSR",
+        "Win %": "66.67%",
+        "Record": "4-2",
+        "Drafts": "3",
+        "Glicko": "1727 ± 176"
+    }
+]
