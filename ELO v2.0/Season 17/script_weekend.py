@@ -18,8 +18,8 @@ LOSS_POINTS = -15
 INITIAL_RATING = 1500
 K_FACTOR = 320
 
-INPUT_FILE = "results_weekend.csv"
-OUTPUT_FILE = "leaderboard_weekend.json"
+INPUT_FILE = "results_wildcard.csv"
+OUTPUT_FILE = "leaderboard_wildcard.json"
 
 
 # =========================

@@ -1,0 +1,95 @@
+Stephen,Chris A,0,Chaos,10-1-2026
+Daniel L,Sonny,0
+Daniel C,Bradley Schlesinger,0
+Tony,Luke,1
+Bradley Schlesinger,Chris A,0
+Daniel C,Stephen,1
+Luke,Daniel L,0
+
+Aaron,Alberto,0,Chaos,10-1-2026
+Thana,Luke,0
+Stephen,Chris A,1
+Sonny,Tony,1
+Aaron,Chris A,0
+Alberto,Stephen,1
+Tony,Thana,1
+Sonny,Luke,1
+
+Jackson,Nathan,0,MB2,10-2-2026
+Eric K,Simon,1
+Thana,Noah,0
+Thana,Simon,1
+Noah,Jackson,1
+Nathan,Eric K,1
+
+Jesse Luong,Juwan,1,MB2,10-3-2026
+David B,Collin,0
+Noah,Chris A,0
+Nathan,David O,1
+Jesse Luong,Chris A,1
+Juwan,Noah,0
+David B,David O,0
+Collin,Nathan,0
+
+Jackson,An,1,Strix Block,10-3-2026
+Charles,Nick C,1
+Eric K,Winston,0
+Ana,Luke,0
+Jackson,Winston,0
+An,Eric K,0
+Charles,Luke,1
+Nick C,Ana,0
+
+Thana,Patrick P,0,Chaos,10-3-2026
+Matt H,Walski,1
+Patrick H,Parker,1
+Nick D,Zane,0
+Thana,Parker,1
+Patrick H,Patrick P,0
+Matt H,Zane,0
+Walski,Nick D,1
+
+Zane,Andrew N,1,Chaos,10-3-2026
+Parker,Patrick P,1
+Matt H,Patrick H,0
+Walski,Nick D,1
+Walski,Parker,0
+Nick D,Patrick P,1
+Matt H,Andrew N,1
+Patrick H,Zane,0
+
+Todd,Simon,0,MB2,10-3-2026
+Juwan,Collin,1
+David O,Thana,1
+Nathan,Chris A,1
+Todd,Thana,1
+Simon,David O,0
+Juwan,Nathan,0
+Collin,Chris A,1
+
+Eric K,Felix,0,Strix Block,10-3-2026
+Luke,Winston,1
+Ana,Nick C,1
+Jackson,Noah,1
+Ana,Felix,1
+Nick C,Eric K,0
+Luke,Jackson,0
+Winston,Noah,0
+
+Chris A,Andrew N,0,Chaos,10-3-2026
+Patrick P,Simon,1
+Thana,Walski,1
+Parker,Collin,0
+Chris A,Walski,1
+Andrew N,Thana,0
+Patrick P,Collin,0
+Simon,Parker,0
+
+Parker,Chris A,0,Chaos,10-3-2026
+Walski,Collin,1
+Patrick P,Kevin S,0
+Collin,Parker,0
+Kevin S,Walski,1
+Patrick P,Chris A,0
+
+PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
