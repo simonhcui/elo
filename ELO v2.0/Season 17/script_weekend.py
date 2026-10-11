@@ -49,7 +49,7 @@ def update_ratings(rating_a, rating_b, result_a):
 def get_rank_name(points):
 
     season_15_base = 30
-    current_season_multiplier = 0.2
+    current_season_multiplier = 0.7920792079207921
 
     if points < season_15_base*1*current_season_multiplier:
         return "bronze_4"
