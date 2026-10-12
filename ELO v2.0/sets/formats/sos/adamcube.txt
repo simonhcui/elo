@@ -1,0 +1,86 @@
+2,0,Golgari,Nathan
+2,0,Simic,Charles
+1,1,Orzhov,Jacob
+1,1,Orzhov,Jim
+1,1,Temur,Noah
+1,1,Boros,Grant
+0,2,Izzet,Clayton
+0,2,Golgari,Grace
+2,0,Orzhov,Andre
+2,0,4c no white,Noah
+1,1,Boros,Clayton
+1,1,Izzet,Charles
+1,1,Orzhov,Collin
+1,1,Boros,Matt H
+1,1,Simic,Nathan
+1,1,Golgari,Grant
+0,2,Izzet,Thana
+0,2,Golgari,Grace
+2,0,Temur,Ryan S
+2,0,Sultai,Nathan
+2,0,Temur,Grace
+1,1,Sultai,Simon
+1,1,Orzhov,Nick D
+1,1,Boros,Clayton
+1,1,Boros,Eric K
+0,2,Orzhov,Thana
+0,2,Izzet,David K
+0,2,Boros,Ken
+2,0,Izzet,Simon
+2,0,Temur,Noah
+1,1,Golgari,Thana
+1,1,Boros,Clayton
+1,1,Orzhov,Eric K
+1,1,Golgari,Luke
+0,2,Izzet,Grace
+0,2,Izzet,Nathan
+2,0,Izzet,Clayton
+2,0,Simic,Luke
+1,1,Orzhov,Thana
+1,1,4c no black,Simon
+1,1,Jeskai,Noah
+1,1,Boros,Nathan
+0,2,Sultai,Eric K
+0,2,Boros,Grace
+2,0,Boros,Eric K
+2,0,Boros,Clayton
+1,1,Golgari,Nick D
+1,1,Temur,Andre
+1,1,Orzhov,Grace
+1,1,4c no white,Noah
+1,1,Golgari,Thana
+1,1,Temur,Nathan
+0,2,Izzet,David K
+0,2,Sultai,Simon
+2,0,Golgari,Thana
+2,0,Abzan,Andre
+2,1,Boros,Noah
+1,1,Orzhov,Felix
+1,1,Izzet,Clayton
+1,2,Temur,David K
+0,2,Boros,Zoe
+0,2,Orzhov,Nick D
+2,0,4c no white,Eric K
+2,0,Golgari,David K
+1,1,Izzet,Kent
+1,1,Simic,Nathan
+1,1,Izzet,Noah
+1,1,Temur,Luke
+0,2,Izzet,Felix
+0,2,Mardu,An
+2,0,Boros,Eric K
+2,0,5c,Noah
+1,1,Orzhov,Adam S
+1,1,Golgari,Winston
+1,1,Simic,Stephen
+1,1,5c,Luke
+0,2,Temur,Thana
+0,2,5c,David K
+2,0,Golgari,Thana
+2,0,5c,Eric K
+1,1,Boros,Brian H
+1,1,4c no black,An
+1,1,Temur,David K
+1,1,5c,Nathan
+0,2,Orzhov,Noah
+0,2,Abzan,Luke

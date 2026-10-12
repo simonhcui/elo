@@ -1,0 +1,8 @@
+2,0,Boros,Alan
+2,0,4c no blue,Clayton
+1,1,Dimir,Chris A
+1,1,Golgari,Stephen
+1,1,5c,Sonny
+1,1,Rakdos,Simon
+0,2,Orzhov,Brian M
+0,2,Jeskai,John K
