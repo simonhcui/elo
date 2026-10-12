@@ -1,9 +1,9 @@
 2X2,42
-Chaos,296
+Chaos,304
 CNS,1
 DOM,7
 ELD,8
-EMN,2
+EMN,3
 MH2,41
 NEO,20
 ORI,1
@@ -39,9 +39,9 @@ OTJ,7
 John Cube,10
 MH3,22
 M19,1
-MB2,84
+MB2,87
 Alan Cube,6
-SOI,1
+SOI,2
 DSK,7
 INR,3
 Collin Cube,11
@@ -71,4 +71,6 @@ HOB,3
 Grant Cube,1
 Backdraft,1
 FRF/FRF/KTK,1
+FRA,7
+Strix Block,2
 TEST,1
