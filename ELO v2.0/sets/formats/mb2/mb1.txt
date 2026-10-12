@@ -679,3 +679,35 @@
 1,1,Golgari,Curtis
 0,2,5c,Sonny
 0,2,Orzhov,Thana
+2,0,Orzhov,Nathan
+2,0,Simic,Noah
+1,1,Jeskai,Thana
+1,1,Izzet,Eric K
+0,2,Boros,Jackson
+0,2,Selesnya,Simon
+2,0,Boros,Jesse Luong
+2,0,Rakdos,Nathan
+1,1,Simic,Chris A
+1,1,Boros,Noah
+1,1,Mardu,Collin
+1,1,Sultai,David O
+0,2,Golgari,Juwan
+0,2,Orzhov,David B
+2,0,Orzhov,Nathan
+2,0,Rakdos,David O
+1,1,Grixis,Simon
+1,1,Simic,Todd
+1,1,Boros,Juwan
+1,1,Rakdos,Collin
+0,2,Selesnya,Chris A
+0,2,Sultai,Thana
+2,0,Rakdos,Clayton
+2,0,Mardu,Collin
+1,1,Boros,Nick D
+1,1,Mono G,Eric K
+1,1,Azorius,An
+1,1,Izzet,Thana
+1,1,Boros,Jackson
+1,1,Azorius,Noah
+0,2,Orzhov,David K
+0,2,Gruul,Andy
