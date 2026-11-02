@@ -1,5 +1,5 @@
 Stephen,Chris A,0,Chaos,10-1-2026
-Daniel L,Sonny,0
+Daniel L,Sonny L,0
 Daniel C,Bradley Schlesinger,0
 Tony,Luke,1
 Bradley Schlesinger,Chris A,0
@@ -9,11 +9,11 @@ Luke,Daniel L,0
 Aaron,Alberto,0,Chaos,10-1-2026
 Thana,Luke,0
 Stephen,Chris A,1
-Sonny,Tony,1
+Sonny L,Tony,1
 Aaron,Chris A,0
 Alberto,Stephen,1
 Tony,Thana,1
-Sonny,Luke,1
+Sonny L,Luke,1
 
 Jackson,Nathan,0,MB2,10-2-2026
 Eric K,Simon,1
@@ -101,12 +101,12 @@ Tony,Stephen,0
 Luke,Chris A,1
 Trung,Adam S,1
 
-Trung,Sonny,1,Chaos,10-8-2026
+Trung,Sonny L,1,Chaos,10-8-2026
 Chris A,Tony,1
 Collin,Stephen,1
 Adam S,Marco,1
 Trung,Collin,1
-Sonny,Stephen,1
+Sonny L,Stephen,1
 Chris A,Adam S,1
 Tony,Marco,1
 
@@ -121,12 +121,12 @@ Jackson,Noah,1
 Collin,Nick D,1
 Eric K,Clayton,0
 
-Luke,Sonny,1,Chaos,10-15-2026
+Luke,Sonny L,1,Chaos,10-15-2026
 Mike,Travis,1
 Marco,Stephen,1
 Chris A,Simon,1
 Luke,Marco,1
-Sonny,Stephen,1
+Sonny L,Stephen,1
 Mike,Chris A,0
 Travis,Simon,1
 
@@ -183,19 +183,19 @@ Jackson,Simon,1
 Noah,Thana,1
 
 Kevin S,Daniel L,1,Chaos,10-22-2026
-Sonny,Luke,1
+Sonny L,Luke,1
 Luis,Chris A,1
 Luis,Luke,1
-Sonny,Kevin S,0
+Sonny L,Kevin S,0
 Chris A,Daniel L,1
 
 Luke,Luis,0,Chaos,10-22-2026
 Kevin S,Walski,1
-Tony,Sonny,1
+Tony,Sonny L,1
 Tony,Walski,1
 Kevin S,Luis,0
-Luke,Sonny,0
-Kevin S,Sonny,1
+Luke,Sonny L,0
+Kevin S,Sonny L,1
 Luke,Walski,1
 Tony,Luis,0
 
@@ -207,5 +207,16 @@ Thana,Nick D,1
 Brian H,David K,1
 Jim,Eric K,0
 Jackson,An,1
+
+Daniel L,Simon,1,Chaos,10-29-2026
+Luke,Chris A,0
+Tony,Mike,1
+Aaron,Marco,0
+Travis,Sonny L,1
+Travis,Simon,0
+Chris A,Sonny L,1
+Aaron,Luke,1
+Mike,Marco,1
+Tony,Daniel L,1
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
