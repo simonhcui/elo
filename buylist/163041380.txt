@@ -1,0 +1,185 @@
+Aetherdrift
+Vehicle Token (0012)	1 NM @ $0.03	$0.03
+Vehicle Token (0012)	1 EX @ $0.02	$0.02
+ 
+Avatar: The Last Airbender Foil
+Bear Token (0012)	1 NM @ $0.08	$0.08
+ 
+Avatar: The Last Airbender
+Soldier Token (0011)	1 NM @ $0.03	$0.03
+ 
+Commander Masters
+Thraben Inspector	1 NM @ $0.05	$0.05
+Akiri, Fearless Voyager	1 EX @ $0.26	$0.26
+Loyal Subordinate	1 EX @ $0.05	$0.05
+ 
+Dominaria
+Merfolk Trickster	1 NM @ $0.08	$0.08
+ 
+Dominaria United
+Shore Up	1 NM @ $0.04	$0.04
+ 
+Final Fantasy Foil
+Forest (0307)	1 NM @ $0.10	$0.10
+Island (0297)	2 NM @ $0.16	$0.32
+Mountain (0304)	8 NM @ $0.08	$0.64
+Plains (0296)	7 NM @ $0.10	$0.70
+Swamp (0300)	5 NM @ $0.20	$1.00
+Forest (0307)	1 EX @ $0.08	$0.08
+Island (0297)	1 EX @ $0.12	$0.12
+Plains (0296)	1 EX @ $0.08	$0.08
+Tellah, Great Sage	1 EX @ $0.06	$0.06
+ 
+Final Fantasy
+Black Waltz No. 3	1 NM @ $0.03	$0.03
+Hero Token (0004)	1 NM @ $0.04	$0.04
+PuPu UFO	1 NM @ $0.20	$0.20
+ 
+Foundations Foil
+Ninja Token (0012)	1 NM @ $0.60	$0.60
+ 
+Innistrad: Crimson Vow
+Wolf Token (014)	1 NM @ $0.04	$0.04
+ 
+Ixalan
+Tocatli Honor Guard	2 NM @ $0.04	$0.08
+ 
+Jumpstart 2022
+Michiko Konda, Truth Seeker	1 NM @ $3.40	$3.40
+ 
+Kaldheim
+DFC Helper Card (7)	1 NM @ $0.05	$0.05
+DFC Helper Card (9)	1 NM @ $0.05	$0.05
+DFC Helper Card (3)	1 EX @ $0.04	$0.04
+DFC Helper Card (9)	1 EX @ $0.04	$0.04
+ 
+Kaldheim Variants
+Svella, Ice Shaper (Showcase)	1 NM @ $0.03	$0.03
+ 
+Kamigawa: Neon Dynasty
+Go-Shintai of Ancient Wars	1 NM @ $0.03	$0.03
+Go-Shintai of Boundless Vigor	1 NM @ $0.03	$0.03
+ 
+Modern Horizons
+Shelter	2 NM @ $0.03	$0.06
+Sling-Gang Lieutenant	1 NM @ $0.07	$0.07
+Angel Token	1 EX @ $0.16	$0.16
+Bear Token	1 EX @ $0.05	$0.05
+Shapeshifter Token	1 EX @ $0.02	$0.02
+ 
+Modern Horizons 2 Variants
+Arid Mesa (Foil Etched Retro Frame)	1 NM @ $28.00	$28.00
+Verdant Catacombs (Retro Frame)	1 NM @ $23.00	$23.00
+ 
+Modern Horizons 3
+Emrakul's Messenger	1 NM @ $0.04	$0.04
+Mountain (0307)	1 NM @ $0.07	$0.07
+ 
+Mystery Booster 2
+Anax and Cymede & Kynaios and Tiro (Not Tournament Legal)	1 NM @ $0.04	$0.04
+Arcanum Things (Not Tournament Legal)	1 NM @ $0.04	$0.04
+Subgoyf (Not Tournament Legal)	1 NM @ $0.05	$0.05
+ 
+Mystery Booster/The List
+Ayli, Eternal Pilgrim (Oath of the Gatewatch)	1 NM @ $0.07	$0.07
+Grateful Apparition (War of the Spark)	1 NM @ $0.05	$0.05
+Hydra's Growth (Theros Beyond Death)	1 NM @ $0.95	$0.95
+Piracy Charm (Planar Chaos)	1 NM @ $0.04	$0.04
+Planar Atlas (Jumpstart 2022)	1 NM @ $0.60	$0.60
+ 
+Phyrexia: All Will Be One
+Plains (262)	1 NM @ $0.04	$0.04
+Vivisurgeon's Insight	1 NM @ $0.03	$0.03
+Plains (262)	1 EX @ $0.03	$0.03
+ 
+Tarkir: Dragonstorm
+Soldier Token (0004)	1 NM @ $0.03	$0.03
+ 
+Tarkir: Dragonstorm Variants
+Sagu Wildling (0306 - Showcase)	1 NM @ $0.15	$0.15
+ 
+Time Spiral Remastered
+Firewake Sliver	1 NM @ $0.03	$0.03
+Prismatic Lens	2 NM @ $0.08	$0.16
+ 
+4th Edition
+Swamp (A)	6 EX @ $0.05	$0.30
+Swamp (A)	5 VG @ $0.04	$0.20
+ 
+5th Edition
+Island (A)	1 EX @ $0.08	$0.08
+ 
+9th Edition
+Forest (348 B)	2 EX @ $0.06	$0.12
+Mountain (344 B)	1 EX @ $0.05	$0.05
+Plains (331 A)	2 EX @ $0.05	$0.10
+ 
+Avacyn Restored
+Human Token (Red)	3 EX @ $0.02	$0.06
+ 
+Commander Masters Foil
+Final Parting	1 EX @ $0.45	$0.45
+ 
+Duskmourn: House of Horror
+Treasure Token (0015)	1 EX @ $0.03	$0.03
+ 
+Edge of Eternities Commander Decks Foil
+Golem Token (0012)	1 EX @ $0.15	$0.15
+ 
+Kaladesh
+Fumigate	1 EX @ $0.03	$0.03
+ 
+Khans of Tarkir
+Warrior Token (Ryan Barger)	1 EX @ $0.02	$0.02
+Warrior Token (Yefim Kligerman)	1 EX @ $0.02	$0.02
+ 
+Mirrodin Besieged
+Poison Counter	3 EX @ $0.02	$0.06
+Poison Counter	1 VG @ $0.02	$0.02
+ 
+New Phyrexia
+Poison Counter	4 EX @ $0.02	$0.08
+Poison Counter	2 VG @ $0.02	$0.04
+ 
+Onslaught
+Forest (348 B)	2 EX @ $0.06	$0.12
+ 
+Outlaws of Thunder Junction Breaking News Foil
+Skewer the Critics (0026 - Showcase)	1 EX @ $0.06	$0.06
+ 
+Ravnica Allegiance
+Thopter Token	1 EX @ $0.02	$0.02
+ 
+Ravnica Remastered
+Domri Rade Emblem	2 EX @ $0.03	$0.06
+ 
+Scars of Mirrodin
+Poison Counter	2 EX @ $0.03	$0.06
+Soldier Token	2 EX @ $0.03	$0.06
+ 
+Streets of New Capenna
+Treasure Token (014)	1 EX @ $0.02	$0.02
+ 
+The Brothers' War Foil
+Forest Dryad Token	1 EX @ $0.34	$0.34
+Soldier Token (009)	1 EX @ $0.09	$0.09
+ 
+10th Edition
+Forest (383 D)	4 VG @ $0.03	$0.12
+ 
+Champions of Kamigawa
+Island (291 A)	1 VG @ $0.03	$0.03
+Island (294 D)	2 VG @ $0.06	$0.12
+ 
+Mirrodin
+Island (291 A)	5 VG @ $0.06	$0.30
+Island (294 D)	4 VG @ $0.03	$0.12
+Island (291 A)	1 G @ $0.04	$0.04
+Island (294 D)	2 G @ $0.02	$0.04
+ 
+Murders at Karlov Manor Foil
+Toxin Analysis	1 VG @ $0.05	$0.05
+ 
+Tempest
+Forest (C)	3 VG @ $0.08	$0.24
+Forest (C)	1 G @ $0.06	$0.06

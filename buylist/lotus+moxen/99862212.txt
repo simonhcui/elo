@@ -1,0 +1,68 @@
+Jumpstart 2022
+Acrobatic Maneuver 	1 NM @ $0.05 	$0.05
+Adventuring Gear 	1 NM @ $0.04 	$0.04
+Amoeboid Changeling 	1 NM @ $0.18 	$0.18
+Angelic Page 	1 NM @ $0.04 	$0.04
+Augury Owl 	1 NM @ $0.06 	$0.06
+Benalish Honor Guard 	1 NM @ $0.03 	$0.03
+Black Cat 	1 NM @ $0.03 	$0.03
+Broken Bond 	2 NM @ $0.06 	$0.12
+Captivating Unicorn 	3 NM @ $0.05 	$0.15
+Chains of Custody 	6 NM @ $0.10 	$0.60
+Chandra's Magmutt 	1 NM @ $0.03 	$0.03
+Chandra's Pyrohelix 	1 NM @ $0.03 	$0.03
+Chilling Trap 	1 NM @ $0.05 	$0.05
+Chittering Rats 	1 NM @ $0.15 	$0.15
+Corpse Churn 	2 NM @ $0.03 	$0.06
+Demonic Gifts 	1 NM @ $0.05 	$0.05
+Doomed Dissenter 	1 NM @ $0.03 	$0.03
+Dutiful Replicator 	3 NM @ $0.03 	$0.09
+Evolving Wilds 	1 NM @ $0.03 	$0.03
+Fanatical Firebrand 	1 NM @ $0.03 	$0.03
+Gallant Cavalry 	1 NM @ $0.03 	$0.03
+Gearseeker Serpent 	5 NM @ $0.05 	$0.25
+Ghoul's Feast 	1 NM @ $0.03 	$0.03
+Gleaming Barrier 	1 NM @ $0.03 	$0.03
+Gnawing Zombie 	1 NM @ $0.03 	$0.03
+Goldvein Pick 	3 NM @ $0.06 	$0.18
+Gorging Vulture 	1 NM @ $0.03 	$0.03
+Groundswell 	2 NM @ $0.10 	$0.20
+Ilysian Caryatid 	2 NM @ $0.06 	$0.12
+Inspiring Overseer 	1 NM @ $0.15 	$0.15
+Ivy Lane Denizen 	1 NM @ $0.03 	$0.03
+Jousting Lance 	1 NM @ $0.03 	$0.03
+Light of Hope 	1 NM @ $0.05 	$0.05
+Marauding Blight-Priest 	1 NM @ $0.05 	$0.05
+Master's Rebuke 	1 NM @ $0.04 	$0.04
+Moment of Triumph 	1 NM @ $0.03 	$0.03
+Nest Robber 	1 NM @ $0.01 	$0.01
+No Escape 	1 NM @ $0.03 	$0.03
+Octoprophet 	2 NM @ $0.03 	$0.06
+Overgrowth 	1 NM @ $0.06 	$0.06
+Plundering Predator 	2 NM @ $0.03 	$0.06
+Prey Upon 	3 NM @ $0.01 	$0.03
+Rambunctious Mutt 	1 NM @ $0.03 	$0.03
+Reave Soul 	1 NM @ $0.01 	$0.01
+Reckless Fireweaver 	2 NM @ $0.24 	$0.48
+Roots of Wisdom 	1 NM @ $0.05 	$0.05
+Sandstone Bridge 	1 NM @ $0.03 	$0.03
+Searing Spear 	1 NM @ $0.05 	$0.05
+Self-Assembler 	2 NM @ $0.03 	$0.06
+Servant of the Scale 	1 NM @ $0.03 	$0.03
+Soul Read 	2 NM @ $0.03 	$0.06
+Spectral Hunt-Caller 	3 NM @ $0.03 	$0.09
+Spirited Companion 	3 NM @ $0.07 	$0.21
+Sudden Breakthrough 	1 NM @ $0.06 	$0.06
+Thraben Inspector 	1 NM @ $0.06 	$0.06
+Tormented Soul 	1 NM @ $0.05 	$0.05
+Tragic Lesson 	1 NM @ $0.04 	$0.04
+Transcendent Envoy 	2 NM @ $0.03 	$0.06
+Triton Shorestalker 	2 NM @ $0.06 	$0.12
+Universal Automaton 	1 NM @ $0.09 	$0.09
+Vampire Envoy 	1 NM @ $0.04 	$0.04
+Viashino Pyromancer 	1 NM @ $0.05 	$0.05
+Village Rites 	1 NM @ $0.07 	$0.07
+Weapon Rack 	1 NM @ $0.03 	$0.03
+Wizard Mentor 	1 NM @ $0.03 	$0.03
+Wolf's Quarry 	2 NM @ $0.03 	$0.06
+Young Wolf 	1 NM @ $0.45 	$0.45

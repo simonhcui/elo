@@ -1,0 +1,41 @@
+Aether Revolt
+Implement of Combustion	10 NM @ $0.03	$0.30
+Mobile Garrison	4 NM @ $0.04	$0.16
+Mobile Garrison	2 EX @ $0.03	$0.06
+ 
+Alara Reborn
+Terminate	1 NM @ $0.09	$0.09
+Terminate	2 EX @ $0.07	$0.14
+ 
+Eventide
+Slippery Bogle	1 NM @ $0.65	$0.65
+ 
+Innistrad
+Silent Departure	1 NM @ $0.03	$0.03
+Traitorous Blood	3 NM @ $0.03	$0.09
+Silent Departure	1 EX @ $0.02	$0.02
+ 
+Ixalan
+Prying Blade	1 NM @ $0.03	$0.03
+Spell Pierce	1 NM @ $0.04	$0.04
+Prying Blade	1 EX @ $0.02	$0.02
+ 
+Modern Horizons 3
+Nethergoyf	1 NM @ $12.00	$12.00
+ 
+New Phyrexia
+Forest (174 A)	1 NM @ $0.12	$0.12
+ 
+Oath of the Gatewatch
+Crumbling Vestige	1 NM @ $0.05	$0.05
+ 
+Ravnica Allegiance
+Bankrupt in Blood	4 NM @ $0.03	$0.12
+Collision // Colossus	7 NM @ $0.03	$0.21
+Light Up the Stage	3 NM @ $0.04	$0.12
+ 
+War of the Spark
+Kaya's Ghostform	1 NM @ $0.50	$0.50
+Lazotep Plating	1 NM @ $0.15	$0.15
+Mana Geode	1 NM @ $0.03	$0.03
+Teferi's Time Twist	2 NM @ $0.09	$0.18

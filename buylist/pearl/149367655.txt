@@ -1,0 +1,66 @@
+Bloomburrow
+Artist's Talent	1 NM @ $0.25	$0.25
+Coruscation Mage	1 NM @ $0.08	$0.08
+Diresight	2 NM @ $0.03	$0.06
+Fabled Passage	1 NM @ $3.70	$3.70
+Forest (0281)	1 NM @ $0.20	$0.20
+Heaped Harvest	1 NM @ $0.04	$0.04
+Heartfire Hero	1 NM @ $0.65	$0.65
+Lilypad Village	3 NM @ $0.04	$0.12
+Might of the Meek	1 NM @ $0.06	$0.06
+Mudflat Village	1 NM @ $0.10	$0.10
+Parting Gust	2 NM @ $0.08	$0.16
+Pond Prophet	4 NM @ $0.04	$0.16
+Rockface Village	1 NM @ $0.15	$0.15
+Splash Portal	1 NM @ $0.05	$0.05
+Starscape Cleric	2 NM @ $0.06	$0.12
+Sunshower Druid	2 NM @ $0.04	$0.08
+Valley Floodcaller	1 NM @ $0.72	$0.72
+Valley Questcaller	1 NM @ $0.60	$0.60
+ 
+Core Set 2020
+Leyline of Sanctity	1 NM @ $0.50	$0.50
+Manifold Key	1 NM @ $0.30	$0.30
+Season of Growth	1 NM @ $0.05	$0.05
+Shared Summons	1 NM @ $1.30	$1.30
+Wolf Token // Zombie Token	3 NM @ $0.05	$0.15
+ 
+Modern Horizons 2 Foil
+Deepwood Denizen	4 NM @ $0.08	$0.32
+Mountain (488)	8 NM @ $0.05	$0.40
+Unbounded Potential	4 NM @ $0.08	$0.32
+ 
+Modern Horizons 3 Foil
+Bridgeworks Battle	1 NM @ $0.50	$0.50
+Idol of False Gods	1 NM @ $0.08	$0.08
+Island (0305)	8 NM @ $0.05	$0.40
+Plains (0304)	8 NM @ $0.08	$0.64
+Snow-Covered Wastes (0229)	2 NM @ $0.15	$0.30
+Swamp (0306)	1 NM @ $0.08	$0.08
+ 
+Modern Horizons 3
+Angel Token	1 NM @ $0.08	$0.08
+Boggart Trawler	1 NM @ $0.60	$0.60
+Bridgeworks Battle	1 NM @ $0.15	$0.15
+Cat Warrior Token	1 NM @ $0.12	$0.12
+Copy Token	3 NM @ $0.10	$0.30
+Island (0305)	1 NM @ $0.07	$0.07
+Legion Leadership	1 NM @ $0.15	$0.15
+Malevolent Rumble	2 NM @ $0.15	$0.30
+Molten Gatekeeper	1 NM @ $0.08	$0.08
+Pinnacle Monk	1 NM @ $0.30	$0.30
+Plains (0311)	1 NM @ $0.04	$0.04
+Snake Token	1 NM @ $0.20	$0.20
+Stump Stomp	5 NM @ $0.10	$0.50
+Swamp (0306)	1 NM @ $0.10	$0.10
+Swamp (0314)	1 NM @ $0.05	$0.05
+Swamp (0315)	2 NM @ $0.04	$0.08
+ 
+Modern Horizons 3 Variants Foil
+Rosheen, Roaring Prophet (0380 - Borderless)	1 NM @ $0.10	$0.10
+ 
+Modern Horizons 3 Variants
+It That Heralds the End (0385 - Retro Frame)	1 NM @ $0.09	$0.09
+ 
+Ravnica Remastered
+Plaguecrafter	1 NM @ $0.03	$0.03

@@ -1,0 +1,53 @@
+5th Edition
+Forest (A)	4 NM @ $0.09	$0.36
+Forest (B)	5 NM @ $0.08	$0.40
+Forest (C)	3 NM @ $0.08	$0.24
+Forest (D)	5 NM @ $0.15	$0.75
+ 
+7th Edition
+Forest (328 A)	3 NM @ $0.04	$0.12
+Forest (330 C)	5 NM @ $0.33	$1.65
+Forest (331 D)	3 NM @ $0.04	$0.12
+ 
+9th Edition
+Forest (348 B)	1 NM @ $0.09	$0.09
+ 
+Ice Age
+Forest (C)	2 NM @ $0.08	$0.16
+ 
+Invasion
+Forest (348 B)	3 NM @ $0.04	$0.12
+ 
+Mercadian Masques
+Forest (347 A)	1 NM @ $0.05	$0.05
+Forest (348 B)	2 NM @ $0.06	$0.12
+Forest (349 C)	1 NM @ $0.05	$0.05
+Forest (350 D)	1 NM @ $0.04	$0.04
+ 
+Mirage
+Forest (C)	2 NM @ $0.25	$0.50
+Swamp (C)	9 NM @ $0.75	$6.75
+ 
+Odyssey
+Forest (350 D)	1 NM @ $0.04	$0.04
+ 
+Onslaught
+Forest (347 A)	3 NM @ $0.06	$0.18
+Forest (349 C)	2 NM @ $0.52	$1.04
+ 
+Promotional
+Sliver Hive (MagicCon Foil)	1 NM @ $9.10	$9.10
+Ugin, the Spirit Dragon (MagicCon Foil)	1 NM @ $8.45	$8.45
+ 
+Tempest
+Forest (A)	5 NM @ $0.25	$1.25
+Forest (B)	4 NM @ $0.08	$0.32
+Forest (D)	3 NM @ $0.08	$0.24
+Mountain (A)	5 NM @ $0.12	$0.60
+Mountain (C)	4 NM @ $0.12	$0.48
+ 
+Urza's Saga
+Forest (347 A)	11 NM @ $0.20	$2.20
+Forest (348 B)	7 NM @ $0.11	$0.77
+Forest (349 C)	4 NM @ $0.09	$0.36
+Forest (350 D)	2 NM @ $0.05	$0.10

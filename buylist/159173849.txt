@@ -1,0 +1,61 @@
+Aetherdrift
+Demonic Junker	1 NM @ $0.07	$0.07
+Engine Rat	2 NM @ $0.03	$0.06
+Night Market	1 NM @ $0.03	$0.03
+Pactdoll Terror	1 NM @ $0.04	$0.04
+Risky Shortcut	1 NM @ $0.03	$0.03
+Voyage Home	1 NM @ $0.24	$0.24
+ 
+Dominaria
+Fungal Plots	1 NM @ $0.03	$0.03
+Gaea's Blessing	1 NM @ $0.04	$0.04
+Goblin Warchief	1 NM @ $0.26	$0.26
+The Eldest Reborn	1 NM @ $0.07	$0.07
+Zhalfirin Void	1 NM @ $0.07	$0.07
+ 
+Final Fantasy
+Island (0298)	1 NM @ $0.20	$0.20
+Opera Love Song	1 NM @ $0.03	$0.03
+Overkill	1 NM @ $0.03	$0.03
+Summon: Fenrir	1 NM @ $0.04	$0.04
+Summon: Leviathan	1 NM @ $0.40	$0.40
+Summon: Titan	1 NM @ $0.75	$0.75
+Swamp (0301)	1 NM @ $0.04	$0.04
+Ultima, Origin of Oblivion	1 NM @ $0.04	$0.04
+Swamp (0300)	1 EX @ $0.06	$0.06
+ 
+Final Fantasy Through the Ages
+Nature's Claim (0047 - Search for the Frozen Esper)	1 NM @ $0.10	$0.10
+ 
+Final Fantasy Variants
+Torgal, A Fine Hound (0345 - Borderless)	1 NM @ $0.04	$0.04
+ 
+Kamigawa: Neon Dynasty
+Clawing Torment	2 NM @ $0.03	$0.06
+Forest (301)	1 NM @ $0.36	$0.36
+Invoke Despair	1 NM @ $0.04	$0.04
+Moonsnare Prototype	1 NM @ $0.03	$0.03
+Samurai Token	1 NM @ $0.03	$0.03
+Spell Pierce	3 NM @ $0.03	$0.09
+Takenuma, Abandoned Mire	1 NM @ $5.50	$5.50
+ 
+Mystery Booster 2
+Control of the Court	1 NM @ $0.09	$0.09
+Deathrite Shaman	1 NM @ $1.20	$1.20
+Grinding Station	1 NM @ $5.50	$5.50
+Relentless Assault	1 NM @ $1.50	$1.50
+Rite of Flame	1 NM @ $2.80	$2.80
+Wrenn and One (Not Tournament Legal)	1 NM @ $0.05	$0.05
+ 
+Mystery Booster/The List
+Akroma, Angel of Wrath (Duel Decks Anthology: Divine vs. Demonic)	1 NM @ $0.90	$0.90
+Bonus Round (Battlebond)	1 NM @ $1.30	$1.30
+Clever Impersonator (Khans of Tarkir)	1 NM @ $1.80	$1.80
+Gaea's Gift (The Brothers' War)	1 NM @ $0.80	$0.80
+Goblin Offensive (Urza's Saga)	1 NM @ $0.33	$0.33
+Muddle the Mixture	1 NM @ $0.45	$0.45
+Oakhame Adversary (Throne of Eldraine)	1 NM @ $0.15	$0.15
+Rite of Consumption (Shadowmoor)	1 NM @ $2.25	$2.25
+Ruin Crab (Zendikar Rising)	1 NM @ $0.80	$0.80
+Silumgar, the Drifting Death (Fate Reforged)	1 NM @ $0.12	$0.12
+Survivors' Encampment (Hour of Devastation)	1 NM @ $0.09	$0.09

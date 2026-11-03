@@ -1,0 +1,49 @@
+Aetherdrift
+Forest (0276)	1 NM @ $0.03	$0.03
+Island (0282)	1 NM @ $0.04	$0.04
+Plains (0272)	1 NM @ $0.04	$0.04
+Swamp (0274)	1 NM @ $0.05	$0.05
+ 
+Bloomburrow Foil
+Rabbit Token	1 NM @ $0.20	$0.20
+Treasure Token	2 NM @ $0.45	$0.90
+ 
+Bloomburrow
+Bat Token	1 NM @ $0.05	$0.05
+Diresight	3 NM @ $0.03	$0.09
+Feather of Flight	1 NM @ $0.05	$0.05
+Fish Token	1 NM @ $0.04	$0.04
+Gossip's Talent	3 NM @ $0.03	$0.09
+Heaped Harvest	4 NM @ $0.03	$0.12
+Hidden Grotto	1 NM @ $0.03	$0.03
+Lilypad Village	1 NM @ $0.04	$0.04
+Lilysplash Mentor	2 NM @ $0.03	$0.06
+Long River's Pull	1 NM @ $0.04	$0.04
+Might of the Meek	2 NM @ $0.04	$0.08
+Overprotect	1 NM @ $0.45	$0.45
+Rockface Village	1 NM @ $0.06	$0.06
+Shore Up	3 NM @ $0.03	$0.09
+Shoreline Looter	1 NM @ $0.05	$0.05
+Short Bow	1 NM @ $0.03	$0.03
+Shrike Force	1 NM @ $0.03	$0.03
+Splash Portal	2 NM @ $0.24	$0.48
+Treasure Token	1 NM @ $0.05	$0.05
+Vinereap Mentor	4 NM @ $0.04	$0.16
+Bat Token	1 EX @ $0.04	$0.04
+Fish Token	1 EX @ $0.03	$0.03
+ 
+Core Set 2019 Foil
+Dragon's Hoard	1 NM @ $6.00	$6.00
+ 
+Foundations
+Treasure Token (0023)	1 NM @ $0.10	$0.10
+ 
+Modern Horizons 2
+Serra's Emissary	1 NM @ $5.00	$5.00
+ 
+Streets of New Capenna
+Security Bypass	1 NM @ $0.05	$0.05
+Witty Roastmaster	1 NM @ $0.50	$0.50
+ 
+Promotional
+Restoration Angel (Release Foil)	1 EX @ $0.30	$0.30

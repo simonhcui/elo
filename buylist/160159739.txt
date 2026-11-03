@@ -1,0 +1,43 @@
+Aetherdrift
+Country Roads	1 NM @ $0.03	$0.03
+Diversion Unit	1 NM @ $0.09	$0.09
+ 
+Dominaria
+Danitha Capashen, Paragon	2 NM @ $0.25	$0.50
+Merfolk Trickster	4 NM @ $0.06	$0.24
+On Serra's Wings	1 NM @ $0.06	$0.06
+Opt	4 NM @ $0.04	$0.16
+Seal Away	2 NM @ $0.03	$0.06
+Unwind	2 NM @ $0.38	$0.76
+Opt	1 EX @ $0.03	$0.03
+ 
+Final Fantasy
+Demon Wall	1 NM @ $0.03	$0.03
+Sabotender	1 NM @ $0.03	$0.03
+ 
+Mystery Booster/The List
+Amoeboid Changeling (Jumpstart 2022)	1 NM @ $0.72	$0.72
+Cloak of Feathers (Portal)	1 NM @ $0.04	$0.04
+Evolutionary Escalation (Commander 2016)	1 NM @ $0.45	$0.45
+Spirit en-Dal (Future Sight)	1 NM @ $0.03	$0.03
+ 
+Ravnica Allegiance
+Clear the Mind	1 NM @ $0.03	$0.03
+ 
+Secret Lair
+Liesa, Shroud of Dusk (1961 - Foil)	1 NM @ $1.80	$1.80
+Marwyn, the Nurturer (1960 - Foil)	1 NM @ $4.70	$4.70
+Oloro, Ageless Ascetic (1962 - Foil)	1 NM @ $7.50	$7.50
+Sythis, Harvest's Hand (1963 - Foil)	1 NM @ $4.70	$4.70
+ 
+Tarkir: Dragonstorm
+Bone-Cairn Butcher	1 NM @ $0.03	$0.03
+Dalkovan Packbeasts	1 NM @ $0.04	$0.04
+Duty Beyond Death	1 NM @ $0.12	$0.12
+Heritage Reclamation	7 NM @ $0.08	$0.56
+Nomad Outpost	1 NM @ $0.09	$0.09
+Salt Road Packbeast	3 NM @ $0.03	$0.09
+Spectral Denial	1 NM @ $0.05	$0.05
+Undergrowth Leopard	4 NM @ $0.03	$0.12
+Yathan Tombguard	1 NM @ $0.03	$0.03
+Nomad Outpost	1 BG @ $0.05	$0.05

@@ -1,0 +1,164 @@
+Aetherdrift Foil
+Insect Token (0007)	2 NM @ $0.16	$0.32
+ 
+Aetherdrift
+Elephant Token (0006)	5 NM @ $0.04	$0.20
+Vehicle Token (0012)	1 NM @ $0.03	$0.03
+Vehicle Token (0012)	1 EX @ $0.02	$0.02
+ 
+Aetherdrift Commander Decks Foil
+Golem Token (0014)	1 NM @ $0.12	$0.12
+Zombie Token (0003)	2 NM @ $0.16	$0.32
+ 
+Bloomburrow
+Squirrel Token	2 NM @ $0.15	$0.30
+Sword Token	1 NM @ $0.03	$0.03
+ 
+Commander Legends: Battle for Baldur's Gate
+Construct Token	4 NM @ $0.04	$0.16
+Soldier Token	7 NM @ $0.06	$0.42
+Construct Token	1 EX @ $0.03	$0.03
+Soldier Token	4 EX @ $0.05	$0.20
+ 
+Dominaria United
+Saproling Token	1 NM @ $0.03	$0.03
+ 
+Double Masters 2022
+Bear Token	1 NM @ $0.03	$0.03
+ 
+Duskmourn: House of Horror Foil
+Beast Token (0003)	2 NM @ $0.12	$0.24
+Toy Token (0007)	1 NM @ $0.10	$0.10
+Beast Token (0003)	1 EX @ $0.09	$0.09
+Toy Token (0007)	1 EX @ $0.08	$0.08
+Treasure Token (0015)	1 EX @ $0.15	$0.15
+ 
+Final Fantasy
+Horror Token (0013)	1 NM @ $0.04	$0.04
+Horror Token (0013)	1 EX @ $0.03	$0.03
+ 
+Innistrad: Crimson Vow
+Wolf Token (014)	2 NM @ $0.04	$0.08
+DFC Helper Card (9)	1 EX @ $0.04	$0.04
+ 
+Innistrad: Midnight Hunt Foil
+Beast Token	1 NM @ $0.16	$0.16
+Human Token	1 NM @ $0.08	$0.08
+Human Token	1 EX @ $0.06	$0.06
+Spider Token	1 EX @ $0.06	$0.06
+ 
+Kamigawa: Neon Dynasty Commander Decks
+Phyrexian Germ Token // Spirit Token	1 NM @ $0.05	$0.05
+ 
+March of the Machine Foil
+Chrome Host Seedshark	1 NM @ $0.25	$0.25
+Thopter Token	1 EX @ $0.15	$0.15
+ 
+March of the Machine
+First Mate Ragavan Token	1 NM @ $0.03	$0.03
+Spirit Token (0013)	2 NM @ $0.04	$0.08
+ 
+Modern Horizons 3
+Spirit Token (0008)	3 NM @ $0.03	$0.09
+Treasure Token	2 NM @ $0.04	$0.08
+Spirit Token (0008)	2 EX @ $0.02	$0.04
+Treasure Token	1 EX @ $0.03	$0.03
+ 
+Murders at Karlov Manor Foil
+Spirit Token	1 NM @ $0.10	$0.10
+ 
+Murders at Karlov Manor
+Hedge Maze	1 NM @ $10.00	$10.00
+ 
+Outlaws of Thunder Junction Foil
+Scorpion Dragon Token	1 NM @ $0.60	$0.60
+ 
+Outlaws of Thunder Junction
+Mercenary Token	4 NM @ $0.03	$0.12
+Mercenary Token	3 EX @ $0.02	$0.06
+ 
+Promotional
+Arcane Signet (Play Booster Draft Foil)	1 NM @ $4.70	$4.70
+Pirate Token - Treasure Token (FNM Foil)	1 EX @ $0.09	$0.09
+ 
+Ravnica Remastered Foil
+Wurm Token	5 NM @ $0.16	$0.80
+ 
+Streets of New Capenna Commander Decks
+Drake Token // Zombie Token	1 NM @ $0.09	$0.09
+Drake Token // Zombie Token	1 EX @ $0.07	$0.07
+ 
+Strixhaven: School of Mages
+Spirit Token	1 NM @ $0.04	$0.04
+Spirit Token	1 EX @ $0.03	$0.03
+ 
+The Brothers' War Foil
+Soldier Token (008)	6 NM @ $0.16	$0.96
+Soldier Token (008)	5 EX @ $0.12	$0.60
+ 
+The Lord of the Rings: Tales of Middle-earth Foil
+Human Soldier Token (0014 - Surge Foil)	1 NM @ $0.12	$0.12
+ 
+The Lord of the Rings: Tales of Middle-earth
+Food Token (0011)	1 NM @ $0.03	$0.03
+Orc Army Token (0005)	13 NM @ $0.03	$0.39
+Orc Army Token (0005)	2 EX @ $0.02	$0.04
+ 
+The Lord of the Rings: Tales of Middle-earth Commander Decks
+Human Knight Token // Human Token (0009 // 0004)	3 NM @ $0.10	$0.30
+ 
+The Lost Caverns of Ixalan Foil
+Gnome Soldier Token	1 NM @ $0.60	$0.60
+ 
+The Lost Caverns of Ixalan
+Fungus Token	2 NM @ $0.04	$0.08
+Gnome Token	4 NM @ $0.04	$0.16
+Skeleton Pirate Token	1 NM @ $0.03	$0.03
+Spirit Token	1 NM @ $0.03	$0.03
+ 
+Theros Beyond Death
+Human Soldier Token	37 NM @ $0.04	$1.48
+Satyr Token	24 NM @ $0.04	$0.96
+Human Soldier Token	11 EX @ $0.03	$0.33
+Satyr Token	1 BG @ $0.02	$0.02
+ 
+Throne of Eldraine
+Food Token (018)	9 NM @ $0.03	$0.27
+Food Token (018)	1 EX @ $0.02	$0.02
+ 
+Time Spiral Remastered
+Soldier Token	6 NM @ $0.03	$0.18
+Spider Token	4 NM @ $0.04	$0.16
+ 
+Unfinity
+Clown Robot Token (002)	7 NM @ $0.04	$0.28
+Food Token (010)	1 NM @ $0.03	$0.03
+Food Token (011)	2 NM @ $0.04	$0.08
+Fortune Teller (3/5/6)	1 NM @ $0.05	$0.05
+ 
+Universes Beyond: Jurassic World Collection Foil
+Treasure Token	2 NM @ $0.16	$0.32
+ 
+Wilds of Eldraine
+Royal Role Token // Young Role Token	1 NM @ $0.04	$0.04
+ 
+Zendikar Rising
+DFC Helper Card (4)	4 NM @ $0.04	$0.16
+ 
+Innistrad: Crimson Vow Variants Foil
+Sorin the Mirthless (Borderless)	1 EX @ $4.88	$4.88
+ 
+Khans of Tarkir
+Bear Token	1 EX @ $0.04	$0.04
+Warrior Token (Yefim Kligerman)	1 EX @ $0.02	$0.02
+ 
+Streets of New Capenna Foil
+Fish Token	1 EX @ $0.06	$0.06
+Spirit Token	1 EX @ $0.12	$0.12
+ 
+Strixhaven: School of Mages Foil
+Fractal Token	4 EX @ $0.08	$0.32
+Spirit Token	5 EX @ $0.06	$0.30
+ 
+Theros Beyond Death Foil
+Goat Token	2 EX @ $0.08	$0.16

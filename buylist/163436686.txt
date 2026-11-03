@@ -1,0 +1,170 @@
+Aetherdrift Foil
+Servo Token (0008)	1 NM @ $0.16	$0.16
+ 
+Aetherdrift
+Island (0273)	1 NM @ $0.32	$0.32
+ 
+Aetherdrift Variants Foil
+Bulwark Ox (0333 - Borderless)	1 NM @ $0.20	$0.20
+ 
+Aetherdrift Variants
+Basri, Tomorrow's Champion (0355 - Borderless)	1 NM @ $0.05	$0.05
+Samut, the Driving Force (0367 - Borderless)	1 NM @ $0.05	$0.05
+ 
+Avatar: The Last Airbender
+Cycle of Renewal	1 NM @ $0.01	$0.01
+ 
+Bloomburrow Foil
+Into the Flood Maw	1 NM @ $2.40	$2.40
+ 
+Commander Legends: Battle for Baldur's Gate
+Inspired Tinkering	1 NM @ $1.30	$1.30
+ 
+Commander Masters
+Skyshroud Claim	1 NM @ $0.80	$0.80
+ 
+Dominaria
+Aryel, Knight of Windgrace	1 NM @ $0.04	$0.04
+Baird, Steward of Argive	1 NM @ $0.02	$0.02
+Unwind	1 NM @ $0.38	$0.38
+ 
+Duskmourn: House of Horror Variants Foil
+Unwanted Remake (0306 - Showcase)	2 NM @ $0.16	$0.32
+ 
+Final Fantasy Foil
+Forest (0306)	1 NM @ $0.16	$0.16
+Forest (0308)	1 NM @ $0.10	$0.10
+Plains (0294)	1 NM @ $0.16	$0.16
+Plains (0295)	1 NM @ $0.16	$0.16
+ 
+Final Fantasy
+Bird Token (0016)	1 NM @ $0.01	$0.01
+Black Mage's Rod	3 NM @ $0.02	$0.06
+Black Waltz No. 3	1 NM @ $0.02	$0.02
+Forest (0308)	1 NM @ $0.08	$0.08
+Ultima	1 NM @ $0.24	$0.24
+Wizard Token (0014)	1 NM @ $0.03	$0.03
+Zack Fair	1 NM @ $0.01	$0.01
+Horror Token (0013)	1 EX @ $0.02	$0.02
+Instant Ramen	1 EX @ $0.01	$0.01
+ 
+Foundations
+Marauding Blight-Priest	1 NM @ $0.03	$0.03
+ 
+Innistrad Remastered
+Human Token (0002)	1 NM @ $0.01	$0.01
+ 
+Innistrad: Midnight Hunt
+Treefolk Token	1 NM @ $0.02	$0.02
+Zombie Token (005)	1 NM @ $0.12	$0.12
+ 
+Jumpstart
+Talrand, Sky Summoner	1 NM @ $0.40	$0.40
+ 
+Jumpstart 2022
+Loxodon Warhammer	1 NM @ $0.80	$0.80
+ 
+Kamigawa: Neon Dynasty
+Master's Rebuke	1 NM @ $0.03	$0.03
+Mirrorshell Crab	2 NM @ $0.02	$0.04
+Pilot Token	2 NM @ $0.10	$0.20
+Spirit Token (002)	2 NM @ $0.02	$0.04
+Swamp (287)	1 NM @ $0.11	$0.11
+ 
+Marvel Eternal-Legal
+Rite of Replication	1 NM @ $1.15	$1.15
+ 
+Marvel's Spider-Man
+Plains (0189)	1 NM @ $0.20	$0.20
+ 
+Mirage
+Plains (C)	1 NM @ $0.12	$0.12
+ 
+Modern Horizons 2 Foil
+Lose Focus	1 NM @ $0.15	$0.15
+ 
+Modern Horizons 2
+Duskshell Crawler	1 NM @ $0.15	$0.15
+Foundation Breaker	1 NM @ $0.01	$0.01
+Gorilla Shaman	2 NM @ $0.01	$0.02
+Herd Baloth	1 NM @ $0.09	$0.09
+Kitchen Imp	1 NM @ $0.02	$0.02
+Timeless Witness	1 NM @ $0.09	$0.09
+ 
+Modern Horizons 3 Foil
+Glasswing Grace	1 NM @ $1.05	$1.05
+ 
+Mystery Booster/The List
+Alseid of Life's Bounty (Theros Beyond Death)	1 NM @ $0.09	$0.09
+Kelpie Guide (Strixhaven: School of Mages)	1 NM @ $0.24	$0.24
+Shelter (Odyssey)	1 NM @ $0.04	$0.04
+Turnabout (Vintage Masters)	1 NM @ $0.30	$0.30
+ 
+Outlaws of Thunder Junction
+Bird Token	1 NM @ $0.02	$0.02
+Bovine Intervention	1 NM @ $0.04	$0.04
+Conduit Pylons	1 NM @ $0.04	$0.04
+Deepmuck Desperado	1 NM @ $0.02	$0.02
+Fortune, Loyal Steed	1 NM @ $0.03	$0.03
+Harrier Strix	3 NM @ $0.02	$0.06
+Hollow Marauder	1 NM @ $0.01	$0.01
+Map the Frontier	2 NM @ $0.03	$0.06
+Mercenary Token	2 NM @ $0.03	$0.06
+Seraphic Steed	1 NM @ $0.03	$0.03
+Spinewoods Paladin	3 NM @ $0.04	$0.12
+ 
+Outlaws of Thunder Junction Breaking News
+Journey to Nowhere (0003 - Showcase)	1 NM @ $0.06	$0.06
+ 
+Outlaws of Thunder Junction The Big Score
+Bat Token	1 NM @ $0.02	$0.02
+ 
+Secrets of Strixhaven
+Professor Dellian Fel	1 NM @ $11.50	$11.50
+ 
+Streets of New Capenna
+Forest (281)	1 NM @ $0.04	$0.04
+Treasure Token (013)	1 NM @ $0.02	$0.02
+ 
+Tarkir: Dragonstorm
+Zombie Druid Token (0010)	1 NM @ $0.20	$0.20
+ 
+Tarkir: Dragonstorm Variants
+Great Arashin City (0395 - Borderless)	1 NM @ $0.04	$0.04
+ 
+War of the Spark
+Angel Token	1 NM @ $0.07	$0.07
+Assassin Token	2 NM @ $0.04	$0.08
+Dragon Token	1 NM @ $0.02	$0.02
+Wall Token	2 NM @ $0.01	$0.02
+ 
+Wilds of Eldraine Foil
+Faerie Dreamthief	1 NM @ $0.16	$0.16
+ 
+Wilds of Eldraine
+Cheeky House-Mouse	1 NM @ $0.04	$0.04
+Royal Role Token // Young Role Token	1 EX @ $0.02	$0.02
+ 
+Dominaria United Variants Foil
+Temporary Lockdown (Extended Art)	1 EX @ $0.29	$0.29
+ 
+Lorwyn
+Island (287 B)	1 EX @ $0.28	$0.28
+ 
+Lorwyn Eclipsed
+Island (0275)	1 EX @ $0.02	$0.02
+ 
+Modern Horizons 2 Variants
+Combine Chrysalis (Showcase)	1 EX @ $0.01	$0.01
+ 
+Scars of Mirrodin
+Poison Counter	1 EX @ $0.03	$0.03
+ 
+Shadowmoor
+Swamp (291 B)	1 EX @ $0.30	$0.30
+ 
+Time Spiral Remastered
+Assembly-Worker Token	1 EX @ $0.03	$0.03
+ 
+Urza's Saga
+Plains (332 B)	1 EX @ $0.02	$0.02

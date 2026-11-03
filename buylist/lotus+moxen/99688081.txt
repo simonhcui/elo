@@ -1,0 +1,60 @@
+Battlebond
+Dragon Breath 	2 NM @ $0.03 	$0.06
+Giant Growth 	2 NM @ $0.01 	$0.02
+Karametra's Favor 	1 NM @ $0.03 	$0.03
+Omenspeaker 	3 NM @ $0.01 	$0.03
+Savage Ventmaw 	1 NM @ $0.12 	$0.12
+ 
+Ravnica Allegiance Foil
+Humongulus 	1 NM @ $0.08 	$0.08
+ 
+Ravnica Allegiance
+Bankrupt in Blood 	1 NM @ $0.03 	$0.03
+Carnival // Carnage 	3 NM @ $0.03 	$0.09
+Cavalcade of Calamity 	2 NM @ $0.03 	$0.06
+Collision // Colossus 	4 NM @ $0.03 	$0.12
+Dovin's Acuity 	1 NM @ $0.03 	$0.03
+Eyes Everywhere 	5 NM @ $0.03 	$0.15
+Footlight Fiend 	8 NM @ $0.03 	$0.24
+Frilled Mystic 	5 NM @ $0.03 	$0.15
+Gatebreaker Ram 	1 NM @ $0.04 	$0.04
+Gates Ablaze 	2 NM @ $0.06 	$0.12
+Goblin Gathering 	3 NM @ $0.03 	$0.09
+Growth Spiral 	1 NM @ $0.24 	$0.24
+Gruul Locket 	2 NM @ $0.03 	$0.06
+Gyre Engineer 	1 NM @ $0.05 	$0.05
+Impassioned Orator 	2 NM @ $0.03 	$0.06
+Imperious Oligarch 	5 NM @ $0.03 	$0.15
+Light Up the Stage 	3 NM @ $0.08 	$0.24
+Ministrant of Obligation 	1 NM @ $0.05 	$0.05
+Orzhov Enforcer 	2 NM @ $0.04 	$0.08
+Pitiless Pontiff 	3 NM @ $0.03 	$0.09
+Pteramander 	6 NM @ $0.03 	$0.18
+Rakdos Locket 	1 NM @ $0.03 	$0.03
+Resolute Watchdog 	1 NM @ $0.08 	$0.08
+Saruli Caretaker 	7 NM @ $0.04 	$0.28
+Skewer the Critics 	2 NM @ $0.25 	$0.50
+Spear Spewer 	3 NM @ $0.05 	$0.15
+Thopter Token 	1 NM @ $0.03 	$0.03
+Thought Collapse 	3 NM @ $0.04 	$0.12
+Tower Defense 	1 NM @ $0.04 	$0.04
+Vindictive Vampire 	1 NM @ $0.30 	$0.30
+Wilderness Reclamation 	2 NM @ $1.00 	$2.00
+Impassioned Orator 	1 EX @ $0.02 	$0.02
+Resolute Watchdog 	1 EX @ $0.06 	$0.06
+ 
+Theros Beyond Death
+Tentacle Token 	1 NM @ $0.18 	$0.18
+ 
+Throne of Eldraine
+Bear Token 	2 NM @ $0.04 	$0.08
+Dwarf Token 	2 NM @ $0.18 	$0.36
+Food Token (015) 	1 NM @ $0.03 	$0.03
+Food Token (018) 	2 NM @ $0.04 	$0.08
+Human Rogue Token 	2 NM @ $0.05 	$0.10
+Human Warrior Token 	2 NM @ $0.10 	$0.20
+Rat Token 	5 NM @ $0.15 	$0.75
+Wolf Token 	1 NM @ $0.30 	$0.30
+ 
+Conspiracy - Take the Crown
+Selvala, Heart of the Wilds 	1 EX @ $11.60 	$11.60
