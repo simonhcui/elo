@@ -34,17 +34,6 @@
     },
     {
         "standing": "4",
-        "rank": "/images/rank/silver_4.jpg",
-        "name": "Jim",
-        "win_percentage": "60.00%",
-        "wins_losses": "9-6",
-        "total_drafts": "8",
-        "elo": "1731",
-        "last_set": "TRK",
-        "last_date": "11-5-2026"
-    },
-    {
-        "standing": "5",
         "rank": "/images/rank/bronze_2.jpg",
         "name": "Adam S",
         "win_percentage": "60.00%",
@@ -53,6 +42,17 @@
         "elo": "1529",
         "last_set": "TRK",
         "last_date": "11-5-2026"
+    },
+    {
+        "standing": "5",
+        "rank": "/images/rank/silver_1.jpg",
+        "name": "Thana",
+        "win_percentage": "54.29%",
+        "wins_losses": "19-16",
+        "total_drafts": "17",
+        "elo": "1882",
+        "last_set": "TRK",
+        "last_date": "11-6-2026"
     },
     {
         "standing": "6",
@@ -69,23 +69,23 @@
         "standing": "7",
         "rank": "/images/rank/silver_2.jpg",
         "name": "Nathan",
-        "win_percentage": "53.12%",
-        "wins_losses": "17-15",
-        "total_drafts": "16",
-        "elo": "1389",
+        "win_percentage": "52.94%",
+        "wins_losses": "18-16",
+        "total_drafts": "17",
+        "elo": "1524",
         "last_set": "TRK",
-        "last_date": "11-5-2026"
+        "last_date": "11-6-2026"
     },
     {
         "standing": "8",
-        "rank": "/images/rank/silver_2.jpg",
-        "name": "Thana",
-        "win_percentage": "51.52%",
-        "wins_losses": "17-16",
-        "total_drafts": "16",
-        "elo": "1633",
+        "rank": "/images/rank/bronze_2.jpg",
+        "name": "Jim",
+        "win_percentage": "52.94%",
+        "wins_losses": "9-8",
+        "total_drafts": "9",
+        "elo": "1413",
         "last_set": "TRK",
-        "last_date": "11-5-2026"
+        "last_date": "11-6-2026"
     },
     {
         "standing": "9",
@@ -122,17 +122,6 @@
     },
     {
         "standing": "12",
-        "rank": "/images/rank/bronze_3.jpg",
-        "name": "Luke",
-        "win_percentage": "38.46%",
-        "wins_losses": "5-8",
-        "total_drafts": "6",
-        "elo": "1626",
-        "last_set": "TRK",
-        "last_date": "11-5-2026"
-    },
-    {
-        "standing": "13",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Collin",
         "win_percentage": "33.33%",
@@ -143,18 +132,18 @@
         "last_date": "11-5-2026"
     },
     {
-        "standing": "14",
+        "standing": "13",
         "rank": "/images/rank/bronze_4.jpg",
-        "name": "Brian H",
+        "name": "Luke",
         "win_percentage": "33.33%",
-        "wins_losses": "2-4",
-        "total_drafts": "3",
-        "elo": "1047",
-        "last_set": "TLA",
-        "last_date": "10-23-2026"
+        "wins_losses": "5-10",
+        "total_drafts": "7",
+        "elo": "1212",
+        "last_set": "TRK",
+        "last_date": "11-6-2026"
     },
     {
-        "standing": "15",
+        "standing": "14",
         "rank": "/images/rank/bronze_4.jpg",
         "name": "Tony",
         "win_percentage": "33.33%",
@@ -163,6 +152,17 @@
         "elo": "1069",
         "last_set": "TRK",
         "last_date": "11-5-2026"
+    },
+    {
+        "standing": "15",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Brian H",
+        "win_percentage": "33.33%",
+        "wins_losses": "2-4",
+        "total_drafts": "3",
+        "elo": "1047",
+        "last_set": "TLA",
+        "last_date": "10-23-2026"
     },
     {
         "standing": "16",
@@ -178,17 +178,6 @@
     {
         "standing": "17",
         "rank": "/images/rank/bronze_4.jpg",
-        "name": "Kent",
-        "win_percentage": "25.00%",
-        "wins_losses": "2-6",
-        "total_drafts": "4",
-        "elo": "1328",
-        "last_set": "TDM",
-        "last_date": "10-29-2026"
-    },
-    {
-        "standing": "18",
-        "rank": "/images/rank/bronze_4.jpg",
         "name": "Adam E",
         "win_percentage": "25.00%",
         "wins_losses": "2-6",
@@ -196,6 +185,17 @@
         "elo": "1310",
         "last_set": "TLA",
         "last_date": "10-22-2026"
+    },
+    {
+        "standing": "18",
+        "rank": "/images/rank/bronze_4.jpg",
+        "name": "Kent",
+        "win_percentage": "25.00%",
+        "wins_losses": "2-6",
+        "total_drafts": "4",
+        "elo": "1328",
+        "last_set": "TDM",
+        "last_date": "10-29-2026"
     },
     {
         "standing": "19",
