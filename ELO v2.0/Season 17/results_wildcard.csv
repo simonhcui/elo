@@ -232,11 +232,11 @@ Felix,Eric K,0
 
 Aaron,Simon,1,Chaos,11-12-2026
 Travis,Stephen,0
-Alberto,Sonny,0
+Alberto,Sonny L,0
 Luke,Marco,1
 Mike,Chris A,0
 Simon,Alberto,0
-Sonny,Chris A,1
+Sonny L,Chris A,1
 Mike,Luke,0
 Travis,Marco,1
 Stephen,Aaron,0
@@ -260,5 +260,14 @@ David K,Nick D,0
 Thana,Jackson,1
 Noah,Luke,1
 Eric K,Nathan,0
+
+Marco,Stephen,0,Chaos,11-19-2026
+Adam S,Collin,0
+Travis,Sonny L,0
+Aaron,Chris A,1
+Aaron,Collin,1
+Chris A,Adam S,1
+Marco,Travis,0
+Stephen,Sonny L,0
 
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
