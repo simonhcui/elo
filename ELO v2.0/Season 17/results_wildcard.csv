@@ -270,4 +270,78 @@ Chris A,Adam S,1
 Marco,Travis,0
 Stephen,Sonny L,0
 
+Simon,Nick D,0,MB2,11-20-2026
+Noah,Eric K,0
+An,Nathan,1
+Jackson,Thana,1
+Luke,David K,1
+Simon,Nathan,0
+Noah,Thana,0
+Eric K,An,0
+David K,Nick D,0
+Luke,Jackson,0
+
+Stephen,Patrick P,0,Chaos,11-21-2026
+Aaron,Kevin S,1
+Luis,Walski,1
+Adam S,Andrew N,1
+Stephen,Walski,0
+Patrick P,Luis,0
+Aaron,Adam S,0
+Kevin S,Andrew N,0
+
+Grant,Nathan,0,MB2,11-21-2026
+Patrick H,Chris A,1
+Nick D,Noah,1
+Collin,Juwan,1
+Nick D,Nathan,0
+Noah,Grant,1
+Collin,Patrick H,0
+Juwan,Chris A,1
+
+Luke,Nick C,1,KLD/AER/DFR,11-21-2026
+Ana,Winston,1
+Travis,Eric K,0
+Thana,Jackson,0
+Luke,Eric K,0
+Nick C,Travis,0
+Ana,Jackson,0
+Winston,Thana,1
+
+Andrew N,Adam S,0,Chaos,11-21-2026
+Kevin S,Chris A,0
+Patrick P,Walski,1
+Stephen,Luis,1
+Stephen,Chris A,1
+Adam S,Patrick P,1
+Walski,Andrew N,1
+Kevin S,Luis,0
+
+Collin,Juwan,0,MB2,11-21-2026
+Nick D,Travis,1
+Nathan,Noah,1
+Patrick H,Grant,0
+Collin,Noah,0
+Juwan,Nathan,0
+Grant,Nick D,0
+Travis,Patrick H,0
+
+Winston,Eric K,1,AER/OTJ/DFT,11-21-2026
+Luke,Jackson,0
+Thana,Ana,1
+Felix,Nick C,0
+Winston,Thana,0
+Eric K,Ana,1
+Luke,Felix,0
+Jackson,Nick C,0
+
+Luis,Adam S,1,Chaos,11-21-2026
+Patrick P,Kevin S,0
+Walski,Stephen,1
+Nick D,Chris A,1
+Walski,Luis,1
+Stephen,Adam S,0
+Nick D,Kevin S,0
+Chris A,Patrick P,1
+
 PlaceHolderA,PlaceHolderB,1,TEST,1-1-2024
