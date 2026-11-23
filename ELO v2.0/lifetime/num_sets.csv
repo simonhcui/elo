@@ -1,5 +1,5 @@
 2X2,42
-Chaos,312
+Chaos,316
 CNS,1
 DOM,7
 ELD,9
@@ -25,7 +25,7 @@ MOM,7
 LTR,4
 DMU,8
 ZNR,1
-KHM,2
+KHM,3
 ISD,2
 BFZ/OGW,2
 RVR,5
@@ -39,7 +39,7 @@ OTJ,7
 John Cube,10
 MH3,22
 M19,1
-MB2,91
+MB2,94
 Alan Cube,6
 SOI,2
 DSK,9
@@ -49,9 +49,9 @@ IMA,2
 Noah Cube,16
 A25,1
 DFT,6
-FIN,32
+FIN,33
 BLB,3
-FDN,2
+FDN,3
 LCI,1
 WOE,5
 Felix Cube,8
@@ -74,4 +74,6 @@ FRF/FRF/KTK,1
 FRA,9
 Strix Block,2
 TRK,3
+KLD/AER/DFR,1
+AER/OTJ/DFT,1
 TEST,1
