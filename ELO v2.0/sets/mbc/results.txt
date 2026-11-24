@@ -1,0 +1,72 @@
+Marco,Izzet,1,Toothy Imaginary Friend,Balefang the Unslayable
+Chris C,Gruul,2,Ashaya's Enduring Bond,N/A
+Travis,Mardu,3,Tsagan Raider Warlord,N/A
+Chris A,Golgari,4,Davvol Evincar of Rath,N/A
+Mike,Jund,1,The Muckslinger Gang,N/A
+Tony,4c no white,2,Yidris Maelstrom Wielder,N/A
+Sonny,5c,3,Ramos Dragon Engine,N/A
+Luke,Izzet,4,Grandmother Goby,Krark the Thumbless
+Simon,5c,1,Wowzer the Aspirational,N/A 
+Meng,5c,2,Arzakon,N/A
+Nathan,5c,2,O-Kagachi Vengeful Kami,N/A
+Luke,Mono G,3,Kozilek Compleated
+David K,Rakdos,1,Massacre Girl Known Killer,Gornog the Red Reaper
+Chris A,Simic,2,The Reality Chip,Greensleeves
+Thana,Jund,3,The Muckslinger Gang,N/A
+Collin,Azorius,4,Venser Visionary Traveler,N/A
+Collin,Boros,1,Ertha Jo Frontier Mentor,N/A
+Nathan,Temur,2,Xyris the Writhing Storm,N/A
+Marco,Golgari,3,Rankle Master of Pranks,Six
+Noah,Mardu,4,Tsagan Raider Warlord,N/A
+Travis,Golgari,1,Thomil the Destroyer,Maular the Next Evolution
+Chris A,Izzet,2,Anax Hardened in the Forge,Sash and Waistcoat Unmen
+Alberto,Temur,3,Xyris the Writhing Storm,N/A
+Mike,5c,4,O-Kagachi Vengeful Kami,N/A
+Travis,Dimir,1,Flitwing Lyev Detective,Endrek Sahr Master Breeder
+Marco,Sultai,2,Uugguu the Omniplasm,N/A
+Alberto,Boros,3,Otharri Suns' Glory,N/A
+Aaron,Rakdos,4,Karazikar the Eye Tyrant,N/A
+Sonny,Jund,1,Nephilim Epochal,N/A
+Chris A,Simic,2,Autumn Willow Harmony,Tolabow Loch Rascal
+Noah,Esper,3,Lyna Veil of Vengeance,N/A
+Mike,Naya,4,Jandor Fortuned Traveler,N/A
+Travis,4c no black,1,Omnath Locus of Creation,N/A
+Alberto,Boros,2,Greymond Avacyn's Stalwart,N/A
+Chris A,Golgari,3,Euru Acorn Scrounger,N/A
+Marco,Izzet,4,Plargg and Nassari,Zellix Sanity Flayer
+Sonny,Jeskai,1,Massimo the Magician,N/A
+Mike,Rakdos,2,Karlach Fury of Avernus,Syr Konrad the Grim
+Stephen,Dimir,3,Sakashima of a Thousand Faces,N/A
+Luke,Azorius,4,Venser Visionary Traveler,N/A
+David O,5c,1,Ramos Dragon Engine,N/A
+Luke,Mardu,2,Tsagan Raider Warlord,N/A
+Noah,Selesnya,3,Elesh Norn Mother of Machines,Surrak and Goreclaw
+Chris A,Mardu,4,Tsagan Raider Warlord,N/A
+Stephen,Azorius,1,Flitwing Lyev Detective,Linvala, the Preserver
+Adam S,Temur,2,Xyris the Writhing Storm,N/A
+Nathan,5c,3,Ramos Dragon Engine,N/A
+Thana,Dimir,4,Araumi of the Dead Tide,N/A
+Stephen,Sultai,1,Homer the Hermit,N/A
+Noah,Rakdos,2,Kokusho the Evening Star,Orthion Hero of Lavabrink
+Luke,Gruul,3,Autumn Willow Harmony,Ashling Flame Dancer
+David K,Boros,4,Varchild Betrayer of Kjeldor,Adeline Resplendent Cathar
+Nathan,Azorius,1,Phelia Exuberant Shepherd,Kaho Minamo Historian
+Adam S,Abzan,2,Chea Friend to Maybe Too Many,N/A
+David O,Dimir,3,The Weaver King,N/A
+Thana,Abzan,4,Olag and Miau, New Friends,N/A
+Tony,Gruul,1,Surrak and Goreclaw,General Kreat the Boltbringer
+Sonny,5c,2,Cromat,N/A
+Collin,Grixis,3,Thomil the Destroyer,Tolabow Loch Rascal
+Jim,Sultai,4,Glarb Calamity's Augur,N/A
+Aaron,Mono B,1,Kokusho the Evening Star,Istvan, Butcher of Eln
+Marco,Azorius,2,Sash and Waistcoat Unmen,God-Eternal Oketra
+Chris A,Azorius,3,Ekthi Contaminator Priest,N/A
+Travis,4c no black,4,Anax and Cymede & Kynaios and Tiro
+Walski,Gruul,1,Dragonhawk Fate's Tempest,Autumn Willow Harmony
+Patrick P,Esper,2,Tivit, Seller of Secrets,N/A
+Chris A,Gruul,3,Zopandrel Hunger Dominus,Balefang the Unslayable
+Marco,Orzhov,4,Miss Highwater,Daxos Blessed by the Sun
+Nathan,Azorius,1,Keleth Sunmane Familiar,Grazilaxx Illithid Scholar
+Adam S,Orzhov,2,Selenia, the Cursed Heart,N/A
+Thana,Boros,3,Anim Pakal, Thousandth Moon,N/A
+David K,Sultai,4,Uugguu the Omniplasm,N/A
