@@ -76,3 +76,11 @@
 1,1,Mardu,David K
 0,2,Esper,Matt Y
 0,2,Orzhov,Nathan
+2,0,Rakdos,Adam S
+2,0,Gruul,Eric K
+1,1,Rakdos,Tony
+1,1,Azorius,Aaron
+1,1,4c no black,Matt Y
+1,1,Orzhov,Stephen
+0,2,Esper,Nathan
+0,2,Esper,Collin

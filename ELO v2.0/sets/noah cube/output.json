@@ -21,23 +21,23 @@
   },
   {
     "rank": "3",
-    "name": "David O",
-    "win_percentage": "68.42%",
-    "wins_losses": "13-6",
-    "total_drafts": "9",
-    "glicko": "1627 ± 99",
-    "gxe": "61.77%",
-    "last_date": "7-23-2026"
+    "name": "Tony",
+    "win_percentage": "75.00%",
+    "wins_losses": "6-2",
+    "total_drafts": "5",
+    "glicko": "1720 ± 139",
+    "gxe": "69.29%",
+    "last_date": "11-12-2026"
   },
   {
     "rank": "4",
-    "name": "Tony",
+    "name": "David O",
     "win_percentage": "66.67%",
-    "wins_losses": "4-2",
-    "total_drafts": "4",
-    "glicko": "1667 ± 156",
-    "gxe": "64.81%",
-    "last_date": "3-12-2026"
+    "wins_losses": "14-7",
+    "total_drafts": "10",
+    "glicko": "1600 ± 96",
+    "gxe": "59.36%",
+    "last_date": "11-12-2026"
   },
   {
     "rank": "5",
@@ -72,32 +72,32 @@
   {
     "rank": "8",
     "name": "Eric K",
-    "win_percentage": "53.12%",
-    "wins_losses": "17-15",
-    "total_drafts": "15",
-    "glicko": "1469 ± 80",
-    "gxe": "47.03%",
-    "last_date": "9-10-2026"
+    "win_percentage": "52.94%",
+    "wins_losses": "18-16",
+    "total_drafts": "16",
+    "glicko": "1464 ± 80",
+    "gxe": "46.55%",
+    "last_date": "11-12-2026"
   },
   {
     "rank": "9",
     "name": "Adam S",
     "win_percentage": "50.00%",
-    "wins_losses": "8-8",
-    "total_drafts": "8",
-    "glicko": "1429 ± 104",
-    "gxe": "43.37%",
-    "last_date": "9-10-2026"
+    "wins_losses": "9-9",
+    "total_drafts": "9",
+    "glicko": "1446 ± 98",
+    "gxe": "44.90%",
+    "last_date": "11-12-2026"
   },
   {
     "rank": "10",
     "name": "Thana",
     "win_percentage": "50.00%",
-    "wins_losses": "8-8",
-    "total_drafts": "8",
-    "glicko": "1410 ± 110",
-    "gxe": "41.65%",
-    "last_date": "9-10-2026"
+    "wins_losses": "9-9",
+    "total_drafts": "9",
+    "glicko": "1385 ± 105",
+    "gxe": "39.38%",
+    "last_date": "11-12-2026"
   },
   {
     "rank": "11",
@@ -112,15 +112,25 @@
   {
     "rank": "12",
     "name": "Noah",
-    "win_percentage": "46.67%",
-    "wins_losses": "14-16",
-    "total_drafts": "14",
-    "glicko": "1453 ± 81",
-    "gxe": "45.54%",
-    "last_date": "9-10-2026"
+    "win_percentage": "46.88%",
+    "wins_losses": "15-17",
+    "total_drafts": "15",
+    "glicko": "1462 ± 79",
+    "gxe": "46.40%",
+    "last_date": "11-12-2026"
   },
   {
     "rank": "13",
+    "name": "Nathan",
+    "win_percentage": "45.45%",
+    "wins_losses": "5-6",
+    "total_drafts": "5",
+    "glicko": "1400 ± 119",
+    "gxe": "40.80%",
+    "last_date": "11-12-2026"
+  },
+  {
+    "rank": "14",
     "name": "Luke",
     "win_percentage": "42.86%",
     "wins_losses": "3-4",
@@ -130,23 +140,23 @@
     "last_date": "9-10-2026"
   },
   {
-    "rank": "14",
-    "name": "Nathan",
+    "rank": "15",
+    "name": "Jim",
     "win_percentage": "33.33%",
-    "wins_losses": "3-6",
-    "total_drafts": "4",
-    "glicko": "1317 ± 131",
-    "gxe": "33.64%",
-    "last_date": "9-10-2026"
+    "wins_losses": "2-4",
+    "total_drafts": "3",
+    "glicko": "1375 ± 162",
+    "gxe": "38.82%",
+    "last_date": "11-12-2026"
   },
   {
-    "rank": "15",
+    "rank": "16",
     "name": "David K",
     "win_percentage": "0.00%",
-    "wins_losses": "0-6",
-    "total_drafts": "3",
-    "glicko": "1002 ± 186",
-    "gxe": "14.38%",
-    "last_date": "9-10-2026"
+    "wins_losses": "0-8",
+    "total_drafts": "4",
+    "glicko": "974 ± 173",
+    "gxe": "13.01%",
+    "last_date": "11-12-2026"
   }
 ]

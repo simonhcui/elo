@@ -1,0 +1,9 @@
+1   Dimir           63.16%   Out of 9 drafts
+2   Azorius         58.33%   Out of 5 drafts
+3   Golgari         55.56%   Out of 8 drafts
+4   Gruul           53.33%   Out of 7 drafts
+5   Orzhov          50.0%   Out of 7 drafts
+6   Boros           42.86%   Out of 6 drafts
+7   Izzet           42.86%   Out of 7 drafts
+8   Mardu           42.86%   Out of 6 drafts
+9   Selesnya        41.67%   Out of 6 drafts

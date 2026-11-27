@@ -711,3 +711,55 @@
 1,1,Azorius,Noah
 0,2,Orzhov,David K
 0,2,Gruul,Andy
+2,0,Selesnya,Eric K
+2,0,Sultai,Clayton
+2,0,Dimir,An
+1,1,Boros,Adam E
+1,1,Jeskai,Nick D
+1,1,4c no black,Jackson
+1,1,Rakdos,Nathan
+0,2,Gruul,Thana
+0,2,Sultai,Noah
+0,2,Dimir,Curtis
+2,0,Orzhov,Jackson
+2,0,Izzet,Thana
+1,1,Boros,An
+1,1,Gruul,Nick D
+1,1,Dimir,Brian H
+1,1,Orzhov,Eric K
+0,2,Grixis,David K
+0,2,Golgari,Jim
+2,0,Selesnya,Nathan
+2,0,Azorius,Thana
+1,1,Boros,Eric K
+1,1,4c no blue,Noah
+1,1,Dimir,Jackson
+1,1,Dimir,Nick D
+0,2,Orzhov,Luke
+0,2,5c,David K
+2,0,Temur,Jackson
+2,0,Rakdos,Nick D
+2,0,Orzhov,An
+1,1,Simic,Thana
+1,1,4c no blue,Eric K
+1,1,Orzhov,Nathan
+1,1,Golgari,Luke
+0,2,Dimir,Noah
+0,2,4c no red,David K
+0,2,Sultai,Simon
+2,0,Selesnya,Nathan
+2,0,Simic,Patrick H
+1,1,Jund,Collin
+1,1,Rakdos,Nick D
+1,1,Dimir,Noah
+1,1,Jund,Juwan
+0,2,Orzhov,Grant
+0,2,Rakdos,Chris A
+2,0,Grixis,Nick D
+2,0,Orzhov,Nathan
+1,1,Gruul,Noah
+1,1,Gruul,Juwan
+1,1,4c no black,Patrick H
+1,1,Izzet,Grant
+0,2,Golgari,Collin
+0,2,Orzhov,Travis

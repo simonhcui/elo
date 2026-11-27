@@ -1,24 +1,24 @@
-1   Naya            60.0%   Out of 25 drafts
-2   4c no blue      60.0%   Out of 5 drafts
-3   Rakdos          58.59%   Out of 49 drafts
-4   4c no white     58.33%   Out of 6 drafts
-5   Selesnya        58.06%   Out of 46 drafts
-6   Grixis          57.14%   Out of 11 drafts
-7   Abzan           56.1%   Out of 20 drafts
-8   Orzhov          55.08%   Out of 59 drafts
-9   Boros           52.59%   Out of 58 drafts
-10  Jund            52.27%   Out of 22 drafts
-11  Dimir           50.49%   Out of 51 drafts
-12  Esper           49.06%   Out of 26 drafts
-13  Simic           48.57%   Out of 35 drafts
-14  Izzet           47.37%   Out of 38 drafts
-15  Azorius         47.31%   Out of 47 drafts
-16  Gruul           47.13%   Out of 44 drafts
-17  Mardu           46.88%   Out of 17 drafts
-18  Sultai          45.83%   Out of 24 drafts
-19  5c              45.45%   Out of 11 drafts
+1   Selesnya        60.61%   Out of 49 drafts
+2   Naya            60.0%   Out of 25 drafts
+3   4c no white     58.33%   Out of 6 drafts
+4   Rakdos          57.94%   Out of 53 drafts
+5   4c no blue      57.14%   Out of 7 drafts
+6   Abzan           56.1%   Out of 20 drafts
+7   Grixis          56.0%   Out of 13 drafts
+8   Orzhov          54.48%   Out of 67 drafts
+9   Boros           52.46%   Out of 61 drafts
+10  Jund            52.08%   Out of 24 drafts
+11  Simic           50.0%   Out of 37 drafts
+12  Dimir           49.57%   Out of 58 drafts
+13  Esper           49.06%   Out of 26 drafts
+14  Izzet           48.75%   Out of 40 drafts
+15  Azorius         48.42%   Out of 48 drafts
+16  Mardu           46.88%   Out of 17 drafts
+17  Gruul           46.32%   Out of 48 drafts
+18  Temur           45.71%   Out of 17 drafts
+19  Sultai          44.44%   Out of 27 drafts
 20  Bant            43.75%   Out of 16 drafts
-21  Temur           42.42%   Out of 16 drafts
-22  Golgari         39.18%   Out of 48 drafts
-23  Jeskai          38.46%   Out of 13 drafts
-24  4c no black     25.0%   Out of 6 drafts
+21  5c              41.67%   Out of 12 drafts
+22  Jeskai          39.29%   Out of 14 drafts
+23  Golgari         37.86%   Out of 51 drafts
+24  4c no black     31.25%   Out of 8 drafts

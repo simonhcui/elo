@@ -117,3 +117,13 @@
 0,2,Grixis,David K
 0,2,Naya,Adam E
 0,2,Azorius,Hamzah
+2,0,5c,Tony
+2,0,Azorius,Nathan
+1,1,5c,Eric K
+1,1,4c no green,Jim
+1,1,Jeskai,Thana
+1,1,Rakdos,Adam S
+1,1,Jeskai,Noah
+1,1,Temur,David O
+0,2,Gruul,David K
+0,2,Esper,Mark

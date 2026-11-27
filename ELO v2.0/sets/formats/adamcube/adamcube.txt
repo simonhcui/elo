@@ -204,3 +204,13 @@
 0,2,Sultai,Luke
 0,2,Rakdos,Adam S
 0,2,Dimir,David K
+2,0,Mono R,Eric K
+2,0,Grixis,Tony
+2,0,Azorius,Jim
+1,1,Izzet,Nathan
+1,1,Mono B,Felix
+1,1,Selesnya,Adam S
+1,1,4c no black,David O
+0,2,Sultai,David K
+0,2,Bant,Noah
+0,2,Bant,Mark

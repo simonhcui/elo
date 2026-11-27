@@ -1,0 +1,74 @@
+3,0,Mono R,Bastion
+2,0,Boros,Karen
+2,1,Azorius,Patrick R
+1,1,Mono G,Simon
+1,2,Golgari,Evan K
+0,1,Orzhov,Danica
+0,1,Izzet,Julio
+0,2,Selesnya,David O
+3,0,Golgari,Patrick R
+2,1,Boros,RJ
+2,1,Orzhov,Charles
+2,1,Dimir,Karen
+1,2,Rakdos,Drake
+1,2,Izzet,Judre
+1,2,Mardu,Jacob
+0,3,Simic,Danica
+3,0,Gruul,Clayton
+2,1,Orzhov,Michael D
+2,1,Azorius,John K
+2,1,Simic,Adam S
+1,2,Mono R,RJ
+1,2,Boros,Juwan
+0,2,Izzet,Max
+0,2,Orzhov,Karen
+2,0,Gruul,Juwan
+2,0,Mardu,Bradley Smith
+1,1,Simic,Andrew D
+1,1,Dimir,Charles
+1,1,Selesnya,Matt Y
+1,1,Golgari,Michael D
+0,2,Dimir,Jacob
+0,2,Mardu,John K
+2,0,Dimir,Tony
+2,0,Dimir,Alberto
+1,1,Azorius,Bradley Smith
+1,1,Selesnya,Juwan
+1,1,Naya,Brian H
+1,1,Mardu,Jacob
+1,1,Izzet,Matt Y
+1,1,Orzhov,Evan S
+0,2,Golgari,Michael D
+0,2,Gruul,Luca
+2,0,Golgari,Matt Y
+2,0,Dimir,Andrew D
+2,1,Orzhov,Stephen
+1,1,Gruul,Chris A
+1,1,Boros,Adam S
+1,2,Mardu,Jacob
+0,2,Dimir,Simon
+0,2,Bant,John K
+2,0,Izzet,Clayton
+2,0,Rakdos,Travis
+1,1,Gruul,Matt Y
+1,1,Selesnya,Juwan
+1,1,Dimir,Noah
+1,1,Golgari,Karen
+0,2,4c no blue,Luke
+0,2,Boros,Eric K
+2,0,Izzet,Noah
+2,0,Dimir,Nathan
+1,1,Orzhov,An
+1,1,Gruul,Matt Y
+1,1,Golgari,Karen
+1,1,Selesnya,Brian H
+0,2,Azorius,Kent
+0,2,Izzet,Eric K
+2,0,Azorius,Eric K
+2,0,Jund,Tony
+1,1,Selesnya,Adam S
+1,1,Golgari,Thana
+1,1,Mono U,Nathan
+1,1,Mardu,Mike
+0,2,Boros,Clayton
+0,2,Gruul,Travis

@@ -1,0 +1,12 @@
+1   Temur           64.71%   Out of 9 drafts
+2   Esper           63.16%   Out of 9 drafts
+3   Rakdos          57.14%   Out of 6 drafts
+4   4c no white     53.85%   Out of 6 drafts
+5   Boros           53.85%   Out of 6 drafts
+6   Azorius         53.33%   Out of 14 drafts
+7   5c              50.0%   Out of 11 drafts
+8   Dimir           50.0%   Out of 8 drafts
+9   Izzet           45.45%   Out of 6 drafts
+10  Grixis          35.71%   Out of 13 drafts
+11  Sultai          33.33%   Out of 7 drafts
+12  Jeskai          33.33%   Out of 6 drafts
