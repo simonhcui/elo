@@ -1,0 +1,176 @@
+Aetherdrift Foil
+Pilot Token (0001)	3 NM @ $0.16	$0.48
+Vehicle Token (0012)	9 NM @ $0.16	$1.44
+ 
+Aetherdrift
+Cat Token (0002)	6 NM @ $0.04	$0.24
+Elephant Token (0006)	1 NM @ $0.05	$0.05
+Goblin Token (0005)	2 NM @ $0.01	$0.02
+Start Your Engines! Token	21 NM @ $0.03	$0.63
+Goblin Token (0005)	2 EX @ $0.01	$0.02
+ 
+Battlebond
+Generous Patron	1 NM @ $1.35	$1.35
+Beast Token	2 EX @ $0.01	$0.02
+ 
+Bloomburrow Foil
+Bat Token	1 NM @ $0.10	$0.10
+Food Token	1 NM @ $0.10	$0.10
+Rabbit Token	1 NM @ $0.45	$0.45
+Starscape Cleric Token	1 NM @ $0.75	$0.75
+ 
+Bloomburrow
+Food Token	6 NM @ $0.06	$0.36
+Intrepid Rabbit Token	1 NM @ $0.04	$0.04
+Treasure Token	1 NM @ $0.09	$0.09
+ 
+Commander Legends
+Elf Warrior Token	1 NM @ $0.05	$0.05
+Salamander Warrior Token	5 NM @ $0.03	$0.15
+Copy Token	1 EX @ $0.05	$0.05
+Elf Warrior Token	5 EX @ $0.04	$0.20
+Salamander Warrior Token	2 EX @ $0.02	$0.04
+Zombie Token	3 EX @ $0.16	$0.48
+ 
+Commander Masters
+Cat Token (0005)	1 NM @ $0.06	$0.06
+Clue Token	1 NM @ $0.02	$0.02
+Dragon Token (0020)	1 NM @ $0.33	$0.33
+Dragon Token (0021)	1 NM @ $0.03	$0.03
+Drake Token	1 NM @ $0.04	$0.04
+Elemental Token (0026)	1 NM @ $0.15	$0.15
+Elemental Token (0037)	1 NM @ $0.06	$0.06
+Insect Token	1 NM @ $0.02	$0.02
+Ob Nixilis of the Black Oath Emblem	1 NM @ $0.02	$0.02
+Ogre Token	3 NM @ $0.11	$0.33
+The Monarch Token	1 NM @ $0.08	$0.08
+Zombie Token (0013)	1 NM @ $0.11	$0.11
+Assassin Token	2 EX @ $0.12	$0.24
+Bird Token	1 EX @ $0.04	$0.04
+Cat Token (0005)	1 EX @ $0.05	$0.05
+Elemental Token (0026)	1 EX @ $0.12	$0.12
+ 
+Dominaria Remastered
+Elephant Token	6 NM @ $0.03	$0.18
+Insect Token	8 NM @ $0.01	$0.08
+Goblin Token	16 EX @ $0.02	$0.32
+Griffin Token	1 EX @ $0.02	$0.02
+Insect Token	2 EX @ $0.01	$0.02
+ 
+Dominaria United Foil
+Elemental Token	1 NM @ $0.08	$0.08
+Dragon Token	6 EX @ $0.12	$0.72
+ 
+Dominaria United
+Goblin Token	1 NM @ $0.03	$0.03
+ 
+Double Masters 2022
+Soldier Token	2 NM @ $0.08	$0.16
+ 
+Duskmourn: House of Horror Foil
+Spider Token (0012)	5 NM @ $0.16	$0.80
+Manifest Token (0018)	3 EX @ $0.12	$0.36
+Spider Token (0012)	1 EX @ $0.12	$0.12
+Spirit Token (0006)	4 EX @ $0.12	$0.48
+ 
+Edge of Eternities
+Human Soldier Token (0002)	13 NM @ $0.01	$0.13
+ 
+Foundations Foil
+Treasure Token (0023)	1 NM @ $0.20	$0.20
+ 
+Lorwyn Eclipsed
+Shapeshifter Token (0001)	4 NM @ $0.01	$0.04
+Treefolk Token (0003)	2 NM @ $0.01	$0.02
+ 
+Lorwyn Eclipsed Commander Decks Foil
+Elemental Token (0009)	1 NM @ $0.10	$0.10
+Zombie Token (0003)	1 NM @ $0.10	$0.10
+ 
+March of the Machine
+DFC Helper Card	1 NM @ $0.02	$0.02
+ 
+Mystery Booster 2
+Basalt Monolith	1 NM @ $3.25	$3.25
+Demonic Consultation	1 NM @ $5.00	$5.00
+Torpor Orb	1 NM @ $4.20	$4.20
+ 
+Mystery Booster/The List
+Fountain Watch	1 NM @ $0.75	$0.75
+Master of the Wild Hunt	1 NM @ $0.75	$0.75
+Pemmin's Aura (Scourge)	1 NM @ $4.70	$4.70
+ 
+Phyrexia: All Will Be One Variants Foil
+Karumonix, the Rat King (439 - Step-and-compleat Foil)	1 NM @ $6.00	$6.00
+ 
+Secret Lair
+Curiosity (403 - Foil)	1 NM @ $13.50	$13.50
+ 
+The Brothers' War
+Thopter Token	1 NM @ $0.20	$0.20
+ 
+Throne of Eldraine
+Food Token (015)	1 NM @ $0.02	$0.02
+Food Token (016)	4 NM @ $0.01	$0.04
+Food Token (017)	3 NM @ $0.03	$0.09
+On an Adventure Token	5 NM @ $0.03	$0.15
+On an Adventure Token	1 EX @ $0.02	$0.02
+ 
+Universes Beyond: Fallout Variants Foil
+The Wise Mothman (0343 - Pip-Boy)	1 NM @ $10.00	$10.00
+Walking Ballista (0352 - Assaultron Invader)	1 NM @ $15.00	$15.00
+ 
+Universes Beyond: Jurassic World Collection Foil
+Hunting Velociraptor (0004)	1 NM @ $50.00	$50.00
+Indominus Rex, Alpha (0014)	1 NM @ $25.00	$25.00
+ 
+Universes Beyond: Jurassic World Collection
+Grim Giganotosaurus (0011)	1 NM @ $3.00	$3.00
+ 
+Adventures in the Forgotten Realms Foil
+Lost Mine of Phandelver // Skeleton Token	2 EX @ $0.15	$0.30
+ 
+Amonkhet
+Cat Token	3 EX @ $0.02	$0.06
+Glyph Keeper Token	1 EX @ $0.02	$0.02
+Heart-Piercer Manticore Token	1 EX @ $0.01	$0.01
+Insect Token	2 EX @ $0.12	$0.24
+Snake Token	1 EX @ $0.05	$0.05
+ 
+Battle for Zendikar
+Elemental Token (Red)	1 EX @ $0.02	$0.02
+Knight Ally Token	1 EX @ $0.01	$0.01
+ 
+Born of the Gods
+Centaur Token	1 EX @ $0.02	$0.02
+ 
+Commander Legends Foil
+Zombie Token	1 EX @ $0.12	$0.12
+ 
+Commander Legends: Battle for Baldur's Gate Foil
+Knight Token	1 EX @ $0.15	$0.15
+The Initiative Token // Undercity Token	2 EX @ $0.11	$0.22
+ 
+Commander Legends: Battle for Baldur's Gate
+Skeleton Token	1 EX @ $0.16	$0.16
+Soldier Token	1 EX @ $0.08	$0.08
+The Initiative Token // Undercity Token	1 EX @ $0.01	$0.01
+ 
+Conspiracy
+Zombie Token	2 EX @ $0.02	$0.04
+ 
+Conspiracy - Take the Crown
+Insect Token	1 EX @ $0.03	$0.03
+ 
+Dominaria
+Cleric Token	2 EX @ $0.02	$0.04
+Saproling Token (B - Prescott)	4 EX @ $0.01	$0.04
+ 
+Eldritch Moon
+Eldrazi Horror Token	5 EX @ $0.02	$0.10
+Human Token	1 EX @ $0.03	$0.03
+Zombie Token (05)	1 EX @ $0.05	$0.05
+ 
+The Brothers' War Foil
+Bear Token	6 EX @ $0.11	$0.66
+Soldier Token (009)	6 EX @ $0.08	$0.48
